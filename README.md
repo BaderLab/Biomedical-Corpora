@@ -51,13 +51,13 @@ A list of various biomedical corpora and their corresponsding publications:
 | BioNLP13GE | Scientific Article | Gold | Genes/proteins (12,057) | [link](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.380.5420) |
 | BioNLP13PC | Scientific Article | Gold | Genes/proteins (10,891), Chemicals (2487), Complexes (1502), Cellular component (1013) | [link](http://www.aclweb.org/anthology/W/W13/W13-2009.pdf) |
 | [CRAFT](https://github.com/UCDenver-ccp/CRAFT) | Scientific Article | Gold | Sequence Ontology (18,974), Gene/proteins (16,064), Taxonomy (6868), Chemicals of biological interest (6053), Cell lines (5495), GO-CC (4180) | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-13-161)|
-| [CellFinder](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/resources/cellfinder) | Scientific Article | Gold | Species, Gene/proteins, Cells, Anatomy | [link](https://www.informatik.hu-berlin.de/de/forschung/gebiete/sar/wbi/research/publications/2012/lrec2012_corpus.pdf)|
+| [CellFinder](https://www.informatik.hu-berlin.de/de/forschung/gebiete/wbi/resources/cellfinder) | Scientific Article | Gold | Species, Gene/proteins, Cell type, Anatomy | [link](https://www.informatik.hu-berlin.de/de/forschung/gebiete/sar/wbi/research/publications/2012/lrec2012_corpus.pdf)|
 |[CHEMDNER Patent](http://www.biocreative.org/tasks/biocreative-v/track-2-chemdner/)| Patent | Gold | Chemicals |[link](https://jcheminf.springeropen.com/articles/10.1186/1758-2946-7-S1-S2)|
 |[DECA](http://www.nactem.ac.uk/deca/)| Scientific Article | Gold | Genes/proteins |[link](http://bioinformatics.oxfordjournals.org/content/26/5/661.abstract?keytype=ref&ijkey=6nc2iFEN0sYYYz1)|
 |Ex-PTM| Scientific Article | Gold | Genes/proteins (4698) |[link](https://dl.acm.org/citation.cfm?id=2002920)|
 |[FSU-PRGE](http://pubannotation.org/projects/FSU-PRGE)| Scientific Article | Gold | Genes/proteins|[link](http://aclweb.org/anthology/W/W10/W10-1838.pdf)|
 |JNLPBA| Scientific Article | Gold | Genes/proteins (35,336), DNA (10,589), Cell type (8639), Cell line (4330), RNA (1069) | [link](https://dl.acm.org/citation.cfm?id=1567610)|
-|[Linneaus](http://linnaeus.sourceforge.net/)| Scientific Article | Gold | Species (4263) | [link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-85)|
+|[Linneaus](http://linnaeus.sourceforge.net/)| Scientific Article | Gold | Organisms (4263) | [link](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-11-85)|
 |[LocText](https://www.tagtog.net/-corpora/loctext)| Scientific Article | Gold | Organisms, Genes/proteins | [link](http://bmcproc.biomedcentral.com/articles/10.1186/1753-6561-9-S5-A4)|
 |[IEPA](http://corpora.informatik.hu-berlin.de/corpora/brat2bioc/iepa_bioc.xml.zip) | Scientific Article | Gold | Genes/proteins | [link](http://psb.stanford.edu/psb-online/proceedings/psb02/abstracts/p326.html) |
 |[miRNA](http://www.scai.fraunhofer.de/mirna-corpora.html)| Scientific Article | Gold | Disease, Organisms, Genes/proteins | [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4602280/) |
