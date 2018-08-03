@@ -14,7 +14,7 @@ transcript	I-SO
 not	O
 seen	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 
 Abstract	O
 
@@ -78,7 +78,7 @@ and	O
 characterization	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 homologue	B-SO
 ,	O
 Mcoln1	B-PRGE
@@ -94,15 +94,15 @@ is	O
 not	O
 seen	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 Results	O
 
 The	O
-human	B-Taxon
+human	B-LIVB
 and	O
-mouse	B-Taxon
+mouse	B-LIVB
 genes	B-SO
 display	O
 a	O
@@ -161,7 +161,7 @@ exons	B-SO
 similar	O
 to	O
 its	O
-human	B-Taxon
+human	B-LIVB
 counterpart	B-SO
 .	O
 
@@ -170,7 +170,7 @@ transcript	B-SO
 that	O
 results	O
 from	O
-murine	B-Taxon
+murine	B-LIVB
 specific	O
 alternative	O
 splicing	O
@@ -261,7 +261,7 @@ to	O
 the	O
 development	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 for	O
 MLIV	O
@@ -274,7 +274,7 @@ are	O
 two	O
 transcripts	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 suggests	O
 an	O
 additional	O
@@ -455,7 +455,7 @@ families	O
 .	O
 
 The	O
-human	B-Taxon
+human	B-LIVB
 gene	B-SO
 MCOLN1	B-PRGE
 (	O
@@ -542,8 +542,8 @@ hydrolases	O
 Recent	O
 work	O
 in	O
-Caenorhabditis	B-Taxon
-elegans	I-Taxon
+Caenorhabditis	B-LIVB
+elegans	I-LIVB
 supports	O
 this	O
 hypothesis	O
@@ -556,9 +556,9 @@ mutants	B-SO
 of	O
 the	O
 MCOLN1	B-PRGE
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 homologue	B-SO
 ,	O
 cup	B-PRGE
@@ -607,7 +607,7 @@ and	O
 characterization	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 homologue	B-SO
 of	O
 MCOLN1	B-PRGE
@@ -617,7 +617,7 @@ for	O
 the	O
 development	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 of	O
 MLIV	O
@@ -637,7 +637,7 @@ and	O
 mapping	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 homologue	B-SO
 Mcoln1	B-PRGE
 
@@ -646,13 +646,13 @@ order	O
 to	O
 clone	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 homologue	B-SO
 of	O
 MCOLN1	B-PRGE
 ,	O
 the	O
-human	B-Taxon
+human	B-LIVB
 amino	B-SO
 acid	I-SO
 sequence	I-SO
@@ -674,7 +674,7 @@ TBLASTN	O
 which	O
 identified	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 BAC	B-SO
 clone	B-SO
 RPCI	O
@@ -707,7 +707,7 @@ Laboratory	O
 (	O
 LLNL	O
 )	O
-Human	B-Taxon
+Human	B-LIVB
 Genome	B-SO
 Center	O
 confirmed	O
@@ -717,7 +717,7 @@ of	O
 this	O
 BAC	B-SO
 to	O
-mouse	B-Taxon
+mouse	B-LIVB
 chromosome	B-GO
 8	O
 and	O
@@ -749,7 +749,7 @@ then	O
 compared	O
 to	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 EST	B-SO
 database	O
 using	O
@@ -806,7 +806,7 @@ chromosome	I-SO
 8	O
 syntenous	B-SO
 to	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 19	O
 ,	O
@@ -911,7 +911,7 @@ the	O
 homologue	B-SO
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 zinc	B-CHEBI
 finger	O
 gene	B-SO
@@ -1054,7 +1054,7 @@ a	O
 homologue	B-SO
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 zinc	B-CHEBI
 finger	O
 gene	B-SO
@@ -1081,7 +1081,7 @@ and	O
 Nte	B-PRGE
 ,	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 homologue	B-SO
 of	O
 the	O
@@ -1147,11 +1147,11 @@ region	B-SO
 of	I-SO
 synteny	I-SO
 between	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 19	O
 and	O
-mouse	B-Taxon
+mouse	B-LIVB
 chromosome	B-GO
 8	O
 .	O
@@ -1163,9 +1163,9 @@ Mcoln1	B-PRGE
 Comparison	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
-human	B-Taxon
+human	B-LIVB
 peptide	B-SO
 sequences	I-SO
 showed	O
@@ -1180,9 +1180,9 @@ Fig	O
 .	O
 
 The	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 homologue	B-SO
 cup	B-PRGE
 -	I-PRGE
@@ -1201,8 +1201,8 @@ Mcoln1	B-PRGE
 identified	O
 a	O
 putative	O
-Drosophila	B-Taxon
-melanogaster	I-Taxon
+Drosophila	B-LIVB
+melanogaster	I-LIVB
 homologue	B-SO
 that	O
 shows	O
@@ -1282,16 +1282,16 @@ comparison	O
 of	O
 Mcoln1	B-PRGE
 to	O
-human	B-Taxon
+human	B-LIVB
 ,	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 ,	O
 and	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 (	O
 cup	B-PRGE
 -	I-PRGE
@@ -1334,7 +1334,7 @@ analysis	O
 of	O
 Mcoln1	B-PRGE
 
-Mouse	B-Taxon
+Mouse	B-LIVB
 adult	O
 multiple	O
 tissue	O
@@ -1349,7 +1349,7 @@ a	O
 probe	B-SO
 generated	O
 from	O
-mouse	B-Taxon
+mouse	B-LIVB
 exon	B-SO
 2	O
 (	O
@@ -1491,7 +1491,7 @@ two	O
 transcripts	B-SO
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 data	O
 not	O
@@ -1508,13 +1508,13 @@ presence	O
 of	O
 a	O
 single	O
-mouse	B-Taxon
+mouse	B-LIVB
 locus	B-SO
 ,	O
 we	O
 hybridized	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 Southern	O
 blot	O
 with	O
@@ -1563,7 +1563,7 @@ Mcoln1	B-PRGE
 (	O
 A	O
 )	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 fetal	O
 tissue	O
 Northern	O
@@ -1571,7 +1571,7 @@ and	O
 (	O
 B	O
 )	O
-mouse	B-Taxon
+mouse	B-LIVB
 multiple	O
 tissue	O
 Northern	O
@@ -1662,7 +1662,7 @@ transcript	B-SO
 we	O
 searched	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 EST	B-SO
 database	O
 using	O
@@ -1767,7 +1767,7 @@ exon	B-SO
 .	O
 
 A	O
-mouse	B-Taxon
+mouse	B-LIVB
 multiple	O
 tissue	O
 Northern	O
@@ -1844,7 +1844,7 @@ using	O
 BALB	O
 /	O
 c	O
-mouse	B-Taxon
+mouse	B-LIVB
 brain	O
 total	O
 RNA	B-SO
@@ -2000,7 +2000,7 @@ tail	I-SO
 encoded	O
 by	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 specific	O
 4	O
 .	O
@@ -2015,7 +2015,7 @@ Fig	O
 .	O
 
 Clontech	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 RNA	B-SO
 Master	O
 Blots	O
@@ -2160,18 +2160,18 @@ addition	O
 we	O
 hybridized	O
 a	O
-human	B-Taxon
+human	B-LIVB
 multiple	O
 tissue	O
 Northern	O
 and	O
-human	B-Taxon
+human	B-LIVB
 Southern	O
 with	O
 a	O
 probe	B-SO
 in	O
-human	B-Taxon
+human	B-LIVB
 intron	B-SO
 12	O
 that	O
@@ -2317,7 +2317,7 @@ isoform	B-SO
 1	O
 to	O
 its	O
-human	B-Taxon
+human	B-LIVB
 homologue	B-SO
 shows	O
 striking	O
@@ -2407,9 +2407,9 @@ cup	B-PRGE
 ]	O
 ,	O
 the	O
-c	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+c	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 homologue	B-SO
 of	O
 MCOLN1	B-PRGE
@@ -2530,7 +2530,7 @@ Mcoln1	B-PRGE
 knock	O
 -	O
 out	O
-mice	B-Taxon
+mice	B-LIVB
 may	O
 be	O
 complicated	O
@@ -2544,7 +2544,7 @@ when	O
 interpreting	O
 data	O
 on	O
-mouse	B-Taxon
+mouse	B-LIVB
 gene	B-SO
 expression	O
 and	O
@@ -2561,7 +2561,7 @@ is	O
 not	O
 seen	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 and	O
 the	O
 sequence	B-SO
@@ -2574,9 +2574,9 @@ is	O
 not	O
 conserved	B-SO
 between	O
-man	B-Taxon
+man	B-LIVB
 and	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 To	O
@@ -2610,13 +2610,13 @@ different	B-SO
 splice	I-SO
 variants	I-SO
 in	O
-humans	B-Taxon
+humans	B-LIVB
 that	O
 are	O
 not	O
 found	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 17	O
 ]	O
@@ -2632,7 +2632,7 @@ ATPase	O
 ,	O
 has	O
 a	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 -	O
 specific	O
 splice	B-SO
@@ -2660,7 +2660,7 @@ protein	B-CHEBI
 Sequencing	O
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 genome	B-SO
 has	O
 led	O
@@ -2771,7 +2771,7 @@ using	O
 BLAST	O
 and	O
 Draft	O
-Human	B-Taxon
+Human	B-LIVB
 Genome	B-SO
 Browser	O
 .	O
@@ -2871,7 +2871,7 @@ Reaction	O
 BALB	O
 /	O
 c	O
-mouse	B-Taxon
+mouse	B-LIVB
 brain	O
 total	O
 RNA	B-SO
@@ -2975,7 +2975,7 @@ Blot	O
 Analysis	O
 
 Total	O
-mouse	B-Taxon
+mouse	B-LIVB
 genomic	B-SO
 DNA	I-SO
 was	O
@@ -3097,7 +3097,7 @@ Northern	O
 Blot	O
 Analysis	O
 
-Mouse	B-Taxon
+Mouse	B-LIVB
 embryo	O
 multiple	O
 -	O
@@ -3105,7 +3105,7 @@ tissue	O
 northern	O
 blot	O
 and	O
-mouse	B-Taxon
+mouse	B-LIVB
 adult	O
 multiple	O
 -	O
@@ -3253,7 +3253,7 @@ Dorsoventral	O
 Patterning	O
 of	O
 the	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 Coat	O
 by	O
 Tbx15	B-PRGE
@@ -3264,7 +3264,7 @@ Many	O
 members	O
 of	O
 the	O
-animal	B-Taxon
+animal	B-LIVB
 kingdom	O
 display	O
 coat	O
@@ -3295,7 +3295,7 @@ studied	O
 how	O
 a	O
 classical	O
-mouse	B-Taxon
+mouse	B-LIVB
 mutation	B-SO
 ,	O
 droopy	O
@@ -3319,7 +3319,7 @@ Agouti	B-PRGE
 gene	B-SO
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 carrying	O
 the	O
 Agouti	B-PRGE
@@ -3402,7 +3402,7 @@ in	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 Construction	O
@@ -3457,7 +3457,7 @@ both	O
 embryos	O
 and	O
 postnatal	O
-animals	B-Taxon
+animals	B-LIVB
 is	O
 displaced	O
 dorsally	O
@@ -3581,7 +3581,7 @@ widely	O
 represented	O
 in	O
 furred	O
-mammals	B-Taxon
+mammals	B-LIVB
 ,	O
 and	O
 provide	O
@@ -3614,7 +3614,7 @@ adjacent	O
 regions	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 body	O
 acquire	O
 differences	O
@@ -3645,7 +3645,7 @@ pathways	O
 shared	O
 among	O
 all	O
-animals	B-Taxon
+animals	B-LIVB
 (	O
 reviewed	O
 in	O
@@ -3676,7 +3676,7 @@ clear	O
 .	O
 
 Among	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 ,	O
 differences	O
 in	O
@@ -3708,7 +3708,7 @@ of	O
 what	O
 distinguishes	O
 one	O
-animal	B-Taxon
+animal	B-LIVB
 from	O
 another	O
 .	O
@@ -3742,7 +3742,7 @@ species	O
 and	O
 for	O
 different	O
-animals	B-Taxon
+animals	B-LIVB
 from	O
 closely	O
 related	O
@@ -3808,7 +3808,7 @@ been	O
 the	O
 subject	O
 of	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genetics	O
 for	O
 more	O
@@ -3860,7 +3860,7 @@ to	O
 regional	O
 differences	O
 in	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 pigmentation	O
 .	O
 
@@ -4042,7 +4042,7 @@ regional	O
 color	O
 variation	O
 in	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 is	O
 a	O
 dark	O
@@ -4091,11 +4091,11 @@ limbs	O
 .	O
 
 In	O
-rodents	B-Taxon
+rodents	B-LIVB
 and	O
 probably	O
 other	O
-mammals	B-Taxon
+mammals	B-LIVB
 ,	O
 this	O
 dorsoventral	O
@@ -4244,7 +4244,7 @@ yellow	O
 ventral	O
 surface	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 the	O
 black	O
@@ -4283,13 +4283,13 @@ spots	O
 ,	O
 of	O
 certain	O
-dog	B-Taxon
+dog	B-LIVB
 breeds	O
 .	O
 
 In	O
 laboratory	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 previous	O
 studies	O
@@ -4385,7 +4385,7 @@ al	O
 )	O
 .	O
 
-Animals	B-Taxon
+Animals	B-LIVB
 carrying	O
 the	O
 at	O
@@ -4531,7 +4531,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 bears	O
 superficial	O
 resemblance	O
@@ -4542,7 +4542,7 @@ apparent	O
 for	O
 many	O
 other	O
-mammals	B-Taxon
+mammals	B-LIVB
 ,	O
 but	O
 morphogenetic	O
@@ -4685,7 +4685,7 @@ dorsoventral	O
 axis	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
 how	O
 these	O
@@ -4768,7 +4768,7 @@ use	O
 of	O
 a	O
 classical	O
-mouse	B-Taxon
+mouse	B-LIVB
 mutation	B-SO
 ,	O
 droopy	O
@@ -4895,7 +4895,7 @@ widely	O
 represented	O
 in	O
 furred	O
-mammals	B-Taxon
+mammals	B-LIVB
 and	O
 provide	O
 insight	O
@@ -5004,7 +5004,7 @@ of	O
 at	O
 /	O
 at	O
-animals	B-Taxon
+animals	B-LIVB
 can	O
 vary	O
 from	O
@@ -5043,7 +5043,7 @@ compared	O
 their	O
 features	O
 among	O
-mice	B-Taxon
+mice	B-LIVB
 of	O
 different	O
 Agouti	B-PRGE
@@ -5078,7 +5078,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 coincides	O
 with	O
 a	O
@@ -5120,7 +5120,7 @@ from	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 become	O
 progressively	O
 shorter	O
@@ -5183,7 +5183,7 @@ absolute	O
 hair	O
 length	O
 for	O
-mice	B-Taxon
+mice	B-LIVB
 matched	O
 for	O
 age	O
@@ -5207,7 +5207,7 @@ relative	O
 hair	O
 length	O
 for	O
-animals	B-Taxon
+animals	B-LIVB
 of	O
 different	O
 age	O
@@ -5276,7 +5276,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Dorsal	O
@@ -5374,7 +5374,7 @@ and	O
 ventra	O
 of	O
 adult	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -5382,7 +5382,7 @@ age	O
 -	O
 matched	O
 inbred	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 we	O
 observed	O
@@ -5433,7 +5433,7 @@ type	O
 distribution	O
 for	O
 outbred	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 data	O
 not	O
@@ -5451,7 +5451,7 @@ of	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 usually	O
 attributed	O
@@ -5470,7 +5470,7 @@ of	O
 Agouti	B-PRGE
 ,	O
 but	O
-animals	B-Taxon
+animals	B-LIVB
 homozygous	O
 for	O
 a	O
@@ -5538,7 +5538,7 @@ P4	O
 ae	O
 /	O
 ae	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Figure	O
 1G	O
@@ -5553,7 +5553,7 @@ from	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 reveal	O
 an	O
 abrupt	O
@@ -5579,7 +5579,7 @@ in	O
 ae	O
 /	O
 ae	O
-mice	B-Taxon
+mice	B-LIVB
 )	O
 and	O
 downregulation	O
@@ -5626,7 +5626,7 @@ of	O
 ae	O
 /	O
 ae	O
-mice	B-Taxon
+mice	B-LIVB
 persist	O
 throughout	O
 multiple	O
@@ -5709,7 +5709,7 @@ a	O
 recessive	O
 mutation	B-SO
 on	O
-mouse	B-Taxon
+mouse	B-LIVB
 Chromosome	B-GO
 3	O
 ;	O
@@ -5770,7 +5770,7 @@ of	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 including	O
 widely	O
@@ -5898,13 +5898,13 @@ at	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 but	O
 comparison	O
 to	O
 nonmutant	O
-animals	B-Taxon
+animals	B-LIVB
 is	O
 more	O
 accurately	O
@@ -5980,7 +5980,7 @@ at	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -5998,7 +5998,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 lateral	O
@@ -6022,7 +6022,7 @@ at	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 lateral	O
@@ -6067,7 +6067,7 @@ mutant	B-SO
 compared	O
 to	O
 nonmutant	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 but	O
 the	O
@@ -6082,7 +6082,7 @@ lateral	O
 region	O
 in	O
 mutant	B-SO
-animals	B-Taxon
+animals	B-LIVB
 is	O
 increased	O
 about	O
@@ -6136,7 +6136,7 @@ to	O
 %	O
 in	O
 nonmutant	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 but	O
 expansion	O
@@ -6236,7 +6236,7 @@ when	O
 mutant	B-SO
 and	O
 nonmutant	O
-animals	B-Taxon
+animals	B-LIVB
 are	O
 normalized	O
 for	O
@@ -6267,7 +6267,7 @@ ae	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 exhibit	O
 body	O
 -	O
@@ -6418,7 +6418,7 @@ deH	O
 /	O
 deH	O
 adult	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 Taken	O
@@ -6610,7 +6610,7 @@ with	O
 CAST	O
 /	O
 Ei	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 localize	O
 deH	O
@@ -6723,7 +6723,7 @@ and	O
 the	O
 partially	B-SO
 completed	I-SO
-mouse	B-Taxon
+mouse	B-LIVB
 genome	B-SO
 sequence	I-SO
 ,	O
@@ -6776,7 +6776,7 @@ referred	O
 to	O
 in	O
 several	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genomes	B-SO
 as	O
 Tbx15	B-PRGE
@@ -6817,7 +6817,7 @@ DNA	I-SO
 to	O
 publicly	O
 available	O
-mouse	B-Taxon
+mouse	B-LIVB
 genome	B-SO
 sequence	I-SO
 ,	O
@@ -6926,7 +6926,7 @@ domain	B-SO
 deH	O
 /	O
 +	B-SO
-animals	B-Taxon
+animals	B-LIVB
 are	O
 grossly	O
 normal	O
@@ -6938,7 +6938,7 @@ of	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 is	O
 identical	O
 to	O
@@ -7042,7 +7042,7 @@ Figure	O
 )	O
 .	O
 
-Animals	B-Taxon
+Animals	B-LIVB
 heterozygous	O
 for	O
 the	O
@@ -7106,7 +7106,7 @@ at	O
 background	O
 ,	O
 these	O
-animals	B-Taxon
+animals	B-LIVB
 exhibited	O
 the	O
 same	O
@@ -7131,7 +7131,7 @@ for	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 (	O
 see	O
 Figure	O
@@ -7279,7 +7279,7 @@ limb	O
 malformations	O
 reported	O
 for	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 the	O
 original	O
@@ -7312,7 +7312,7 @@ adult	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Transverse	O
@@ -7634,7 +7634,7 @@ in	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 and	O
 is	O
 most	O
@@ -7667,7 +7667,7 @@ of	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 can	O
 be	O
 explained	O
@@ -8307,7 +8307,7 @@ a	O
 characteristic	O
 feature	O
 in	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 embryos	O
 .	O
 
@@ -8393,7 +8393,7 @@ been	O
 carried	O
 out	O
 in	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 embryos	O
 ,	O
 somite	O
@@ -8562,7 +8562,7 @@ P4	O
 .	O
 5	O
 neonatal	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 we	O
 observed	O
@@ -8606,7 +8606,7 @@ from	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 ventral	O
@@ -8909,7 +8909,7 @@ in	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 ,	O
 in	O
@@ -9134,7 +9134,7 @@ dorsoventral	O
 positional	O
 identity	O
 in	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 skin	O
 .	O
 
@@ -9160,7 +9160,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 is	O
 reminiscent	O
 of	O
@@ -9263,7 +9263,7 @@ of	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Indeed	O
@@ -9404,7 +9404,7 @@ adult	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Thus	O
@@ -9421,7 +9421,7 @@ neonatal	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 e	O
 .	O
@@ -9505,7 +9505,7 @@ of	O
 tissues	O
 and	O
 multicellular	O
-organisms	B-Taxon
+organisms	B-LIVB
 (	O
 reviewed	O
 in	O
@@ -9532,7 +9532,7 @@ have	O
 arisen	O
 during	O
 early	O
-chordate	B-Taxon
+chordate	B-LIVB
 evolution	O
 since	O
 there	O
@@ -9541,14 +9541,14 @@ a	O
 single	O
 gene	B-SO
 in	O
-amphioxus	B-Taxon
+amphioxus	B-LIVB
 but	O
 no	O
 obvious	O
 homolog	B-SO
 in	O
 the	O
-fly	B-Taxon
+fly	B-LIVB
 genome	B-SO
 (	O
 Ruvinsky	O
@@ -9662,7 +9662,7 @@ for	O
 craniofacial	O
 development	O
 in	O
-cephalochordates	B-Taxon
+cephalochordates	B-LIVB
 ,	O
 with	O
 acquisition	O
@@ -9681,7 +9681,7 @@ the	O
 trunk	O
 during	O
 early	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 evolution	O
 .	O
 
@@ -9734,7 +9734,7 @@ of	O
 functional	O
 redundancy	O
 in	O
-animals	B-Taxon
+animals	B-LIVB
 mutated	B-SO
 for	O
 two	O
@@ -9765,7 +9765,7 @@ in	O
 Tbx22	B-PRGE
 cause	O
 the	O
-human	B-Taxon
+human	B-LIVB
 syndrome	O
 X	B-GO
 -	O
@@ -10150,7 +10150,7 @@ of	O
 Agouti	B-PRGE
 in	O
 postnatal	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 However	O
@@ -10187,7 +10187,7 @@ in	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 is	O
 detectable	O
 by	O
@@ -10293,7 +10293,7 @@ in	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 For	O
@@ -10311,7 +10311,7 @@ postnatal	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 can	O
 be	O
 traced	O
@@ -10393,7 +10393,7 @@ in	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 revealed	O
 a	O
 small	O
@@ -10470,7 +10470,7 @@ Agouti	B-PRGE
 isoform	B-SO
 in	O
 postnatal	O
-mice	B-Taxon
+mice	B-LIVB
 is	O
 likely	O
 to	O
@@ -10531,7 +10531,7 @@ subtle	O
 ,	O
 alteration	O
 in	O
-animals	B-Taxon
+animals	B-LIVB
 that	O
 carry	O
 a	O
@@ -10698,7 +10698,7 @@ in	O
 deH	O
 /	O
 deH	O
-mice	B-Taxon
+mice	B-LIVB
 correspond	O
 to	O
 obvious	O
@@ -10787,7 +10787,7 @@ develops	O
 in	O
 En1	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 is	O
 unrelated	O
 to	O
@@ -11188,7 +11188,7 @@ in	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 indicating	O
 the	O
@@ -11610,7 +11610,7 @@ and	O
 Tbx15	B-PRGE
 in	O
 Other	O
-Mammals	B-Taxon
+Mammals	B-LIVB
 
 The	O
 lateral	O
@@ -11670,7 +11670,7 @@ remains	O
 distinct	O
 in	O
 postnatal	O
-animals	B-Taxon
+animals	B-LIVB
 despite	O
 the	O
 potential	O
@@ -11778,7 +11778,7 @@ distinct	O
 boundaries	O
 in	O
 postnatal	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 skin	O
 that	O
 are	O
@@ -11811,7 +11811,7 @@ Msx1	B-PRGE
 .	O
 
 In	O
-rodents	B-Taxon
+rodents	B-LIVB
 ,	O
 only	O
 the	O
@@ -11823,7 +11823,7 @@ externally	O
 ,	O
 but	O
 many	O
-mammals	B-Taxon
+mammals	B-LIVB
 have	O
 more	O
 complicated	O
@@ -11846,11 +11846,11 @@ dorsoventral	O
 axis	O
 .	O
 
-Raccoons	B-Taxon
+Raccoons	B-LIVB
 ,	O
 squirrels	O
 ,	O
-skunks	B-Taxon
+skunks	B-LIVB
 ,	O
 and	O
 many	O
@@ -11897,7 +11897,7 @@ on	O
 pigmentation	O
 in	O
 laboratory	O
-mice	B-Taxon
+mice	B-LIVB
 is	O
 reminiscent	O
 of	O
@@ -11913,7 +11913,7 @@ natural	O
 populations	O
 of	O
 other	O
-mammals	B-Taxon
+mammals	B-LIVB
 .	O
 
 Saddle	O
@@ -11922,7 +11922,7 @@ are	O
 common	O
 in	O
 some	O
-dog	B-Taxon
+dog	B-LIVB
 breeds	O
 ,	O
 such	O
@@ -11935,8 +11935,8 @@ in	O
 certain	O
 populations	O
 of	O
-Peromyscus	B-Taxon
-polionotus	I-Taxon
+Peromyscus	B-LIVB
+polionotus	I-LIVB
 ,	O
 in	O
 which	O
@@ -11976,8 +11976,8 @@ Neither	O
 German	O
 shepherds	O
 nor	O
-deer	B-Taxon
-mice	I-Taxon
+deer	B-LIVB
+mice	I-LIVB
 have	O
 craniofacial	O
 characteristics	O
@@ -11993,7 +11993,7 @@ pigmentation	O
 patterns	O
 in	O
 these	O
-animals	B-Taxon
+animals	B-LIVB
 could	O
 represent	O
 alterations	O
@@ -12034,7 +12034,7 @@ evident	O
 at	O
 all	O
 in	O
-mammals	B-Taxon
+mammals	B-LIVB
 that	O
 lack	O
 dorsoventral	O
@@ -12051,7 +12051,7 @@ of	O
 Tbx15	B-PRGE
 in	O
 other	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 may	O
 provide	O
 additional	O
@@ -12074,10 +12074,10 @@ Materials	O
 and	O
 Methods	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 
 All	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 obtained	O
 originally	O
@@ -12117,7 +12117,7 @@ Hoxb6	B-PRGE
 -	O
 Cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 kindly	O
 provided	O
@@ -12140,7 +12140,7 @@ United	O
 States	O
 )	O
 ,	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 the	O
 R26R	O
@@ -12179,7 +12179,7 @@ B6	O
 ae	O
 /	O
 ae	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 kindly	O
 provided	O
@@ -12441,7 +12441,7 @@ old	O
 male	O
 BA	O
 strain	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 then	O
 sorted	O
@@ -12650,7 +12650,7 @@ and	O
 CAST	O
 /	O
 Ei	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -12669,7 +12669,7 @@ D3Mit11	O
 .	O
 
 F2	O
-animals	B-Taxon
+animals	B-LIVB
 carrying	O
 recombinant	O
 chromosomes	B-GO
@@ -12701,7 +12701,7 @@ to	O
 deH	O
 /	O
 deH	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 Further	O
@@ -13133,13 +13133,13 @@ crossed	O
 to	O
 either	O
 B6	O
-mice	B-Taxon
+mice	B-LIVB
 or	O
 to	O
 deH	O
 /	O
 +	B-SO
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 In	O
@@ -13201,7 +13201,7 @@ of	O
 deH	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Embryos	O
@@ -13367,7 +13367,7 @@ the	O
 testes	O
 of	O
 congenic	O
-animals	B-Taxon
+animals	B-LIVB
 as	O
 follows	O
 .	O
@@ -13480,7 +13480,7 @@ After	O
 21	O
 days	O
 ,	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 received	O
 grafts	O
@@ -13546,7 +13546,7 @@ E9	O
 5	O
 .	O
 
-Animals	B-Taxon
+Animals	B-LIVB
 doubly	O
 heterozygous	O
 for	O
@@ -13637,7 +13637,7 @@ sections	O
 were	O
 prepared	O
 from	O
-animals	B-Taxon
+animals	B-LIVB
 carrying	O
 the	O
 at	O
@@ -13809,7 +13809,7 @@ MIM	O
 229400	O
 )	O
 and	O
-human	B-Taxon
+human	B-LIVB
 syndrome	O
 X	B-GO
 -	O
@@ -13858,7 +13858,7 @@ Hoxb6	B-PRGE
 -	O
 Cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -13971,7 +13971,7 @@ B6	O
 C57BL	O
 /	O
 6J	O
-mice	B-Taxon
+mice	B-LIVB
 
 BAC	B-SO
 -	O
@@ -14050,7 +14050,7 @@ A	O
 Skin	O
 slices	O
 from	O
-animals	B-Taxon
+animals	B-LIVB
 of	O
 different	O
 age	O
@@ -14099,7 +14099,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 scale	O
 bar	O
@@ -14158,7 +14158,7 @@ wk	O
 old	O
 BA	O
 strain	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 (	O
@@ -14180,7 +14180,7 @@ and	O
 ventrum	O
 of	O
 inbred	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 p	O
 <	O
@@ -14278,7 +14278,7 @@ and	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -14354,7 +14354,7 @@ deH	O
 deH	O
 and	O
 nonmutant	O
-animals	B-Taxon
+animals	B-LIVB
 on	O
 a	O
 at	O
@@ -15034,7 +15034,7 @@ in	O
 at	O
 /	O
 at	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 (	O
 A	O
@@ -15320,7 +15320,7 @@ the	O
 testes	O
 of	O
 congenic	O
-animals	B-Taxon
+animals	B-LIVB
 as	O
 described	O
 in	O
@@ -15510,7 +15510,7 @@ Hoxb6	B-PRGE
 Cre	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 the	O
 latter	O
@@ -15730,7 +15730,7 @@ in	O
 ae	O
 /	O
 ae	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 see	O
 Figure	O
@@ -15742,7 +15742,7 @@ In	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 reduced	O
 hair	O
@@ -15835,7 +15835,7 @@ in	O
 at	O
 /	O
 at	O
-mice	B-Taxon
+mice	B-LIVB
 lies	O
 at	O
 the	O
@@ -16010,7 +16010,7 @@ lung	O
 hypoplasia	O
 in	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 of	O
 the	O
@@ -16034,13 +16034,13 @@ biosynthesis	O
 is	O
 important	O
 for	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 embryonic	O
 development	O
 .	O
 
 Neonatal	O
-mice	B-Taxon
+mice	B-LIVB
 lacking	O
 functional	O
 dehydrocholesterol	B-PRGE
@@ -16056,7 +16056,7 @@ a	O
 model	O
 for	O
 the	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 of	O
 Smith	O
@@ -16120,7 +16120,7 @@ lung	O
 development	O
 of	O
 these	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Significant	O
@@ -16436,11 +16436,11 @@ membrane	B-GO
 constituent	O
 of	O
 all	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 ,	O
-reptile	B-Taxon
+reptile	B-LIVB
 and	O
-avian	B-Taxon
+avian	B-LIVB
 cells	B-CL
 ,	O
 as	O
@@ -16449,13 +16449,13 @@ as	O
 a	O
 few	O
 other	O
-organisms	B-Taxon
+organisms	B-LIVB
 ,	O
 but	O
 not	O
 all	O
-eukaryotic	B-Taxon
-organisms	I-Taxon
+eukaryotic	B-LIVB
+organisms	I-LIVB
 .	O
 
 In	O
@@ -16465,9 +16465,9 @@ cases	O
 ,	O
 such	O
 as	O
-plants	B-Taxon
+plants	B-LIVB
 and	O
-fungi	B-Taxon
+fungi	B-LIVB
 ,	O
 cholesterol	B-CHEBI
 -	O
@@ -16671,7 +16671,7 @@ lethality	O
 .	O
 
 Neonatal	O
-mice	B-Taxon
+mice	B-LIVB
 homozygous	O
 for	O
 the	O
@@ -16725,7 +16725,7 @@ birth	O
 
 A	O
 similar	O
-mouse	B-Taxon
+mouse	B-LIVB
 SLOS	O
 model	O
 ,	O
@@ -16819,11 +16819,11 @@ pups	O
 These	O
 Dhcr7	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 models	O
 for	O
-human	B-Taxon
+human	B-LIVB
 SLOS	O
 ,	O
 especially	O
@@ -16887,7 +16887,7 @@ development	O
 ]	O
 .	O
 
-Mammalian	B-Taxon
+Mammalian	B-LIVB
 lung	O
 is	O
 unique	O
@@ -16956,7 +16956,7 @@ growth	O
 Four	O
 stages	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 lung	O
 development	O
 have	O
@@ -17122,7 +17122,7 @@ cells	I-CL
 ]	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 with	O
 Shh	B-PRGE
 overexpression	O
@@ -17187,7 +17187,7 @@ transfected	O
 Shh	B-PRGE
 in	O
 cultured	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 cells	B-CL
 [	O
 29	O
@@ -17401,7 +17401,7 @@ Dhcr7	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 born	O
 in	O
@@ -18079,7 +18079,7 @@ and	O
 lung	O
 weights	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryos	O
 
 *	O
@@ -18233,7 +18233,7 @@ but	O
 lungs	O
 from	O
 knockout	O
-animals	B-Taxon
+animals	B-LIVB
 were	O
 smaller	O
 in	O
@@ -18611,7 +18611,7 @@ x	O
 Lungs	O
 from	O
 control	O
-animals	B-Taxon
+animals	B-LIVB
 showed	O
 normal	O
 progression	O
@@ -19729,7 +19729,7 @@ Dhcr7	B-PRGE
 /	O
 -	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 16	O
 ,	O
@@ -19751,7 +19751,7 @@ Dhcr7	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 comprising	O
 ~	O
@@ -19882,7 +19882,7 @@ of	O
 the	O
 Dhcr7	B-PRGE
 null	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 but	O
 were	O
@@ -19901,7 +19901,7 @@ see	O
 values	O
 for	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 )	O
 .	O
 
@@ -20106,7 +20106,7 @@ corticosterone	B-CHEBI
 levels	O
 in	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 within	O
 12	O
 h	O
@@ -20117,7 +20117,7 @@ birth	O
 Wild	B-SO
 type	I-SO
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 had	O
 corticosterone	B-CHEBI
 levels	O
@@ -20159,7 +20159,7 @@ Dhcr7	B-PRGE
 /	O
 -	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Thus	O
@@ -20172,7 +20172,7 @@ Dhcr7	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 not	O
 decreased	O
@@ -20190,7 +20190,7 @@ However	O
 since	O
 these	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 dying	O
 ,	O
@@ -20317,7 +20317,7 @@ type	I-SO
 and	O
 Dhcr7	B-PRGE
 null	O
-mice	B-Taxon
+mice	B-LIVB
 at	O
 term	O
 (	O
@@ -22189,7 +22189,7 @@ reported	O
 for	O
 Shh	B-PRGE
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 lungs	O
 [	O
 25	O
@@ -22217,7 +22217,7 @@ and	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Left	O
@@ -23116,7 +23116,7 @@ Shh	B-PRGE
 protein	B-CHEBI
 autoprocessing	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryos	O
 .	O
 
@@ -23440,7 +23440,7 @@ abnormalities	O
 are	O
 common	O
 in	O
-human	B-Taxon
+human	B-LIVB
 SLOS	O
 [	O
 36	O
@@ -23555,7 +23555,7 @@ fetal	O
 development	O
 ,	O
 the	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 alveolar	O
 epithelium	O
 undergoes	O
@@ -23900,7 +23900,7 @@ Dhcr7	B-PRGE
 -	O
 /	O
 -	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 compared	O
 to	O
@@ -24165,7 +24165,7 @@ sac	O
 
 Since	O
 these	O
-mice	B-Taxon
+mice	B-LIVB
 theoretically	O
 can	O
 not	O
@@ -24189,7 +24189,7 @@ Interestingly	O
 ,	O
 Dhcr24	B-PRGE
 null	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 viable	O
 but	O
@@ -24263,7 +24263,7 @@ be	O
 transferred	O
 to	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 fetus	O
 .	O
 
@@ -24276,7 +24276,7 @@ Dhcr24	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 developmentally	O
 normal	O
@@ -24285,7 +24285,7 @@ Dhcr7	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 affected	O
 may	O
@@ -24370,7 +24370,7 @@ impaired	O
 in	O
 Shh	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 24	O
 ]	O
@@ -24669,7 +24669,7 @@ study	O
 43	O
 ]	O
 ,	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryonic	O
 fibroblasts	B-CL
 (	O
@@ -24912,7 +24912,7 @@ in	O
 the	O
 Dhcr7	B-PRGE
 null	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Conclusion	O
@@ -24924,7 +24924,7 @@ by	O
 Dhcr7	B-PRGE
 deficiency	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 resulted	O
 in	O
 ,	O
@@ -25025,15 +25025,15 @@ development	O
 
 Methods	O
 
-Animals	B-Taxon
+Animals	B-LIVB
 
 All	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 housed	O
 in	O
 an	O
-animal	B-Taxon
+animal	B-LIVB
 facility	O
 at	O
 22	O
@@ -25057,14 +25057,14 @@ approved	O
 by	O
 the	O
 Institutional	O
-Animal	B-Taxon
+Animal	B-LIVB
 Welfare	O
 Committee	O
 .	O
 
 Dhcr7	B-PRGE
 heterozygous	O
-animals	B-Taxon
+animals	B-LIVB
 used	O
 in	O
 this	O
@@ -25167,7 +25167,7 @@ and	O
 weighed	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 were	O
 classified	O
 as	O
@@ -25308,7 +25308,7 @@ from	O
 embryos	O
 or	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 fixed	O
 in	O
@@ -25813,7 +25813,7 @@ section	O
 .	O
 
 Three	O
-animals	B-Taxon
+animals	B-LIVB
 per	O
 genotype	B-SO
 were	O
@@ -25893,7 +25893,7 @@ incorporation	B-SO
 ,	O
 timed	O
 pregnant	O
-mice	B-Taxon
+mice	B-LIVB
 at	O
 E18	O
 .	O
@@ -25970,10 +25970,10 @@ a	O
 Cy2	O
 -	O
 conjugated	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 anti	O
 -	O
-mouse	B-Taxon
+mouse	B-LIVB
 antibody	B-GO
 using	O
 a	O
@@ -26321,7 +26321,7 @@ hours	O
 ,	O
 followed	O
 by	O
-donkey	B-Taxon
+donkey	B-LIVB
 anti	O
 -	O
 goat	O
@@ -26380,7 +26380,7 @@ g	O
 )	O
 from	O
 P0	O
-mice	B-Taxon
+mice	B-LIVB
 lungs	O
 .	O
 
@@ -26442,7 +26442,7 @@ RT	O
 PCR	O
 ,	O
 using	O
-murine	B-Taxon
+murine	B-LIVB
 SP	B-PRGE
 -	I-PRGE
 D	I-PRGE
@@ -26638,7 +26638,7 @@ in	O
 C57BL	O
 /	O
 6	O
-mice	B-Taxon
+mice	B-LIVB
 
 Abstract	O
 
@@ -26763,7 +26763,7 @@ compared	O
 C57Bl	O
 /	O
 6J	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 completely	O
 lack	O
@@ -26775,7 +26775,7 @@ to	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 with	O
 respect	O
 to	O
@@ -26827,7 +26827,7 @@ dopamine	B-PRGE
 D2	I-PRGE
 receptor	I-PRGE
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 rapidly	O
 learned	O
 to	O
@@ -26877,7 +26877,7 @@ dopamine	B-PRGE
 D2	I-PRGE
 receptor	I-PRGE
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 required	O
 significantly	O
 more	O
@@ -26886,7 +26886,7 @@ than	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 to	O
 discriminate	O
 between	O
@@ -26928,7 +26928,7 @@ dopamine	B-PRGE
 D2	I-PRGE
 receptor	I-PRGE
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 repeatedly	O
 fail	O
 to	O
@@ -26953,7 +26953,7 @@ Inbred	O
 C57Bl	O
 /	O
 6J	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 develop	O
 in	O
@@ -26992,7 +26992,7 @@ dopamine	B-PRGE
 D2	I-PRGE
 receptor	I-PRGE
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 adjust	O
 their	O
@@ -27039,7 +27039,7 @@ for	O
 the	O
 treatment	O
 of	O
-human	B-Taxon
+human	B-LIVB
 attention	O
 disorders	O
 .	O
@@ -27099,7 +27099,7 @@ unlearned	O
 stage	O
 is	O
 the	O
-organism	B-Taxon
+organism	B-LIVB
 '	O
 s	O
 experience	O
@@ -27169,7 +27169,7 @@ e	O
 g	O
 .	O
 a	O
-rodent	B-Taxon
+rodent	B-LIVB
 lever	O
 presses	O
 for	O
@@ -27573,7 +27573,7 @@ of	O
 associative	O
 learning	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 is	O
 unresolved	O
 .	O
@@ -27588,7 +27588,7 @@ in	O
 the	O
 context	O
 of	O
-rodent	B-Taxon
+rodent	B-LIVB
 associative	O
 learning	O
 paradigms	O
@@ -27700,7 +27700,7 @@ on	O
 learning	O
 performance	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 .	O
 
 Besides	O
@@ -27744,7 +27744,7 @@ learning	O
 deficits	O
 produced	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 [	O
 15	O
 ,	O
@@ -27817,7 +27817,7 @@ accordingly	O
 Reversal	O
 learning	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 can	O
 serve	O
 as	O
@@ -27831,7 +27831,7 @@ alertness	O
 that	O
 correlates	O
 with	O
-human	B-Taxon
+human	B-LIVB
 attentional	O
 -	O
 shift	O
@@ -27886,7 +27886,7 @@ spatial	O
 reversal	O
 leaning	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 20	O
 ]	O
@@ -27904,7 +27904,7 @@ cognitive	O
 performances	O
 of	O
 healthy	O
-human	B-Taxon
+human	B-LIVB
 volunteers	O
 [	O
 21	O
@@ -27924,7 +27924,7 @@ and	O
 compulsive	O
 behavior	O
 in	O
-human	B-Taxon
+human	B-LIVB
 subjects	O
 has	O
 been	O
@@ -27984,11 +27984,11 @@ reversal	O
 learning	O
 in	O
 adult	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 we	O
 compared	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 23	O
 ]	O
@@ -28064,7 +28064,7 @@ be	O
 intact	O
 if	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 is	O
 to	O
 efficiently	O
@@ -28102,7 +28102,7 @@ type	I-SO
 and	O
 D2R	B-PRGE
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 learn	O
 operant	O
 behaviors	O
@@ -28122,7 +28122,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 readily	O
 learned	O
 to	O
@@ -28278,13 +28278,13 @@ p	O
 Wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 outperform	O
 D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 in	O
 an	O
 odor	O
@@ -28312,7 +28312,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 required	O
 significantly	O
 more	O
@@ -28366,7 +28366,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 to	O
 learn	O
 to	O
@@ -28411,7 +28411,7 @@ of	O
 trials	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 lacking	O
 dopamine	B-PRGE
 D2	I-PRGE
@@ -28434,7 +28434,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 repeatedly	O
 failed	O
 to	O
@@ -28477,7 +28477,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Fig	O
 .	O
@@ -28575,7 +28575,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 U	O
 =	O
@@ -28593,7 +28593,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 U	O
 =	O
 9	O
@@ -28611,7 +28611,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 committed	O
 more	O
 commission	O
@@ -28621,7 +28621,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 U	O
 =	O
@@ -28651,7 +28651,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 in	O
 omission	O
 errors	O
@@ -28693,7 +28693,7 @@ perseveration	O
 ,	O
 where	O
 all	O
-animals	B-Taxon
+animals	B-LIVB
 are	O
 responding	O
 to	O
@@ -28718,7 +28718,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 compared	O
 to	O
 the	O
@@ -28726,7 +28726,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 U	O
 =	O
@@ -28808,7 +28808,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 represented	O
 in	O
 session	O
@@ -28833,7 +28833,7 @@ n	O
 6	O
 (	O
 2	O
-mice	B-Taxon
+mice	B-LIVB
 met	O
 our	O
 criterion	O
@@ -28865,7 +28865,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 had	O
 met	O
 criteria	O
@@ -28877,7 +28877,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 each	O
 point	O
@@ -28896,7 +28896,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 achieved	O
 the	O
 criterion	O
@@ -28981,7 +28981,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 demonstrated	O
 that	O
 they	O
@@ -29032,7 +29032,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 assign	O
 appropriate	O
@@ -29072,7 +29072,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 disengage	O
 inappropriate	O
@@ -29099,7 +29099,7 @@ to	O
 occur	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 with	O
 or	O
 without	O
@@ -29152,7 +29152,7 @@ earlier	O
 studies	O
 that	O
 utilized	O
-rats	B-Taxon
+rats	B-LIVB
 and	O
 fairly	O
 selective	O
@@ -29237,7 +29237,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 during	O
 discrimination	O
 trials	O
@@ -29645,7 +29645,7 @@ of	O
 D2R	B-PRGE
 antagonists	B-CHEBI
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 actually	O
 leads	O
 to	O
@@ -29684,7 +29684,7 @@ of	O
 associative	O
 learning	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 that	O
 received	O
 chronic	O
@@ -29760,7 +29760,7 @@ time	O
 is	O
 to	O
 utilize	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 have	O
 been	O
@@ -29801,7 +29801,7 @@ and	O
 strain	O
 effects	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 lines	O
 not	O
 backcrossed	O
@@ -29826,7 +29826,7 @@ inbred	O
 N20	O
 generation	O
 )	O
-animals	B-Taxon
+animals	B-LIVB
 in	O
 the	O
 present	O
@@ -29850,7 +29850,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ;	O
 Figs	O
 .	O
@@ -29918,7 +29918,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Rather	O
@@ -29936,7 +29936,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 did	O
 learn	O
 to	O
@@ -30061,7 +30061,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 during	O
 reversal	O
 learning	O
@@ -30091,14 +30091,14 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 relative	O
 to	O
 D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 during	O
 reversal	O
 learning	O
@@ -30137,7 +30137,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 respond	O
 to	O
 food	B-CHEBI
@@ -30173,7 +30173,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 both	O
 groups	O
@@ -30189,7 +30189,7 @@ dopamine	B-PRGE
 D1Rs	I-PRGE
 in	O
 our	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 not	O
 targeted	O
@@ -30257,7 +30257,7 @@ demonstrated	O
 by	O
 the	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 the	O
 putative	O
@@ -30282,7 +30282,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 disengage	O
 from	O
@@ -30435,7 +30435,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 desist	O
 responding	O
@@ -30506,7 +30506,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 is	O
 associated	O
 with	O
@@ -30534,7 +30534,7 @@ from	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 resulted	O
 in	O
 IPSP	O
@@ -30600,7 +30600,7 @@ the	O
 dorsal	O
 striatum	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 [	O
 36	O
 ]	O
@@ -30652,7 +30652,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 manifestations	O
 of	O
@@ -30679,7 +30679,7 @@ signaling	O
 or	O
 alerting	O
 the	O
-organism	B-Taxon
+organism	B-LIVB
 of	O
 learning	O
 contingency	O
@@ -30729,7 +30729,7 @@ findings	O
 
 However	O
 ,	O
-mice	B-Taxon
+mice	B-LIVB
 completely	O
 deficient	O
 in	O
@@ -30865,7 +30865,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 thus	O
 impairing	O
@@ -30918,7 +30918,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 in	O
 the	O
 tasks	O
@@ -30958,7 +30958,7 @@ old	O
 -	O
 30	O
 g	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 8	O
 per	O
@@ -31079,7 +31079,7 @@ protocols	O
 ,	O
 and	O
 all	O
-animals	B-Taxon
+animals	B-LIVB
 were	O
 maintained	O
 in	O
@@ -31099,7 +31099,7 @@ and	O
 Use	O
 of	O
 Laboratory	O
-Animals	B-Taxon
+Animals	B-LIVB
 .	O
 
 Experimental	O
@@ -31150,7 +31150,7 @@ highly	O
 robust	O
 behavior	O
 in	O
-rodents	B-Taxon
+rodents	B-LIVB
 [	O
 18	O
 ]	O
@@ -31171,7 +31171,7 @@ during	O
 testing	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 were	O
 mildly	O
 food	B-CHEBI
@@ -31195,7 +31195,7 @@ D2R	I-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 n	O
 =	O
@@ -31213,7 +31213,7 @@ length	O
 of	O
 a	O
 polyvinyl	O
-mouse	B-Taxon
+mouse	B-LIVB
 cage	O
 (	O
 30	O
@@ -31231,7 +31231,7 @@ Pico	O
 (R)	O
 fat	O
 supplemented	O
-rodent	B-Taxon
+rodent	B-LIVB
 food	B-CHEBI
 located	O
 in	O
@@ -31329,7 +31329,7 @@ trials	O
 
 If	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 failed	O
 to	O
 locate	O
@@ -31385,7 +31385,7 @@ The	O
 next	O
 day	O
 ,	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 presented	O
 to	O
@@ -31457,7 +31457,7 @@ of	O
 either	O
 cinnamon	O
 or	O
-dill	B-Taxon
+dill	B-LIVB
 weed	O
 to	O
 98	O
@@ -31531,7 +31531,7 @@ trial	O
 terminated	O
 when	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 :	O
 dug	O
 in	O
@@ -31643,7 +31643,7 @@ wild	B-SO
 type	I-SO
 or	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 for	O
 this	O
 particular	O
@@ -32089,7 +32089,7 @@ Tables	O
 Figure	O
 1	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 lacking	O
 dopamine	B-PRGE
 D2	I-PRGE
@@ -32105,7 +32105,7 @@ to	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Both	O
@@ -32151,7 +32151,7 @@ and	O
 D2R	B-PRGE
 -	O
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 perform	O
 the	O
 digging	O
@@ -32243,7 +32243,7 @@ D2R	B-PRGE
 /	O
 +	B-SO
 )	O
-mice	B-Taxon
+mice	B-LIVB
 outperformed	O
 (	O
 mean	O
@@ -32256,7 +32256,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 during	O
 acquisition	O
 of	O
@@ -32304,7 +32304,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 perseverate	O
 in	O
 unreinforced	O
@@ -32367,7 +32367,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Figure	O
@@ -32381,7 +32381,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 emit	O
 significantly	O
 more	O
@@ -32398,7 +32398,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Response	O
@@ -32414,7 +32414,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 more	O
 suggestive	O
@@ -32431,7 +32431,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 committed	O
 significantly	O
 more	O
@@ -32446,7 +32446,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 *	O
 p	O
@@ -32482,7 +32482,7 @@ p	O
 Figure	O
 6	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 lacking	O
 functional	O
 D2Rs	B-PRGE
@@ -32505,14 +32505,14 @@ trials	O
 reveal	O
 deficits	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 lacking	O
 D2Rs	B-PRGE
 .	O
 
 When	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 encountered	O
 the	O
 inverted	O
@@ -32530,7 +32530,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 demonstrated	O
 an	O
 almost	O
@@ -32549,7 +32549,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 *	O
 p	O
@@ -32567,7 +32567,7 @@ D2R	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 commit	O
 significantly	O
 more	O
@@ -32580,7 +32580,7 @@ than	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 An	O
@@ -32620,7 +32620,7 @@ D2R	B-PRGE
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 *	O
 p	O
@@ -32648,7 +32648,7 @@ analysis	O
 of	O
 phylogenetically	O
 diverse	O
-organisms	B-Taxon
+organisms	B-LIVB
 
 Abstract	O
 
@@ -32694,11 +32694,11 @@ family	O
 are	O
 present	O
 in	O
-organisms	B-Taxon
+organisms	B-LIVB
 from	O
-yeast	B-Taxon
+yeast	B-LIVB
 to	O
-man	B-Taxon
+man	B-LIVB
 .	O
 
 However	O
@@ -32742,7 +32742,7 @@ TACCs	O
 from	O
 phylogenetically	O
 diverse	O
-organisms	B-Taxon
+organisms	B-LIVB
 .	O
 
 This	O
@@ -32769,7 +32769,7 @@ the	O
 placement	O
 of	O
 the	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 TACC4	O
 as	O
 the	O
@@ -32804,13 +32804,13 @@ the	O
 interaction	O
 databases	O
 of	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 and	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 to	O
 identify	O
 potentially	O
@@ -32982,7 +32982,7 @@ The	O
 evolution	O
 of	O
 complex	O
-organisms	B-Taxon
+organisms	B-LIVB
 has	O
 been	O
 associated	O
@@ -33050,16 +33050,16 @@ genome	B-SO
 sequencing	O
 projects	O
 of	O
-human	B-Taxon
+human	B-LIVB
 ,	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
-rat	B-Taxon
+rat	B-LIVB
 ,	O
-fruit	B-Taxon
-fly	I-Taxon
+fruit	B-LIVB
+fly	I-LIVB
 and	O
-nematodes	B-Taxon
+nematodes	B-LIVB
 ,	O
 we	O
 are	O
@@ -33083,7 +33083,7 @@ context	O
 of	O
 the	O
 whole	O
-organism	B-Taxon
+organism	B-LIVB
 .	O
 
 Thus	O
@@ -33116,7 +33116,7 @@ gene	B-SO
 families	O
 in	O
 other	O
-organisms	B-Taxon
+organisms	B-LIVB
 .	O
 
 Furthermore	O
@@ -33206,7 +33206,7 @@ paralogous	B-SO
 chromosomal	I-SO
 regions	I-SO
 on	O
-human	B-Taxon
+human	B-LIVB
 chromosomes	B-GO
 4p16	O
 and	O
@@ -33242,13 +33242,13 @@ TACC	O
 gene	B-SO
 in	O
 the	O
-protostomes	B-Taxon
-Caenorhabitis	B-Taxon
-elegans	I-Taxon
+protostomes	B-LIVB
+Caenorhabitis	B-LIVB
+elegans	I-LIVB
 ,	O
 and	O
-Drosophila	B-Taxon
-melanogaster	I-Taxon
+Drosophila	B-LIVB
+melanogaster	I-LIVB
 [	O
 4	O
 -	O
@@ -33281,7 +33281,7 @@ during	O
 the	O
 evolution	O
 of	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 ,	O
 subsequent	O
 successive	O
@@ -33305,7 +33305,7 @@ to	O
 FGFR	B-PRGE
 genes	B-SO
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 In	O
@@ -33316,7 +33316,7 @@ proposed	O
 quadruplication	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genome	B-SO
 during	O
 evolution	O
@@ -33329,7 +33329,7 @@ FGFR	B-PRGE
 family	O
 member	O
 in	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 ,	O
 raising	O
 the	O
@@ -33345,7 +33345,7 @@ associated	O
 with	O
 FGFR4	B-PRGE
 in	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genomes	B-SO
 .	O
 
@@ -33361,7 +33361,7 @@ have	O
 been	O
 cloned	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 [	O
 1	O
 -	O
@@ -33372,28 +33372,28 @@ one	O
 in	O
 each	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 [	O
 7	O
 ]	O
 ,	O
-Xenopus	B-Taxon
-laevis	I-Taxon
+Xenopus	B-LIVB
+laevis	I-LIVB
 [	O
 8	O
 ]	O
 ,	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 [	O
 4	O
 ]	O
 ,	O
 and	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 [	O
 5	O
 ,	O
@@ -33410,8 +33410,8 @@ TACC	O
 family	O
 members	O
 ,	O
-Oryctolagus	B-Taxon
-cuniculus	I-Taxon
+Oryctolagus	B-LIVB
+cuniculus	I-LIVB
 TACC4	O
 [	O
 9	O
@@ -33459,7 +33459,7 @@ TACC	O
 family	O
 in	O
 other	O
-organisms	B-Taxon
+organisms	B-LIVB
 ,	O
 alternatively	B-SO
 spliced	I-SO
@@ -33512,7 +33512,7 @@ TACC	O
 family	O
 members	O
 from	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 and	O
 invertebrate	O
 lineages	O
@@ -33592,7 +33592,7 @@ TACC	O
 sequences	B-SO
 from	O
 these	O
-organisms	B-Taxon
+organisms	B-LIVB
 was	O
 also	O
 confirmed	O
@@ -33610,19 +33610,19 @@ partial	B-SO
 sequences	B-SO
 in	O
 other	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 species	O
 ,	O
 the	O
-echinodermate	B-Taxon
-Strongylocentrotus	B-Taxon
-purpuratus	I-Taxon
+echinodermate	B-LIVB
+Strongylocentrotus	B-LIVB
+purpuratus	I-LIVB
 and	O
 the	O
-protostome	B-Taxon
-insect	B-Taxon
-Anopheles	B-Taxon
-gambiae	I-Taxon
+protostome	B-LIVB
+insect	B-LIVB
+Anopheles	B-LIVB
+gambiae	I-LIVB
 were	O
 also	O
 identified	O
@@ -33636,7 +33636,7 @@ the	O
 TACC	O
 genes	B-SO
 in	O
-metazoan	B-Taxon
+metazoan	B-LIVB
 lineages	O
 .	O
 
@@ -33656,7 +33656,7 @@ projects	O
 for	O
 these	O
 latter	O
-organisms	B-Taxon
+organisms	B-LIVB
 ,	O
 complete	O
 characterization	O
@@ -33686,14 +33686,14 @@ sequence	B-SO
 in	O
 non	O
 -	O
-bilaterian	B-Taxon
-metazoans	B-Taxon
+bilaterian	B-LIVB
+metazoans	B-LIVB
 ,	O
 such	O
 as	O
-Cnidaria	B-Taxon
+Cnidaria	B-LIVB
 or	O
-Porifera	B-Taxon
+Porifera	B-LIVB
 ,	O
 due	O
 to	O
@@ -33704,7 +33704,7 @@ sequence	B-SO
 information	O
 for	O
 these	O
-organisms	B-Taxon
+organisms	B-LIVB
 ,	O
 and	O
 additional	O
@@ -33723,8 +33723,8 @@ in	O
 other	O
 non	O
 -	O
-metazoan	B-Taxon
-organisms	B-Taxon
+metazoan	B-LIVB
+organisms	B-LIVB
 .	O
 
 Figure	O
@@ -33821,7 +33821,7 @@ the	O
 base	O
 of	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 branch	O
 of	O
 life	O
@@ -33837,9 +33837,9 @@ the	O
 genome	B-SO
 of	O
 the	O
-urochordate	B-Taxon
-Ciona	B-Taxon
-intestinalis	I-Taxon
+urochordate	B-LIVB
+Ciona	B-LIVB
+intestinalis	I-LIVB
 [	O
 11	O
 ]	O
@@ -33854,8 +33854,8 @@ an	O
 analysis	O
 of	O
 the	O
-Halocynthia	B-Taxon
-rortezi	I-Taxon
+Halocynthia	B-LIVB
+rortezi	I-LIVB
 EST	B-SO
 database	O
 [	O
@@ -33877,7 +33877,7 @@ was	O
 present	O
 in	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 ancestor	O
 .	O
 
@@ -33890,7 +33890,7 @@ the	O
 evolution	O
 of	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 genome	B-SO
 has	O
 been	O
@@ -33916,7 +33916,7 @@ first	O
 duplication	B-SO
 of	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 genome	B-SO
 ,	O
 and	O
@@ -33955,16 +33955,16 @@ most	O
 primitive	O
 "	O
 compact	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genome	B-SO
 sequenced	O
 to	O
 date	O
 ,	O
 the	O
-pufferfish	B-Taxon
-Takifugu	B-Taxon
-rubripes	I-Taxon
+pufferfish	B-LIVB
+Takifugu	B-LIVB
+rubripes	I-LIVB
 ,	O
 with	O
 three	O
@@ -34020,9 +34020,9 @@ genes	B-SO
 were	O
 identified	O
 in	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 .	O
 
 Of	O
@@ -34033,9 +34033,9 @@ genes	B-SO
 corresponded	O
 to	O
 the	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 orthologues	B-SO
 of	O
 human	B-PRGE
@@ -34099,7 +34099,7 @@ approximately	O
 kb	O
 of	O
 the	O
-Takifugu	B-Taxon
+Takifugu	B-LIVB
 Scaffold	B-SO
 191	O
 (	O
@@ -34156,7 +34156,7 @@ is	O
 active	O
 in	O
 the	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 ,	O
 and	O
 presumably	O
@@ -34170,7 +34170,7 @@ specific	O
 function	O
 within	O
 the	O
-organism	B-Taxon
+organism	B-LIVB
 ,	O
 or	O
 a	O
@@ -34217,7 +34217,7 @@ chromosomal	B-SO
 segment	I-SO
 containing	O
 the	O
-teleost	B-Taxon
+teleost	B-LIVB
 TACC1	B-PRGE
 ancestor	O
 ,	O
@@ -34231,7 +34231,7 @@ that	O
 occurred	O
 in	O
 the	O
-teleost	B-Taxon
+teleost	B-LIVB
 lineage	O
 .	O
 
@@ -34240,9 +34240,9 @@ Therefore	O
 this	O
 analysis	O
 of	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 does	O
 not	O
 support	O
@@ -34262,7 +34262,7 @@ the	O
 second	O
 round	O
 of	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genomic	B-SO
 duplication	B-SO
 .	O
@@ -34270,7 +34270,7 @@ duplication	B-SO
 Examination	O
 of	O
 higher	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 led	O
 to	O
 the	O
@@ -34283,8 +34283,8 @@ TACC1	B-PRGE
 and	O
 TACC2	B-PRGE
 in	O
-Mus	B-Taxon
-musculus	I-Taxon
+Mus	B-LIVB
+musculus	I-LIVB
 ,	O
 and	O
 the	O
@@ -34299,8 +34299,8 @@ TACC1	B-PRGE
 -	O
 3	O
 from	O
-Rattus	B-Taxon
-norvegus	I-Taxon
+Rattus	B-LIVB
+norvegus	I-LIVB
 .	O
 
 In	O
@@ -34312,7 +34312,7 @@ sequence	B-SO
 was	O
 found	O
 on	O
-mouse	B-Taxon
+mouse	B-LIVB
 chromosome	B-GO
 X	I-GO
 .	O
@@ -34333,7 +34333,7 @@ further	O
 examination	O
 revealed	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 B1	O
 repeat	B-SO
 distributed	O
@@ -34356,7 +34356,7 @@ TACC1X	O
 was	O
 detected	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 RNA	B-SO
 by	O
 rt	O
@@ -34433,13 +34433,13 @@ were	O
 identified	O
 in	O
 any	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 species	O
 .	O
 
 Characterization	O
 of	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 orthologues	B-SO
 
@@ -34489,7 +34489,7 @@ was	O
 duplicated	O
 twice	O
 during	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 evolution	O
 .	O
 
@@ -34497,19 +34497,19 @@ Although	O
 the	O
 analysis	O
 of	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 ,	O
-rodents	B-Taxon
+rodents	B-LIVB
 and	O
-humans	B-Taxon
+humans	B-LIVB
 so	O
 far	O
 suggests	O
 that	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 precursor	O
 was	O
@@ -34555,8 +34555,8 @@ the	O
 TACC	O
 family	O
 in	O
-Oryctolagus	B-Taxon
-cuniculus	I-Taxon
+Oryctolagus	B-LIVB
+cuniculus	I-LIVB
 has	O
 added	O
 to	O
@@ -34747,9 +34747,9 @@ the	O
 TACC3	B-PRGE
 cDNAs	B-SO
 from	O
-primates	B-Taxon
+primates	B-LIVB
 and	O
-rodents	B-Taxon
+rodents	B-LIVB
 .	O
 
 Using	O
@@ -34789,7 +34789,7 @@ kb	O
 PCR	B-SO
 product	I-SO
 from	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 brain	O
 cDNA	B-SO
 by	O
@@ -34880,7 +34880,7 @@ be	O
 specific	O
 to	O
 the	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 )	O
 ,	O
 the	O
@@ -34888,7 +34888,7 @@ only	O
 transcript	B-SO
 detected	O
 in	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 RNA	B-SO
 corresponds	O
 to	O
@@ -34980,7 +34980,7 @@ construction	O
 .	O
 
 The	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 "	O
 TACC4	O
 "	O
@@ -35025,21 +35025,21 @@ identified	O
 TACC3	B-PRGE
 sequences	B-SO
 in	O
-Rattus	B-Taxon
-norvegus	I-Taxon
+Rattus	B-LIVB
+norvegus	I-LIVB
 ,	O
-Gallus	B-Taxon
-gallus	I-Taxon
+Gallus	B-LIVB
+gallus	I-LIVB
 ,	O
-Silurana	B-Taxon
-tropicalis	I-Taxon
+Silurana	B-LIVB
+tropicalis	I-LIVB
 ,	O
-Danio	B-Taxon
-rerio	I-Taxon
+Danio	B-LIVB
+rerio	I-LIVB
 and	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 ,	O
 reported	O
 in	O
@@ -35126,7 +35126,7 @@ location	I-SO
 on	O
 5q32	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 (	O
 discussed	O
 below	O
@@ -35194,7 +35194,7 @@ proposed	O
 evolution	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genome	B-SO
 .	O
 
@@ -35211,7 +35211,7 @@ and	O
 related	O
 genes	B-SO
 in	O
-metazoans	B-Taxon
+metazoans	B-LIVB
 ,	O
 so	O
 that	O
@@ -35238,7 +35238,7 @@ RHAMM	B-PRGE
 gene	B-SO
 in	O
 all	O
-deuterostomes	B-Taxon
+deuterostomes	B-LIVB
 for	O
 which	O
 cDNA	B-SO
@@ -35251,9 +35251,9 @@ was	O
 available	O
 ,	O
 including	O
-C	B-Taxon
-.	I-Taxon
-intestinalis	I-Taxon
+C	B-LIVB
+.	I-LIVB
+intestinalis	I-LIVB
 .	O
 
 No	O
@@ -35262,9 +35262,9 @@ gene	B-SO
 was	O
 identified	O
 in	O
-insects	B-Taxon
+insects	B-LIVB
 or	O
-nematodes	B-Taxon
+nematodes	B-LIVB
 .	O
 
 This	O
@@ -35278,9 +35278,9 @@ genes	B-SO
 diverged	O
 after	O
 the	O
-protostome	B-Taxon
+protostome	B-LIVB
 /	O
-deuterostome	B-Taxon
+deuterostome	B-LIVB
 split	O
 833	O
 -	O
@@ -35291,9 +35291,9 @@ but	O
 prior	O
 to	O
 the	O
-echinodermata	B-Taxon
+echinodermata	B-LIVB
 /	O
-urochordate	B-Taxon
+urochordate	B-LIVB
 divergence	O
 (	O
 >	O
@@ -35376,7 +35376,7 @@ resembles	O
 that	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC1	B-PRGE
 -	O
 3	O
@@ -35397,15 +35397,15 @@ FGFR	B-PRGE
 gene	B-SO
 family	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 ,	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
 the	O
-arthopod	B-Taxon
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+arthopod	B-LIVB
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 have	O
 revealed	O
 the	O
@@ -35416,7 +35416,7 @@ chromosomal	I-SO
 segments	I-SO
 between	O
 these	O
-organisms	B-Taxon
+organisms	B-LIVB
 (	O
 Fig	O
 .	O
@@ -35451,7 +35451,7 @@ was	O
 duplicated	O
 twice	O
 during	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 evolution	O
 ,	O
 with	O
@@ -35463,7 +35463,7 @@ gave	O
 rise	O
 to	O
 the	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 4p16	O
 /	O
@@ -35471,7 +35471,7 @@ chromosome	B-GO
 -	O
 ter	O
 and	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 8p	O
 /	O
@@ -35540,7 +35540,7 @@ fourth	O
 TACC	O
 gene	B-SO
 in	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 would	O
 reside	O
 in	O
@@ -35600,7 +35600,7 @@ clusters	B-SO
 of	I-SO
 genes	I-SO
 on	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 5	O
 that	O
@@ -35621,9 +35621,9 @@ on	O
 different	O
 chromosomes	B-GO
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
-rat	B-Taxon
+rat	B-LIVB
 (	O
 Fig	O
 .	O
@@ -35644,9 +35644,9 @@ this	O
 region	B-SO
 after	O
 the	O
-primate	B-Taxon
+primate	B-LIVB
 /	O
-rodent	B-Taxon
+rodent	B-LIVB
 divergence	O
 .	O
 
@@ -35668,7 +35668,7 @@ the	O
 FGFR	B-PRGE
 genes	B-SO
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 Paralogous	B-SO
@@ -35743,8 +35743,8 @@ are	O
 indicated	O
 .	O
 
-Takifugu	B-Taxon
-rubripes	I-Taxon
+Takifugu	B-LIVB
+rubripes	I-LIVB
 scaffolds	B-SO
 are	O
 shown	O
@@ -35818,10 +35818,10 @@ the	O
 genome	B-SO
 of	O
 the	O
-tunicate	B-Taxon
-C	B-Taxon
-.	I-Taxon
-intestinalis	I-Taxon
+tunicate	B-LIVB
+C	B-LIVB
+.	I-LIVB
+intestinalis	I-LIVB
 [	O
 11	O
 ]	O
@@ -35832,15 +35832,15 @@ most	O
 primitive	O
 "	O
 compact	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 genome	B-SO
 sequenced	O
 to	O
 date	O
 ,	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 [	O
 14	O
 ]	O
@@ -35856,9 +35856,9 @@ of	O
 the	O
 genome	B-SO
 of	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 confirmed	O
 the	O
 presence	O
@@ -35871,7 +35871,7 @@ those	O
 found	O
 in	O
 higher	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 (	O
 Fig	O
 .	O
@@ -35891,9 +35891,9 @@ RGS12	B-PRGE
 are	O
 found	O
 on	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 scaffold	B-SO
 290	O
 (	O
@@ -35912,14 +35912,14 @@ of	O
 each	O
 other	O
 in	O
-human	B-Taxon
+human	B-LIVB
 4p16	O
 .	O
 
 The	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 orthologues	B-SO
 of	O
 FGFR3	B-PRGE
@@ -35950,7 +35950,7 @@ Significantly	O
 ,	O
 the	O
 three	O
-human	B-Taxon
+human	B-LIVB
 orthologues	B-SO
 of	O
 these	O
@@ -36002,7 +36002,7 @@ HMP19	B-PRGE
 to	O
 GPRK6	B-PRGE
 in	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 5q34	O
 -	O
@@ -36012,13 +36012,13 @@ also	O
 found	O
 in	O
 the	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 ,	O
 with	O
 the	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 orthologues	B-SO
 of	O
 NSD1	B-PRGE
@@ -36082,7 +36082,7 @@ related	O
 genes	B-SO
 in	O
 the	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 .	O
 
 trTACC1B	B-PRGE
@@ -36112,7 +36112,7 @@ several	O
 genes	B-SO
 located	O
 in	O
-human	B-Taxon
+human	B-LIVB
 chromosome	B-GO
 8p21	O
 -	O
@@ -36137,7 +36137,7 @@ is	O
 evident	O
 in	O
 higher	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 .	O
 
 On	O
@@ -36170,9 +36170,9 @@ scaffold	B-SO
 also	O
 contains	O
 the	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 orthologues	B-SO
 of	O
 MSX1	B-PRGE
@@ -36296,7 +36296,7 @@ segments	I-SO
 noted	O
 in	O
 higher	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 is	O
 present	O
 in	O
@@ -36304,10 +36304,10 @@ the	O
 genome	B-SO
 of	O
 the	O
-urochordate	B-Taxon
-C	B-Taxon
-.	I-Taxon
-intestinalis	I-Taxon
+urochordate	B-LIVB
+C	B-LIVB
+.	I-LIVB
+intestinalis	I-LIVB
 [	O
 11	O
 ]	O
@@ -36336,13 +36336,13 @@ kb	O
 region	B-SO
 of	O
 the	O
-C	B-Taxon
-.	I-Taxon
-intestinalis	I-Taxon
+C	B-LIVB
+.	I-LIVB
+intestinalis	I-LIVB
 genome	B-SO
 and	O
 the	O
-human	B-Taxon
+human	B-LIVB
 orthologues	B-SO
 are	O
 still	O
@@ -36383,7 +36383,7 @@ of	I-SO
 genes	I-SO
 from	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 paralogous	B-SO
 segments	I-SO
 are	O
@@ -36431,7 +36431,7 @@ to	O
 extensive	O
 rearrangement	O
 in	O
-tunicates	B-Taxon
+tunicates	B-LIVB
 .	O
 
 In	O
@@ -36441,9 +36441,9 @@ the	O
 examination	O
 of	O
 the	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 genome	B-SO
 ,	O
 this	O
@@ -36486,7 +36486,7 @@ lost	O
 very	O
 early	O
 in	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 evolution	O
 ,	O
 prior	O
@@ -36495,7 +36495,7 @@ the	O
 divergence	O
 of	O
 the	O
-Gnanthostome	B-Taxon
+Gnanthostome	B-LIVB
 lineages	O
 .	O
 
@@ -36518,9 +36518,9 @@ the	O
 sequencing	O
 of	O
 the	O
-amphioxus	B-Taxon
+amphioxus	B-LIVB
 and	O
-lamprey	B-Taxon
+lamprey	B-LIVB
 genomes	B-SO
 ,	O
 which	O
@@ -36555,11 +36555,11 @@ Formation	O
 of	O
 protoclusters	O
 in	O
-Takifugu	B-Taxon
-rubripes	I-Taxon
+Takifugu	B-LIVB
+rubripes	I-LIVB
 and	O
-Ciona	B-Taxon
-intestinalis	I-Taxon
+Ciona	B-LIVB
+intestinalis	I-LIVB
 :	O
 (	O
 A	O
@@ -36662,8 +36662,8 @@ chromosome	I-SO
 B	O
 )	O
 :	O
-Ciona	B-Taxon
-intestinalis	I-Taxon
+Ciona	B-LIVB
+intestinalis	I-LIVB
 clusters	B-SO
 containing	O
 genes	B-SO
@@ -36672,7 +36672,7 @@ in	O
 paralogous	B-SO
 segments	I-SO
 on	O
-human	B-Taxon
+human	B-LIVB
 8	O
 ,	O
 4p16	O
@@ -36702,7 +36702,7 @@ protein	B-CHEBI
 factors	O
 in	O
 all	O
-human	B-Taxon
+human	B-LIVB
 TACC	O
 proteins	B-CHEBI
 are	O
@@ -36804,25 +36804,25 @@ orthologous	B-SO
 TACC	O
 genes	B-SO
 of	O
-human	B-Taxon
+human	B-LIVB
 ,	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
-rat	B-Taxon
+rat	B-LIVB
 ,	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 ,	O
-C	B-Taxon
-.	I-Taxon
-intestinalis	I-Taxon
+C	B-LIVB
+.	I-LIVB
+intestinalis	I-LIVB
 ,	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 and	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 were	O
 extracted	O
 and	O
@@ -36847,9 +36847,9 @@ some	O
 cases	O
 ,	O
 for	O
-rat	B-Taxon
+rat	B-LIVB
 and	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 ,	O
 exons	B-SO
 were	O
@@ -36867,9 +36867,9 @@ peptides	B-SO
 to	O
 the	O
 corresponding	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
-human	B-Taxon
+human	B-LIVB
 proteins	B-CHEBI
 .	O
 
@@ -36880,9 +36880,9 @@ low	O
 sequence	B-SO
 similarity	O
 in	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 ,	O
 genomic	B-SO
 sequences	I-SO
@@ -36890,10 +36890,10 @@ from	O
 the	O
 fresh	O
 water	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 ,	O
-Tetraodon	B-Taxon
-nigroviridis	I-Taxon
+Tetraodon	B-LIVB
+nigroviridis	I-LIVB
 were	O
 used	O
 as	O
@@ -36984,20 +36984,20 @@ gene	B-SO
 In	O
 the	O
 higher	O
-organisms	B-Taxon
+organisms	B-LIVB
 ,	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 ,	O
 and	O
 the	O
-deuterostomes	B-Taxon
-C	B-Taxon
-.	I-Taxon
-intestinalis	I-Taxon
+deuterostomes	B-LIVB
+C	B-LIVB
+.	I-LIVB
+intestinalis	I-LIVB
 to	O
-human	B-Taxon
+human	B-LIVB
 ,	O
 this	O
 feature	B-SO
@@ -37014,14 +37014,14 @@ gene	B-SO
 (	O
 five	O
 in	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 ,	O
 seven	O
 in	O
 the	O
-deuterostome	B-Taxon
+deuterostome	B-LIVB
 genes	B-SO
 )	O
 .	O
@@ -37074,7 +37074,7 @@ TACC3	B-PRGE
 genes	B-SO
 in	O
 the	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 (	O
 see	O
 below	O
@@ -37082,7 +37082,7 @@ below	O
 .	O
 
 In	O
-deuterostomes	B-Taxon
+deuterostomes	B-LIVB
 ,	O
 this	O
 exon	B-SO
@@ -37097,13 +37097,13 @@ the	O
 case	O
 of	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 TACC3	B-PRGE
 '	I-PRGE
 s	I-PRGE
 ,	O
 a	O
-rodent	B-Taxon
+rodent	B-LIVB
 -	O
 specific	O
 24	O
@@ -37137,7 +37137,7 @@ GAS41	B-PRGE
 
 Of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 proteins	B-CHEBI
 ,	O
@@ -37172,8 +37172,8 @@ amino	B-CHEBI
 acids	I-CHEBI
 in	O
 the	O
-Danio	B-Taxon
-rerio	I-Taxon
+Danio	B-LIVB
+rerio	I-LIVB
 protein	B-CHEBI
 .	O
 
@@ -37224,7 +37224,7 @@ and	O
 3	O
 in	O
 each	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 gene	B-SO
 ,	O
@@ -37265,9 +37265,9 @@ the	O
 TACC3	B-PRGE
 proteins	B-CHEBI
 of	O
-human	B-Taxon
+human	B-LIVB
 and	O
-mouse	B-Taxon
+mouse	B-LIVB
 has	O
 been	O
 previously	O
@@ -37308,10 +37308,10 @@ by	O
 one	O
 exon	B-SO
 in	O
-human	B-Taxon
+human	B-LIVB
 and	O
 the	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 (	O
 emb	O
 |	O
@@ -37320,7 +37320,7 @@ CAAB01001184	O
 .	O
 
 In	O
-rodents	B-Taxon
+rodents	B-LIVB
 ,	O
 however	O
 ,	O
@@ -37457,7 +37457,7 @@ not	O
 evident	O
 in	O
 the	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 protein	B-CHEBI
 ,	O
 or	O
@@ -37471,7 +37471,7 @@ may	O
 indicate	O
 that	O
 the	O
-rodent	B-Taxon
+rodent	B-LIVB
 TACC3	B-PRGE
 has	O
 evolved	O
@@ -37485,8 +37485,8 @@ been	O
 noted	O
 for	O
 the	O
-amphibian	B-Taxon
-Xenopus	B-Taxon
+amphibian	B-LIVB
+Xenopus	B-LIVB
 TACC3	B-PRGE
 ,	O
 maskin	B-PRGE
@@ -37498,7 +37498,7 @@ maskin	B-PRGE
 Alternative	O
 splicing	O
 in	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 genes	B-SO
 
@@ -37544,7 +37544,7 @@ the	O
 development	O
 of	O
 an	O
-organism	B-Taxon
+organism	B-LIVB
 .	O
 
 Although	O
@@ -37600,7 +37600,7 @@ splice	B-SO
 variants	I-SO
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC2	B-PRGE
 genes	B-SO
 [	O
@@ -37934,7 +37934,7 @@ rt	O
 PCR	O
 analysis	O
 of	O
-human	B-Taxon
+human	B-LIVB
 brain	O
 RNA	B-SO
 .	O
@@ -37949,7 +37949,7 @@ of	O
 TACC1	B-PRGE
 in	O
 the	O
-human	B-Taxon
+human	B-LIVB
 brain	O
 .	O
 
@@ -38284,7 +38284,7 @@ functional	O
 TACC	O
 homologue	B-SO
 in	O
-yeast	B-Taxon
+yeast	B-LIVB
 ,	O
 spc	B-PRGE
 -	I-PRGE
@@ -38294,7 +38294,7 @@ and	O
 one	O
 or	O
 more	O
-human	B-Taxon
+human	B-LIVB
 TACC	O
 proteins	B-CHEBI
 [	O
@@ -38428,7 +38428,7 @@ is	O
 apparent	O
 that	O
 the	O
-human	B-Taxon
+human	B-LIVB
 TACC	O
 proteins	B-CHEBI
 also	O
@@ -38479,7 +38479,7 @@ derivatives	O
 of	O
 the	O
 ancestral	O
-chordate	B-Taxon
+chordate	B-LIVB
 TACC	O
 ,	O
 after	O
@@ -38487,7 +38487,7 @@ the	O
 radiation	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 genes	B-SO
 .	O
@@ -38496,7 +38496,7 @@ The	O
 localization	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 proteins	B-CHEBI
 in	O
@@ -38538,9 +38538,9 @@ TACC	O
 family	O
 members	O
 in	O
-protostomes	B-Taxon
+protostomes	B-LIVB
 and	O
-deuterostomes	B-Taxon
+deuterostomes	B-LIVB
 have	O
 integrated	O
 new	O
@@ -38567,13 +38567,13 @@ scale	O
 proteomic	O
 analysis	O
 in	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 and	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 provide	O
 further	O
 suggestive	O
@@ -38584,7 +38584,7 @@ functional	O
 evolution	O
 .	O
 
-Yeast	B-Taxon
+Yeast	B-LIVB
 two	O
 hybrid	O
 analysis	O
@@ -38647,9 +38647,9 @@ lin	B-PRGE
 53	I-PRGE
 (	O
 the	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 homologues	B-SO
 of	O
 the	O
@@ -38724,7 +38724,7 @@ thus	O
 indirectly	O
 with	O
 the	O
-Drosophila	B-Taxon
+Drosophila	B-LIVB
 SWI	B-GO
 /	I-GO
 SNF	I-GO
@@ -38782,7 +38782,7 @@ TACC	O
 proteins	B-CHEBI
 from	O
 these	O
-organisms	B-Taxon
+organisms	B-LIVB
 have	O
 probably	O
 been	O
@@ -38826,13 +38826,13 @@ TACC	O
 proteins	B-CHEBI
 modeled	O
 in	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 and	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 .	O
 
 (	O
@@ -38840,9 +38840,9 @@ A	O
 )	O
 .	O
 
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 interaction	O
 map	O
 shows	O
@@ -38925,7 +38925,7 @@ Predicted	O
 interaction	O
 map	O
 for	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACCs	O
 ,	O
 based	O
@@ -39001,7 +39001,7 @@ DTACC	B-PRGE
 E	O
 )	O
 :	O
-Vertebrate	B-Taxon
+Vertebrate	B-LIVB
 TACC	O
 interactions	O
 identified	O
@@ -39018,7 +39018,7 @@ identity	O
 of	O
 a	O
 functional	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 homologue	B-SO
 .	O
 
@@ -39067,19 +39067,19 @@ functional	O
 interactions	O
 seen	O
 in	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 and	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 would	O
 be	O
 observed	O
 in	O
 higher	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 Phylogenetic	O
@@ -39096,7 +39096,7 @@ of	O
 predicted	O
 interactions	O
 for	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACCs	O
 (	O
 Fig	O
@@ -39112,9 +39112,9 @@ Strikingly	O
 however	O
 ,	O
 the	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 specific	O
 proteins	B-CHEBI
 lin15A	B-PRGE
@@ -39129,9 +39129,9 @@ readily	O
 discernible	O
 homologues	B-SO
 in	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 or	O
-Drosophila	B-Taxon
+Drosophila	B-LIVB
 ,	O
 although	O
 the	O
@@ -39197,7 +39197,7 @@ the	O
 assignment	O
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 homologue	B-SO
 of	O
 CG14540	B-PRGE
@@ -39211,7 +39211,7 @@ closest	O
 matches	B-SO
 in	O
 the	O
-human	B-Taxon
+human	B-LIVB
 databases	O
 corresponding	O
 to	O
@@ -39240,7 +39240,7 @@ defined	O
 interactions	O
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 proteins	B-CHEBI
 
@@ -39249,7 +39249,7 @@ interaction	O
 data	O
 for	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACCs	O
 is	O
 relatively	O
@@ -39283,7 +39283,7 @@ clearly	O
 indicate	O
 that	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACCs	O
 interact	O
 with	O
@@ -39408,7 +39408,7 @@ mitotic	O
 spindle	B-GO
 assembly	O
 from	O
-yeast	B-Taxon
+yeast	B-LIVB
 to	O
 humans	O
 has	O
@@ -39434,7 +39434,7 @@ seems	O
 likely	O
 that	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 protein	B-CHEBI
 has	O
@@ -39473,7 +39473,7 @@ it	O
 is	O
 the	O
 only	O
-human	B-Taxon
+human	B-LIVB
 TACC	O
 protein	B-CHEBI
 phosphorylated	O
@@ -39495,7 +39495,7 @@ central	O
 domain	B-SO
 of	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 orthologues	B-SO
 ,	O
 suggests	O
@@ -39522,9 +39522,9 @@ For	O
 instance	O
 ,	O
 in	O
-X	B-Taxon
-.	I-Taxon
-laevis	I-Taxon
+X	B-LIVB
+.	I-LIVB
+laevis	I-LIVB
 ,	O
 the	O
 maskin	B-PRGE
@@ -39553,7 +39553,7 @@ and	O
 translation	O
 in	O
 the	O
-Xenopus	B-Taxon
+Xenopus	B-LIVB
 oocyte	B-CL
 [	O
 8	O
@@ -39583,7 +39583,7 @@ unclear	O
 whether	O
 the	O
 other	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 proteins	B-CHEBI
 interact	O
@@ -39595,7 +39595,7 @@ CPEB	O
 complex	B-GO
 ,	O
 the	O
-human	B-Taxon
+human	B-LIVB
 TACC1A	O
 isoform	B-SO
 is	O
@@ -39656,7 +39656,7 @@ have	O
 used	O
 an	O
 unbiased	O
-yeast	B-Taxon
+yeast	B-LIVB
 two	O
 hybrid	O
 screening	O
@@ -39668,7 +39668,7 @@ that	O
 bind	O
 to	O
 the	O
-human	B-Taxon
+human	B-LIVB
 TACC	O
 proteins	B-CHEBI
 [	O
@@ -39773,9 +39773,9 @@ nhr	B-PRGE
 86	I-PRGE
 ,	O
 from	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 ,	O
 which	O
 interacts	O
@@ -39796,7 +39796,7 @@ This	O
 suggests	O
 that	O
 while	O
-protostome	B-Taxon
+protostome	B-LIVB
 TACCs	O
 may	O
 require	O
@@ -39813,7 +39813,7 @@ the	O
 TACCs	O
 in	O
 higher	O
-organisms	B-Taxon
+organisms	B-LIVB
 may	O
 have	O
 evolved	O
@@ -39857,7 +39857,7 @@ and	O
 duplication	B-SO
 of	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 TACC	O
 precursor	O
 .	O
@@ -39871,7 +39871,7 @@ identified	O
 function	O
 of	O
 a	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 protein	B-CHEBI
 was	O
@@ -39900,7 +39900,7 @@ also	O
 intriguing	O
 that	O
 the	O
-deuterostome	B-Taxon
+deuterostome	B-LIVB
 specific	O
 SDP	O
 repeat	B-SO
@@ -39915,7 +39915,7 @@ accessory	O
 factor	O
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 SWI	B-GO
 /	I-GO
 SNF	I-GO
@@ -39933,9 +39933,9 @@ Although	O
 there	O
 is	O
 a	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 homologue	B-SO
 of	O
 GAS41	B-PRGE
@@ -39984,7 +39984,7 @@ further	O
 suggests	O
 that	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACCs	O
 have	O
 gained	O
@@ -40034,9 +40034,9 @@ family	O
 members	O
 in	O
 higher	O
-protostomes	B-Taxon
+protostomes	B-LIVB
 and	O
-deuterostomes	B-Taxon
+deuterostomes	B-LIVB
 may	O
 have	O
 integrated	O
@@ -40075,7 +40075,7 @@ lin37	B-PRGE
 homologues	B-SO
 in	O
 higher	O
-organisms	B-Taxon
+organisms	B-LIVB
 ,	O
 as	O
 they	O
@@ -40244,7 +40244,7 @@ functional	O
 TACC	O
 homologue	B-SO
 in	O
-yeast	B-Taxon
+yeast	B-LIVB
 (	O
 spc72	B-PRGE
 )	O
@@ -40275,9 +40275,9 @@ throughout	O
 evolution	O
 in	O
 both	O
-protostomes	B-Taxon
+protostomes	B-LIVB
 and	O
-deuterostomes	B-Taxon
+deuterostomes	B-LIVB
 .	O
 
 In	O
@@ -40288,7 +40288,7 @@ TACC	O
 proteins	B-CHEBI
 of	O
 lower	O
-organisms	B-Taxon
+organisms	B-LIVB
 appear	O
 to	O
 interact	O
@@ -40337,12 +40337,12 @@ and	O
 duplication	B-SO
 of	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 TACC	O
 precursor	O
 ,	O
 the	O
-chordate	B-Taxon
+chordate	B-LIVB
 TACC	O
 proteins	B-CHEBI
 have	O
@@ -40399,7 +40399,7 @@ assigned	O
 function	O
 of	O
 a	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 protein	B-CHEBI
 ,	O
@@ -40485,7 +40485,7 @@ events	O
 Interestingly	O
 although	O
 all	O
-human	B-Taxon
+human	B-LIVB
 TACC	O
 proteins	B-CHEBI
 can	O
@@ -40504,7 +40504,7 @@ TACC1	B-PRGE
 isoforms	B-SO
 expressed	O
 in	O
-human	B-Taxon
+human	B-LIVB
 breast	O
 cancer	O
 cells	B-CL
@@ -40760,8 +40760,8 @@ databases	O
 .	O
 
 For	O
-Takifugu	B-Taxon
-rubripes	I-Taxon
+Takifugu	B-LIVB
+rubripes	I-LIVB
 ,	O
 gene	B-SO
 predictions	O
@@ -40820,9 +40820,9 @@ peptides	B-SO
 to	O
 the	O
 corresponding	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
-human	B-Taxon
+human	B-LIVB
 proteins	B-CHEBI
 .	O
 
@@ -40839,10 +40839,10 @@ from	O
 the	O
 fresh	O
 water	O
-pufferfish	B-Taxon
+pufferfish	B-LIVB
 ,	O
-Tetraodon	B-Taxon
-nigroviridis	I-Taxon
+Tetraodon	B-LIVB
+nigroviridis	I-LIVB
 were	O
 used	O
 as	O
@@ -40864,7 +40864,7 @@ the	O
 central	O
 region	B-SO
 of	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 cDNAs	B-SO
 (	O
@@ -40936,7 +40936,7 @@ NCBI	O
 and	O
 at	O
 the	O
-Human	B-Taxon
+Human	B-LIVB
 Genome	B-SO
 Mapping	O
 Project	O
@@ -40947,7 +40947,7 @@ UK	O
 
 Cloning	O
 of	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC	O
 cDNAs	B-SO
 
@@ -40993,7 +40993,7 @@ the	O
 region	B-SO
 encompassing	O
 the	O
-vertebrate	B-Taxon
+vertebrate	B-LIVB
 TACC3	B-PRGE
 initiator	O
 methionine	B-CHEBI
@@ -41011,7 +41011,7 @@ tatgagtctgcaggtcttaaacgac	O
 For	O
 cloning	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 Tacc1X	O
 cDNA	B-SO
 ,	O
@@ -41237,17 +41237,17 @@ cctgcttctgaggatgaaaacgc	O
 )	O
 .	O
 
-Rabbit	B-Taxon
+Rabbit	B-LIVB
 brain	O
 poly	B-SO
 A	I-SO
 +	I-SO
 mRNA	B-CHEBI
 ,	O
-mouse	B-Taxon
+mouse	B-LIVB
 testis	O
 and	O
-human	B-Taxon
+human	B-LIVB
 brain	O
 total	O
 RNA	B-SO
@@ -41406,8 +41406,8 @@ A	O
 AY177413	O
 )	O
 ,	O
-Mus	B-Taxon
-musculus	I-Taxon
+Mus	B-LIVB
+musculus	I-LIVB
 TACC2s	O
 (	O
 AY177410	O
@@ -41468,29 +41468,29 @@ TACC1B	I-PRGE
 BK000664	O
 )	O
 ,	O
-Mus	B-Taxon
-musculus	I-Taxon
+Mus	B-LIVB
+musculus	I-LIVB
 TACC2l	O
 (	O
 BK001495	O
 )	O
 ,	O
-Rattus	B-Taxon
-norvegus	I-Taxon
+Rattus	B-LIVB
+norvegus	I-LIVB
 TACC2l	O
 (	O
 BK001658	O
 )	O
 ,	O
-Rattus	B-Taxon
-norvegus	I-Taxon
+Rattus	B-LIVB
+norvegus	I-LIVB
 TACC2s	O
 (	O
 BK001657	O
 )	O
 ,	O
-Takifugu	B-Taxon
-rubripes	I-Taxon
+Takifugu	B-LIVB
+rubripes	I-LIVB
 TACC2l	O
 (	O
 BK000690	O
@@ -41606,26 +41606,26 @@ and	O
 tropomyosin	O
 from	O
 available	O
-vertebrates	B-Taxon
+vertebrates	B-LIVB
 and	O
 their	O
 recognizable	O
 orthologues	B-SO
 from	O
 the	O
-urochordate	B-Taxon
-Ciona	B-Taxon
-intestinalis	I-Taxon
+urochordate	B-LIVB
+Ciona	B-LIVB
+intestinalis	I-LIVB
 ,	O
-Drosophila	B-Taxon
-melanogaster	I-Taxon
+Drosophila	B-LIVB
+melanogaster	I-LIVB
 ,	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 and	O
-Saccharomyces	B-Taxon
-cerevisiae	I-Taxon
+Saccharomyces	B-LIVB
+cerevisiae	I-LIVB
 were	O
 either	O
 directly	O
@@ -41651,84 +41651,84 @@ are	O
 as	O
 follows	O
 :	O
-hs	B-Taxon
+hs	B-LIVB
 (	O
-Homo	B-Taxon
-sapiens	I-Taxon
+Homo	B-LIVB
+sapiens	I-LIVB
 )	O
 ,	O
-mm	B-Taxon
+mm	B-LIVB
 (	O
-Mus	B-Taxon
-musculus	I-Taxon
+Mus	B-LIVB
+musculus	I-LIVB
 )	O
 ,	O
-rn	B-Taxon
+rn	B-LIVB
 (	O
-Rattus	B-Taxon
-norvegus	I-Taxon
+Rattus	B-LIVB
+norvegus	I-LIVB
 )	O
 ,	O
-oc	B-Taxon
+oc	B-LIVB
 (	O
-Oryctolagus	B-Taxon
-cuniculus	I-Taxon
+Oryctolagus	B-LIVB
+cuniculus	I-LIVB
 )	O
 ,	O
-gg	B-Taxon
+gg	B-LIVB
 (	O
-Gallus	B-Taxon
-gallus	I-Taxon
+Gallus	B-LIVB
+gallus	I-LIVB
 )	O
 ,	O
-xl	B-Taxon
+xl	B-LIVB
 (	O
-Xenopus	B-Taxon
-laevis	I-Taxon
+Xenopus	B-LIVB
+laevis	I-LIVB
 )	O
 ,	O
-st	B-Taxon
+st	B-LIVB
 (	O
-Silurana	B-Taxon
-tropicalis	I-Taxon
+Silurana	B-LIVB
+tropicalis	I-LIVB
 )	O
 ,	O
-tr	B-Taxon
+tr	B-LIVB
 (	O
-Takifugu	B-Taxon
-rubripes	I-Taxon
+Takifugu	B-LIVB
+rubripes	I-LIVB
 )	O
 ,	O
-dr	B-Taxon
+dr	B-LIVB
 (	O
-Danio	B-Taxon
-rerio	I-Taxon
+Danio	B-LIVB
+rerio	I-LIVB
 )	O
 ,	O
-ci	B-Taxon
+ci	B-LIVB
 (	O
-Ciona	B-Taxon
-intestinalis	I-Taxon
+Ciona	B-LIVB
+intestinalis	I-LIVB
 )	O
 ,	O
-dm	B-Taxon
+dm	B-LIVB
 (	O
-D	B-Taxon
-.	I-Taxon
-melanogaster	I-Taxon
+D	B-LIVB
+.	I-LIVB
+melanogaster	I-LIVB
 )	O
 ,	O
-ce	B-Taxon
+ce	B-LIVB
 (	O
-C	B-Taxon
-.	I-Taxon
-elegans	I-Taxon
+C	B-LIVB
+.	I-LIVB
+elegans	I-LIVB
 )	O
 ,	O
-sc	B-Taxon
+sc	B-LIVB
 (	O
-Saccharomyces	B-Taxon
-cerevisiae	I-Taxon
+Saccharomyces	B-LIVB
+cerevisiae	I-LIVB
 )	O
 .	O
 
@@ -42184,9 +42184,9 @@ proteins	B-CHEBI
 were	O
 expressed	O
 in	O
-E	B-Taxon
-.	I-Taxon
-coli	I-Taxon
+E	B-LIVB
+.	I-LIVB
+coli	I-LIVB
 BL21	O
 (	O
 DE3	O
@@ -42584,7 +42584,7 @@ A	O
 M	O
 .	O
 characterized	O
-mouse	B-Taxon
+mouse	B-LIVB
 TACC	O
 orthologues	B-SO
 .	O
@@ -42599,9 +42599,9 @@ identification	O
 and	O
 assembly	O
 of	O
-T	B-Taxon
-.	I-Taxon
-rubripes	I-Taxon
+T	B-LIVB
+.	I-LIVB
+rubripes	I-LIVB
 gene	B-SO
 sequences	I-SO
 ,	O
@@ -42642,7 +42642,7 @@ paralogous	B-SO
 genes	B-SO
 found	O
 on	O
-human	B-Taxon
+human	B-LIVB
 4p16	O
 ,	O
 5q31	O
@@ -42894,9 +42894,9 @@ and	O
 Lung	O
 Development	O
 in	O
-Mice	B-Taxon
+Mice	B-LIVB
 and	O
-Humans	B-Taxon
+Humans	B-LIVB
 
 Abstract	O
 
@@ -42941,7 +42941,7 @@ E18	O
 embryos	O
 derived	O
 from	O
-mice	B-Taxon
+mice	B-LIVB
 treated	O
 with	O
 N	B-CHEBI
@@ -43012,7 +43012,7 @@ truncated	O
 protein	B-CHEBI
 .	O
 
-Human	B-Taxon
+Human	B-LIVB
 autopsy	O
 cases	O
 with	O
@@ -43108,7 +43108,7 @@ the	O
 pathogenesis	O
 of	O
 nonsyndromic	O
-human	B-Taxon
+human	B-LIVB
 congenital	O
 diaphragmatic	O
 defects	O
@@ -43237,7 +43237,7 @@ a	O
 screen	O
 of	O
 fetal	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 chemically	B-CHEBI
 induced	O
@@ -43305,7 +43305,7 @@ abnormalities	O
 and	O
 identified	O
 one	O
-human	B-Taxon
+human	B-LIVB
 baby	O
 with	O
 a	O
@@ -43313,7 +43313,7 @@ serious	O
 mutation	B-SO
 in	O
 the	O
-human	B-Taxon
+human	B-LIVB
 gene	B-SO
 FOG2	B-PRGE
 who	O
@@ -43352,10 +43352,10 @@ and	O
 lung	O
 development	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 This	O
@@ -43734,7 +43734,7 @@ and	O
 pulmonary	O
 hypoplasia	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 The	O
@@ -43820,7 +43820,7 @@ lethal	O
 developmental	O
 abnormalities	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 ,	O
 it	O
 is	O
@@ -43830,10 +43830,10 @@ potential	O
 utility	O
 to	O
 develop	O
-animal	B-Taxon
+animal	B-LIVB
 models	O
 of	O
-human	B-Taxon
+human	B-LIVB
 birth	O
 defects	O
 ,	O
@@ -43844,20 +43844,20 @@ genetic	B-SO
 abnormalities	O
 found	O
 in	O
-animal	B-Taxon
+animal	B-LIVB
 models	O
 can	O
 then	O
 be	O
 investigated	O
 in	O
-human	B-Taxon
+human	B-LIVB
 populations	O
 .	O
 
 We	O
 screened	O
-mice	B-Taxon
+mice	B-LIVB
 treated	O
 with	O
 the	O
@@ -43898,7 +43898,7 @@ identified	O
 a	O
 line	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 a	O
 recessive	O
@@ -43962,7 +43962,7 @@ the	O
 orthologous	B-SO
 gene	B-SO
 in	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 similar	O
 developmental	O
@@ -44010,7 +44010,7 @@ these	O
 abnormalities	O
 in	O
 a	O
-human	B-Taxon
+human	B-LIVB
 .	O
 
 We	O
@@ -44057,7 +44057,7 @@ of	O
 ENU	B-CHEBI
 -	O
 mutagenized	O
-mice	B-Taxon
+mice	B-LIVB
 at	O
 embryonic	O
 day	O
@@ -44081,7 +44081,7 @@ phenotypes	O
 One	O
 line	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 was	O
 found	O
 to	O
@@ -44171,7 +44171,7 @@ N	O
 lil	O
 /	O
 +	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 interval	B-SO
@@ -44265,7 +44265,7 @@ apparent	O
 in	O
 all	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 survived	O
 to	O
@@ -44281,7 +44281,7 @@ wild	B-SO
 type	I-SO
 and	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 found	O
 dead	O
 on	O
@@ -44307,7 +44307,7 @@ lower	O
 in	O
 the	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -44354,7 +44354,7 @@ All	O
 lungs	O
 from	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 lacking	O
 an	O
@@ -44383,7 +44383,7 @@ Diaphragms	O
 from	O
 mutant	B-SO
 lil	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 intact	O
 ,	O
@@ -44477,7 +44477,7 @@ number	O
 of	O
 lil	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 survived	O
 to	O
@@ -44708,7 +44708,7 @@ abnormal	O
 in	O
 all	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 examined	O
 (	O
 n	O
@@ -44756,7 +44756,7 @@ E15	O
 5	O
 lil	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 had	O
 a	O
 variety	O
@@ -44809,7 +44809,7 @@ The	O
 cohort	O
 of	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 survived	O
 to	O
@@ -44907,7 +44907,7 @@ identified	O
 in	O
 lil	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 including	O
 atrioventricular	O
@@ -45036,7 +45036,7 @@ Figure	O
 Heterozygous	O
 lil	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 with	O
@@ -45061,7 +45061,7 @@ targeting	O
 
 Doubly	O
 heterozygous	O
-mice	B-Taxon
+mice	B-LIVB
 had	O
 an	O
 embryonic	O
@@ -45087,7 +45087,7 @@ variable	O
 phenotype	O
 of	O
 lil	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 relative	O
 to	O
@@ -45130,7 +45130,7 @@ in	O
 the	O
 Fog2	B-PRGE
 Mutant	B-SO
-Mouse	B-Taxon
+Mouse	B-LIVB
 
 Experiments	O
 were	O
@@ -45294,7 +45294,7 @@ Fog2	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 littermate	O
 controls	O
@@ -45311,7 +45311,7 @@ Fog2	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 used	O
 for	O
@@ -45411,7 +45411,7 @@ hypoplasia	O
 in	O
 Fog2	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 is	O
 a	O
 primary	O
@@ -45499,7 +45499,7 @@ Expression	O
 was	O
 evaluated	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 a	O
 lacZ	O
@@ -45521,7 +45521,7 @@ data	O
 
 In	O
 nine	O
-mice	B-Taxon
+mice	B-LIVB
 examined	O
 at	O
 E11	O
@@ -45563,7 +45563,7 @@ normally	O
 in	O
 Fog2	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Figure	O
 5	O
@@ -45600,7 +45600,7 @@ Diaphragms	O
 from	O
 Fog2	B-PRGE
 lil	O
-mice	B-Taxon
+mice	B-LIVB
 show	O
 an	O
 intact	O
@@ -45646,7 +45646,7 @@ limbs	O
 ]	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 with	O
 defects	O
 in	O
@@ -45718,7 +45718,7 @@ pathway	O
 ]	O
 ,	O
 and	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 absence	O
 of	O
@@ -45804,7 +45804,7 @@ PPFs	O
 of	O
 Fog2	B-PRGE
 lil	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 data	O
 not	O
@@ -45840,7 +45840,7 @@ reduced	O
 in	O
 Fog2	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Figure	O
 6	O
@@ -45895,7 +45895,7 @@ abnormal	O
 phenotype	O
 in	O
 these	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 FOG2	B-PRGE
@@ -46772,9 +46772,9 @@ defects	O
 are	O
 similar	O
 between	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
-human	B-Taxon
+human	B-LIVB
 ,	O
 we	O
 suggest	O
@@ -46790,7 +46790,7 @@ reported	O
 cause	O
 of	O
 a	O
-human	B-Taxon
+human	B-LIVB
 developmental	O
 diaphragmatic	O
 and	O
@@ -46805,7 +46805,7 @@ the	O
 affected	O
 child	O
 ,	O
-mice	B-Taxon
+mice	B-LIVB
 heterozygous	O
 for	O
 a	O
@@ -46840,9 +46840,9 @@ less	O
 well	O
 tolerated	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 than	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 41	O
 ]	O
@@ -47235,7 +47235,7 @@ in	O
 an	O
 in	O
 utero	O
-lamb	B-Taxon
+lamb	B-LIVB
 [	O
 47	O
 ,	O
@@ -47328,7 +47328,7 @@ abnormality	O
 Our	O
 analysis	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 mutations	B-SO
 of	O
@@ -47531,7 +47531,7 @@ of	O
 Fog2	B-PRGE
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 causes	O
 the	O
 phenotype	O
@@ -47590,7 +47590,7 @@ Fog2	B-PRGE
 knock	O
 -	O
 out	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 its	O
 role	O
@@ -47639,7 +47639,7 @@ that	O
 may	O
 result	O
 in	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 .	O
 
@@ -47677,7 +47677,7 @@ Hospital	O
 Boston	O
 .	O
 
-Animal	B-Taxon
+Animal	B-LIVB
 use	O
 was	O
 approved	O
@@ -47685,7 +47685,7 @@ by	O
 the	O
 Center	O
 for	O
-Animal	B-Taxon
+Animal	B-LIVB
 Resources	O
 and	O
 Comparative	O
@@ -47701,7 +47701,7 @@ Genetic	B-SO
 mapping	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 mutation	B-SO
 lil	O
 .	O
@@ -47727,7 +47727,7 @@ and	O
 C57BL	O
 /	O
 6J	O
-mice	B-Taxon
+mice	B-LIVB
 used	O
 for	O
 genetic	B-SO
@@ -47749,7 +47749,7 @@ States	O
 )	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 carrying	O
 a	O
 null	O
@@ -47777,7 +47777,7 @@ Orkin	O
 Developmental	O
 analysis	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Timed	O
@@ -47944,7 +47944,7 @@ with	O
 10	O
 %	O
 fetal	O
-bovine	B-Taxon
+bovine	B-LIVB
 serum	O
 ,	O
 0	O
@@ -48032,7 +48032,7 @@ camera	O
 .	O
 
 Transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 the	O
 lacZ	O
@@ -48054,7 +48054,7 @@ Tevosian	O
 
 In	O
 these	O
-animals	B-Taxon
+animals	B-LIVB
 ,	O
 the	O
 lacZ	O
@@ -48166,7 +48166,7 @@ Fog2	B-PRGE
 lacZ	O
 -	O
 eGFP	O
-animals	B-Taxon
+animals	B-LIVB
 were	O
 maintained	O
 on	O
@@ -48215,7 +48215,7 @@ sequence	B-SO
 analysis	O
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 RNA	B-SO
@@ -48415,7 +48415,7 @@ darkfield	O
 microscopy	O
 .	O
 
-Human	B-Taxon
+Human	B-LIVB
 DNA	B-SO
 extraction	I-SO
 and	I-SO
@@ -48600,7 +48600,7 @@ RT	O
 -	O
 PCR	O
 (	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 )	O
 :	O
 Amplification	O
@@ -48613,7 +48613,7 @@ Mutant	B-SO
 (	O
 lil	O
 )	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 (	O
 26	O
@@ -48632,7 +48632,7 @@ file	O
 Table	O
 S2	O
 
-Human	B-Taxon
+Human	B-LIVB
 Primers	B-SO
 for	O
 Amplification	O
@@ -48700,7 +48700,7 @@ of	O
 Child	O
 Health	O
 and	O
-Human	B-Taxon
+Human	B-LIVB
 Development	O
 (	O
 NIHCD	O
@@ -48756,7 +48756,7 @@ Fog2	B-PRGE
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -48852,7 +48852,7 @@ Development	O
 in	O
 the	O
 lil	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 
 (	O
 A	O
@@ -48958,7 +48958,7 @@ a	O
 lengthened	O
 transcript	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 the	O
 lil	O
@@ -48970,7 +48970,7 @@ band	O
 is	O
 a	O
 lil	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 and	O
 the	O
@@ -48979,7 +48979,7 @@ band	O
 is	O
 a	O
 control	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 (	O
@@ -49005,7 +49005,7 @@ sequence	I-SO
 in	O
 the	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 This	O
@@ -49235,7 +49235,7 @@ Abnormal	O
 in	O
 Fog2	B-PRGE
 Null	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 In	O
 situ	O
@@ -49488,9 +49488,9 @@ and	O
 lung	O
 development	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 PLoS	O
@@ -49514,7 +49514,7 @@ Cone	B-CL
 Genes	B-SO
 in	O
 a	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 Model	O
 of	O
 Enhanced	O
@@ -49583,13 +49583,13 @@ degeneration	O
 rd7	O
 )	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 a	O
 model	O
 for	O
 the	O
-human	B-Taxon
+human	B-LIVB
 enhanced	O
 S	O
 -	O
@@ -49608,7 +49608,7 @@ spontaneous	O
 deletion	B-SO
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 ortholog	B-SO
 of	O
 NR2E3	B-PRGE
@@ -49757,7 +49757,7 @@ retinal	O
 dysmorphology	O
 seen	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 ESCS	O
 may	O
@@ -49869,7 +49869,7 @@ light	O
 .	O
 
 In	O
-mammals	B-Taxon
+mammals	B-LIVB
 ,	O
 there	O
 are	O
@@ -49910,7 +49910,7 @@ the	O
 photoreceptors	B-CL
 of	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 with	O
 a	O
 gene	B-SO
@@ -49923,7 +49923,7 @@ develop	O
 abnormally	O
 .	O
 
-Humans	B-Taxon
+Humans	B-LIVB
 with	O
 a	O
 similar	O
@@ -49953,7 +49953,7 @@ photoreceptors	B-CL
 in	O
 this	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 were	O
 found	O
 to	O
@@ -49993,7 +49993,7 @@ reflects	O
 the	O
 situation	O
 in	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 with	O
 ESCS	O
@@ -50155,7 +50155,7 @@ rods	B-CL
 .	O
 
 Recent	O
-human	B-Taxon
+human	B-LIVB
 genetic	B-SO
 studies	O
 have	O
@@ -50263,7 +50263,7 @@ a	O
 retina	O
 from	O
 a	O
-human	B-Taxon
+human	B-LIVB
 patient	O
 with	O
 ESCS	O
@@ -50392,7 +50392,7 @@ blindness	O
 Mutations	B-SO
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 ortholog	B-SO
 of	O
 NR2E3	B-PRGE
@@ -50442,7 +50442,7 @@ the	O
 ERG	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 under	O
 both	O
 light	O
@@ -50555,7 +50555,7 @@ of	O
 the	O
 rd7	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 Microarray	O
@@ -51564,7 +51564,7 @@ of	O
 cones	B-CL
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 retina	O
 is	O
 2	O
@@ -51670,7 +51670,7 @@ cells	B-CL
 in	O
 the	O
 adult	O
-mouse	B-Taxon
+mouse	B-LIVB
 retina	O
 )	O
 do	O
@@ -52053,7 +52053,7 @@ of	O
 cones	B-CL
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 In	O
@@ -52747,7 +52747,7 @@ dorsal	O
 third	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 retina	O
 is	O
 thought	O
@@ -52941,7 +52941,7 @@ cone	B-CL
 photoreceptors	I-CL
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 are	O
 normally	O
 dispersed	O
@@ -53723,7 +53723,7 @@ cell	I-CL
 type	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 retina	O
 .	O
 
@@ -53815,7 +53815,7 @@ segments	I-GO
 since	O
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 the	O
 ultrastructural	O
@@ -53846,7 +53846,7 @@ the	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 cone	O
 cell	B-GO
@@ -55176,7 +55176,7 @@ are	O
 derepressed	O
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 rd7	O
 mutant	B-SO
 .	O
@@ -55599,7 +55599,7 @@ First	O
 they	O
 identified	O
 a	O
-zebrafish	B-Taxon
+zebrafish	B-LIVB
 homolog	B-SO
 of	O
 Nr2e3	B-PRGE
@@ -55694,7 +55694,7 @@ such	O
 a	O
 distantly	O
 related	O
-organism	B-Taxon
+organism	B-LIVB
 .	O
 
 Secondly	O
@@ -55761,7 +55761,7 @@ of	O
 gene	B-SO
 regulation	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 rods	B-CL
 depicted	O
 in	O
@@ -56521,7 +56521,7 @@ and	O
 glucose	B-CHEBI
 metabolism	O
 between	O
-primate	B-Taxon
+primate	B-LIVB
 rods	B-CL
 and	O
 cones	B-CL
@@ -56547,7 +56547,7 @@ has	O
 been	O
 implicated	O
 in	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 .	O
 
@@ -56820,7 +56820,7 @@ experimental	O
 evidence	O
 from	O
 the	O
-rat	B-Taxon
+rat	B-LIVB
 to	O
 support	O
 the	O
@@ -56945,7 +56945,7 @@ rod	B-CL
 precursors	O
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 and	O
 a	O
@@ -57084,7 +57084,7 @@ probabilistic	O
 manner	O
 .	O
 
-Human	B-Taxon
+Human	B-LIVB
 patients	O
 with	O
 ESCS	O
@@ -57145,7 +57145,7 @@ formation	O
 The	O
 rd7	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 also	O
 demonstrate	O
 the	O
@@ -57190,7 +57190,7 @@ fact	O
 that	O
 the	O
 rd7	O
-mouse	B-Taxon
+mouse	B-LIVB
 has	O
 a	O
 normal	O
@@ -57262,7 +57262,7 @@ with	O
 the	O
 evidence	O
 from	O
-human	B-Taxon
+human	B-LIVB
 ESCS	O
 patients	O
 indicating	O
@@ -57308,7 +57308,7 @@ like	O
 ERG	O
 signal	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 if	O
 it	O
 were	O
@@ -57325,7 +57325,7 @@ in	O
 the	O
 Nrl	B-PRGE
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 which	O
 has	O
@@ -57359,7 +57359,7 @@ possibility	O
 that	O
 the	O
 abnormal	O
-human	B-Taxon
+human	B-LIVB
 ERG	O
 derives	O
 from	O
@@ -57386,9 +57386,9 @@ gene	B-SO
 regulatory	O
 differences	O
 between	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
-humans	B-Taxon
+humans	B-LIVB
 such	O
 that	O
 in	O
@@ -57417,7 +57417,7 @@ seen	O
 in	O
 the	O
 rd7	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 and	O
 is	O
@@ -57511,7 +57511,7 @@ the	O
 ERG	O
 differences	O
 between	O
-mouse	B-Taxon
+mouse	B-LIVB
 rd7	O
 and	O
 human	B-PRGE
@@ -57576,7 +57576,7 @@ final	O
 common	O
 feature	O
 between	O
-mouse	B-Taxon
+mouse	B-LIVB
 rd7	O
 and	O
 human	B-PRGE
@@ -57683,15 +57683,15 @@ the	O
 ONL	O
 in	O
 both	O
-humans	B-Taxon
+humans	B-LIVB
 and	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 including	O
 rosette	O
 formation	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 very	O
 similar	O
 to	O
@@ -57758,7 +57758,7 @@ study	O
 we	O
 found	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 crumbs	B-PRGE
 ortholog	B-SO
 to	O
@@ -57844,7 +57844,7 @@ wild	B-SO
 type	I-SO
 crumbs	B-PRGE
 in	O
-Drosophila	B-Taxon
+Drosophila	B-LIVB
 has	O
 been	O
 shown	O
@@ -57926,8 +57926,8 @@ occurring	O
 photoreceptor	B-CL
 found	O
 in	O
-ground	B-Taxon
-squirrels	I-Taxon
+ground	B-LIVB
+squirrels	I-LIVB
 .	O
 
 The	O
@@ -57985,8 +57985,8 @@ like	O
 to	O
 suggest	O
 that	O
-ground	B-Taxon
-squirrels	I-Taxon
+ground	B-LIVB
+squirrels	I-LIVB
 may	O
 have	O
 experienced	O
@@ -58057,12 +58057,12 @@ and	O
 Methods	O
 
 Mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Nr2e3rd7	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 obtained	O
 from	O
@@ -58093,7 +58093,7 @@ background	O
 
 All	O
 control	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 C57BL	O
 /	O
@@ -58121,7 +58121,7 @@ and	O
 P21	O
 Nr2e3	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 using	O
 the	O
 Trizol	O
@@ -58153,7 +58153,7 @@ type	I-SO
 C57BL	O
 /	O
 6	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 used	O
 as	O
@@ -58173,7 +58173,7 @@ retinas	O
 pooled	O
 from	O
 two	O
-animals	B-Taxon
+animals	B-LIVB
 )	O
 .	O
 
@@ -58682,7 +58682,7 @@ was	O
 performed	O
 on	O
 Affymetrix	O
-mouse	B-Taxon
+mouse	B-LIVB
 genome	B-SO
 430	O
 2	O
@@ -59248,7 +59248,7 @@ blue	B-PRGE
 opsin	I-PRGE
 raised	O
 in	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 (	O
 1	O
 :	O
@@ -59268,7 +59268,7 @@ AB5407	O
 )	O
 and	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 monoclonal	O
 anti	O
 -	O
@@ -59292,14 +59292,14 @@ or	O
 Cy3	O
 -	O
 conjugated	O
-goat	B-Taxon
+goat	B-LIVB
 anti	O
 -	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 and	O
 anti	O
 -	O
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 1	O
 :	O
@@ -59398,7 +59398,7 @@ type	I-SO
 and	O
 four	O
 mutant	B-SO
-animals	B-Taxon
+animals	B-LIVB
 were	O
 deeply	O
 anesthetized	O
@@ -60336,7 +60336,7 @@ a	O
 wild	B-SO
 -	I-SO
 type	I-SO
-animal	B-Taxon
+animal	B-LIVB
 )	O
 and	O
 a	O
@@ -61782,7 +61782,7 @@ us	O
 with	O
 Nrl	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Abbreviations	O
@@ -62162,7 +62162,7 @@ an	O
 Affymetrix	O
 microarray	O
 (	O
-mouse	B-Taxon
+mouse	B-LIVB
 genome	B-SO
 432	O
 2	O
@@ -62900,7 +62900,7 @@ edge	O
 of	O
 the	O
 embryonic	O
-mouse	B-Taxon
+mouse	B-LIVB
 retina	O
 in	O
 cells	B-CL
@@ -63742,7 +63742,7 @@ cone	B-CL
 genes	B-SO
 in	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 of	O
 enhanced	O
@@ -63766,13 +63766,13 @@ Production	O
 and	O
 characterization	O
 of	O
-murine	B-Taxon
+murine	B-LIVB
 models	O
 of	O
 classic	O
 and	O
 intermediate	O
-maple	B-Taxon
+maple	B-LIVB
 syrup	O
 urine	O
 disease	O
@@ -63781,7 +63781,7 @@ Abstract	O
 
 Background	O
 
-Maple	B-Taxon
+Maple	B-LIVB
 Syrup	O
 Urine	O
 Disease	O
@@ -63850,7 +63850,7 @@ lack	O
 of	O
 a	O
 suitable	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 .	O
 
@@ -63859,7 +63859,7 @@ Methods	O
 To	O
 create	O
 a	O
-murine	B-Taxon
+murine	B-LIVB
 model	O
 of	O
 classic	O
@@ -63877,7 +63877,7 @@ technologies	O
 to	O
 create	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 line	O
 that	O
 lacked	O
@@ -63898,7 +63898,7 @@ dehydrogenase	I-GO
 To	O
 create	O
 a	O
-murine	B-Taxon
+murine	B-LIVB
 model	O
 of	O
 intermediate	O
@@ -63920,7 +63920,7 @@ knockout	O
 background	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 of	O
 both	O
 models	O
@@ -63934,7 +63934,7 @@ biochemical	O
 ,	O
 and	O
 whole	O
-animal	B-Taxon
+animal	B-LIVB
 levels	O
 .	O
 
@@ -63959,7 +63959,7 @@ created	O
 a	O
 gene	B-SO
 knockout	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 of	O
 classic	O
@@ -63969,7 +63969,7 @@ MSUD	O
 The	O
 homozygous	O
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 lacked	O
 branched	B-GO
 -	I-GO
@@ -64021,7 +64021,7 @@ of	O
 the	O
 E2	B-PRGE
 knockout	O
-animals	B-Taxon
+animals	B-LIVB
 produced	O
 a	O
 model	O
@@ -64073,17 +64073,17 @@ and	O
 the	O
 classic	O
 MSUD	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 .	O
 
 Conclusion	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 represent	O
 important	O
-animal	B-Taxon
+animal	B-LIVB
 models	O
 that	O
 closely	O
@@ -64091,7 +64091,7 @@ approximate	O
 the	O
 phenotype	O
 of	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 the	O
 classic	O
@@ -64103,7 +64103,7 @@ MSUD	O
 .	O
 
 These	O
-animals	B-Taxon
+animals	B-LIVB
 provide	O
 useful	O
 models	O
@@ -64142,7 +64142,7 @@ disease	O
 
 Background	O
 
-Maple	B-Taxon
+Maple	B-LIVB
 Syrup	O
 Urine	O
 Disease	O
@@ -64733,7 +64733,7 @@ of	O
 BCKDH	B-GO
 activity	O
 in	O
-human	B-Taxon
+human	B-LIVB
 liver	O
 [	O
 10	O
@@ -64877,7 +64877,7 @@ lack	O
 of	O
 a	O
 suitable	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 to	O
 perform	O
@@ -64921,10 +64921,10 @@ Furthermore	O
 comparison	O
 of	O
 this	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 with	O
-human	B-Taxon
+human	B-LIVB
 MSUD	O
 has	O
 shown	O
@@ -64942,14 +64942,14 @@ disease	O
 ,	O
 making	O
 this	O
-animal	B-Taxon
+animal	B-LIVB
 a	O
 less	O
 desirable	O
 model	O
 for	O
 the	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 .	O
 
@@ -64969,11 +64969,11 @@ ENU	B-CHEBI
 -	O
 induced	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 that	O
 phenotypically	O
 resembles	O
-human	B-Taxon
+human	B-LIVB
 MSUD	O
 has	O
 been	O
@@ -65030,11 +65030,11 @@ validity	O
 of	O
 this	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 line	O
 for	O
 modeling	O
-human	B-Taxon
+human	B-LIVB
 MSUD	O
 is	O
 questionable	O
@@ -65051,7 +65051,7 @@ to	O
 create	O
 genetically	B-SO
 engineered	O
-murine	B-Taxon
+murine	B-LIVB
 models	O
 of	O
 MSUD	O
@@ -65068,7 +65068,7 @@ variant	O
 forms	O
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 .	O
 
@@ -65125,7 +65125,7 @@ and	O
 characterization	O
 of	O
 these	O
-murine	B-Taxon
+murine	B-LIVB
 models	O
 of	O
 MSUD	O
@@ -65162,7 +65162,7 @@ Methods	O
 All	O
 studies	O
 involving	O
-animals	B-Taxon
+animals	B-LIVB
 were	O
 reviewed	O
 and	O
@@ -65175,7 +65175,7 @@ Pittsburgh	O
 '	O
 s	O
 Institutional	O
-Animal	B-Taxon
+Animal	B-LIVB
 Care	O
 and	O
 Use	O
@@ -65237,7 +65237,7 @@ MO	O
 3	O
 -	O
 Hit	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 ES	O
 Library	O
 '	O
@@ -65418,7 +65418,7 @@ blastocysts	O
 to	O
 produce	O
 chimeric	O
-mice	B-Taxon
+mice	B-LIVB
 using	O
 standard	O
 procedures	O
@@ -65456,7 +65456,7 @@ knockout	O
 /	O
 -	O
 )	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 At	O
@@ -65477,7 +65477,7 @@ presented	O
 here	O
 are	O
 from	O
-mice	B-Taxon
+mice	B-LIVB
 derived	O
 from	O
 the	O
@@ -65487,7 +65487,7 @@ generations	O
 .	O
 
 All	O
-animals	B-Taxon
+animals	B-LIVB
 were	O
 of	O
 a	O
@@ -65510,7 +65510,7 @@ Figure	O
 E2	B-PRGE
 gene	B-SO
 knockout	O
-mouse	B-Taxon
+mouse	B-LIVB
 production	O
 .	O
 
@@ -65526,7 +65526,7 @@ the	O
 E2	B-PRGE
 locus	B-SO
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 ES	O
 cells	B-CL
 .	O
@@ -65684,7 +65684,7 @@ knockout	O
 /	O
 -	O
 )	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -65726,7 +65726,7 @@ knockout	O
 postnatal	O
 day	O
 1	O
-mouse	B-Taxon
+mouse	B-LIVB
 pups	O
 .	O
 
@@ -65765,7 +65765,7 @@ section	O
 from	O
 the	O
 knockout	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 D	O
@@ -65779,7 +65779,7 @@ immunohistochemical	O
 analysis	O
 of	O
 primary	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryonic	O
 fibroblasts	B-CL
 (	O
@@ -65818,7 +65818,7 @@ BCKDH	B-GO
 Production	O
 of	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 
 Standard	O
 molecular	B-CHEBI
@@ -65842,7 +65842,7 @@ contains	O
 the	O
 tetracycline	B-CHEBI
 responsive	O
-hCMV	B-Taxon
+hCMV	B-LIVB
 *	O
 -	O
 1	O
@@ -65860,7 +65860,7 @@ TRE	O
 and	O
 a	O
 minimal	O
-hCMV	B-Taxon
+hCMV	B-LIVB
 promoter	B-SO
 ]	O
 [	O
@@ -65948,7 +65948,7 @@ detection	O
 ,	O
 and	O
 an	O
-SV40	B-Taxon
+SV40	B-LIVB
 late	O
 polyadenylation	B-SO
 sequence	I-SO
@@ -65995,7 +65995,7 @@ C57BL	O
 x	O
 Strain	O
 129SvEv	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryos	O
 at	O
 the	O
@@ -66022,7 +66022,7 @@ from	O
 the	O
 tail	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 was	O
 screened	O
 by	O
@@ -66044,7 +66044,7 @@ probe	B-SO
 derived	O
 from	O
 the	O
-SV40	B-Taxon
+SV40	B-LIVB
 portion	B-SO
 of	O
 the	O
@@ -66058,7 +66058,7 @@ Production	O
 of	O
 intermediate	O
 MSUD	O
-murine	B-Taxon
+murine	B-LIVB
 model	O
 
 The	O
@@ -66073,7 +66073,7 @@ were	O
 mated	O
 independently	O
 to	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 were	O
 heterozygous	O
@@ -66122,7 +66122,7 @@ background	O
 
 Interbreeding	O
 of	O
-animals	B-Taxon
+animals	B-LIVB
 that	O
 were	O
 heterozygous	O
@@ -66137,7 +66137,7 @@ in	O
 the	O
 production	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 a	O
 variety	O
@@ -66145,7 +66145,7 @@ of	O
 genotypes	B-SO
 including	O
 some	O
-animals	B-Taxon
+animals	B-LIVB
 that	O
 were	O
 homozygous	O
@@ -66192,7 +66192,7 @@ then	O
 those	O
 homozygous	O
 knockout	O
-animals	B-Taxon
+animals	B-LIVB
 that	O
 had	O
 both	O
@@ -66208,7 +66208,7 @@ period	O
 Genotyping	O
 
 All	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 genotyped	O
 by	O
@@ -66252,7 +66252,7 @@ procedures	O
 Immunohistochemistry	O
 
 Primary	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryonic	O
 fibroblasts	B-CL
 were	O
@@ -66344,7 +66344,7 @@ min	O
 incubation	O
 with	O
 purified	O
-goat	B-Taxon
+goat	B-LIVB
 IgG	O
 (	O
 50	O
@@ -66510,7 +66510,7 @@ or	O
 tail	O
 vein	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 spotted	O
 on	O
@@ -66843,7 +66843,7 @@ and	O
 Line	O
 A	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Protein	B-CHEBI
@@ -66903,7 +66903,7 @@ E2	B-PRGE
 protein	B-CHEBI
 using	O
 polyclonal	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 E2	B-PRGE
 antisera	O
 (	O
@@ -66957,7 +66957,7 @@ re	O
 probed	O
 with	O
 a	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 anti	O
 -	O
 c	B-PRGE
@@ -67027,15 +67027,15 @@ comparisons	O
 .	O
 
 A	O
-goat	B-Taxon
+goat	B-LIVB
 anti	O
 -	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 secondary	O
 antibody	B-GO
 conjugated	O
 to	O
-horseradish	B-Taxon
+horseradish	B-LIVB
 peroxidase	O
 (	O
 1	O
@@ -67141,20 +67141,20 @@ of	O
 E2	B-PRGE
 gene	B-SO
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 
 To	O
 create	O
 E2	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 we	O
 used	O
 gene	B-SO
 targeting	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 ES	O
 cells	B-CL
 to	O
@@ -67350,7 +67350,7 @@ blastocysts	O
 to	O
 produce	O
 chimeric	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Chimerics	O
@@ -67360,7 +67360,7 @@ to	O
 C57BL	O
 /	O
 6J	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Following	O
@@ -67372,7 +67372,7 @@ targeted	O
 allele	B-SO
 ,	O
 heterozygous	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 interbred	O
 to	O
@@ -67398,10 +67398,10 @@ homozygous	O
 /	O
 -	O
 )	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 were	O
 genotyped	O
 by	O
@@ -67429,7 +67429,7 @@ in	O
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 a	O
 ~	O
@@ -67441,7 +67441,7 @@ in	O
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 and	O
 to	O
@@ -67453,7 +67453,7 @@ in	O
 +	B-SO
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Fig	O
 .	O
@@ -67461,7 +67461,7 @@ Fig	O
 )	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 homozygous	O
 for	O
 the	O
@@ -67503,7 +67503,7 @@ and	O
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 present	O
 at	O
@@ -67522,7 +67522,7 @@ Of	O
 the	O
 initial	O
 60	O
-animals	B-Taxon
+animals	B-LIVB
 genotyped	O
 ,	O
 19	O
@@ -67578,7 +67578,7 @@ expected	O
 nearly	O
 all	O
 homozygous	O
-mice	B-Taxon
+mice	B-LIVB
 died	O
 in	O
 the	O
@@ -67699,7 +67699,7 @@ unknown	O
 
 E2	B-PRGE
 deficient	O
-mice	B-Taxon
+mice	B-LIVB
 accurately	O
 model	O
 classic	O
@@ -67730,7 +67730,7 @@ of	O
 postnatal	O
 day	O
 1	O
-mouse	B-Taxon
+mouse	B-LIVB
 pups	O
 derived	O
 from	O
@@ -67758,7 +67758,7 @@ in	O
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 was	O
 readily	O
 detectable	O
@@ -67777,7 +67777,7 @@ in	O
 -	O
 /	O
 -	O
-mouse	B-Taxon
+mouse	B-LIVB
 livers	O
 .	O
 
@@ -67789,7 +67789,7 @@ from	O
 +	B-SO
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 had	O
 approximately	O
 half	O
@@ -67813,14 +67813,14 @@ from	O
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 similar	O
 to	O
 that	O
 observed	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 classic	O
 MSUD	O
@@ -67838,7 +67838,7 @@ of	O
 the	O
 classic	O
 MSUD	O
-murine	B-Taxon
+murine	B-LIVB
 model	O
 .	O
 
@@ -67875,7 +67875,7 @@ homozygous	O
 -	O
 )	O
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Enzyme	B-SO
@@ -67916,7 +67916,7 @@ concentrations	O
 in	O
 blood	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Total	O
@@ -67942,7 +67942,7 @@ from	O
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 significantly	O
 elevated	O
@@ -67968,7 +67968,7 @@ alanine	B-CHEBI
 in	O
 blood	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 This	O
@@ -67980,7 +67980,7 @@ in	O
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 compared	O
 to	O
 +	B-SO
@@ -67990,7 +67990,7 @@ and	O
 +	B-SO
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -68002,7 +68002,7 @@ indicates	O
 the	O
 number	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 analyzed	O
 .	O
 
@@ -68058,7 +68058,7 @@ E2	B-PRGE
 protein	B-CHEBI
 in	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 As	O
@@ -68083,7 +68083,7 @@ of	O
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -68103,13 +68103,13 @@ of	O
 -	O
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Homozygous	O
 E2	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 had	O
 a	O
 nearly	O
@@ -68185,7 +68185,7 @@ in	O
 /	O
 -	O
 MSUD	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -68217,7 +68217,7 @@ of	O
 BCAA	B-CHEBI
 in	O
 MSUD	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 and	O
 to	O
@@ -68260,7 +68260,7 @@ amino	B-CHEBI
 acids	I-CHEBI
 in	O
 homozygous	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 markedly	O
 lower	O
@@ -68275,7 +68275,7 @@ or	O
 +	B-SO
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -68289,7 +68289,7 @@ the	O
 +	B-SO
 /	O
 -	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 comparable	O
 to	O
@@ -68298,7 +68298,7 @@ in	O
 +	B-SO
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Table	O
 1	O
@@ -68507,7 +68507,7 @@ summary	O
 ,	O
 E2	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 lack	O
 BCKDH	B-GO
 enzymatic	B-SO
@@ -68549,7 +68549,7 @@ to	O
 that	O
 observed	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 the	O
 classic	O
@@ -68562,7 +68562,7 @@ Thus	O
 ,	O
 E2	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 closely	O
 model	O
 classic	O
@@ -68570,7 +68570,7 @@ MSUD	O
 .	O
 
 Knockout	O
-mice	B-Taxon
+mice	B-LIVB
 expressing	O
 a	O
 human	B-PRGE
@@ -68590,7 +68590,7 @@ MSUD	O
 To	O
 create	O
 a	O
-murine	B-Taxon
+murine	B-LIVB
 model	O
 of	O
 the	O
@@ -68621,7 +68621,7 @@ in	O
 the	O
 classic	O
 MSUD	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 .	O
 
@@ -68746,7 +68746,7 @@ Figure	O
 3	O
 
 Transgenic	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 production	O
 and	O
 characterization	O
@@ -68759,7 +68759,7 @@ strategy	O
 used	O
 to	O
 produce	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 express	O
 human	B-PRGE
@@ -68770,7 +68770,7 @@ LAP	B-PRGE
 -	O
 tTA	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 have	O
 been	O
 previously	O
@@ -68781,7 +68781,7 @@ described	O
 .	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 express	O
 the	O
 tetracycline	B-CHEBI
@@ -68843,7 +68843,7 @@ epitope	B-SO
 tag	O
 ,	O
 and	O
-SV40	B-Taxon
+SV40	B-LIVB
 derived	O
 polyadenylation	B-SO
 sequence	I-SO
@@ -68859,7 +68859,7 @@ several	O
 lines	O
 of	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 B	O
@@ -68877,7 +68877,7 @@ control	O
 and	O
 intermediate	O
 MSUD	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Note	O
@@ -68896,7 +68896,7 @@ MW	O
 Kd	O
 )	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 Lines	O
 A	O
@@ -68910,7 +68910,7 @@ in	O
 many	O
 of	O
 the	O
-animals	B-Taxon
+animals	B-LIVB
 the	O
 amount	O
 was	O
@@ -68930,7 +68930,7 @@ Kd	O
 )	O
 in	O
 control	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 Re	O
@@ -68960,7 +68960,7 @@ human	B-PRGE
 E2	I-PRGE
 in	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 but	O
 not	O
 in	O
@@ -69025,7 +69025,7 @@ compared	O
 LAP	B-PRGE
 -	O
 tTA	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 previously	O
 produced	O
@@ -69047,7 +69047,7 @@ used	O
 to	O
 produce	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 harbored	O
 the	O
@@ -69119,7 +69119,7 @@ that	O
 many	O
 of	O
 the	O
-animals	B-Taxon
+animals	B-LIVB
 had	O
 multiple	O
 transgene	B-SO
@@ -69188,7 +69188,7 @@ Transgenic	B-SO
 TRE	O
 -	O
 E2	B-PRGE
-mice	B-Taxon
+mice	B-LIVB
 from	O
 each	O
 line	O
@@ -69202,7 +69202,7 @@ offspring	O
 were	O
 crossed	O
 to	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 were	O
 positive	O
@@ -69230,7 +69230,7 @@ used	O
 in	O
 which	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 heterozygous	O
 for	O
@@ -69288,7 +69288,7 @@ a	O
 theoretical	O
 maximum	O
 of	O
-animals	B-Taxon
+animals	B-LIVB
 with	O
 the	O
 rescue	B-SO
@@ -69321,7 +69321,7 @@ shows	O
 the	O
 percentage	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 alive	O
 at	O
 weaning	O
@@ -69352,7 +69352,7 @@ highest	O
 percentage	O
 of	O
 rescue	O
-mice	B-Taxon
+mice	B-LIVB
 at	O
 weaning	O
 was	O
@@ -69422,7 +69422,7 @@ tested	O
 produced	O
 surviving	O
 rescue	O
-animals	B-Taxon
+animals	B-LIVB
 at	O
 a	O
 frequency	O
@@ -69444,7 +69444,7 @@ of	O
 the	O
 intermediate	O
 MSUD	O
-murine	B-Taxon
+murine	B-LIVB
 model	O
 .	O
 
@@ -69462,7 +69462,7 @@ Presented	O
 are	O
 percentages	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 alive	O
 at	O
 weaning	O
@@ -69521,7 +69521,7 @@ in	O
 this	O
 population	O
 of	O
-animals	B-Taxon
+animals	B-LIVB
 .	O
 
 The	O
@@ -69550,7 +69550,7 @@ alanine	B-CHEBI
 in	O
 blood	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 controls	O
 and	O
@@ -69640,7 +69640,7 @@ Lines	O
 A	O
 and	O
 525A	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 *	O
@@ -69666,7 +69666,7 @@ D	O
 Survival	O
 curves	O
 for	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 Lines	O
 A	O
@@ -69675,7 +69675,7 @@ and	O
 .	O
 
 Rescue	B-SO
-mice	B-Taxon
+mice	B-LIVB
 alive	O
 at	O
 weaning	O
@@ -69737,7 +69737,7 @@ BCAA	B-CHEBI
 alanine	B-CHEBI
 values	O
 for	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 both	O
 lines	O
@@ -69766,7 +69766,7 @@ values	O
 for	O
 the	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 are	O
 intermediate	O
 between	O
@@ -69794,7 +69794,7 @@ reduced	O
 in	O
 Line	O
 A	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 as	O
 was	O
@@ -69802,7 +69802,7 @@ glutamate	B-CHEBI
 in	O
 Line	O
 525A	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 compared	O
 to	O
@@ -69843,7 +69843,7 @@ Samples	O
 were	O
 collected	O
 from	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 were	O
 4	O
@@ -69918,7 +69918,7 @@ the	O
 LAP	B-PRGE
 -	O
 tTA	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 were	O
 used	O
@@ -70018,12 +70018,12 @@ Kd	O
 in	O
 these	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 was	O
 quite	O
 variable	O
 between	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -70031,7 +70031,7 @@ some	O
 of	O
 these	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 level	O
@@ -70058,7 +70058,7 @@ liver	O
 of	O
 nontransgenic	O
 control	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -70166,9 +70166,9 @@ terminus	I-SO
 of	O
 an	O
 analogous	O
-E	B-Taxon
-.	I-Taxon
-coli	I-Taxon
+E	B-LIVB
+.	I-LIVB
+coli	I-LIVB
 subunit	O
 interfered	O
 with	O
@@ -70266,7 +70266,7 @@ term	O
 survival	O
 of	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 these	O
 two	O
@@ -70290,7 +70290,7 @@ survival	O
 data	O
 for	O
 control	O
-animals	B-Taxon
+animals	B-LIVB
 was	O
 not	O
 collected	O
@@ -70304,7 +70304,7 @@ survival	O
 of	O
 the	O
 rescue	O
-mice	B-Taxon
+mice	B-LIVB
 was	O
 compromised	O
 .	O
@@ -70314,7 +70314,7 @@ By	O
 weeks	O
 ,	O
 all	O
-mice	B-Taxon
+mice	B-LIVB
 of	O
 Line	O
 A	O
@@ -70354,7 +70354,7 @@ age	O
 12	O
 %	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 2	O
 of	O
@@ -70384,7 +70384,7 @@ summary	O
 ,	O
 these	O
 surviving	O
-mice	B-Taxon
+mice	B-LIVB
 had	O
 BCAA	B-CHEBI
 /	O
@@ -70445,7 +70445,7 @@ Thus	O
 ,	O
 these	O
 rescue	O
-mice	B-Taxon
+mice	B-LIVB
 represent	O
 a	O
 very	O
@@ -70478,7 +70478,7 @@ a	O
 practical	O
 ,	O
 accurate	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 of	O
 the	O
@@ -70507,7 +70507,7 @@ of	O
 two	O
 genetically	B-SO
 engineered	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 that	O
 are	O
@@ -70551,19 +70551,19 @@ phenotype	O
 of	O
 these	O
 knockout	O
-animals	B-Taxon
+animals	B-LIVB
 is	O
 strikingly	O
 similar	O
 to	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 classic	O
 MSUD	O
 .	O
 
 Knockout	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 born	O
 at	O
@@ -70636,7 +70636,7 @@ livers	O
 of	O
 homozygous	O
 knockout	O
-mouse	B-Taxon
+mouse	B-LIVB
 pups	O
 was	O
 undetectable	O
@@ -70669,7 +70669,7 @@ phenotypic	O
 behavior	O
 of	O
 homozygous	O
-mouse	B-Taxon
+mouse	B-LIVB
 pups	O
 resembles	O
 symptoms	O
@@ -70837,7 +70837,7 @@ far	O
 the	O
 null	O
 mutation	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 accurately	O
 represents	O
 a	O
@@ -70854,7 +70854,7 @@ faithful	O
 model	O
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 with	O
 respect	O
@@ -70890,7 +70890,7 @@ liver	O
 of	O
 E2	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 As	O
@@ -70926,7 +70926,7 @@ liver	O
 of	O
 these	O
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 is	O
 able	O
 to	O
@@ -70940,7 +70940,7 @@ Many	O
 of	O
 the	O
 rescue	O
-mice	B-Taxon
+mice	B-LIVB
 survived	O
 to	O
 adulthood	O
@@ -70954,7 +70954,7 @@ note	O
 that	O
 in	O
 these	O
-mouse	B-Taxon
+mouse	B-LIVB
 lines	O
 only	O
 ~	O
@@ -70987,7 +70987,7 @@ blood	O
 of	O
 these	O
 rescue	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 intermediate	O
 between	O
@@ -71001,7 +71001,7 @@ hallmarks	O
 of	O
 intermediate	O
 MSUD	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 are	O
 persistently	O
@@ -71035,21 +71035,21 @@ similarities	O
 of	O
 the	O
 rescue	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 the	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 ,	O
 these	O
 genetically	B-SO
 engineered	O
-mice	B-Taxon
+mice	B-LIVB
 represent	O
 a	O
 useful	O
 small	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 of	O
 the	O
@@ -71106,7 +71106,7 @@ approach	O
 was	O
 to	O
 create	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 an	O
 intermediate	O
@@ -71240,9 +71240,9 @@ models	O
 
 An	O
 ENU	B-CHEBI
-mouse	B-Taxon
+mouse	B-LIVB
 resembling	O
-human	B-Taxon
+human	B-LIVB
 MSUD	O
 was	O
 previously	O
@@ -71268,7 +71268,7 @@ and	O
 muscle	O
 of	O
 this	O
-mouse	B-Taxon
+mouse	B-LIVB
 was	O
 normal	O
 even	O
@@ -71334,11 +71334,11 @@ In	O
 addition	O
 to	O
 this	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 ,	O
 a	O
-cow	B-Taxon
+cow	B-LIVB
 model	O
 of	O
 MSUD	O
@@ -71365,7 +71365,7 @@ by	O
 such	O
 a	O
 large	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 and	O
 due	O
@@ -71377,11 +71377,11 @@ differences	O
 between	O
 the	O
 MSUD	O
-cow	B-Taxon
+cow	B-LIVB
 model	O
 and	O
 MSUD	O
-humans	B-Taxon
+humans	B-LIVB
 [	O
 1	O
 ]	O
@@ -71399,7 +71399,7 @@ In	O
 contrast	O
 ,	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 models	O
 described	O
 in	O
@@ -71412,7 +71412,7 @@ and	O
 appropriate	O
 for	O
 modeling	O
-human	B-Taxon
+human	B-LIVB
 MSUD	O
 .	O
 
@@ -71424,7 +71424,7 @@ presented	O
 by	O
 the	O
 MSUD	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 is	O
 to	O
@@ -71476,7 +71476,7 @@ with	O
 gene	B-SO
 therapy	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 highlight	O
 the	O
 importance	O
@@ -71484,7 +71484,7 @@ and	O
 critical	O
 need	O
 of	O
-animal	B-Taxon
+animal	B-LIVB
 models	O
 of	O
 genetic	B-SO
@@ -71504,7 +71504,7 @@ based	O
 therapies	O
 on	O
 appropriate	O
-animal	B-Taxon
+animal	B-LIVB
 model	O
 systems	O
 provides	O
@@ -71531,7 +71531,7 @@ safety	O
 
 Success	O
 with	O
-animal	B-Taxon
+animal	B-LIVB
 studies	O
 is	O
 expected	O
@@ -71548,7 +71548,7 @@ way	O
 for	O
 studies	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 In	O
@@ -71586,7 +71586,7 @@ impossible	O
 to	O
 do	O
 in	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 for	O
 obvious	O
@@ -71706,7 +71706,7 @@ findings	O
 our	O
 intermediate	O
 MSUD	O
-mouse	B-Taxon
+mouse	B-LIVB
 provides	O
 a	O
 model	O
@@ -71732,7 +71732,7 @@ level	O
 of	O
 the	O
 whole	O
-animal	B-Taxon
+animal	B-LIVB
 .	O
 
 Because	O
@@ -71819,7 +71819,7 @@ characterization	O
 of	O
 genetically	B-SO
 engineered	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 of	O
 classic	O
@@ -71831,7 +71831,7 @@ MSUD	O
 .	O
 
 These	O
-animals	B-Taxon
+animals	B-LIVB
 provide	O
 useful	O
 models	O
@@ -71877,7 +71877,7 @@ are	O
 :	O
 MSUD	O
 ,	O
-Maple	B-Taxon
+Maple	B-LIVB
 Syrup	O
 Urine	O
 Disease	O
@@ -71927,7 +71927,7 @@ element	B-SO
 ;	O
 MEF	O
 ,	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryonic	O
 fibroblast	B-CL
 .	O
@@ -71958,7 +71958,7 @@ designed	O
 and	O
 produced	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 ,	O
 coordinated	O
@@ -71993,7 +71993,7 @@ with	O
 production	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 models	O
 ,	O
 data	O
@@ -72198,7 +72198,7 @@ first	O
 example	O
 of	O
 a	O
-human	B-Taxon
+human	B-LIVB
 genetic	B-SO
 disease	O
 associated	O
@@ -72245,7 +72245,7 @@ inactivated	O
 the	O
 homolog	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 Atrx	B-PRGE
 ,	O
@@ -72317,7 +72317,7 @@ embryo	O
 
 Carrier	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 inherit	O
 a	O
@@ -72388,7 +72388,7 @@ the	O
 development	O
 of	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 trophoblast	O
 and	O
 present	O
@@ -72472,7 +72472,7 @@ first	O
 example	O
 of	O
 a	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 (	O
 ATR	O
@@ -72534,7 +72534,7 @@ of	O
 the	O
 gene	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 Atrx	B-PRGE
 .	O
@@ -72542,7 +72542,7 @@ Atrx	B-PRGE
 Although	O
 affected	O
 male	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 XMUTY	O
 )	O
@@ -72571,7 +72571,7 @@ the	O
 placenta	O
 ,	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 normally	O
 inactivate	O
 the	O
@@ -72947,7 +72947,7 @@ used	O
 .	O
 
 The	O
-mouse	B-Taxon
+mouse	B-LIVB
 homolog	B-SO
 of	O
 the	O
@@ -73234,7 +73234,7 @@ the	O
 ATRX	B-PRGE
 protein	B-CHEBI
 during	O
-mammalian	B-Taxon
+mammalian	B-LIVB
 development	O
 .	O
 
@@ -73246,7 +73246,7 @@ of	O
 this	O
 protein	B-CHEBI
 during	O
-mouse	B-Taxon
+mouse	B-LIVB
 development	O
 ,	O
 we	O
@@ -73260,7 +73260,7 @@ the	O
 Atrx	B-PRGE
 gene	B-SO
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryonic	O
 stem	B-CL
 (	I-CL
@@ -73291,7 +73291,7 @@ ES	O
 cells	B-CL
 and	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryos	O
 .	O
 
@@ -73309,7 +73309,7 @@ Atrx	B-PRGE
 
 Like	O
 the	O
-human	B-Taxon
+human	B-LIVB
 gene	B-SO
 ,	O
 the	O
@@ -74370,7 +74370,7 @@ repetitive	B-SO
 sequences	I-SO
 within	O
 the	O
-human	B-Taxon
+human	B-LIVB
 genome	B-SO
 [	O
 11	O
@@ -74404,7 +74404,7 @@ patients	O
 relative	O
 to	O
 normal	O
-individuals	B-Taxon
+individuals	B-LIVB
 .	O
 
 Using	O
@@ -74425,7 +74425,7 @@ sites	B-SO
 tested	O
 within	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 rDNA	O
 repeats	B-SO
 in	O
@@ -74489,7 +74489,7 @@ that	O
 hypomethylation	O
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 rDNA	O
 repeats	B-SO
 is	O
@@ -74507,7 +74507,7 @@ patients	O
 .	O
 
 Other	O
-mouse	B-Taxon
+mouse	B-LIVB
 repetitive	B-SO
 sequence	I-SO
 elements	I-SO
@@ -74540,7 +74540,7 @@ as	O
 well	O
 as	O
 interspersed	O
-retroviral	B-Taxon
+retroviral	B-LIVB
 repeats	B-SO
 of	O
 the	O
@@ -74640,13 +74640,13 @@ DNA	B-SO
 methylation	O
 observed	O
 in	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 is	O
 also	O
 present	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 cells	B-CL
 .	O
 
@@ -74656,7 +74656,7 @@ Lethality	O
 in	O
 Atrxnull	O
 Male	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 To	O
 investigate	O
@@ -74667,7 +74667,7 @@ the	O
 Atrx	B-PRGE
 protein	B-CHEBI
 during	O
-mouse	B-Taxon
+mouse	B-LIVB
 development	O
 ,	O
 we	O
@@ -74675,7 +74675,7 @@ initially	O
 established	O
 lines	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 bearing	O
 the	O
 Atrxflox	O
@@ -74703,7 +74703,7 @@ blastocysts	O
 to	O
 produce	O
 chimaeric	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 which	O
 were	O
@@ -74789,7 +74789,7 @@ normal	O
 To	O
 generate	O
 Atrxnull	O
-mice	B-Taxon
+mice	B-LIVB
 by	O
 Cre	O
 -	O
@@ -74798,11 +74798,11 @@ recombination	O
 ,	O
 the	O
 Atrxflox	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 with	O
-mice	B-Taxon
+mice	B-LIVB
 harboring	O
 a	O
 transgene	B-SO
@@ -74945,7 +74945,7 @@ Figure	O
 To	O
 generate	O
 Atrxnull	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 heterozygous	O
 floxed	B-SO
@@ -75016,7 +75016,7 @@ was	O
 unexpected	O
 ,	O
 since	O
-human	B-Taxon
+human	B-LIVB
 ATR	O
 -	O
 X	B-GO
@@ -75160,7 +75160,7 @@ to	O
 embryonic	O
 lethality	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 before	O
 9	O
 .	O
@@ -76580,10 +76580,10 @@ Tissues	O
 of	O
 Carrier	O
 Female	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 Female	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 an	O
 Atrxnull	O
@@ -76669,7 +76669,7 @@ Surviving	O
 adult	O
 carrier	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 not	O
 phenotypically	O
@@ -76717,7 +76717,7 @@ derived	O
 
 In	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 X	B-GO
 chromosome	I-GO
@@ -77275,7 +77275,7 @@ the	O
 Atrx	B-PRGE
 protein	B-CHEBI
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 development	O
 .	O
 
@@ -77306,7 +77306,7 @@ and	O
 then	O
 in	O
 developing	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryos	O
 .	O
 
@@ -77421,7 +77421,7 @@ Atrxnull	O
 .	O
 5	O
 dpc	O
-mouse	B-Taxon
+mouse	B-LIVB
 embryos	O
 .	O
 
@@ -77462,7 +77462,7 @@ ablated	O
 in	O
 the	O
 developing	O
-mouse	B-Taxon
+mouse	B-LIVB
 forebrain	O
 using	O
 the	O
@@ -77603,7 +77603,7 @@ in	O
 Development	O
 of	O
 the	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 Trophoblast	O
 
 We	O
@@ -77611,7 +77611,7 @@ show	O
 that	O
 Atrxnull	O
 male	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 not	O
 viable	O
@@ -77807,7 +77807,7 @@ development	O
 Embryonic	O
 lethality	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 in	O
 the	O
 absence	O
@@ -77829,7 +77829,7 @@ foetal	O
 loss	O
 in	O
 the	O
-human	B-Taxon
+human	B-LIVB
 ATR	B-PRGE
 -	I-PRGE
 X	I-PRGE
@@ -77850,7 +77850,7 @@ trophoblast	O
 is	O
 specific	O
 to	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 that	O
 ATRX	B-PRGE
@@ -77862,7 +77862,7 @@ is	O
 redundant	O
 in	O
 the	O
-human	B-Taxon
+human	B-LIVB
 trophoblast	O
 .	O
 
@@ -77894,7 +77894,7 @@ phenotype	O
 we	O
 observed	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 is	O
 that	O
 the	O
@@ -77931,7 +77931,7 @@ causing	O
 mutations	B-SO
 characterised	O
 in	O
-human	B-Taxon
+human	B-LIVB
 ATR	O
 -	O
 X	B-GO
@@ -77978,16 +77978,16 @@ can	O
 be	O
 detected	O
 in	O
-Epstein	B-Taxon
--	I-Taxon
-Barr	I-Taxon
-virus	I-Taxon
+Epstein	B-LIVB
+-	I-LIVB
+Barr	I-LIVB
+virus	I-LIVB
 -	O
 transformed	O
 lymphocytes	B-CL
 of	O
 all	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 analysed	O
 to	O
@@ -78016,7 +78016,7 @@ null	O
 ATRX	B-PRGE
 allele	B-SO
 among	O
-human	B-Taxon
+human	B-LIVB
 patients	O
 strongly	O
 suggests	O
@@ -78025,7 +78025,7 @@ that	O
 as	O
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 the	O
 complete	O
@@ -78036,7 +78036,7 @@ protein	B-CHEBI
 is	O
 incompatible	O
 with	O
-human	B-Taxon
+human	B-LIVB
 fetal	O
 survival	O
 .	O
@@ -78053,7 +78053,7 @@ for	O
 Atrx	B-PRGE
 in	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 trophectoderm	O
 ,	O
 as	O
@@ -78161,7 +78161,7 @@ of	O
 Atrx	B-PRGE
 during	O
 later	O
-mouse	B-Taxon
+mouse	B-LIVB
 development	O
 ,	O
 but	O
@@ -78210,7 +78210,7 @@ neuronal	B-CL
 differentiation	O
 in	O
 adult	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 20	O
 ]	O
@@ -78227,7 +78227,7 @@ at	O
 later	O
 stages	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 development	O
 is	O
 provided	O
@@ -78248,7 +78248,7 @@ tissues	O
 of	O
 carrier	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 whose	O
 tissues	O
@@ -78289,7 +78289,7 @@ an	O
 expanding	O
 list	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 genes	B-SO
 for	O
 which	O
@@ -78455,7 +78455,7 @@ resembles	O
 that	O
 observed	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 nullizygous	O
 for	O
 the	O
@@ -78675,7 +78675,7 @@ brain	O
 specific	O
 Atrx	B-PRGE
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 defect	O
@@ -78712,7 +78712,7 @@ tissues	O
 in	O
 the	O
 developing	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 and	O
 this	O
@@ -78788,7 +78788,7 @@ Tissues	O
 of	O
 Carrier	O
 Female	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 Another	O
 surprising	O
@@ -78832,7 +78832,7 @@ extraembryonic	O
 compartment	O
 of	O
 female	O
-murine	B-Taxon
+murine	B-LIVB
 tissues	O
 [	O
 18	O
@@ -78944,7 +78944,7 @@ in	O
 utero	O
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 The	O
@@ -78964,7 +78964,7 @@ of	O
 mutations	B-SO
 of	O
 other	O
-murine	B-Taxon
+murine	B-LIVB
 X	B-GO
 -	O
 linked	O
@@ -79029,7 +79029,7 @@ tissues	O
 .	O
 
 Female	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 mutations	B-SO
 of	O
@@ -79189,7 +79189,7 @@ silenced	O
 in	O
 a	O
 normal	O
-mouse	B-Taxon
+mouse	B-LIVB
 trophoblast	B-CL
 stem	I-CL
 cell	I-CL
@@ -79271,7 +79271,7 @@ all	O
 precursors	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 extraembryonic	O
 tissues	O
 :	O
@@ -79685,7 +79685,7 @@ syndrome	O
 is	O
 the	O
 first	O
-human	B-Taxon
+human	B-LIVB
 genetic	B-SO
 disease	O
 known	O
@@ -79764,7 +79764,7 @@ Atrx	B-PRGE
 in	O
 the	O
 developing	O
-mouse	B-Taxon
+mouse	B-LIVB
 forebrain	O
 ,	O
 based	O
@@ -79804,7 +79804,7 @@ we	O
 have	O
 shown	O
 that	O
-animal	B-Taxon
+animal	B-LIVB
 -	O
 wide	O
 disruption	O
@@ -79831,7 +79831,7 @@ the	O
 formation	O
 of	O
 the	O
-murine	B-Taxon
+murine	B-LIVB
 trophoblast	O
 .	O
 
@@ -79855,7 +79855,7 @@ of	O
 some	O
 carrier	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Materials	O
@@ -80318,7 +80318,7 @@ previously	O
 ,	O
 using	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 monoclonal	O
 anti	O
 -	O
@@ -80403,7 +80403,7 @@ which	O
 were	O
 amplified	O
 from	O
-human	B-Taxon
+human	B-LIVB
 DNA	B-SO
 ,	O
 but	O
@@ -80412,7 +80412,7 @@ cross	O
 react	O
 with	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 rDNA	O
 repeat	B-SO
 )	O
@@ -80544,11 +80544,11 @@ of	O
 chimeras	O
 ,	O
 floxed	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 and	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Targeted	O
@@ -80627,7 +80627,7 @@ Cre	O
 recombination	O
 ,	O
 Atrxflox	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 with	O
@@ -80635,7 +80635,7 @@ GATA1	B-PRGE
 -	O
 Cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 as	O
 described	O
 in	O
@@ -80767,7 +80767,7 @@ Sections	O
 were	O
 stained	O
 with	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 polyclonal	O
 antibodies	B-GO
 against	O
@@ -80976,7 +80976,7 @@ cultures	O
 Superovulated	O
 heterozygous	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 AtrxWT	O
 /	O
@@ -81454,7 +81454,7 @@ Normal	O
 DNA	B-SO
 Methylation	O
 at	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 Repetitive	B-SO
 Elements	I-SO
 in	O
@@ -81536,7 +81536,7 @@ probes	B-SO
 specific	O
 for	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 Line	O
 1	O
 (	O
@@ -82002,7 +82002,7 @@ Online	O
 Mendelian	O
 Inheritance	O
 in	O
-Man	B-Taxon
+Man	B-LIVB
 (	O
 http	O
 :	O
@@ -82152,7 +82152,7 @@ GATA1	B-PRGE
 -	O
 Cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 Gillian	O
 Morriss	O
@@ -83123,7 +83123,7 @@ transcribed	O
 portion	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 rDNA	O
 repeat	B-SO
 with	O
@@ -83587,7 +83587,7 @@ is	O
 amplified	O
 from	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 Y	B-GO
 chromosome	I-GO
 -	O
@@ -84718,7 +84718,7 @@ tumorigenesis	O
 
 Heterozygous	O
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 for	O
 Apc	B-PRGE
 have	O
@@ -84750,7 +84750,7 @@ allele	B-SO
 .	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 mated	O
 with	O
@@ -84786,7 +84786,7 @@ stratified	I-CL
 epithelia	I-CL
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 homozygous	O
 for	O
 the	O
@@ -84891,7 +84891,7 @@ cre	O
 ApcCKO	O
 /	O
 CKO	O
-mice	B-Taxon
+mice	B-LIVB
 suggest	O
 the	O
 Apc	B-PRGE
@@ -84972,7 +84972,7 @@ coli	I-PRGE
 .	O
 
 These	O
-individuals	B-Taxon
+individuals	B-LIVB
 also	O
 develop	O
 extracolonic	O
@@ -85037,7 +85037,7 @@ we	O
 generated	O
 Apc	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 can	O
 conditionally	O
@@ -85052,7 +85052,7 @@ recombinase	O
 .	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 mated	O
 with	O
@@ -85063,7 +85063,7 @@ Keratin	B-PRGE
 )	O
 -	O
 cre	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 express	O
 Cre	O
@@ -85081,7 +85081,7 @@ found	O
 that	O
 the	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 have	O
 lost	O
@@ -85109,7 +85109,7 @@ weaning	O
 
 These	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 showed	O
 developmental	O
 abnormalities	O
@@ -85203,7 +85203,7 @@ are	O
 very	O
 common	O
 in	O
-human	B-Taxon
+human	B-LIVB
 tumors	O
 [	O
 1	O
@@ -85441,7 +85441,7 @@ colorectal	O
 neoplams	O
 ,	O
 these	O
-individuals	B-Taxon
+individuals	B-LIVB
 can	O
 develop	O
 extracolonic	O
@@ -85503,7 +85503,7 @@ in	O
 the	O
 initiation	O
 of	O
-human	B-Taxon
+human	B-LIVB
 colorectal	O
 cancer	O
 is	O
@@ -85561,7 +85561,7 @@ potential	O
 adverse	O
 events	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 One	O
@@ -85577,7 +85577,7 @@ development	O
 is	O
 to	O
 develop	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 an	O
 inactivating	O
@@ -85588,7 +85588,7 @@ mutation	B-SO
 Several	O
 genetically	B-SO
 modified	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 strains	O
 for	O
 Apc	B-PRGE
@@ -85627,7 +85627,7 @@ phenotype	O
 ]	O
 .	O
 
-Mouse	B-Taxon
+Mouse	B-LIVB
 embryos	O
 that	O
 are	O
@@ -85678,7 +85678,7 @@ is	O
 to	O
 generate	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 strain	O
 that	O
 carries	O
@@ -85691,7 +85691,7 @@ mate	O
 it	O
 with	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 strain	O
 that	O
 facilitates	O
@@ -85722,7 +85722,7 @@ systematically	O
 ,	O
 we	O
 generated	O
-mice	B-Taxon
+mice	B-LIVB
 containing	O
 a	O
 conditional	O
@@ -85740,7 +85740,7 @@ ApcCKO	O
 .	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 mated	O
 with	O
@@ -85817,7 +85817,7 @@ in	O
 neonatal	O
 death	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -85874,7 +85874,7 @@ and	O
 Apc	O
 Delta	O
 580	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 To	O
 investigate	O
@@ -85907,7 +85907,7 @@ the	O
 Apc	B-PRGE
 gene	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -85919,7 +85919,7 @@ ES	I-CL
 )	I-CL
 cells	I-CL
 and	O
-mice	B-Taxon
+mice	B-LIVB
 carrying	O
 an	O
 Apc	B-PRGE
@@ -86015,7 +86015,7 @@ recombination	O
 .	O
 
 Two	O
-mouse	B-Taxon
+mouse	B-LIVB
 lines	O
 containing	O
 the	O
@@ -86045,7 +86045,7 @@ These	O
 ApcCKON	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 with	O
@@ -86057,7 +86057,7 @@ generate	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 were	O
 heterozygous	O
@@ -86100,7 +86100,7 @@ deleting	B-SO
 exon	B-SO
 14	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 both	O
 lines	O
@@ -86108,7 +86108,7 @@ of	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 with	O
@@ -86237,7 +86237,7 @@ Figure	O
 )	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 that	O
 are	O
 heterozygous	O
@@ -86288,7 +86288,7 @@ Delta	O
 580	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 have	O
 median	O
 survival	O
@@ -86327,7 +86327,7 @@ Delta	O
 /	O
 +	B-SO
 conditional	O
-mouse	B-Taxon
+mouse	B-LIVB
 strain	O
 [	O
 14	O
@@ -86338,7 +86338,7 @@ Delta	O
 580	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 had	O
 more	O
 than	O
@@ -86392,7 +86392,7 @@ Delta	O
 580	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 by	O
 in	O
 vitro	O
@@ -86443,7 +86443,7 @@ and	O
 transmitted	O
 through	O
 male	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 as	O
 Apc	O
@@ -86473,7 +86473,7 @@ burden	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 intercrossed	O
 to	O
@@ -86505,12 +86505,12 @@ allele	B-SO
 .	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 as	O
 well	O
 as	O
 heterozygous	O
-mice	B-Taxon
+mice	B-LIVB
 for	O
 ApcCKO	O
 allele	B-SO
@@ -86562,7 +86562,7 @@ Delta	O
 /	O
 +	B-SO
 male	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 The	O
@@ -86645,13 +86645,13 @@ derived	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 with	O
 K14	B-PRGE
 -	O
 cre	O
 recombinase	O
-mice	B-Taxon
+mice	B-LIVB
 in	O
 FVB	O
 background	O
@@ -86668,7 +86668,7 @@ cre	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 normal	O
 in	O
@@ -86714,7 +86714,7 @@ females	O
 .	O
 
 The	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 intercrossed	O
 thereafter	O
@@ -86724,7 +86724,7 @@ maintenance	O
 hence	O
 ,	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 used	O
 for	O
 analysis	O
@@ -86876,12 +86876,12 @@ and	O
 ApcCKO	O
 /	O
 CKO	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 of	O
 the	O
 genotype	B-SO
@@ -87341,7 +87341,7 @@ and	O
 )	O
 .	O
 
-Animals	B-Taxon
+Animals	B-LIVB
 also	O
 tended	O
 to	O
@@ -87409,7 +87409,7 @@ scaly	O
 ,	O
 and	O
 these	O
-animals	B-Taxon
+animals	B-LIVB
 hardly	O
 kept	O
 their	O
@@ -87696,7 +87696,7 @@ P12	O
 -	O
 P17	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 also	O
 contained	O
 black	O
@@ -87711,7 +87711,7 @@ data	O
 .	O
 
 Mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 also	O
 examined	O
@@ -87727,7 +87727,7 @@ of	O
 P16	O
 -	O
 P17	O
-mice	B-Taxon
+mice	B-LIVB
 stained	O
 with	O
 Alizarin	B-CHEBI
@@ -87742,7 +87742,7 @@ normal	O
 and	O
 KA	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 in	O
 the	O
 mandibular	O
@@ -87754,7 +87754,7 @@ detected	O
 but	O
 the	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 lacked	O
 or	O
 had	O
@@ -87901,7 +87901,7 @@ K14	B-PRGE
 cre	O
 -	O
 positive	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -87921,7 +87921,7 @@ cre	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 was	O
 consistently	O
 much	O
@@ -87935,7 +87935,7 @@ skin	O
 of	O
 the	O
 same	O
-animal	B-Taxon
+animal	B-LIVB
 or	O
 other	O
 tissues	O
@@ -87975,7 +87975,7 @@ K14	B-PRGE
 cre	O
 -	O
 negative	O
-mouse	B-Taxon
+mouse	B-LIVB
 tissues	O
 samples	O
 ,	O
@@ -87996,7 +87996,7 @@ specific	O
 manner	O
 in	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 inherited	O
 K14	B-PRGE
@@ -88078,7 +88078,7 @@ K14	B-PRGE
 cre	O
 -	O
 positive	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 However	O
@@ -88096,7 +88096,7 @@ K14	B-PRGE
 cre	O
 -	O
 negative	O
-mouse	B-Taxon
+mouse	B-LIVB
 tissues	O
 samples	O
 or	O
@@ -88108,7 +88108,7 @@ K14	B-PRGE
 cre	O
 -	O
 positive	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 and	O
 only	O
@@ -88341,7 +88341,7 @@ follicles	O
 of	O
 phenotypically	O
 normal	O
-mice	B-Taxon
+mice	B-LIVB
 grew	O
 deeply	O
 into	O
@@ -88401,7 +88401,7 @@ P12	O
 when	O
 the	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 covered	O
 by	O
@@ -88513,7 +88513,7 @@ coat	O
 of	O
 these	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Apc	B-PRGE
@@ -88646,7 +88646,7 @@ mutant	B-SO
 and	O
 normal	O
 littermate	O
-mice	B-Taxon
+mice	B-LIVB
 at	O
 P3	O
 -	O
@@ -89138,7 +89138,7 @@ With	O
 development	O
 ,	O
 control	O
-mouse	B-Taxon
+mouse	B-LIVB
 hair	O
 follicles	O
 invaginate	O
@@ -89636,7 +89636,7 @@ and	O
 ameloblasts	B-CL
 of	O
 normal	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -89686,7 +89686,7 @@ buds	O
 in	O
 the	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 was	O
 evident	O
 at	O
@@ -89770,7 +89770,7 @@ in	O
 Hypoplastic	O
 /	O
 Athymic	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 Thymus	O
 is	O
@@ -89953,7 +89953,7 @@ cortex	O
 
 In	O
 normal	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 thymus	O
@@ -89976,7 +89976,7 @@ In	O
 the	O
 normal	O
 young	O
-mice	B-Taxon
+mice	B-LIVB
 we	O
 examined	O
 (	O
@@ -90015,7 +90015,7 @@ from	O
 P3	O
 to	O
 P17	O
-mice	B-Taxon
+mice	B-LIVB
 showed	O
 a	O
 similar	O
@@ -90110,13 +90110,13 @@ not	O
 detected	O
 in	O
 young	O
-mice	B-Taxon
+mice	B-LIVB
 at	O
 P3	O
 but	O
 in	O
 older	O
-mice	B-Taxon
+mice	B-LIVB
 it	O
 was	O
 detected	O
@@ -90169,7 +90169,7 @@ as	O
 in	O
 the	O
 normal	O
-mice	B-Taxon
+mice	B-LIVB
 but	O
 the	O
 mutant	B-SO
@@ -90665,7 +90665,7 @@ on	O
 the	O
 age	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 in	O
 this	O
@@ -90698,7 +90698,7 @@ S3	O
 
 In	O
 these	O
-mice	B-Taxon
+mice	B-LIVB
 no	O
 thymocytes	O
 were	O
@@ -90772,7 +90772,7 @@ in	O
 the	O
 younger	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 however	O
 ,	O
@@ -90801,7 +90801,7 @@ cells	I-CL
 In	O
 older	O
 P17	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 histopathology	O
@@ -90922,7 +90922,7 @@ for	O
 maturation	O
 and	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 be	O
 "	O
@@ -90950,7 +90950,7 @@ and	O
 tumorigenesis	O
 .	O
 
-Human	B-Taxon
+Human	B-LIVB
 germline	O
 mutations	B-SO
 in	O
@@ -91018,7 +91018,7 @@ colorectal	O
 polyps	O
 ,	O
 these	O
-individuals	B-Taxon
+individuals	B-LIVB
 can	O
 develop	O
 extracolonic	O
@@ -91063,7 +91063,7 @@ While	O
 the	O
 heterozygous	O
 knockout	O
-mice	B-Taxon
+mice	B-LIVB
 for	O
 Apc	B-PRGE
 develop	O
@@ -91101,7 +91101,7 @@ tract	O
 during	O
 life	O
 of	O
-animals	B-Taxon
+animals	B-LIVB
 and	O
 to	O
 circumvent	O
@@ -91116,7 +91116,7 @@ nullizygosity	O
 we	O
 created	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 strain	O
 carrying	O
 a	O
@@ -91143,7 +91143,7 @@ sequences	I-SO
 
 The	O
 homozygous	O
-mice	B-Taxon
+mice	B-LIVB
 for	O
 the	O
 conditional	O
@@ -91155,7 +91155,7 @@ indistinguishable	O
 to	O
 the	O
 normal	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 allowing	O
 us	O
@@ -91195,7 +91195,7 @@ K14	B-PRGE
 ,	O
 we	O
 created	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 are	O
 homozygous	O
@@ -91213,7 +91213,7 @@ transgene	B-SO
 .	O
 
 These	O
-mice	B-Taxon
+mice	B-LIVB
 failed	O
 to	O
 thrive	O
@@ -91348,7 +91348,7 @@ ectopic	O
 follicles	O
 in	O
 both	O
-mouse	B-Taxon
+mouse	B-LIVB
 and	O
 chick	O
 skin	O
@@ -91402,7 +91402,7 @@ some	O
 pelage	O
 follicles	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 28	O
 -	O
@@ -91581,7 +91581,7 @@ between	O
 our	O
 KA	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 and	O
 the	O
 previously	O
@@ -91593,7 +91593,7 @@ N87	O
 beta	O
 cat	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 expressing	O
 stable	O
 beta	B-PRGE
@@ -91613,7 +91613,7 @@ K14	B-PRGE
 -	O
 Lef1	B-PRGE
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 [	O
 27	O
 ]	O
@@ -91623,7 +91623,7 @@ Surprisingly	O
 ,	O
 our	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 shared	O
 more	O
 similarities	O
@@ -91632,7 +91632,7 @@ the	O
 K14	B-PRGE
 -	O
 Lef1	B-PRGE
-mice	B-Taxon
+mice	B-LIVB
 than	O
 the	O
 K14	B-PRGE
@@ -91642,7 +91642,7 @@ N87	O
 beta	O
 cat	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 For	O
@@ -91651,7 +91651,7 @@ example	O
 the	O
 KA	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 displayed	O
 the	O
 disoriented	O
@@ -91674,7 +91674,7 @@ N87	O
 beta	O
 cat	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -91682,7 +91682,7 @@ addition	O
 ,	O
 KA	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 displayed	O
 a	O
 disorganized	O
@@ -91704,7 +91704,7 @@ in	O
 K14	B-PRGE
 -	O
 Lef1	B-PRGE
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 whereas	O
 in	O
@@ -91714,7 +91714,7 @@ Delta	O
 N87	O
 beta	O
 cat	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 embryonic	O
 hair	O
@@ -91798,7 +91798,7 @@ transgene	B-SO
 construct	B-SO
 in	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 One	O
@@ -91819,7 +91819,7 @@ the	O
 transgene	B-SO
 in	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 genome	B-SO
 .	O
 
@@ -91902,7 +91902,7 @@ K14	B-PRGE
 -	O
 cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 used	O
 in	O
 this	O
@@ -92199,13 +92199,13 @@ features	O
 of	O
 our	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 similar	O
 to	O
 these	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 other	O
 phenotypic	O
@@ -92266,7 +92266,7 @@ tooth	O
 buds	O
 found	O
 in	O
-animals	B-Taxon
+animals	B-LIVB
 misexpressing	O
 Lef1	B-PRGE
 [	O
@@ -92345,7 +92345,7 @@ and	O
 the	O
 KA	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 appeared	O
 toothless	O
 .	O
@@ -92360,7 +92360,7 @@ unique	O
 to	O
 these	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -92371,7 +92371,7 @@ of	O
 the	O
 two	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 was	O
 postnatally	O
 lethal	O
@@ -92380,7 +92380,7 @@ in	O
 the	O
 KA	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -92397,7 +92397,7 @@ internal	O
 organs	O
 of	O
 KA	O
-mice	B-Taxon
+mice	B-LIVB
 that	O
 could	O
 contribute	O
@@ -92521,7 +92521,7 @@ have	O
 been	O
 observed	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 deficient	O
 in	O
 Lef1	B-PRGE
@@ -92566,7 +92566,7 @@ development	O
 of	O
 teeth	O
 for	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 have	O
 a	O
@@ -92646,7 +92646,7 @@ maturation	O
 ,	O
 rendering	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 athymic	O
 .	O
 
@@ -93259,11 +93259,11 @@ strain	O
 of	O
 Apc	B-PRGE
 conditional	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 LckCre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 [	O
 33	O
 ]	O
@@ -93321,7 +93321,7 @@ observed	O
 in	O
 our	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 are	O
 frequently	O
@@ -93385,7 +93385,7 @@ developmental	O
 defects	O
 using	O
 our	O
-mouse	B-Taxon
+mouse	B-LIVB
 model	O
 should	O
 provide	O
@@ -93408,7 +93408,7 @@ potential	O
 adverse	O
 events	O
 in	O
-human	B-Taxon
+human	B-LIVB
 subjects	O
 .	O
 
@@ -93598,7 +93598,7 @@ ApcCKO	O
 ES	O
 cells	B-CL
 and	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -93696,7 +93696,7 @@ blastocysts	O
 after	O
 which	O
 chimeric	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 high	O
 levels	O
@@ -93749,11 +93749,11 @@ By	O
 crossing	O
 the	O
 heterozygous	O
-mice	B-Taxon
+mice	B-LIVB
 to	O
 FLPe	O
 deleter	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 34	O
 ]	O
@@ -93772,7 +93772,7 @@ mediated	O
 recombination	O
 to	O
 generate	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 the	O
 final	O
@@ -93782,14 +93782,14 @@ allele	B-SO
 
 ApcCKO	O
 heterozygous	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 together	O
 to	O
 generate	O
 homozygous	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 and	O
 the	O
@@ -93806,24 +93806,24 @@ of	O
 Apc	O
 Delta	O
 580	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 ApcCKO	O
 heterozygote	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 crossed	O
 with	O
 Cre	O
 deleter	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 EIIA	O
 -	O
 cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 that	O
 express	O
 Cre	O
@@ -93861,7 +93861,7 @@ Delta	O
 580	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 were	O
 maintained	O
 by	O
@@ -93882,11 +93882,11 @@ cre	O
 ApcCKO	O
 /	O
 CKO	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
-mice	B-Taxon
+mice	B-LIVB
 analyzed	O
 in	O
 this	O
@@ -93897,7 +93897,7 @@ by	O
 crossing	O
 ApcCKO	O
 heterozygote	O
-mice	B-Taxon
+mice	B-LIVB
 of	O
 the	O
 F1	O
@@ -93917,7 +93917,7 @@ K14	B-PRGE
 -	O
 cre	O
 transgenic	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 FVB	O
 background	O
@@ -93932,7 +93932,7 @@ ApcCKO	O
 /	O
 +	B-SO
 male	O
-mice	B-Taxon
+mice	B-LIVB
 thus	O
 generated	O
 were	O
@@ -93960,7 +93960,7 @@ cre	O
 .	O
 
 The	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 intercrossed	O
 thereafter	O
@@ -93970,7 +93970,7 @@ maintenance	O
 
 Genotyping	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Genomic	B-SO
@@ -93978,7 +93978,7 @@ DNA	I-SO
 from	O
 tips	O
 of	O
-mouse	B-Taxon
+mouse	B-LIVB
 tails	O
 obtained	O
 at	O
@@ -94643,7 +94643,7 @@ BrdU	O
 labeling	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 were	O
 injected	O
 intraperitoneally	O
@@ -94693,7 +94693,7 @@ analysis	O
 .	O
 
 Mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 and	O
 age	O
 -	O
@@ -94710,7 +94710,7 @@ CO2	B-CHEBI
 inhalation	O
 .	O
 
-Mice	B-Taxon
+Mice	B-LIVB
 were	O
 skinned	O
 and	O
@@ -94764,7 +94764,7 @@ examinations	O
 .	O
 
 The	O
-mice	B-Taxon
+mice	B-LIVB
 were	O
 then	O
 dissected	O
@@ -94802,7 +94802,7 @@ were	O
 then	O
 submitted	O
 to	O
-Rodent	B-Taxon
+Rodent	B-LIVB
 Histopathological	O
 Core	O
 for	O
@@ -94975,15 +94975,15 @@ Biotinylated	O
 secondary	O
 antibodies	B-GO
 (	O
-donkey	B-Taxon
+donkey	B-LIVB
 anti	O
 -	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 and	O
-goat	B-Taxon
+goat	B-LIVB
 anti	O
 -	O
-mouse	B-Taxon
+mouse	B-LIVB
 IgG	O
 ,	O
 1	O
@@ -95104,7 +95104,7 @@ in	O
 Apc	O
 Delta	O
 580	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 (	O
 A	O
@@ -95121,7 +95121,7 @@ of	O
 month	O
 -	O
 old	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 Scale	O
@@ -95211,7 +95211,7 @@ Permeability	O
 Assay	O
 and	O
 Neonatal	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 (	O
 A	O
@@ -95785,7 +95785,7 @@ to	O
 FLPe	O
 -	O
 expressing	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Positions	B-SO
@@ -95877,11 +95877,11 @@ DNA	I-SO
 isolated	O
 from	O
 F1	O
-mice	B-Taxon
+mice	B-LIVB
 of	O
 various	O
 Apc	B-PRGE
-mouse	B-Taxon
+mouse	B-LIVB
 lines	O
 (	O
 ApcCKON	O
@@ -95906,7 +95906,7 @@ DNA	I-SO
 from	O
 ApcCKON	O
 F1	O
-mice	B-Taxon
+mice	B-LIVB
 derived	O
 from	O
 a	O
@@ -95944,7 +95944,7 @@ the	O
 Apc	O
 Delta	O
 580	O
-mouse	B-Taxon
+mouse	B-LIVB
 was	O
 heterozygous	O
 for	O
@@ -95975,7 +95975,7 @@ of	O
 ApcCKO	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 thin	O
 solid	O
@@ -95989,7 +95989,7 @@ n	O
 ApcCKO	O
 /	O
 CKO	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 thin	O
 dotted	O
@@ -96005,7 +96005,7 @@ Delta	O
 580	O
 /	O
 +	B-SO
-mice	B-Taxon
+mice	B-LIVB
 (	O
 solid	O
 line	O
@@ -96058,7 +96058,7 @@ heterozygous	O
 and	O
 homozygous	O
 ApcCKO	O
-mice	B-Taxon
+mice	B-LIVB
 had	O
 no	O
 significant	O
@@ -96089,9 +96089,9 @@ ApcCKO	O
 /	O
 CKO	O
 Mutant	B-SO
-Mice	B-Taxon
+Mice	B-LIVB
 
-Animals	B-Taxon
+Animals	B-LIVB
 whose	O
 genotype	B-SO
 is	O
@@ -96153,7 +96153,7 @@ A	O
 Two	O
 P3	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 M1	O
 and	O
@@ -96176,7 +96176,7 @@ B	O
 )	O
 P8	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 right	O
 )	O
@@ -96214,7 +96214,7 @@ in	O
 a	O
 P12	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 C	O
 )	O
@@ -96243,7 +96243,7 @@ E	O
 A	O
 P17	O
 mutant	B-SO
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 right	O
 )	O
@@ -96320,7 +96320,7 @@ normal	O
 thymus	O
 from	O
 P3	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 The	O
@@ -96434,7 +96434,7 @@ liver	O
 L	O
 )	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 positive	O
 for	O
 K14	B-PRGE
@@ -96494,7 +96494,7 @@ but	O
 not	O
 liver	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 positive	O
 for	O
 K14	B-PRGE
@@ -97357,13 +97357,13 @@ ITPR1	B-PRGE
 Underlies	O
 Ataxia	O
 in	O
-Mice	B-Taxon
+Mice	B-LIVB
 and	O
 Spinocerebellar	O
 Ataxia	O
 15	O
 in	O
-Humans	B-Taxon
+Humans	B-LIVB
 
 Abstract	O
 
@@ -97376,7 +97376,7 @@ recessive	O
 movement	O
 disorder	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 used	O
 within	O
 our	O
@@ -97404,7 +97404,7 @@ a	O
 cognate	O
 disease	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 with	O
 mutation	B-SO
 at	O
@@ -97467,7 +97467,7 @@ spontaneous	O
 Itpr1	B-PRGE
 mutation	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 causes	O
 a	O
 phenotype	O
@@ -97513,7 +97513,7 @@ SCA15	O
 )	O
 ,	O
 a	O
-human	B-Taxon
+human	B-LIVB
 autosomal	B-GO
 dominant	O
 disorder	O
@@ -97547,7 +97547,7 @@ feature	O
 in	O
 Itpr1	B-PRGE
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 we	O
 performed	O
@@ -97609,7 +97609,7 @@ families	O
 underlies	O
 SCA15	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 Author	O
@@ -97636,7 +97636,7 @@ recessive	O
 movement	O
 disorder	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 In	O
@@ -97650,7 +97650,7 @@ similar	O
 disease	O
 occurs	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 we	O
 performed	O
 a	O
@@ -97661,7 +97661,7 @@ diseases	O
 linked	O
 to	O
 the	O
-human	B-Taxon
+human	B-LIVB
 chromosomal	B-SO
 region	I-SO
 containing	O
@@ -97746,7 +97746,7 @@ spinocerebellar	O
 ataxia	O
 15	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 Introduction	O
@@ -97763,7 +97763,7 @@ loci	B-SO
 of	O
 interest	O
 in	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 has	O
 become	O
@@ -97801,7 +97801,7 @@ that	O
 cause	O
 disorders	O
 in	O
-mouse	B-Taxon
+mouse	B-LIVB
 breeding	O
 colonies	O
 .	O
@@ -97838,7 +97838,7 @@ a	O
 knockout	O
 line	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 we	O
 noted	O
 an	O
@@ -97881,7 +97881,7 @@ and	O
 corresponding	O
 mutation	B-SO
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 Here	O
@@ -97905,7 +97905,7 @@ of	O
 this	O
 disorder	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 of	O
 spinocerebellar	O
@@ -97915,7 +97915,7 @@ ataxia	O
 SCA15	O
 )	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 .	O
 
 Results	O
@@ -97929,7 +97929,7 @@ of	O
 a	O
 line	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 knockout	O
 of	O
@@ -97958,7 +97958,7 @@ observations	O
 suggested	O
 the	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 suffered	O
 from	O
 an	O
@@ -97995,7 +97995,7 @@ initial	O
 examination	O
 ,	O
 a	O
-human	B-Taxon
+human	B-LIVB
 movement	O
 disorder	O
 specialist	O
@@ -98034,7 +98034,7 @@ etiology	O
 .	O
 
 Affected	O
-mice	B-Taxon
+mice	B-LIVB
 presented	O
 at	O
 approximately	O
@@ -98105,7 +98105,7 @@ at	O
 loci	B-SO
 across	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 genome	B-SO
 .	O
 
@@ -98180,7 +98180,7 @@ the	O
 spontaneous	O
 mutant	B-SO
 opt	O
-mouse	B-Taxon
+mouse	B-LIVB
 displays	O
 a	O
 strikingly	O
@@ -98254,7 +98254,7 @@ of	O
 Itpr1	B-PRGE
 in	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 the	O
 current	O
@@ -98298,7 +98298,7 @@ mutation	B-SO
 we	O
 crossed	O
 heterozygous	O
-mice	B-Taxon
+mice	B-LIVB
 from	O
 the	O
 current	O
@@ -98310,7 +98310,7 @@ Delta	O
 18	O
 )	O
 with	O
-mice	B-Taxon
+mice	B-LIVB
 heterozygous	O
 for	O
 the	O
@@ -98329,7 +98329,7 @@ in	O
 two	O
 litters	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 a	O
 total	O
@@ -98366,7 +98366,7 @@ and	O
 Itpr1opt	O
 /	O
 opt	O
-mice	B-Taxon
+mice	B-LIVB
 [	O
 1	O
 ]	O
@@ -98388,7 +98388,7 @@ that	O
 described	O
 in	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 line	O
 with	O
 targeted	O
@@ -98415,7 +98415,7 @@ the	O
 Itpr1opt	O
 /	O
 opt	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 where	O
 the	O
@@ -98475,7 +98475,7 @@ the	O
 Itpr1	B-PRGE
 -	O
 deficient	O
-mouse	B-Taxon
+mouse	B-LIVB
 [	O
 4	O
 ]	O
@@ -98506,7 +98506,7 @@ Given	O
 our	O
 interest	O
 in	O
-human	B-Taxon
+human	B-LIVB
 neurological	O
 disease	O
 we	O
@@ -98515,7 +98515,7 @@ to	O
 identify	O
 any	O
 cognate	O
-human	B-Taxon
+human	B-LIVB
 disorders	O
 where	O
 linkage	O
@@ -98528,7 +98528,7 @@ syntenic	B-SO
 region	I-SO
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 genome	B-SO
 ,	O
 but	O
@@ -98591,7 +98591,7 @@ Delta	O
 18	O
 and	O
 Itpr1opt	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 the	O
 phenotypic	O
@@ -98600,7 +98600,7 @@ of	O
 ataxia	O
 in	O
 the	O
-mice	B-Taxon
+mice	B-LIVB
 led	O
 us	O
 to	O
@@ -98906,7 +98906,7 @@ chip	O
 ,	O
 from	O
 577	O
-individuals	B-Taxon
+individuals	B-LIVB
 of	O
 European	O
 descent	O
@@ -98915,7 +98915,7 @@ were	O
 either	O
 controls	O
 or	O
-individuals	B-Taxon
+individuals	B-LIVB
 with	O
 an	O
 unrelated	O
@@ -98949,7 +98949,7 @@ however	O
 identify	O
 a	O
 single	O
-individual	B-Taxon
+individual	B-LIVB
 with	O
 a	O
 possible	O
@@ -99618,7 +99618,7 @@ have	O
 shown	O
 here	O
 ,	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 mutation	B-SO
 at	O
@@ -99670,12 +99670,12 @@ levels	O
 of	O
 ITPR1	B-PRGE
 in	O
-Epstein	B-Taxon
--	I-Taxon
-Barr	I-Taxon
-virus	I-Taxon
+Epstein	B-LIVB
+-	I-LIVB
+Barr	I-LIVB
+virus	I-LIVB
 (	O
-EBV	B-Taxon
+EBV	B-LIVB
 )	O
 immortalized	O
 lymphocytes	B-CL
@@ -99848,13 +99848,13 @@ later	O
 onset	O
 disorder	O
 in	O
-humans	B-Taxon
+humans	B-LIVB
 ,	O
 whereas	O
 homozygous	O
 deletion	B-SO
 in	O
-mice	B-Taxon
+mice	B-LIVB
 leads	O
 to	O
 an	O
@@ -99874,7 +99874,7 @@ life	O
 span	O
 of	O
 the	O
-mouse	B-Taxon
+mouse	B-LIVB
 .	O
 
 Second	O
@@ -99980,11 +99980,11 @@ utility	O
 of	O
 investigating	O
 spontaneous	O
-mouse	B-Taxon
+mouse	B-LIVB
 mutations	B-SO
 in	O
 understanding	O
-human	B-Taxon
+human	B-LIVB
 disease	O
 .	O
 
@@ -99999,13 +99999,13 @@ Itpr1wt	O
 /	O
 Delta	O
 18	O
-animals	B-Taxon
+animals	B-LIVB
 precludes	O
 us	O
 from	O
 examining	O
 these	O
-mice	B-Taxon
+mice	B-LIVB
 for	O
 subtle	O
 signs	O
@@ -100022,7 +100022,7 @@ patients	O
 however	O
 ,	O
 these	O
-mice	B-Taxon
+mice	B-LIVB
 are	O
 clearly	O
 of	O
@@ -100217,7 +100217,7 @@ Genome	B-SO
 wide	O
 linkage	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 One	O
@@ -100269,11 +100269,11 @@ amplified	O
 in	O
 11	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 nine	O
 unaffected	O
-mice	B-Taxon
+mice	B-LIVB
 ;	O
 genotype	B-SO
 calling	O
@@ -100355,14 +100355,14 @@ of	O
 three	O
 additional	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Genotyping	O
 of	O
 all	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 across	O
 the	O
 disease	O
@@ -100411,7 +100411,7 @@ underlying	O
 genetic	B-SO
 lesion	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Identification	O
@@ -100419,7 +100419,7 @@ of	O
 similar	O
 phenotypes	O
 in	O
-mice	B-Taxon
+mice	B-LIVB
 linked	O
 to	O
 the	O
@@ -100438,7 +100438,7 @@ the	O
 Itpr1opt	O
 /	O
 opt	O
-mouse	B-Taxon
+mouse	B-LIVB
 ,	O
 in	O
 which	O
@@ -100495,7 +100495,7 @@ DNA	B-SO
 from	O
 two	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 as	O
 templates	O
 .	O
@@ -100515,7 +100515,7 @@ sequencing	O
 in	O
 all	O
 affected	O
-mice	B-Taxon
+mice	B-LIVB
 (	O
 Figure	O
 S2	O
@@ -100529,7 +100529,7 @@ performed	O
 between	O
 two	O
 female	O
-mice	B-Taxon
+mice	B-LIVB
 heterozygous	O
 for	O
 the	O
@@ -100544,7 +100544,7 @@ Delta	O
 and	O
 a	O
 male	O
-mouse	B-Taxon
+mouse	B-LIVB
 heterozygous	O
 for	O
 the	O
@@ -100563,7 +100563,7 @@ in	O
 two	O
 litters	O
 of	O
-mice	B-Taxon
+mice	B-LIVB
 with	O
 a	O
 total	O
@@ -100615,7 +100615,7 @@ and	O
 Itpr1opt	O
 /	O
 opt	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Analysis	O
@@ -100623,7 +100623,7 @@ of	O
 Itpr1	B-PRGE
 protein	B-CHEBI
 in	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 We	O
@@ -100807,7 +100807,7 @@ from	O
 d	O
 -	O
 old	O
-mice	B-Taxon
+mice	B-LIVB
 ,	O
 perfused	O
 with	O
@@ -100906,7 +100906,7 @@ with	O
 20	O
 %	O
 normal	O
-goat	B-Taxon
+goat	B-LIVB
 serum	O
 and	O
 0	O
@@ -101022,19 +101022,19 @@ antibodies	B-GO
 Alexa	O
 Fluor	O
 555	O
-goat	B-Taxon
+goat	B-LIVB
 anti	O
 -	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 IgG	O
 and	O
 Alexa	O
 Fluor	O
 488	O
-goat	B-Taxon
+goat	B-LIVB
 anti	O
 -	O
-mouse	B-Taxon
+mouse	B-LIVB
 IgG	O
 [	O
 Invitrogen	O
@@ -101221,7 +101221,7 @@ DNA	B-SO
 was	O
 extracted	O
 from	O
-EBV	B-Taxon
+EBV	B-LIVB
 immortalized	O
 lymphocytes	B-CL
 ,	O
@@ -101495,7 +101495,7 @@ this	O
 locus	B-SO
 from	O
 577	O
-individuals	B-Taxon
+individuals	B-LIVB
 of	O
 Northern	O
 European	O
@@ -101610,7 +101610,7 @@ of	O
 the	O
 three	O
 affected	O
-individuals	B-Taxon
+individuals	B-LIVB
 (	O
 family	O
 members	O
@@ -101723,7 +101723,7 @@ Mendelian	O
 inheritance	O
 in	O
 related	O
-individuals	B-Taxon
+individuals	B-LIVB
 known	O
 to	O
 share	O
@@ -101913,7 +101913,7 @@ current	O
 build	B-SO
 of	O
 the	O
-human	B-Taxon
+human	B-LIVB
 genome	B-SO
 .	O
 
@@ -102009,7 +102009,7 @@ SCA15	O
 patients	O
 .	O
 
-EBV	B-Taxon
+EBV	B-LIVB
 immortalized	O
 lymphoblasts	O
 from	O
@@ -102162,12 +102162,12 @@ of	O
 Genotyping	O
 Results	O
 across	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 Chromosome	B-GO
 6	O
 in	O
 Affected	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 Black	O
 squares	O
@@ -102272,7 +102272,7 @@ of	O
 Itpr1	B-PRGE
 from	O
 Four	O
-Mice	B-Taxon
+Mice	B-LIVB
 
 A	O
 wild	B-SO
@@ -102282,7 +102282,7 @@ homozygous	O
 C57BL	O
 /	O
 6J	O
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 A	O
 )	O
@@ -102295,7 +102295,7 @@ homozygous	O
 129x1	O
 /	O
 SvJ	O
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 B	O
 )	O
@@ -102303,7 +102303,7 @@ B	O
 an	O
 affected	O
 129x1B6	O
-mice	B-Taxon
+mice	B-LIVB
 homozygous	O
 for	O
 the	O
@@ -102319,7 +102319,7 @@ C	O
 and	O
 an	O
 unaffected	O
-mouse	B-Taxon
+mouse	B-LIVB
 heterozygous	O
 for	O
 the	O
@@ -102804,12 +102804,12 @@ study	O
 
 Abbreviations	O
 
-EBV	B-Taxon
+EBV	B-LIVB
 -	O
-Epstein	B-Taxon
--	I-Taxon
-Barr	I-Taxon
-virus	I-Taxon
+Epstein	B-LIVB
+-	I-LIVB
+Barr	I-LIVB
+virus	I-LIVB
 
 SCA	O
 [	O
@@ -102845,7 +102845,7 @@ ITPR1	B-PRGE
 Protein	B-CHEBI
 Levels	O
 in	O
-Mouse	B-Taxon
+Mouse	B-LIVB
 Cerebellum	O
 
 (	O
@@ -102861,7 +102861,7 @@ a	O
 wild	B-SO
 -	I-SO
 type	I-SO
-mouse	B-Taxon
+mouse	B-LIVB
 (	O
 A	O
 and	O
@@ -102869,7 +102869,7 @@ D	O
 )	O
 ,	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 heterozygous	O
 for	O
 the	O
@@ -102886,7 +102886,7 @@ E	O
 ,	O
 and	O
 a	O
-mouse	B-Taxon
+mouse	B-LIVB
 homozygous	O
 for	O
 the	O
@@ -102913,7 +102913,7 @@ polyclonal	O
 Itpr1	B-PRGE
 anti	O
 -	O
-rabbit	B-Taxon
+rabbit	B-LIVB
 antibody	B-GO
 (	O
 1	O
@@ -102938,7 +102938,7 @@ monoclonal	O
 Calb1	B-PRGE
 anti	O
 -	O
-mouse	B-Taxon
+mouse	B-LIVB
 antibody	B-GO
 (	O
 1	O
@@ -102991,7 +102991,7 @@ heterozygous	O
 and	O
 homozygous	O
 mutant	B-SO
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 (	O
@@ -103024,7 +103024,7 @@ Delta	O
 /	O
 Delta	O
 18	O
-mice	B-Taxon
+mice	B-LIVB
 ;	O
 this	O
 clearly	O
@@ -103041,7 +103041,7 @@ Itpr1wt	O
 /	O
 Delta	O
 18	O
-mice	B-Taxon
+mice	B-LIVB
 and	O
 a	O
 greater	O
@@ -103055,7 +103055,7 @@ Delta	O
 /	O
 Delta	O
 18	O
-mice	B-Taxon
+mice	B-LIVB
 .	O
 
 Figure	O
@@ -103325,13 +103325,13 @@ Filled	O
 symbols	O
 denote	O
 affected	O
-individuals	B-Taxon
+individuals	B-LIVB
 ;	O
 open	O
 symbols	O
 ,	O
 unaffected	O
-individuals	B-Taxon
+individuals	B-LIVB
 ;	O
 grey	O
 symbol	O
@@ -103499,7 +103499,7 @@ of	O
 bp	B-SO
 in	O
 affected	O
-individuals	B-Taxon
+individuals	B-LIVB
 .	O
 
 (	O
@@ -103568,7 +103568,7 @@ ITPR1	B-PRGE
 Protein	B-CHEBI
 Levels	O
 in	O
-EBV	B-Taxon
+EBV	B-LIVB
 Immortalized	O
 Lymphoblasts	O
 from	O
@@ -103584,7 +103584,7 @@ examine	O
 ITPR1	B-PRGE
 levels	O
 in	O
-EBV	B-Taxon
+EBV	B-LIVB
 immortalized	O
 lymphocytes	B-CL
 from	O
@@ -103846,7 +103846,7 @@ Department	O
 of	O
 Health	O
 and	O
-Human	B-Taxon
+Human	B-LIVB
 Services	O
 ,	O
 United	O

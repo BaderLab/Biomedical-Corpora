@@ -1086,7 +1086,7 @@ targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 alphaA	O
 gene	O
 ,	O
@@ -1174,7 +1174,7 @@ Targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 alphaB	O
 gene	O
 resulted	O
@@ -4766,7 +4766,7 @@ targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 alphaA	O
 gene	O
 ,	O
@@ -4839,7 +4839,7 @@ Targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 alphaB	O
 gene	O
 ,	O
@@ -6981,7 +6981,7 @@ presence	O
 of	O
 orthologs	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 in	O
 the	O
@@ -7057,7 +7057,7 @@ three	O
 dimensional	O
 model	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 was	O
 built	O
@@ -7677,7 +7677,7 @@ Mammalian	S-LIVB
 enzymes	O
 homologous	O
 to	O
-human	S-LIVB
+human	O
 CLN2	O
 [	O
 2	O
@@ -7786,7 +7786,7 @@ with	O
 the	O
 exception	O
 of	O
-mouse	S-LIVB
+mouse	O
 CLN2	O
 that	O
 has	O
@@ -8135,7 +8135,7 @@ gene	O
 sequence	O
 of	O
 the	O
-zebrafish	S-LIVB
+zebrafish	O
 CLN2	O
 .	O
 This	O
@@ -8321,12 +8321,12 @@ shown	O
 for	O
 CLN2	O
 from	O
-human	S-LIVB
+human	O
 ,	O
-fugu	S-LIVB
+fugu	O
 ,	O
 and	O
-zebrafish	S-LIVB
+zebrafish	O
 ,	O
 together	O
 with	O
@@ -8337,8 +8337,8 @@ of	O
 putative	O
 CLN2	O
 in	O
-Xenopus	B-LIVB
-tropicalis	E-LIVB
+Xenopus	O
+tropicalis	O
 .	O
 
 Residues	O
@@ -8472,7 +8472,7 @@ and	O
 %	O
 identity	O
 with	O
-human	S-LIVB
+human	O
 CLN2	O
 (	O
 Figure	O
@@ -8574,7 +8574,7 @@ of	O
 the	O
 structure	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 
 The	O
@@ -8699,7 +8699,7 @@ homology	O
 derived	O
 model	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 .	O
 
@@ -8742,7 +8742,7 @@ this	O
 compound	O
 can	O
 inhibit	O
-human	S-LIVB
+human	O
 CLN2	O
 ,	O
 other	O
@@ -8878,7 +8878,7 @@ sedolisin	O
 kumamolisin	O
 ,	O
 and	O
-human	S-LIVB
+human	O
 CLN2	O
 used	O
 in	O
@@ -9068,7 +9068,7 @@ homology	O
 derived	O
 model	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 .	O
 
@@ -9315,7 +9315,7 @@ sequence	O
 of	O
 the	O
 mature	O
-human	S-LIVB
+human	O
 CLN2	O
 )	O
 .	O
@@ -9479,7 +9479,7 @@ the	O
 active	O
 site	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 .	O
 
@@ -11313,7 +11313,7 @@ kumamolisin	O
 ,	O
 and	O
 the	O
-human	S-LIVB
+human	O
 CLN2	O
 sequences	O
 as	O
@@ -11464,7 +11464,7 @@ sequences	O
 The	O
 model	O
 of	O
-human	S-LIVB
+human	O
 CLN2	O
 was	O
 built	O
@@ -12183,7 +12183,7 @@ Government	O
 .	O
 
 The	O
-Zebrafish	S-LIVB
+Zebrafish	O
 moonshine	O
 Gene	O
 Encodes	O
@@ -12227,7 +12227,7 @@ corepressors	O
 Mutations	O
 in	O
 the	O
-zebrafish	S-LIVB
+zebrafish	O
 moonshine	O
 (	O
 mon	O
@@ -13281,7 +13281,7 @@ survival	O
 Results	O
 
 The	O
-Zebrafish	S-LIVB
+Zebrafish	O
 mon	O
 Gene	O
 Is	O
@@ -13326,7 +13326,7 @@ During	O
 embryogenesis	O
 ,	O
 homozygous	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 mutants	O
 have	O
@@ -13618,7 +13618,7 @@ rare	O
 surviving	O
 homozygous	O
 adult	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 mutants	O
 .	O
@@ -13940,7 +13940,7 @@ walk	O
 A	O
 critical	O
 P1	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 clone	O
@@ -14055,7 +14055,7 @@ rerio	O
 containing	O
 a	O
 predicted	O
-zebrafish	S-LIVB
+zebrafish	O
 TIF1	O
 family	O
 gene	O
@@ -14115,7 +14115,7 @@ is	O
 most	O
 similar	O
 to	O
-human	S-LIVB
+human	O
 TIF	O
 gamma	O
 (	O
@@ -14163,7 +14163,7 @@ The	O
 mon	O
 locus	O
 on	O
-zebrafish	S-LIVB
+zebrafish	O
 Chromosome	O
 8	O
 is	O
@@ -14176,7 +14176,7 @@ to	O
 the	O
 region	O
 of	O
-human	S-LIVB
+human	O
 Chromosome	O
 1p	O
 that	O
@@ -14228,7 +14228,7 @@ chromosomal	O
 location	O
 ,	O
 the	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 gene	O
 is	O
@@ -14237,7 +14237,7 @@ likely	O
 ortholog	O
 of	O
 the	O
-human	S-LIVB
+human	O
 TIF1	O
 gamma	O
 gene	O
@@ -14662,7 +14662,7 @@ decay	O
 
 Thus	O
 ,	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 gamma	O
 is	O
@@ -14698,10 +14698,10 @@ compared	O
 the	O
 expression	O
 of	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 to	O
-mouse	S-LIVB
+mouse	O
 Tif1	O
 gamma	O
 (	O
@@ -14712,7 +14712,7 @@ and	O
 )	O
 .	O
 
-Mouse	S-LIVB
+Mouse	O
 Tif1	O
 gamma	O
 is	O
@@ -14760,10 +14760,10 @@ results	O
 strongly	O
 suggest	O
 that	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 and	O
-mouse	S-LIVB
+mouse	O
 Tif1	O
 gamma	O
 are	O
@@ -14857,7 +14857,7 @@ predicted	O
 zebrafish	S-LIVB
 ortholog	O
 of	O
-human	S-LIVB
+human	O
 TIF1	O
 alpha	O
 based	O
@@ -14876,7 +14876,7 @@ Figure	O
 In	O
 addition	O
 ,	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 alpha	O
 ESTs	O
@@ -14894,7 +14894,7 @@ to	O
 the	O
 region	O
 of	O
-human	S-LIVB
+human	O
 Chromosome	O
 7	O
 that	O
@@ -14976,7 +14976,7 @@ al	O
 ,	O
 the	O
 predicted	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 gamma	O
 gene	O
@@ -14994,7 +14994,7 @@ At	O
 five	O
 somites	O
 ,	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 alpha	O
 does	O
@@ -15087,7 +15087,7 @@ a	O
 mutation	O
 in	O
 the	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 gamma	O
 gene	O
@@ -15725,11 +15725,11 @@ amino	O
 acids	O
 conserved	O
 in	O
-human	S-LIVB
+human	O
 TIF1	O
 gamma	O
 and	O
-mouse	S-LIVB
+mouse	O
 Tif1	O
 gamma	O
 .	O
@@ -16002,7 +16002,7 @@ after	O
 24	O
 hpf	O
 ,	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 mRNA	O
 expression	O
@@ -16214,7 +16214,7 @@ have	O
 positionally	O
 cloned	O
 the	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 gene	O
 correctly	O
@@ -16263,7 +16263,7 @@ Sequence	O
 analysis	O
 indicates	O
 that	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 gamma	O
 is	O
@@ -16284,13 +16284,13 @@ to	O
 the	O
 predicted	O
 orthologous	O
-human	S-LIVB
+human	O
 and	O
-mouse	S-LIVB
+mouse	O
 genes	O
 .	O
 
-Zebrafish	S-LIVB
+Zebrafish	O
 tif1	O
 gamma	O
 is	O
@@ -16299,7 +16299,7 @@ in	O
 a	O
 region	O
 of	O
-zebrafish	S-LIVB
+zebrafish	O
 Chromosome	O
 8	O
 syntenic	O
@@ -16307,7 +16307,7 @@ to	O
 the	O
 region	O
 of	O
-human	S-LIVB
+human	O
 Chromosome	O
 1	O
 containing	O
@@ -16578,7 +16578,7 @@ on	O
 our	O
 analysis	O
 of	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 mutants	O
 ,	O
@@ -16869,7 +16869,7 @@ gamma	O
 
 Maternally	O
 expressed	O
-zebrafish	S-LIVB
+zebrafish	O
 Tif1	O
 gamma	O
 may	O
@@ -16975,12 +16975,12 @@ cells	O
 seen	O
 in	O
 both	O
-mouse	S-LIVB
+mouse	O
 Gata1	O
 knockout	O
 embryos	O
 and	O
-zebrafish	S-LIVB
+zebrafish	O
 vlad	O
 tepes	O
 (	O
@@ -18318,34 +18318,34 @@ in	O
 this	O
 paper	O
 are	O
-fly	S-LIVB
+fly	O
 bonus	O
 (	O
 AAF19646	O
 )	O
 ,	O
-human	S-LIVB
+human	O
 TIF1	O
 alpha	O
 (	O
 015164	O
 )	O
 ,	O
-human	S-LIVB
+human	O
 TIF1	O
 beta	O
 (	O
 Q13263	O
 )	O
 ,	O
-human	S-LIVB
+human	O
 TIF	O
 gamma	O
 (	O
 Q9UPN9	O
 )	O
 ,	O
-human	S-LIVB
+human	O
 TIF1	O
 gamma	O
 (	O
@@ -18357,14 +18357,14 @@ mon	O
 AY59853	O
 )	O
 ,	O
-mouse	S-LIVB
+mouse	O
 Tif1	O
 alpha	O
 (	O
 Q64127	O
 )	O
 ,	O
-mouse	S-LIVB
+mouse	O
 Tif1	O
 beta	O
 (	O
@@ -18372,7 +18372,7 @@ AAH58391	O
 )	O
 ,	O
 and	O
-mouse	S-LIVB
+mouse	O
 Tif1	O
 gamma	O
 (	O
@@ -18384,7 +18384,7 @@ The	O
 cDNA	O
 sequences	O
 of	O
-zebrafish	S-LIVB
+zebrafish	O
 mon	O
 /	O
 tif1	O
@@ -18621,7 +18621,7 @@ Tables	O
 Figure	O
 1	O
 
-Zebrafish	S-LIVB
+Zebrafish	O
 mon	O
 Mutants	O
 Have	O
@@ -18817,7 +18817,7 @@ embryos	O
 Figure	O
 2	O
 
-Zebrafish	S-LIVB
+Zebrafish	O
 mon	O
 Mutants	O
 Also	O
@@ -18913,7 +18913,7 @@ the	O
 mon	O
 Gene	O
 as	O
-Zebrafish	S-LIVB
+Zebrafish	O
 tif1	O
 gamma	O
 
@@ -18927,7 +18927,7 @@ the	O
 mon	O
 locus	O
 on	O
-zebrafish	S-LIVB
+zebrafish	O
 Chromosome	O
 8	O
 .	O
@@ -19018,7 +19018,7 @@ libraries	O
 and	O
 to	O
 identify	O
-zebrafish	S-LIVB
+zebrafish	O
 tif1	O
 gamma	O
 cDNAs	O
@@ -19050,12 +19050,12 @@ generated	O
 phylogentic	O
 tree	O
 of	O
-zebrafish	S-LIVB
+zebrafish	O
 (	O
-Danio	B-LIVB
-rerio	E-LIVB
+Danio	O
+rerio	O
 [	O
-Dr	S-LIVB
+Dr	O
 ]	O
 )	O
 Tif1	O
@@ -19072,9 +19072,9 @@ TIF1	O
 family	O
 members	O
 :	O
-human	S-LIVB
+human	O
 (	O
-Hs	S-LIVB
+Hs	O
 )	O
 TIF1	O
 alpha	O
@@ -19086,9 +19086,9 @@ and	O
 TIF1	O
 gamma	O
 ;	O
-mouse	S-LIVB
+mouse	O
 (	O
-Mm	S-LIVB
+Mm	O
 )	O
 Tif1	O
 alpha	O
@@ -19102,9 +19102,9 @@ gamma	O
 ;	O
 ;	O
 and	O
-fly	S-LIVB
+fly	O
 (	O
-Dm	S-LIVB
+Dm	O
 )	O
 bonus	O
 .	O
@@ -19175,9 +19175,9 @@ of	O
 these	O
 domains	O
 in	O
-zebrafish	S-LIVB
+zebrafish	O
 and	O
-human	S-LIVB
+human	O
 TIF1	O
 gamma	O
 .	O
@@ -19341,7 +19341,7 @@ blood	O
 island	O
 .	O
 
-Zebrafish	S-LIVB
+Zebrafish	O
 tif1	O
 alpha	O
 is	O
@@ -20263,7 +20263,7 @@ al	O
 2004	O
 )	O
 The	O
-zebrafish	S-LIVB
+zebrafish	O
 moonshine	O
 gene	O
 encodes	O
@@ -24744,7 +24744,7 @@ Moreover	O
 this	O
 region	O
 of	O
-mouse	S-LIVB
+mouse	O
 Chromosome	O
 1	O
 is	O
@@ -24753,7 +24753,7 @@ to	O
 a	O
 region	O
 on	O
-human	S-LIVB
+human	O
 Chromosome	O
 1q22	O
 -	O
@@ -24794,7 +24794,7 @@ region	O
 .	O
 
 The	O
-human	S-LIVB
+human	O
 serum	O
 amyloid	O
 P	O
@@ -25563,7 +25563,7 @@ the	O
 expression	O
 of	O
 the	O
-human	S-LIVB
+human	O
 C	O
 -	O
 reactive	O
@@ -26514,13 +26514,13 @@ using	O
 sheep	S-LIVB
 anti	O
 -	O
-mouse	S-LIVB
+mouse	O
 Apcs	O
 and	O
 rabbit	S-LIVB
 anti	O
 -	O
-mouse	S-LIVB
+mouse	O
 Apcs	O
 Abs	O
 (	O
@@ -37882,9 +37882,9 @@ to	O
 show	O
 that	O
 the	O
-human	S-LIVB
+human	O
 and	O
-worm	S-LIVB
+worm	O
 Ptdsr	O
 molecules	O
 can	O
@@ -38244,7 +38244,7 @@ A	O
 Ptdsr	O
 -	O
 containing	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 (	O
@@ -40587,7 +40587,7 @@ TNF	O
 -	O
 alpha	O
 (	O
-Mouse	S-LIVB
+Mouse	O
 TNF	O
 -	O
 alpha	O
@@ -41021,7 +41021,7 @@ and	O
 II	O
 of	O
 the	O
-murine	S-LIVB
+murine	O
 Ptdsr	O
 gene	O
 through	O
@@ -43269,7 +43269,7 @@ regulatory	O
 information	O
 from	O
 the	O
-mouse	S-LIVB
+mouse	O
 Gdf5	O
 gene	O
 (	O
@@ -43310,7 +43310,7 @@ Cre	O
 recombinase	O
 from	O
 Gdf5	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 clones	O
@@ -44769,7 +44769,7 @@ formation	O
 .	O
 
 A	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 (	O
@@ -44801,7 +44801,7 @@ site	O
 IRES	O
 )	O
 -	O
-human	S-LIVB
+human	O
 placental	O
 alkaline	O
 phosphatase	O
@@ -49349,7 +49349,7 @@ receptor	O
 and	O
 in	O
 the	O
-human	S-LIVB
+human	O
 Noggin	O
 locus	O
 (	O
@@ -53081,7 +53081,7 @@ were	O
 goat	S-LIVB
 anti	O
 -	O
-mouse	S-LIVB
+mouse	O
 MMP13	O
 ,	O
 1	O
@@ -53102,7 +53102,7 @@ States	O
 rabbit	S-LIVB
 anti	O
 -	O
-human	S-LIVB
+human	O
 SOX9	O
 ,	O
 1	O
@@ -53377,7 +53377,7 @@ Abbreviations	O
 
 BAC	O
 -	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 
@@ -53427,7 +53427,7 @@ factor	O
 
 hPLAP	O
 -	O
-human	S-LIVB
+human	O
 placental	O
 alkaline	O
 phosphatase	O
@@ -57944,7 +57944,7 @@ were	O
 set	O
 up	O
 using	O
-bovine	S-LIVB
+bovine	O
 serum	O
 albumin	O
 (	O
@@ -62484,7 +62484,7 @@ factor	O
 
 BSA	O
 -	O
-bovine	S-LIVB
+bovine	O
 serum	O
 albumin	O
 
@@ -63987,7 +63987,7 @@ and	O
 helicase	O
 actions	O
 of	O
-mouse	S-LIVB
+mouse	O
 MCM4	O
 /	O
 6	O
@@ -64365,9 +64365,9 @@ this	O
 group	O
 ,	O
 including	O
-simian	B-LIVB
-virus	I-LIVB
-40	E-LIVB
+simian	O
+virus	O
+40	O
 large	O
 T	O
 -	O
@@ -64594,10 +64594,10 @@ the	O
 processivity	O
 of	O
 the	O
-Schizosaccharomyces	B-LIVB
-pombe	E-LIVB
+Schizosaccharomyces	O
+pombe	O
 and	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -64770,7 +64770,7 @@ and	O
 DNA	O
 binding	O
 of	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -64931,7 +64931,7 @@ stranded	O
 circular	O
 DNA	O
 ,	O
-T4	S-LIVB
+T4	O
 polynucleotide	O
 kinase	O
 ,	O
@@ -64970,7 +64970,7 @@ from	O
 Sigma	O
 .	O
 
-SV40	S-LIVB
+SV40	O
 T	O
 -	O
 antigen	O
@@ -65047,7 +65047,7 @@ Expression	O
 and	O
 purification	O
 of	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -66718,7 +66718,7 @@ a	O
 manner	O
 similar	O
 to	O
-SV40	S-LIVB
+SV40	O
 T	O
 -	O
 antigen	O
@@ -68326,7 +68326,7 @@ order	O
 to	O
 examine	O
 whether	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -68670,7 +68670,7 @@ and	O
 the	O
 unwinding	O
 by	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -69052,7 +69052,7 @@ tracts	O
 derived	O
 from	O
 the	O
-human	S-LIVB
+human	O
 lamin	O
 B2	O
 origin	O
@@ -69143,7 +69143,7 @@ element	O
 region	O
 of	O
 the	O
-human	S-LIVB
+human	O
 c	O
 -	O
 myc	O
@@ -69659,7 +69659,7 @@ was	O
 readily	O
 displaced	O
 by	O
-SV40	S-LIVB
+SV40	O
 T	O
 -	O
 antigen	O
@@ -70366,7 +70366,7 @@ and	O
 helicase	O
 actions	O
 of	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -70599,7 +70599,7 @@ DNA	O
 ,	O
 similar	O
 to	O
-SV40	S-LIVB
+SV40	O
 T	O
 -	O
 antigen	O
@@ -70833,7 +70833,7 @@ solved	O
 structure	O
 of	O
 the	O
-SV40	S-LIVB
+SV40	O
 large	O
 T	O
 -	O
@@ -71025,7 +71025,7 @@ The	O
 ability	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -71612,7 +71612,7 @@ was	O
 readily	O
 displaced	O
 by	O
-SV40	S-LIVB
+SV40	O
 T	O
 -	O
 antigen	O
@@ -72752,7 +72752,7 @@ and	O
 helicase	O
 actions	O
 of	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -72786,7 +72786,7 @@ assays	O
 were	O
 performed	O
 with	O
-mouse	S-LIVB
+mouse	O
 Mcm4	O
 /	O
 6	O
@@ -73597,7 +73597,7 @@ sequences	O
 derived	O
 from	O
 the	O
-human	S-LIVB
+human	O
 c	O
 -	O
 myc	O
@@ -73876,7 +73876,7 @@ B	O
 50	O
 ng	O
 of	O
-SV40	S-LIVB
+SV40	O
 T	O
 -	O
 antigen	O
@@ -74766,7 +74766,7 @@ mouse	S-LIVB
 Inactivation	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 HD	O
 gene	O
 (	O
@@ -74877,7 +74877,7 @@ homozygous	O
 inactivation	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 HD	O
 gene	O
 does	O
@@ -80360,7 +80360,7 @@ inactivating	O
 mutation	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 HD	O
 gene	O
 homologue	O
@@ -80881,7 +80881,7 @@ disease	O
 ;	O
 Hdh	O
 ,	O
-mouse	S-LIVB
+mouse	O
 HD	O
 gene	O
 homologue	O
@@ -83909,7 +83909,7 @@ Stable	O
 cell	O
 lines	O
 expressing	O
-mouse	S-LIVB
+mouse	O
 wild	O
 -	O
 type	O
@@ -85200,7 +85200,7 @@ linked	O
 Avpr2	O
 gene	O
 in	O
-mice	S-LIVB
+mice	O
 [	O
 15	O
 ]	O
@@ -85260,7 +85260,7 @@ osmolality	O
 Knockout	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Aqp2	O
 gene	O
 has	O
@@ -86395,7 +86395,7 @@ complete	O
 coding	O
 sequence	O
 of	O
-mouse	S-LIVB
+mouse	O
 AQP2	O
 from	O
 an	O
@@ -88469,7 +88469,7 @@ Amino	O
 acid	O
 conservation	O
 of	O
-mouse	S-LIVB
+mouse	O
 AQP2	O
 (	O
 residues	O
@@ -88491,27 +88491,27 @@ position	O
 
 hAQP2	O
 ,	O
-human	S-LIVB
+human	O
 AQP2	O
 ;	O
 mAQP1	O
 ,	O
-mouse	S-LIVB
+mouse	O
 AQP1	O
 ;	O
 mAQP2	O
 ,	O
-mouse	S-LIVB
+mouse	O
 AQP2	O
 ;	O
 rAQP2	O
 ,	O
-rat	S-LIVB
+rat	O
 AQP2	O
 ;	O
 xAQP2	O
 ,	O
-Xenopus	S-LIVB
+Xenopus	O
 AQP2	O
 .	O
 
@@ -89103,7 +89103,7 @@ transfected	O
 with	O
 constructs	O
 encoding	O
-mouse	S-LIVB
+mouse	O
 WT	O
 or	O
 AQP2	O
@@ -103536,7 +103536,7 @@ BglII	O
 -	O
 digested	O
 genomic	O
-mouse	S-LIVB
+mouse	O
 DNA	O
 of	O
 four	O
@@ -107301,7 +107301,7 @@ MREd	O
 MRE	O
 derived	O
 from	O
-mouse	S-LIVB
+mouse	O
 Mt1	O
 promoter	O
 (	O
@@ -107592,11 +107592,11 @@ expression	O
 plasmid	O
 coding	O
 for	O
-simian	B-LIVB
-virus	I-LIVB
-40	E-LIVB
+simian	O
+virus	O
+40	O
 (	O
-SV40	S-LIVB
+SV40	O
 )	O
 large	O
 T	O
@@ -108058,7 +108058,7 @@ the	O
 control	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Mx1	O
 gene	O
 promoter	O
@@ -109197,7 +109197,7 @@ region	O
 upstream	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Sepw1	O
 transcription	O
 start	O
@@ -109478,7 +109478,7 @@ located	O
 upstream	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Ndrg1	O
 transcription	O
 start	O
@@ -110128,7 +110128,7 @@ just	O
 upstream	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Slc39a10	O
 transcription	O
 start	O
@@ -110942,7 +110942,7 @@ this	O
 ectopic	O
 expression	O
 of	O
-mouse	S-LIVB
+mouse	O
 Sepw1	O
 renders	O
 cells	O
@@ -110985,7 +110985,7 @@ gene	O
 fused	O
 to	O
 a	O
-rat	S-LIVB
+rat	O
 Sepw1	O
 promoter	O
 fragment	O
@@ -111021,7 +111021,7 @@ located	O
 proximal	O
 to	O
 the	O
-rat	S-LIVB
+rat	O
 Sepw1	O
 transcription	O
 start	O
@@ -111068,7 +111068,7 @@ the	O
 basal	O
 expression	O
 of	O
-mouse	S-LIVB
+mouse	O
 Sepw1	O
 by	O
 binding	O
@@ -111114,7 +111114,7 @@ represses	O
 the	O
 expression	O
 of	O
-mouse	S-LIVB
+mouse	O
 Ndrg1	O
 (	O
 51	O
@@ -111302,11 +111302,11 @@ start	O
 
 Studies	O
 with	O
-human	S-LIVB
+human	O
 ,	O
-avian	S-LIVB
+avian	O
 and	O
-chicken	S-LIVB
+chicken	O
 CSRP1	O
 have	O
 shown	O
@@ -111651,7 +111651,7 @@ metal	O
 induction	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Znt1	O
 gene	O
 (	O
@@ -112113,7 +112113,7 @@ supporting	O
 a	O
 role	O
 of	O
-mouse	S-LIVB
+mouse	O
 MTF	O
 -	O
 1	O
@@ -115692,9 +115692,9 @@ were	O
 reverse	O
 transcribed	O
 using	O
-M	B-LIVB
--	I-LIVB
-MLV	E-LIVB
+M	O
+-	O
+MLV	O
 reverse	O
 transcriptase	O
 and	O
@@ -120888,7 +120888,7 @@ States	O
 and	O
 then	O
 ligating	O
-mouse	S-LIVB
+mouse	O
 APP	O
 with	O
 a	O
@@ -121884,7 +121884,7 @@ tet	O
 reverse	O
 within	O
 the	O
-HSV1	S-LIVB
+HSV1	O
 VP16	O
 (	O
 CAT	O
@@ -121936,7 +121936,7 @@ J	O
 specific	O
 to	O
 the	O
-mouse	S-LIVB
+mouse	O
 PrP	O
 open	O
 reading	O
@@ -129388,12 +129388,12 @@ mice	S-LIVB
 that	O
 express	O
 P301L	O
-human	S-LIVB
+human	O
 tau	O
 via	O
 a	O
 similar	O
-vector	S-LIVB
+vector	O
 system	O
 [	O
 61	O
@@ -132132,7 +132132,7 @@ mo	S-LIVB
 /	O
 huAPP695	O
 -	O
-mouse	S-LIVB
+mouse	O
 APP	O
 with	O
 a	O
@@ -145090,7 +145090,7 @@ genomic	O
 clones	O
 containing	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -145132,12 +145132,12 @@ gene	O
 We	O
 identified	O
 several	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 clones	O
 containing	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -145318,7 +145318,7 @@ differentiation	O
 Conclusion	O
 
 The	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 ,	O
@@ -145698,7 +145698,7 @@ genomic	O
 clones	O
 containing	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -145760,7 +145760,7 @@ chromosomal	O
 localizations	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -145817,7 +145817,7 @@ localization	O
 and	O
 structures	O
 of	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -145830,7 +145830,7 @@ chromosomal	O
 localizations	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -146131,7 +146131,7 @@ gene	O
 we	O
 screened	O
 the	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 (	O
@@ -146687,7 +146687,7 @@ Targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 
@@ -146814,7 +146814,7 @@ Targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 .	O
@@ -147959,13 +147959,13 @@ BAC	O
 clones	O
 containing	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 
 To	O
 identify	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 (	O
@@ -147973,7 +147973,7 @@ BAC	O
 )	O
 clones	O
 containing	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 ,	O
@@ -148131,7 +148131,7 @@ the	O
 region	O
 containing	O
 the	O
-mouse	S-LIVB
+mouse	O
 ESG1	O
 gene	O
 and	O
@@ -150943,7 +150943,7 @@ with	O
 100	O
 mu	O
 g	O
-rat	S-LIVB
+rat	O
 collagen	O
 type	O
 II	O
@@ -151708,7 +151708,7 @@ degrees	O
 C	O
 .	O
 
-Bovine	S-LIVB
+Bovine	O
 serum	O
 albumin	O
 (	O
@@ -154063,7 +154063,7 @@ gland	O
 and	O
 is	O
 designated	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -154850,7 +154850,7 @@ addition	O
 ,	O
 mutations	O
 of	O
-human	S-LIVB
+human	O
 CRX	O
 have	O
 been	O
@@ -155330,7 +155330,7 @@ Results	O
 
 Cloning	O
 of	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -155628,7 +155628,7 @@ Fig	O
 )	O
 .	O
 
-Mouse	S-LIVB
+Mouse	O
 mr	O
 -	O
 s	O
@@ -155659,7 +155659,7 @@ and	O
 %	O
 identity	O
 with	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -155676,13 +155676,13 @@ The	O
 SAM	O
 domains	O
 of	O
-rat	S-LIVB
+rat	O
 ,	O
-human	S-LIVB
+human	O
 ,	O
-chick	S-LIVB
+chick	O
 and	O
-zebrafish	S-LIVB
+zebrafish	O
 mr	O
 -	O
 s	O
@@ -155709,7 +155709,7 @@ the	O
 SAM	O
 domain	O
 of	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -155720,9 +155720,9 @@ The	O
 chromosomal	O
 localizations	O
 of	O
-mouse	S-LIVB
+mouse	O
 and	O
-human	S-LIVB
+human	O
 mr	O
 -	O
 s	O
@@ -155744,7 +155744,7 @@ NCBI	O
 respectively	O
 .	O
 
-Mouse	S-LIVB
+Mouse	O
 mr	O
 -	O
 s	O
@@ -155755,7 +155755,7 @@ chromosome	O
 4E2	O
 ,	O
 and	O
-human	S-LIVB
+human	O
 MR	O
 -	O
 S	O
@@ -155780,7 +155780,7 @@ childhood	O
 blindness	O
 .	O
 
-Human	S-LIVB
+Human	O
 MR	O
 -	O
 S	O
@@ -155978,15 +155978,15 @@ amino	O
 acid	O
 sequences	O
 for	O
-mouse	S-LIVB
+mouse	O
 ,	O
-rat	S-LIVB
+rat	O
 ,	O
-human	S-LIVB
+human	O
 ,	O
-chick	S-LIVB
+chick	O
 and	O
-zebrafish	S-LIVB
+zebrafish	O
 mr	O
 -	O
 s	O
@@ -156782,7 +156782,7 @@ pairs	O
 for	O
 genes	O
 encoding	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -157160,7 +157160,7 @@ using	O
 a	O
 probe	O
 for	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -158481,7 +158481,7 @@ proteins	O
 used	O
 in	O
 the	O
-yeast	S-LIVB
+yeast	O
 GAL4	O
 assay	O
 .	O
@@ -160344,7 +160344,7 @@ C	O
 terminal	O
 region	O
 of	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -160405,7 +160405,7 @@ C	O
 terminal	O
 region	O
 of	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -160750,15 +160750,15 @@ C	O
 terminal	O
 regions	O
 for	O
-mouse	S-LIVB
+mouse	O
 ,	O
-rat	S-LIVB
+rat	O
 ,	O
-human	S-LIVB
+human	O
 ,	O
-chick	S-LIVB
+chick	O
 and	O
-zebrafish	S-LIVB
+zebrafish	O
 mr	O
 -	O
 s	O
@@ -161810,7 +161810,7 @@ the	O
 other	O
 hand	O
 ,	O
-human	S-LIVB
+human	O
 lethal	O
 (	O
 3	O
@@ -161852,7 +161852,7 @@ the	O
 repressor	O
 activity	O
 of	O
-H	S-LIVB
+H	O
 -	O
 L	O
 (	O
@@ -162503,7 +162503,7 @@ Conclusion	O
 Here	O
 we	O
 identified	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -162640,7 +162640,7 @@ Methods	O
 
 Isolation	O
 of	O
-mouse	S-LIVB
+mouse	O
 mr	O
 -	O
 s	O
@@ -163215,7 +163215,7 @@ AY458844	O
 Primer	O
 pairs	O
 for	O
-mouse	S-LIVB
+mouse	O
 G3PDH	O
 were	O
 5	O
@@ -164014,7 +164014,7 @@ containing	O
 .	O
 1	O
 %	O
-bovine	S-LIVB
+bovine	O
 serum	O
 albumin	O
 (	O
@@ -166044,7 +166044,7 @@ Figure	O
 Targeting	O
 of	O
 the	O
-Mouse	S-LIVB
+Mouse	O
 Xpd	O
 Gene	O
 
@@ -166066,7 +166066,7 @@ the	O
 wt	O
 and	O
 targeted	O
-mouse	S-LIVB
+mouse	O
 Xpd	O
 loci	O
 .	O
@@ -166130,7 +166130,7 @@ pair	O
 (	O
 bp	O
 )	O
-human	S-LIVB
+human	O
 XPD	O
 cDNA	O
 fragment	O
@@ -166503,7 +166503,7 @@ a	O
 4	O
 -	O
 kb	O
-mouse	S-LIVB
+mouse	O
 Xpd	O
 cDNA	O
 probe	O
@@ -170928,9 +170928,9 @@ viability	O
 in	O
 the	O
 haploid	O
-S	B-LIVB
-.	I-LIVB
-pombe	E-LIVB
+S	O
+.	O
+pombe	O
 rad15	O
 deletion	O
 strain	O
@@ -174367,7 +174367,7 @@ using	O
 sheep	S-LIVB
 -	O
 anti	O
-mouse	S-LIVB
+mouse	O
 PAI	O
 -	O
 1	O
@@ -174380,7 +174380,7 @@ the	O
 capture	O
 antibody	O
 and	O
-mouse	S-LIVB
+mouse	O
 PAI	O
 -	O
 1	O
@@ -174449,7 +174449,7 @@ used	O
 
 Functionally	O
 active	O
-mouse	S-LIVB
+mouse	O
 alpha	O
 2	O
 -	O
@@ -179792,7 +179792,7 @@ allelic	O
 forms	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Plg	O
 gene	O
 have	O
@@ -185992,7 +185992,7 @@ dilution	O
 Antibodies	O
 anti	O
 -	O
-mouse	S-LIVB
+mouse	O
 p150CAF1	O
 [	O
 16	O
