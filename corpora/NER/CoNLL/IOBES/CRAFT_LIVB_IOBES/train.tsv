@@ -3808,7 +3808,7 @@ allelic	O
 variation	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 Myoc	O
 gene	O
 associated	O
@@ -6957,7 +6957,7 @@ secretion	O
 but	O
 that	O
 functional	O
-mouse	S-LIVB
+mouse	O
 CAIV	O
 is	O
 sufficient	O
@@ -8249,7 +8249,7 @@ proximal	O
 promoter	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Myoc	O
 gene	O
 were	O
@@ -10018,7 +10018,7 @@ eight	O
 BRC	O
 repeats	O
 from	O
-human	S-LIVB
+human	O
 BRCA2	O
 .	O
 
@@ -11831,7 +11831,7 @@ the	O
 bacterial	S-LIVB
 lacZ	O
 or	O
-human	S-LIVB
+human	O
 placental	O
 alkaline	O
 phosphatase	O
@@ -15149,7 +15149,7 @@ increased	O
 translation	O
 efficiency	O
 in	O
-eukaryotic	S-LIVB
+eukaryotic	O
 cells	O
 [	O
 17	O
@@ -15206,7 +15206,7 @@ DsRed	O
 pCAGGS	O
 contains	O
 the	O
-chicken	S-LIVB
+chicken	O
 beta	O
 -	O
 actin	O
@@ -15223,7 +15223,7 @@ early	O
 enhancer	O
 ,	O
 and	O
-rabbit	S-LIVB
+rabbit	O
 beta	O
 -	O
 globin	O
@@ -15809,7 +15809,7 @@ Miyazaki	O
 for	O
 the	O
 pCAGGS	O
-plasmid	S-LIVB
+plasmid	O
 .	O
 
 A	O
@@ -22395,7 +22395,7 @@ adulthood	O
 Quantitative	O
 data	O
 on	O
-human	S-LIVB
+human	O
 Pou4f3	O
 cochleae	O
 is	O
@@ -30544,7 +30544,7 @@ mab	O
 217	O
 directed	O
 against	O
-mouse	S-LIVB
+mouse	O
 annexin	O
 A7	O
 core	O
@@ -42475,11 +42475,11 @@ were	O
 observed	O
 between	O
 the	O
-human	S-LIVB
+human	O
 ACDP2	O
 and	O
 the	O
-mouse	S-LIVB
+mouse	O
 Acdp2	O
 gene	O
 (	O
@@ -43167,7 +43167,7 @@ in	O
 bacteria	S-LIVB
 CorC	O
 and	O
-yeast	S-LIVB
+yeast	O
 Amip3	O
 proteins	O
 .	O
@@ -44306,7 +44306,7 @@ bacteria	S-LIVB
 CorC	O
 protein	O
 and	O
-yeast	S-LIVB
+yeast	O
 Amip3	O
 protein	O
 .	O
@@ -46109,7 +46109,7 @@ characterized	O
 by	O
 increased	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 .	O
@@ -46239,7 +46239,7 @@ increased	O
 plasma	O
 and	O
 tissue	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 (	O
@@ -46470,7 +46470,7 @@ cholesterol	O
 sterols	O
 ,	O
 mainly	O
-plant	S-LIVB
+plant	O
 sterols	O
 ,	O
 of	O
@@ -46633,7 +46633,7 @@ elevated	O
 blood	O
 and	O
 tissue	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 [	O
@@ -46675,7 +46675,7 @@ have	O
 diagnostically	O
 elevated	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 (	O
@@ -47388,7 +47388,7 @@ mice	S-LIVB
 A	O
 mouse	S-LIVB
 genomic	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 (	O
@@ -47426,7 +47426,7 @@ from	O
 the	O
 sequences	O
 of	O
-mouse	S-LIVB
+mouse	O
 Abcg5	O
 and	O
 Abcg8	O
@@ -47707,7 +47707,7 @@ the	O
 targeting	O
 construct	O
 in	O
-mouse	S-LIVB
+mouse	O
 Abcg8	O
 intron	O
 6	O
@@ -51943,7 +51943,7 @@ deficient	O
 animals	S-LIVB
 
 Elevated	O
-plant	S-LIVB
+plant	O
 sterols	O
 in	O
 tissue	O
@@ -52042,7 +52042,7 @@ Table	O
 )	O
 .	O
 
-Plant	S-LIVB
+Plant	O
 sterols	O
 were	O
 almost	O
@@ -52144,7 +52144,7 @@ difference	O
 in	O
 the	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 between	O
@@ -52307,7 +52307,7 @@ of	O
 liver	O
 cholesterol	O
 or	O
-plant	S-LIVB
+plant	O
 sterol	O
 contents	O
 between	O
@@ -52377,7 +52377,7 @@ were	O
 only	O
 traces	O
 of	O
-plant	S-LIVB
+plant	O
 sterols	O
 in	O
 the	O
@@ -52402,7 +52402,7 @@ of	O
 the	O
 elevated	O
 tissue	O
-plant	S-LIVB
+plant	O
 sterols	O
 are	O
 unesterified	O
@@ -53033,7 +53033,7 @@ likely	O
 that	O
 the	O
 elevated	O
-plant	S-LIVB
+plant	O
 sterols	O
 in	O
 the	O
@@ -53110,7 +53110,7 @@ A	O
 robust	O
 antibody	O
 to	O
-mouse	S-LIVB
+mouse	O
 Abcg8	O
 /	O
 sterolin	O
@@ -53133,7 +53133,7 @@ rabbit	S-LIVB
 polyclonal	O
 antibody	O
 to	O
-mouse	S-LIVB
+mouse	O
 Abcg5	O
 /	O
 sterolin	O
@@ -53448,7 +53448,7 @@ recognized	O
 over	O
 -	O
 expressed	O
-mouse	S-LIVB
+mouse	O
 Abcg5	O
 /	O
 sterolin	O
@@ -53462,7 +53462,7 @@ cells	O
 ,	O
 but	O
 not	O
-mouse	S-LIVB
+mouse	O
 Abcg8	O
 /	O
 sterolin	O
@@ -53911,7 +53911,7 @@ to	O
 secrete	O
 cholesterol	O
 and	O
-plant	S-LIVB
+plant	O
 sterols	O
 into	O
 bile	O
@@ -54877,7 +54877,7 @@ the	O
 bile	O
 suggests	O
 that	O
-plant	S-LIVB
+plant	O
 sterols	O
 may	O
 be	O
@@ -54986,7 +54986,7 @@ simultaneously	O
 Plasma	O
 and	O
 hepatic	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 in	O
@@ -55144,7 +55144,7 @@ increase	O
 in	O
 non	O
 -	O
-plant	S-LIVB
+plant	O
 sterols	O
 leads	O
 to	O
@@ -55364,7 +55364,7 @@ but	O
 not	O
 necessary	O
 for	O
-plant	S-LIVB
+plant	O
 sterol	O
 secretion	O
 .	O
@@ -55631,7 +55631,7 @@ in	O
 tissue	O
 and	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 in	O
@@ -55652,7 +55652,7 @@ animals	S-LIVB
 on	O
 a	O
 high	O
-plant	S-LIVB
+plant	O
 sterol	O
 diet	O
 and	O
@@ -55803,7 +55803,7 @@ genetic	O
 screen	O
 of	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 ,	O
@@ -55821,7 +55821,7 @@ responsible	O
 for	O
 controlling	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 and	O
@@ -55858,7 +55858,7 @@ involved	O
 in	O
 regulating	O
 plasma	O
-plant	S-LIVB
+plant	O
 sterol	O
 levels	O
 .	O
@@ -57838,7 +57838,7 @@ Figure	O
 Immunohistochemical	O
 evaluation	O
 of	O
-mouse	S-LIVB
+mouse	O
 Abcg5	O
 /	O
 sterolin	O
@@ -57861,12 +57861,12 @@ transfected	O
 with	O
 pCMV	O
 -	O
-mouse	S-LIVB
+mouse	O
 Abcg5	O
 or	O
 pCMV	O
 -	O
-mouse	S-LIVB
+mouse	O
 Abcg8	O
 constructs	O
 ,	O
@@ -58251,7 +58251,7 @@ Figure	O
 Immunohistochemical	O
 evaluation	O
 of	O
-mouse	S-LIVB
+mouse	O
 Abcg5	O
 /	O
 sterolin	O
@@ -59628,7 +59628,7 @@ targeted	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Slc26a4	O
 gene	O
 [	O
@@ -59986,7 +59986,7 @@ TX	O
 and	O
 10	O
 %	O
-bovine	S-LIVB
+bovine	O
 serum	O
 albumin	O
 .	O
@@ -66839,7 +66839,7 @@ the	O
 2	O
 -	O
 kb	O
-human	S-LIVB
+human	O
 alpha	O
 -	O
 skeletal	O
@@ -69103,7 +69103,7 @@ N	O
 -	O
 terminus	O
 of	O
-mouse	S-LIVB
+mouse	O
 PPAR	O
 delta	O
 .	O
@@ -69120,7 +69120,7 @@ placed	O
 downstream	O
 of	O
 the	O
-human	S-LIVB
+human	O
 alpha	O
 -	O
 skeletal	O
@@ -72010,7 +72010,7 @@ temperature	O
 -	O
 sensitive	O
 tsA58	O
-SV40	S-LIVB
+SV40	O
 large	O
 T	O
 antigen	O
@@ -72091,7 +72091,7 @@ shown	O
 As	O
 expected	O
 ,	O
-SV40	S-LIVB
+SV40	O
 large	O
 T	O
 antigen	O
@@ -76584,7 +76584,7 @@ ml	O
 Chemicon	O
 )	O
 ;	O
-SV40	S-LIVB
+SV40	O
 T	O
 antigen	O
 (	O
@@ -77775,7 +77775,7 @@ minutes	O
 ,	O
 2	O
 %	O
-bovine	S-LIVB
+bovine	O
 serum	O
 albumin	O
 (	O
@@ -84083,7 +84083,7 @@ initiation	O
 site	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Snail	O
 gene	O
 .	O
@@ -86913,7 +86913,7 @@ e	O
 Madin	O
 -	O
 Darby	O
-canine	S-LIVB
+canine	O
 kidney	O
 ,	O
 or	O
@@ -87549,7 +87549,7 @@ States	O
 .	O
 
 Recombinant	O
-human	S-LIVB
+human	O
 TGF	O
 -	O
 beta	O
@@ -97157,7 +97157,7 @@ one	O
 hypomorphic	O
 allele	O
 of	O
-Drosophila	S-LIVB
+Drosophila	O
 otd	O
 ,	O
 otduvi	O
@@ -97915,9 +97915,9 @@ a	O
 homologue	O
 of	O
 the	O
-C	B-LIVB
-.	I-LIVB
-elegans	E-LIVB
+C	O
+.	O
+elegans	O
 Unc119	O
 gene	O
 )	O
@@ -100302,7 +100302,7 @@ nucleotide	O
 polymorphisms	O
 within	O
 the	O
-human	S-LIVB
+human	O
 PGC	O
 -	O
 1	O
@@ -100514,7 +100514,7 @@ and	O
 5	O
 of	O
 the	O
-murine	S-LIVB
+murine	O
 PGC	O
 -	O
 1	O
@@ -110359,7 +110359,7 @@ an	O
 IP	O
 injection	O
 of	O
-human	S-LIVB
+human	O
 regular	O
 insulin	O
 (	O
@@ -113669,7 +113669,7 @@ A	O
 region	O
 of	O
 the	O
-murine	S-LIVB
+murine	O
 PGC	O
 -	O
 1	O
@@ -123769,7 +123769,7 @@ the	O
 core	O
 domain	O
 of	O
-mouse	S-LIVB
+mouse	O
 Annexin	O
 A7	O
 [	O
@@ -123806,7 +123806,7 @@ a	O
 polyclonal	O
 antibody	O
 against	O
-mouse	S-LIVB
+mouse	O
 Annexin	O
 A7	O
 [	O
@@ -131060,7 +131060,7 @@ genomic	O
 structure	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 PV	O
 locus	O
 see	O
@@ -131600,13 +131600,13 @@ probes	O
 ]	O
 directed	O
 against	O
-mouse	S-LIVB
+mouse	O
 TrkA	O
 or	O
 TrkB	O
 ,	O
 or	O
-rat	S-LIVB
+rat	O
 TrkC	O
 (	O
 gift	O
@@ -138223,7 +138223,7 @@ In	O
 the	O
 case	O
 of	O
-human	S-LIVB
+human	O
 ADAM22	O
 ,	O
 isolation	O
@@ -138276,7 +138276,7 @@ the	O
 long	O
 form	O
 of	O
-mouse	S-LIVB
+mouse	O
 ADAM22	O
 transcripts	O
 ,	O
@@ -138309,7 +138309,7 @@ contained	O
 most	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Adam22	O
 gene	O
 .	O
@@ -138333,7 +138333,7 @@ were	O
 quite	O
 similar	O
 to	O
-human	S-LIVB
+human	O
 ADAM22	O
 isoform	O
 1	O
@@ -139599,7 +139599,7 @@ neuropathy	O
 .	O
 
 The	O
-human	S-LIVB
+human	O
 ADAM22	O
 gene	O
 is	O
@@ -139739,7 +139739,7 @@ a	O
 mutation	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 Adam22	O
 gene	O
 ,	O
@@ -140059,7 +140059,7 @@ domain	O
 cp	O
 )	O
 of	O
-human	S-LIVB
+human	O
 ADAM22	O
 isoform	O
 1	O
@@ -140213,9 +140213,9 @@ purified	O
 antibody	O
 ,	O
 both	O
-human	S-LIVB
+human	O
 and	O
-mouse	S-LIVB
+mouse	O
 ADAM22	O
 proteins	O
 were	O
@@ -141212,7 +141212,7 @@ Briefly	O
 610	O
 bp	O
 of	O
-mouse	S-LIVB
+mouse	O
 ADAM22	O
 cDNA	O
 (	O
@@ -141261,7 +141261,7 @@ probes	O
 were	O
 generated	O
 by	O
-T7	S-LIVB
+T7	O
 RNA	O
 polymerase	O
 and	O
@@ -142441,7 +142441,7 @@ Exon	O
 organization	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Adam22	O
 gene	O
 is	O
@@ -142460,7 +142460,7 @@ transcript	O
 orthologous	O
 to	O
 the	O
-human	S-LIVB
+human	O
 ADAM22	O
 isoform	O
 1	O
@@ -143482,7 +143482,7 @@ backgrounds	O
 a	O
 region	O
 on	O
-mouse	S-LIVB
+mouse	O
 chromosome	O
 7	O
 was	O
@@ -143527,7 +143527,7 @@ the	O
 syntenic	O
 region	O
 of	O
-human	S-LIVB
+human	O
 chromosome	O
 19q13	O
 were	O
@@ -143556,7 +143556,7 @@ work	O
 a	O
 region	O
 on	O
-mouse	S-LIVB
+mouse	O
 chr	O
 .	O
 
@@ -147259,7 +147259,7 @@ weight	O
 Cfbw1	O
 ,	O
 CF	O
-mouse	S-LIVB
+mouse	O
 body	O
 weight	O
 at	O
@@ -150770,7 +150770,7 @@ as	O
 that	O
 portion	O
 of	O
-mouse	S-LIVB
+mouse	O
 chromosome	O
 6	O
 that	O
@@ -155372,7 +155372,7 @@ Heterozygous	O
 mutations	O
 of	O
 the	O
-human	S-LIVB
+human	O
 PAX6	O
 gene	O
 cause	O
@@ -156685,7 +156685,7 @@ was	O
 fused	O
 to	O
 the	O
-yeast	S-LIVB
+yeast	O
 GAL4	O
 DNA	O
 binding	O
@@ -160065,7 +160065,7 @@ C	O
 -	O
 terminus	O
 of	O
-human	S-LIVB
+human	O
 PAX6	O
 were	O
 aligned	O
@@ -160109,7 +160109,7 @@ is	O
 based	O
 on	O
 the	O
-human	S-LIVB
+human	O
 PAX6	O
 cDNA	O
 and	O
@@ -160119,7 +160119,7 @@ sequences	O
 available	O
 from	O
 the	O
-Human	S-LIVB
+Human	O
 PAX6	O
 Allelic	O
 Variant	O
@@ -160166,7 +160166,7 @@ protein	O
 fused	O
 to	O
 the	O
-yeast	S-LIVB
+yeast	O
 GAL4	O
 DNA	O
 binding	O
@@ -160577,7 +160577,7 @@ proteins	O
 fused	O
 to	O
 the	O
-yeast	S-LIVB
+yeast	O
 GAL4	O
 activation	O
 domain	O
@@ -161555,7 +161555,7 @@ not	O
 been	O
 reported	O
 in	O
-human	S-LIVB
+human	O
 MCAD	O
 patients	O
 .	O
@@ -161596,7 +161596,7 @@ reproduced	O
 important	O
 aspects	O
 of	O
-human	S-LIVB
+human	O
 MCAD	O
 deficiency	O
 and	O
@@ -162243,7 +162243,7 @@ the	O
 disease	O
 found	O
 in	O
-human	S-LIVB
+human	O
 MCAD	O
 -	O
 deficient	O
@@ -162442,7 +162442,7 @@ for	O
 Disruption	O
 of	O
 the	O
-Mouse	S-LIVB
+Mouse	O
 Acadm	O
 Gene	O
 
@@ -164312,7 +164312,7 @@ different	O
 from	O
 those	O
 of	O
-human	S-LIVB
+human	O
 MCAD	O
 -	O
 deficient	O
@@ -164991,7 +164991,7 @@ indicated	O
 ,	O
 however	O
 ,	O
-mouse	S-LIVB
+mouse	O
 MCAD	O
 is	O
 more	O
@@ -165002,7 +165002,7 @@ chain	O
 substrates	O
 than	O
 the	O
-human	S-LIVB
+human	O
 MCAD	O
 enzyme	O
 .	O
@@ -165027,7 +165027,7 @@ dehydrogenase	O
 VLCAD	O
 )	O
 where	O
-mouse	S-LIVB
+mouse	O
 VLCAD	O
 is	O
 most	O
@@ -165040,7 +165040,7 @@ substrates	O
 as	O
 compared	O
 to	O
-human	S-LIVB
+human	O
 VLCAD	O
 with	O
 the	O
@@ -165382,7 +165382,7 @@ pathological	O
 finding	O
 seen	O
 in	O
-human	S-LIVB
+human	O
 MCAD	O
 patients	O
 with	O
@@ -165431,7 +165431,7 @@ not	O
 been	O
 reported	O
 in	O
-human	S-LIVB
+human	O
 MCAD	O
 patients	O
 ,	O
@@ -165512,7 +165512,7 @@ of	O
 substrate	O
 utilization	O
 of	O
-mouse	S-LIVB
+mouse	O
 MCAD	O
 .	O
 
@@ -166537,7 +166537,7 @@ radiolabeled	O
 full	O
 -	O
 length	O
-mouse	S-LIVB
+mouse	O
 Acadm	O
 cDNA	O
 probe	O
@@ -169356,7 +169356,7 @@ to	O
 348	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Sam68	O
 protein	O
 [	O
@@ -175714,7 +175714,7 @@ base	O
 residues	O
 specific	O
 to	O
-mouse	S-LIVB
+mouse	O
 Sam68	O
 (	O
 GATCCCC	O
@@ -176664,7 +176664,7 @@ acids	O
 -	O
 348	O
 of	O
-mouse	S-LIVB
+mouse	O
 Sam68	O
 ,	O
 anti	O
@@ -178421,7 +178421,7 @@ Capn4	O
 Disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Capn4	O
 gene	O
 abolished	O
@@ -178521,7 +178521,7 @@ coding	O
 region	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 Capn2	O
 gene	O
 in	O
@@ -182612,7 +182612,7 @@ provide	O
 some	O
 activity	O
 in	O
-eukaryotic	S-LIVB
+eukaryotic	O
 cells	O
 ,	O
 although	O
@@ -184246,12 +184246,12 @@ and	O
 sequencing	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Capn2	O
 locus	O
 
 The	O
-mouse	S-LIVB
+mouse	O
 Capn2	O
 gene	O
 encodes	O
@@ -184295,7 +184295,7 @@ a	O
 portion	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 m	O
 -	O
 80	O
@@ -187381,7 +187381,7 @@ hybridisation	O
 methods	O
 that	O
 the	O
-murine	S-LIVB
+murine	O
 Adam11	O
 gene	O
 is	O
@@ -190473,7 +190473,7 @@ a	O
 mutation	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 Adam11	O
 gene	O
 ,	O
@@ -192481,7 +192481,7 @@ control	O
 HA	O
 -	O
 tagged	O
-mouse	S-LIVB
+mouse	O
 ADAM11	O
 protein	O
 expressed	O
@@ -198729,7 +198729,7 @@ in	O
 the	O
 administration	O
 of	O
-human	S-LIVB
+human	O
 Gh	O
 therapeutics	O
 .	O
@@ -204755,7 +204755,7 @@ Wnt4	O
 wingless	O
 -	O
 related	O
-MMTV	S-LIVB
+MMTV	O
 integration	O
 site	O
 4	O
@@ -210063,7 +210063,7 @@ of	O
 the	O
 region	O
 of	O
-human	S-LIVB
+human	O
 Chromosome	O
 1	O
 ,	O
@@ -210886,7 +210886,7 @@ and	O
 rabbit	S-LIVB
 anti	O
 -	O
-mouse	S-LIVB
+mouse	O
 FGF9	O
 (	O
 Cell	O
@@ -220862,7 +220862,7 @@ Interestingly	O
 ,	O
 the	O
 small	O
-yeast	S-LIVB
+yeast	O
 Ran	O
 -	O
 binding	O
@@ -221635,12 +221635,12 @@ alignment	O
 of	O
 murine	S-LIVB
 and	O
-yeast	S-LIVB
+yeast	O
 Cox11	O
 .	O
 
 The	O
-yeast	S-LIVB
+yeast	O
 Cox11	O
 C	O
 -	O
@@ -223498,7 +223498,7 @@ is	O
 generated	O
 ,	O
 while	O
-human	S-LIVB
+human	O
 placental	O
 alkaline	O
 phophatase	O
@@ -223810,7 +223810,7 @@ cell	O
 ;	O
 PLAP	O
 ,	O
-human	S-LIVB
+human	O
 placental	O
 alkaline	O
 phophatase	O
@@ -225635,7 +225635,7 @@ photosensory	O
 neurons	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 retina	O
 [	O
 38	O
@@ -228073,7 +228073,7 @@ assays	O
 The	O
 LD	O
 of	O
-human	S-LIVB
+human	O
 RanBP2	O
 (	O
 residues	O
@@ -228435,7 +228435,7 @@ residues	O
 -	O
 483	O
 of	O
-human	S-LIVB
+human	O
 RanBP2	O
 .	O
 
@@ -229540,7 +229540,7 @@ IRES	O
 )	O
 and	O
 the	O
-human	S-LIVB
+human	O
 placental	O
 alkaline	O
 phosphatase	O
@@ -230098,7 +230098,7 @@ with	O
 the	O
 exception	O
 that	O
-human	S-LIVB
+human	O
 insulin	O
 (	O
 0	O
@@ -253754,7 +253754,7 @@ with	O
 mu	O
 g	O
 of	O
-bovine	S-LIVB
+bovine	O
 Collagen	O
 II	O
 (	O
@@ -259552,7 +259552,7 @@ two	O
 ,	O
 orthologs	O
 of	O
-Drosophila	S-LIVB
+Drosophila	O
 Pygo	O
 ,	O
 Pygo1	O
@@ -259904,7 +259904,7 @@ during	O
 development	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Pygo1	O
 gene	O
 in	O
@@ -266806,7 +266806,7 @@ To	O
 generate	O
 anti	O
 -	O
-human	S-LIVB
+human	O
 Pygo2	O
 (	O
 anti	O
@@ -266816,7 +266816,7 @@ hPygo2	O
 and	O
 anti	O
 -	O
-mouse	S-LIVB
+mouse	O
 Pygo1	O
 (	O
 anti	O
@@ -266841,7 +266841,7 @@ residues	O
 -	O
 327	O
 of	O
-human	S-LIVB
+human	O
 Pygo	O
 2	O
 or	O
@@ -266853,7 +266853,7 @@ residues	O
 -	O
 263	O
 of	O
-mouse	S-LIVB
+mouse	O
 Pygo1	O
 into	O
 pGEX4T1	O
@@ -268167,7 +268167,7 @@ sexual	O
 regulator	O
 Doublesex	O
 of	O
-Drosophila	S-LIVB
+Drosophila	O
 have	O
 been	O
 found	O
@@ -269085,7 +269085,7 @@ doublesex	O
 dsx	O
 )	O
 of	O
-Drosophila	S-LIVB
+Drosophila	O
 ,	O
 which	O
 share	O
@@ -269307,7 +269307,7 @@ fish	E-LIVB
 ]	O
 .	O
 
-Human	S-LIVB
+Human	O
 DMRT1	O
 maps	O
 to	O
@@ -276501,7 +276501,7 @@ mice	S-LIVB
 .	O
 
 A	O
-mouse	S-LIVB
+mouse	O
 Dmrt7	O
 cDNA	O
 fragment	O
@@ -279245,7 +279245,7 @@ Middlebury	O
 College	O
 .	O
 
-Mouse	S-LIVB
+Mouse	O
 Pachytene	O
 Checkpoint	O
 2	O
@@ -279643,7 +279643,7 @@ the	O
 effects	O
 of	O
 deleting	O
-mouse	S-LIVB
+mouse	O
 Trip13	O
 ,	O
 a	O
@@ -283385,7 +283385,7 @@ data	O
 .	O
 
 Because	O
-yeast	S-LIVB
+yeast	O
 PCH2	O
 localizes	O
 to	O
@@ -284803,7 +284803,7 @@ zip2	O
 .	O
 
 Although	O
-mouse	S-LIVB
+mouse	O
 SYCP1	O
 might	O
 be	O
@@ -285558,7 +285558,7 @@ Thus	O
 mutational	O
 analysis	O
 of	O
-mouse	S-LIVB
+mouse	O
 Pch2	O
 (	O
 Trip13	O
@@ -286429,7 +286429,7 @@ be	O
 an	O
 interactor	O
 with	O
-rat	S-LIVB
+rat	O
 thyroid	O
 receptor	O
 beta	O
@@ -286668,7 +286668,7 @@ is	O
 more	O
 similar	O
 to	O
-Arabidopsis	S-LIVB
+Arabidopsis	O
 PCH2	O
 than	O
 the	O
@@ -286827,7 +286827,7 @@ Dot1	O
 (	O
 PCH1	O
 in	O
-yeast	S-LIVB
+yeast	O
 )	O
 ,	O
 a	O
@@ -287849,7 +287849,7 @@ polyclonal	O
 rabbit	S-LIVB
 anti	O
 -	O
-human	S-LIVB
+human	O
 TRIP13	O
 antibody	O
 (	O
@@ -288328,7 +288328,7 @@ mouse	S-LIVB
 -	O
 anti	O
 -	O
-human	S-LIVB
+human	O
 MLH1	O
 (	O
 1	O
@@ -288720,7 +288720,7 @@ of	O
 Conserved	O
 Regions	O
 of	O
-Mouse	S-LIVB
+Mouse	O
 TRIP13	O
 and	O
 Its	O

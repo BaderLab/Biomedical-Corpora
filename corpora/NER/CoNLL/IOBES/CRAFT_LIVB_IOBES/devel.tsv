@@ -3,7 +3,7 @@ and	O
 characterization	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Mcoln1	O
 gene	O
 reveals	O
@@ -801,7 +801,7 @@ a	O
 kb	O
 segment	O
 of	O
-mouse	S-LIVB
+mouse	O
 chromosome	O
 8	O
 syntenous	O
@@ -1029,7 +1029,7 @@ the	O
 Mcoln1	O
 region	O
 of	O
-mouse	S-LIVB
+mouse	O
 chromosome	O
 8	O
 (	O
@@ -1085,7 +1085,7 @@ mouse	S-LIVB
 homologue	O
 of	O
 the	O
-human	S-LIVB
+human	O
 neuropathy	O
 target	O
 esterase	O
@@ -1122,7 +1122,7 @@ region	O
 of	O
 the	O
 homologous	O
-human	S-LIVB
+human	O
 MCOLN1	O
 region	O
 [	O
@@ -1448,7 +1448,7 @@ age	O
 
 Since	O
 the	O
-human	S-LIVB
+human	O
 MCOLN1	O
 gene	O
 encodes	O
@@ -2117,12 +2117,12 @@ of	O
 the	O
 alternatively	O
 spliced	O
-mouse	S-LIVB
+mouse	O
 transcript	O
 to	O
 the	O
 entire	O
-human	S-LIVB
+human	O
 MCOLN1	O
 genomic	O
 sequence	O
@@ -2141,7 +2141,7 @@ Northern	O
 blots	O
 performed	O
 with	O
-human	S-LIVB
+human	O
 MCOLN1	O
 probes	O
 show	O
@@ -2196,7 +2196,7 @@ which	O
 encodes	O
 the	O
 alternate	O
-mouse	S-LIVB
+mouse	O
 transcript	O
 .	O
 
@@ -2226,7 +2226,7 @@ transcript	O
 is	O
 specific	O
 to	O
-murine	S-LIVB
+murine	O
 Mcoln1	O
 .	O
 
@@ -2435,7 +2435,7 @@ lysosomes	O
 .	O
 
 The	O
-mouse	S-LIVB
+mouse	O
 Mcoln1	O
 gene	O
 has	O
@@ -6635,7 +6635,7 @@ by	O
 development	O
 of	O
 a	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 (	O
@@ -9475,7 +9475,7 @@ first	O
 identified	O
 in	O
 the	O
-mouse	S-LIVB
+mouse	O
 Brachyury	O
 gene	O
 (	O
@@ -9846,7 +9846,7 @@ and	O
 map	O
 location	O
 of	O
-mouse	S-LIVB
+mouse	O
 Tbx15	O
 ,	O
 Agulnik	O
@@ -9858,7 +9858,7 @@ al	O
 1998	O
 )	O
 suggested	O
-human	S-LIVB
+human	O
 Tbx15	O
 that	O
 lies	O
@@ -9992,7 +9992,7 @@ candidate	O
 for	O
 mutations	O
 of	O
-human	S-LIVB
+human	O
 TBX15	O
 would	O
 be	O
@@ -13975,7 +13975,7 @@ mice	S-LIVB
 
 BAC	O
 -	O
-bacterial	S-LIVB
+bacterial	O
 artificial	O
 chromosome	O
 
@@ -16743,7 +16743,7 @@ exon	O
 5	O
 of	O
 the	O
-murine	S-LIVB
+murine	O
 Dhcr7	O
 gene	O
 ,	O
@@ -32775,7 +32775,7 @@ as	O
 the	O
 orthologue	O
 of	O
-human	S-LIVB
+human	O
 TACC3	O
 ,	O
 and	O
@@ -32834,7 +32834,7 @@ of	O
 direct	O
 binding	O
 of	O
-human	S-LIVB
+human	O
 TACC2	O
 to	O
 the	O
@@ -33183,7 +33183,7 @@ proximal	O
 short	O
 arm	O
 of	O
-human	S-LIVB
+human	O
 chromosome	O
 8	O
 [	O
@@ -33417,7 +33417,7 @@ TACC4	O
 9	O
 ]	O
 and	O
-human	S-LIVB
+human	O
 RHAMM	O
 [	O
 10	O
@@ -33972,7 +33972,7 @@ genes	O
 corresponding	O
 to	O
 the	O
-human	S-LIVB
+human	O
 TACC1	O
 -	O
 3	O
@@ -34038,7 +34038,7 @@ T	B-LIVB
 rubripes	E-LIVB
 orthologues	O
 of	O
-human	S-LIVB
+human	O
 TACC2	O
 and	O
 TACC3	O
@@ -34324,7 +34324,7 @@ clearly	O
 related	O
 to	O
 the	O
-mouse	S-LIVB
+mouse	O
 TACC1	O
 ,	O
 however	O
@@ -34394,7 +34394,7 @@ the	O
 centromeric	O
 region	O
 of	O
-human	S-LIVB
+human	O
 chromosome	O
 10	O
 and	O
@@ -34628,9 +34628,9 @@ the	O
 published	O
 sequence	O
 of	O
-human	S-LIVB
+human	O
 and	O
-mouse	S-LIVB
+mouse	O
 TACC3	O
 suggested	O
 to	O
@@ -34641,7 +34641,7 @@ actually	O
 represents	O
 a	O
 partial	O
-rabbit	S-LIVB
+rabbit	O
 TACC3	O
 cDNA	O
 .	O
@@ -34658,7 +34658,7 @@ to	O
 clone	O
 the	O
 complete	O
-rabbit	S-LIVB
+rabbit	O
 TACC3	O
 sequence	O
 ,	O
@@ -34668,9 +34668,9 @@ the	O
 known	O
 features	O
 of	O
-human	S-LIVB
+human	O
 and	O
-mouse	S-LIVB
+mouse	O
 TACC3	O
 .	O
 
@@ -34690,9 +34690,9 @@ terminal	O
 regions	O
 of	O
 the	O
-human	S-LIVB
+human	O
 and	O
-mouse	S-LIVB
+mouse	O
 TACC3	O
 proteins	O
 are	O
@@ -34986,7 +34986,7 @@ TACC4	O
 "	O
 and	O
 the	O
-rabbit	S-LIVB
+rabbit	O
 TACC3	O
 sequence	O
 that	O
@@ -35014,8 +35014,8 @@ orthologues	O
 including	O
 maskin	O
 (	O
-Xenopus	B-LIVB
-laevis	E-LIVB
+Xenopus	O
+laevis	O
 )	O
 ,	O
 and	O
@@ -35091,7 +35091,7 @@ coil	O
 gene	O
 family	O
 
-Human	S-LIVB
+Human	O
 RHAMM	O
 has	O
 also	O
@@ -35576,7 +35576,7 @@ family	O
 ]	O
 .	O
 
-Human	S-LIVB
+Human	O
 RHAMM	O
 maps	O
 to	O
@@ -35732,7 +35732,7 @@ Fig	O
 
 Corresponding	O
 syntenic	O
-mouse	S-LIVB
+mouse	O
 chromosomal	O
 regions	O
 (	O
@@ -36216,7 +36216,7 @@ in	O
 the	O
 regions	O
 of	O
-human	S-LIVB
+human	O
 chromosome	O
 4	O
 and	O
@@ -36396,9 +36396,9 @@ or	O
 RHAMM	O
 genes	O
 of	O
-C	B-LIVB
-.	I-LIVB
-intestinalis	E-LIVB
+C	O
+.	O
+intestinalis	O
 ,	O
 indicating	O
 that	O
@@ -36572,8 +36572,8 @@ genomic	O
 scaffolds	O
 containing	O
 the	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 trTACC1A	O
 and	O
 trTACC1B	O
@@ -36603,7 +36603,7 @@ distal	O
 long	O
 arm	O
 of	O
-human	S-LIVB
+human	O
 chromosome	O
 10	O
 and	O
@@ -36653,7 +36653,7 @@ proximal	O
 short	O
 arm	O
 of	O
-human	S-LIVB
+human	O
 chromosome	O
 8	O
 .	O
@@ -36713,7 +36713,7 @@ The	O
 SDP	O
 repeat	O
 of	O
-human	S-LIVB
+human	O
 TACC1	O
 -	O
 3	O
@@ -36953,9 +36953,9 @@ the	O
 case	O
 of	O
 the	O
-C	B-LIVB
-.	I-LIVB
-elegans	E-LIVB
+C	O
+.	O
+elegans	O
 TAC	O
 protein	O
 ,	O
@@ -37162,7 +37162,7 @@ amino	O
 acids	O
 for	O
 the	O
-rat	S-LIVB
+rat	O
 TACC3	O
 protein	O
 ,	O
@@ -37346,9 +37346,9 @@ single	O
 exon	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 and	O
-rat	S-LIVB
+rat	O
 TACC3	O
 genes	O
 .	O
@@ -37362,7 +37362,7 @@ that	O
 there	O
 are	O
 four	O
-mouse	S-LIVB
+mouse	O
 TACC3	O
 splice	O
 variants	O
@@ -37680,7 +37680,7 @@ been	O
 noted	O
 for	O
 the	O
-human	S-LIVB
+human	O
 TACC1	O
 gene	O
 [	O
@@ -37886,7 +37886,7 @@ Alternative	O
 splicing	O
 of	O
 the	O
-human	S-LIVB
+human	O
 TACC1	O
 gene	O
 .	O
@@ -37902,7 +37902,7 @@ have	O
 been	O
 identified	O
 for	O
-human	S-LIVB
+human	O
 TACC1	O
 (	O
 A	O
@@ -38594,9 +38594,9 @@ ceTAC	O
 directly	O
 binds	O
 to	O
-C	B-LIVB
-.	I-LIVB
-elegans	E-LIVB
+C	O
+.	O
+elegans	O
 lin15A	O
 ,	O
 lin36	O
@@ -38653,7 +38653,7 @@ elegans	E-LIVB
 homologues	O
 of	O
 the	O
-human	S-LIVB
+human	O
 MTA	O
 -	O
 1	O
@@ -38699,7 +38699,7 @@ proteomics	O
 has	O
 shown	O
 that	O
-Drosophila	S-LIVB
+Drosophila	O
 TACC	O
 interacts	O
 with	O
@@ -38757,9 +38757,9 @@ direct	O
 interaction	O
 with	O
 the	O
-C	B-LIVB
-.	I-LIVB
-elegans	E-LIVB
+C	O
+.	O
+elegans	O
 BARD1	O
 orthologue	O
 [	O
@@ -39974,7 +39974,7 @@ repeat	O
 region	O
 in	O
 the	O
-Drosophila	S-LIVB
+Drosophila	O
 TACC	O
 protein	O
 .	O
@@ -40403,7 +40403,7 @@ vertebrate	S-LIVB
 TACC	O
 protein	O
 ,	O
-mouse	S-LIVB
+mouse	O
 TACC3	O
 ,	O
 was	O
@@ -40427,7 +40427,7 @@ hydrocarbons	O
 ]	O
 .	O
 
-Mouse	S-LIVB
+Mouse	O
 TACC3	O
 has	O
 also	O
@@ -40878,8 +40878,8 @@ confirm	O
 prediction	O
 of	O
 the	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 TACC3	O
 ,	O
 full	O
@@ -40888,8 +40888,8 @@ cDNAs	O
 corresponding	O
 to	O
 the	O
-Danio	B-LIVB
-rerio	E-LIVB
+Danio	O
+rerio	O
 TACC3	O
 (	O
 IMAGE	O
@@ -40952,7 +40952,7 @@ TACC	O
 cDNAs	O
 
 The	O
-rabbit	S-LIVB
+rabbit	O
 TACC3	O
 was	O
 cloned	O
@@ -41376,8 +41376,8 @@ following	O
 accession	O
 numbers	O
 :	O
-Homo	B-LIVB
-sapiens	E-LIVB
+Homo	O
+sapiens	O
 TACC1	O
 short	O
 isoform	O
@@ -41386,8 +41386,8 @@ S	O
 AY177411	O
 )	O
 ,	O
-Mus	B-LIVB
-musculus	E-LIVB
+Mus	O
+musculus	O
 TACC1	O
 short	O
 isoform	O
@@ -41396,8 +41396,8 @@ S	O
 AY177412	O
 )	O
 ,	O
-Mus	B-LIVB
-musculus	E-LIVB
+Mus	O
+musculus	O
 TACC1	O
 long	O
 isoform	O
@@ -41413,15 +41413,15 @@ TACC2s	O
 AY177410	O
 )	O
 ,	O
-Oryctolagus	B-LIVB
-cuniculus	E-LIVB
+Oryctolagus	O
+cuniculus	O
 TACC3	O
 (	O
 AY161270	O
 )	O
 ,	O
-Danio	B-LIVB
-rerio	E-LIVB
+Danio	O
+rerio	O
 TACC3	O
 (	O
 AY170618	O
@@ -41442,8 +41442,8 @@ are	O
 as	O
 follows	O
 :	O
-Rattus	B-LIVB
-norvegus	E-LIVB
+Rattus	O
+norvegus	O
 TACC1	O
 long	O
 isoform	O
@@ -41452,8 +41452,8 @@ A	O
 BK001653	O
 )	O
 ,	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 TACC1A	O
 (	O
 BK000666	O
@@ -41461,8 +41461,8 @@ BK000666	O
 BK000667	O
 )	O
 ,	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 TACC1B	O
 (	O
 BK000664	O
@@ -41496,71 +41496,71 @@ TACC2l	O
 BK000690	O
 )	O
 ,	O
-Rattus	B-LIVB
-norvegus	E-LIVB
+Rattus	O
+norvegus	O
 TACC3	O
 (	O
 BK001491	O
 )	O
 ,	O
-Gallus	B-LIVB
-gallus	E-LIVB
+Gallus	O
+gallus	O
 TACC3	O
 (	O
 BK001482	O
 )	O
 ,	O
-Silurana	B-LIVB
-tropicalis	E-LIVB
+Silurana	O
+tropicalis	O
 TACC3	O
 (	O
 BK001481	O
 )	O
 ,	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 TACC3	O
 (	O
 BK000649	O
 )	O
 ,	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 RHAMM	O
 (	O
 BK000676	O
 )	O
 ,	O
-Ciona	B-LIVB
-intestinalis	E-LIVB
+Ciona	O
+intestinalis	O
 RHAMM	O
 (	O
 BK001479	O
 )	O
 ,	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 Keratin	O
 (	O
 BK000677	O
 )	O
 ,	O
-Takifugu	B-LIVB
-rubripes	E-LIVB
+Takifugu	O
+rubripes	O
 TPM1	O
 (	O
 BAC10576	O
 )	O
 ,	O
-Ciona	B-LIVB
-intestinalis	E-LIVB
+Ciona	O
+intestinalis	O
 Kif3b	O
 (	O
 BK001492	O
 )	O
 ,	O
-Ciona	B-LIVB
-intestinalis	E-LIVB
+Ciona	O
+intestinalis	O
 klp2	O
 (	O
 BK001493	O
@@ -42556,7 +42556,7 @@ cDNA	O
 isolation	O
 of	O
 the	O
-rabbit	S-LIVB
+rabbit	O
 TACC3	O
 cDNA	O
 .	O
@@ -46644,7 +46644,7 @@ abnormalities	O
 ]	O
 .	O
 
-Human	S-LIVB
+Human	O
 FOG2	O
 maps	O
 to	O
@@ -57392,7 +57392,7 @@ humans	S-LIVB
 such	O
 that	O
 in	O
-human	S-LIVB
+human	O
 NR2E3	O
 mutants	O
 ,	O
@@ -57514,7 +57514,7 @@ between	O
 mouse	S-LIVB
 rd7	O
 and	O
-human	S-LIVB
+human	O
 NR2E3	O
 mutants	O
 ,	O
@@ -57579,7 +57579,7 @@ between	O
 mouse	S-LIVB
 rd7	O
 and	O
-human	S-LIVB
+human	O
 NR2E3	O
 mutants	O
 is	O
@@ -63911,7 +63911,7 @@ technology	O
 to	O
 express	O
 a	O
-human	S-LIVB
+human	O
 E2	O
 cDNA	O
 on	O
@@ -64011,7 +64011,7 @@ Transgenic	O
 expression	O
 of	O
 a	O
-human	S-LIVB
+human	O
 E2	O
 cDNA	O
 in	O
@@ -65916,7 +65916,7 @@ translation	O
 ]	O
 ,	O
 the	O
-human	S-LIVB
+human	O
 E2	O
 cDNA	O
 which	O
@@ -66917,14 +66917,14 @@ antisera	O
 which	O
 detects	O
 both	O
-mouse	S-LIVB
+mouse	O
 (	O
 ~	O
 47	O
 kD	O
 )	O
 and	O
-human	S-LIVB
+human	O
 (	O
 ~	O
 54	O
@@ -68573,7 +68573,7 @@ Knockout	O
 mice	S-LIVB
 expressing	O
 a	O
-human	S-LIVB
+human	O
 E2	O
 transgene	O
 model	O
@@ -68637,7 +68637,7 @@ transgenic	O
 system	O
 to	O
 express	O
-human	S-LIVB
+human	O
 E2	O
 in	O
 liver	O
@@ -68727,7 +68727,7 @@ designed	O
 to	O
 express	O
 a	O
-human	S-LIVB
+human	O
 E2	O
 cDNA	O
 from	O
@@ -68762,7 +68762,7 @@ produce	O
 mice	S-LIVB
 that	O
 express	O
-human	S-LIVB
+human	O
 E2	O
 .	O
 
@@ -68827,7 +68827,7 @@ line	O
 )	O
 ,	O
 the	O
-human	S-LIVB
+human	O
 E2	O
 cDNA	O
 ,	O
@@ -68885,7 +68885,7 @@ that	O
 the	O
 amount	O
 of	O
-human	S-LIVB
+human	O
 E2	O
 protein	O
 (	O
@@ -68919,7 +68919,7 @@ to	O
 the	O
 amount	O
 of	O
-mouse	S-LIVB
+mouse	O
 E2	O
 (	O
 MW	O
@@ -68956,7 +68956,7 @@ c	O
 myc	O
 tagged	O
 ,	O
-human	S-LIVB
+human	O
 E2	O
 in	O
 transgenic	O
@@ -69927,7 +69927,7 @@ drive	O
 expression	O
 of	O
 transgenic	O
-human	S-LIVB
+human	O
 E2	O
 have	O
 been	O
@@ -69947,7 +69947,7 @@ activity	O
 and	O
 production	O
 of	O
-human	S-LIVB
+human	O
 E2	O
 protein	O
 in	O
@@ -70006,7 +70006,7 @@ Fig	O
 the	O
 amount	O
 of	O
-human	S-LIVB
+human	O
 E2	O
 (	O
 predicted	O
@@ -70036,7 +70036,7 @@ mice	S-LIVB
 the	O
 level	O
 of	O
-human	S-LIVB
+human	O
 E2	O
 was	O
 approximately	O
@@ -70045,7 +70045,7 @@ to	O
 the	O
 amount	O
 of	O
-mouse	S-LIVB
+mouse	O
 E2	O
 (	O
 ~	O
@@ -70114,7 +70114,7 @@ of	O
 the	O
 transgene	O
 derived	O
-human	S-LIVB
+human	O
 E2	O
 interfered	O
 with	O
@@ -70185,7 +70185,7 @@ is	O
 also	O
 possible	O
 that	O
-human	S-LIVB
+human	O
 E2	O
 was	O
 not	O
@@ -70194,14 +70194,14 @@ functional	O
 when	O
 complexed	O
 with	O
-mouse	S-LIVB
+mouse	O
 E1	O
 and	O
 E3	O
 subunits	O
 .	O
 
-Human	S-LIVB
+Human	O
 E2	O
 shares	O
 ~	O
@@ -70209,7 +70209,7 @@ shares	O
 %	O
 identity	O
 to	O
-mouse	S-LIVB
+mouse	O
 E2	O
 at	O
 the	O
@@ -70882,7 +70882,7 @@ transgenic	O
 strategy	O
 to	O
 express	O
-human	S-LIVB
+human	O
 E2	O
 in	O
 the	O
@@ -70917,7 +70917,7 @@ that	O
 expression	O
 of	O
 a	O
-human	S-LIVB
+human	O
 E2	O
 transgene	O
 in	O
@@ -71144,7 +71144,7 @@ consistently	O
 turn	O
 off	O
 the	O
-human	S-LIVB
+human	O
 E2	O
 expression	O
 cassette	O
@@ -73313,7 +73313,7 @@ human	S-LIVB
 gene	O
 ,	O
 the	O
-mouse	S-LIVB
+mouse	O
 Atrx	O
 gene	O
 is	O
@@ -73404,7 +73404,7 @@ corresponding	O
 motif	O
 of	O
 the	O
-yeast	S-LIVB
+yeast	O
 SNF2	O
 protein	O
 has	O
@@ -74350,7 +74350,7 @@ causing	O
 mutations	O
 in	O
 the	O
-human	S-LIVB
+human	O
 ATRX	O
 gene	O
 give	O
@@ -74822,7 +74822,7 @@ regulatory	O
 elements	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 GATA	O
 -	O
 1	O
@@ -77476,7 +77476,7 @@ here	O
 .	O
 
 The	O
-human	S-LIVB
+human	O
 ATRX	O
 protein	O
 has	O
@@ -77519,7 +77519,7 @@ that	O
 disruption	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Atrx	O
 -	O
 Daxx	O
@@ -78759,7 +78759,7 @@ targets	O
 of	O
 regulation	O
 by	O
-human	S-LIVB
+human	O
 ATRX	O
 ,	O
 are	O
@@ -80497,7 +80497,7 @@ IAP	O
 inserted	O
 into	O
 the	O
-mouse	S-LIVB
+mouse	O
 agouti	O
 gene	O
 [	O
@@ -82063,13 +82063,13 @@ db	O
 gene	O
 )	O
 for	O
-human	S-LIVB
+human	O
 ATRX	O
 is	O
 546	O
 and	O
 for	O
-mouse	S-LIVB
+mouse	O
 Atrx	O
 is	O
 22589	O
@@ -82294,7 +82294,7 @@ the	O
 top	O
 is	O
 the	O
-human	S-LIVB
+human	O
 ATRX	O
 cDNA	O
 .	O
@@ -82993,7 +82993,7 @@ peptide	O
 A2	O
 of	O
 the	O
-human	S-LIVB
+human	O
 ATRX	O
 protein	O
 shown	O
@@ -84764,7 +84764,7 @@ the	O
 control	O
 of	O
 the	O
-human	S-LIVB
+human	O
 Keratin	O
 14	O
 (	O
@@ -85291,10 +85291,10 @@ microtubules	O
 ,	O
 and	O
 the	O
-human	S-LIVB
+human	O
 homolog	O
 of	O
-Drosophila	S-LIVB
+Drosophila	O
 discs	O
 large	O
 (	O
@@ -85754,7 +85754,7 @@ the	O
 control	O
 of	O
 the	O
-human	S-LIVB
+human	O
 Keratin	O
 14	O
 (	O
@@ -95042,7 +95042,7 @@ hybridization	O
 Section	O
 ISH	O
 using	O
-rat	S-LIVB
+rat	O
 Shh	O
 probe	O
 [	O
@@ -95558,10 +95558,10 @@ _	O
 012325	O
 )	O
 ,	O
-human	S-LIVB
+human	O
 homolog	O
 of	O
-Drosophila	S-LIVB
+Drosophila	O
 Discs	O
 large	O
 (	O
@@ -95729,7 +95729,7 @@ and	O
 15	O
 of	O
 the	O
-mouse	S-LIVB
+mouse	O
 Apc	O
 gene	O
 ,	O
