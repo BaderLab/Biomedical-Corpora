@@ -3,11 +3,11 @@ characterization	O
 of	O
 the	O
 AlphaA	O
--	I-PRGE
-and	I-PRGE
-AlphaB	I-PRGE
--	I-PRGE
-crystallin	I-PRGE
+-	O
+and	O
+AlphaB	O
+-	O
+crystallin	O
 double	O
 knockout	O
 mouse	B-LIVB
@@ -56,16 +56,16 @@ In	O
 the	O
 single	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 knockout	O
 mice	B-LIVB
 ,	O
 the	O
 remaining	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 may	O
 fully	O
 or	O
@@ -121,11 +121,11 @@ targeted	O
 disruption	O
 of	O
 alphaA	O
--	I-PRGE
-and	I-PRGE
-alphaB	I-PRGE
--	I-PRGE
-crystallin	I-PRGE
+-	O
+and	O
+alphaB	O
+-	O
+crystallin	O
 genes	O
 (	O
 alphaA	O
@@ -274,11 +274,11 @@ indicated	O
 that	O
 both	O
 alphaA	O
--	I-PRGE
-and	I-PRGE
-alphaB	I-PRGE
--	I-PRGE
-crystallin	I-PRGE
+-	O
+and	O
+alphaB	O
+-	O
+crystallin	O
 are	O
 necessary	O
 for	O
@@ -293,8 +293,8 @@ the	O
 absence	O
 of	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 can	O
 lead	O
 to	O
@@ -314,15 +314,15 @@ two	O
 polypeptides	O
 ,	O
 alphaA	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 (	O
 alphaA	O
 )	O
 and	O
 alphaB	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 (	O
 alphaB	O
 )	O
@@ -617,9 +617,9 @@ members	O
 of	O
 the	O
 small	O
-heat	I-PRGE
-shock	I-PRGE
-protein	I-PRGE
+heat	O
+shock	O
+protein	O
 (	O
 hsp	O
 )	O
@@ -1087,7 +1087,7 @@ disruption	O
 of	O
 the	O
 mouse	O
-alphaA	I-PRGE
+alphaA	O
 gene	O
 ,	O
 that	O
@@ -1175,7 +1175,7 @@ disruption	O
 of	O
 the	O
 mouse	O
-alphaB	I-PRGE
+alphaB	O
 gene	O
 resulted	O
 in	O
@@ -1238,16 +1238,16 @@ In	O
 the	O
 single	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 knockout	O
 mice	B-LIVB
 ,	O
 the	O
 remaining	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 may	O
 fully	O
 or	O
@@ -1344,8 +1344,8 @@ possible	O
 functions	O
 of	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 in	O
 the	O
 lens	O
@@ -1356,8 +1356,8 @@ results	O
 indicate	O
 that	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 is	O
 necessary	O
 for	O
@@ -4767,7 +4767,7 @@ disruption	O
 of	O
 the	O
 mouse	O
-alphaA	I-PRGE
+alphaA	O
 gene	O
 ,	O
 that	O
@@ -4840,7 +4840,7 @@ disruption	O
 of	O
 the	O
 mouse	O
-alphaB	I-PRGE
+alphaB	O
 gene	O
 ,	O
 however	O
@@ -4891,16 +4891,16 @@ In	O
 the	O
 single	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 knockout	O
 mice	B-LIVB
 ,	O
 the	O
 remaining	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 may	O
 fully	O
 or	O
@@ -5091,8 +5091,8 @@ the	O
 hypothesis	O
 that	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 plays	O
 an	O
 active	O
@@ -5793,8 +5793,8 @@ the	O
 hypothesis	O
 that	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 plays	O
 an	O
 active	O
@@ -5819,8 +5819,8 @@ clearly	O
 evident	O
 that	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 is	O
 necessary	O
 for	O
@@ -6086,8 +6086,8 @@ cellular	O
 function	O
 for	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 .	O
 
 Stress	O
@@ -6493,8 +6493,8 @@ a	O
 role	O
 for	O
 alpha	O
--	I-PRGE
-crystallin	I-PRGE
+-	O
+crystallin	O
 in	O
 the	O
 nucleus	O
@@ -6862,9 +6862,9 @@ A	O
 model	O
 of	O
 tripeptidyl	O
--	I-PRGE
-peptidase	I-PRGE
-I	I-PRGE
+-	O
+peptidase	O
+I	O
 (	O
 CLN2	O
 )	O
@@ -6890,9 +6890,9 @@ Abstract	O
 Background	O
 
 Tripeptidyl	O
--	I-PRGE
-peptidase	I-PRGE
-I	I-PRGE
+-	O
+peptidase	O
+I	O
 ,	O
 also	O
 known	O
@@ -6982,7 +6982,7 @@ of	O
 orthologs	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 in	O
 the	O
 genomic	O
@@ -7058,7 +7058,7 @@ dimensional	O
 model	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 was	O
 built	O
 based	O
@@ -7180,13 +7180,13 @@ the	O
 existence	O
 of	O
 tripeptidyl	O
--	I-PRGE
-peptidase	I-PRGE
-I	I-PRGE
+-	O
+peptidase	O
+I	O
 (	O
 TPP	O
--	I-PRGE
-I	I-PRGE
+-	O
+I	O
 )	O
 was	O
 first	O
@@ -7225,8 +7225,8 @@ was	O
 shown	O
 that	O
 TPP	O
--	I-PRGE
-I	I-PRGE
+-	O
+I	O
 is	O
 identical	O
 to	O
@@ -7678,7 +7678,7 @@ enzymes	O
 homologous	O
 to	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 [	O
 2	O
 ,	O
@@ -7787,7 +7787,7 @@ the	O
 exception	O
 of	O
 mouse	O
-CLN2	I-PRGE
+CLN2	O
 that	O
 has	O
 a	O
@@ -8136,7 +8136,7 @@ sequence	O
 of	O
 the	O
 zebrafish	O
-CLN2	I-PRGE
+CLN2	O
 .	O
 This	O
 putative	O
@@ -8320,13 +8320,13 @@ are	O
 shown	O
 for	O
 CLN2	O
-from	I-PRGE
-human	I-PRGE
-,	I-PRGE
-fugu	I-PRGE
-,	I-PRGE
-and	I-PRGE
-zebrafish	I-PRGE
+from	O
+human	O
+,	O
+fugu	O
+,	O
+and	O
+zebrafish	O
 ,	O
 together	O
 with	O
@@ -8336,9 +8336,9 @@ sequence	O
 of	O
 putative	O
 CLN2	O
-in	I-PRGE
-Xenopus	I-PRGE
-tropicalis	I-PRGE
+in	O
+Xenopus	O
+tropicalis	O
 .	O
 
 Residues	O
@@ -8473,7 +8473,7 @@ and	O
 identity	O
 with	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 (	O
 Figure	O
 3	O
@@ -8575,7 +8575,7 @@ the	O
 structure	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 
 The	O
 medical	O
@@ -8700,7 +8700,7 @@ derived	O
 model	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 .	O
 
 The	O
@@ -8743,7 +8743,7 @@ compound	O
 can	O
 inhibit	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 ,	O
 other	O
 similar	O
@@ -8879,7 +8879,7 @@ kumamolisin	O
 ,	O
 and	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 used	O
 in	O
 the	O
@@ -9069,7 +9069,7 @@ derived	O
 model	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 .	O
 
 Ribbon	O
@@ -9316,7 +9316,7 @@ of	O
 the	O
 mature	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 )	O
 .	O
 
@@ -9480,7 +9480,7 @@ active	O
 site	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 .	O
 
 The	O
@@ -10468,11 +10468,11 @@ to	O
 be	O
 intact	O
 subunit	O
-c	I-PRGE
-of	I-PRGE
-mitochondrial	I-PRGE
-ATP	I-PRGE
-synthase	I-PRGE
+c	O
+of	O
+mitochondrial	O
+ATP	O
+synthase	O
 ,	O
 this	O
 protein	O
@@ -10816,8 +10816,8 @@ but	O
 also	O
 native	O
 type	O
-I	I-PRGE
-collagen	I-PRGE
+I	O
+collagen	O
 [	O
 23	O
 ]	O
@@ -11314,7 +11314,7 @@ kumamolisin	O
 and	O
 the	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 sequences	O
 as	O
 queries	O
@@ -11465,7 +11465,7 @@ The	O
 model	O
 of	O
 human	O
-CLN2	I-PRGE
+CLN2	O
 was	O
 built	O
 using	O
@@ -12184,14 +12184,14 @@ Government	O
 
 The	O
 Zebrafish	O
-moonshine	I-PRGE
+moonshine	O
 Gene	O
 Encodes	O
 Transcriptional	O
-Intermediary	I-PRGE
-Factor	I-PRGE
-1	I-PRGE
-gamma	I-PRGE
+Intermediary	O
+Factor	O
+1	O
+gamma	O
 ,	O
 an	O
 Essential	O
@@ -12228,7 +12228,7 @@ Mutations	O
 in	O
 the	O
 zebrafish	O
-moonshine	I-PRGE
+moonshine	O
 (	O
 mon	O
 )	O
@@ -12261,13 +12261,13 @@ ortholog	O
 of	O
 mammalian	B-LIVB
 transcriptional	O
-intermediary	I-PRGE
-factor	I-PRGE
-1	I-PRGE
-gamma	I-PRGE
+intermediary	O
+factor	O
+1	O
+gamma	O
 (	O
 TIF1	O
-gamma	I-PRGE
+gamma	O
 )	O
 (	O
 or	O
@@ -12332,7 +12332,7 @@ wild	O
 -	O
 type	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 rescues	O
 embryonic	O
@@ -12351,7 +12351,7 @@ level	O
 of	O
 zygotic	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 expression	O
 delineates	O
@@ -12375,7 +12375,7 @@ studies	O
 reveal	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 functions	O
 in	O
 a	O
@@ -12400,7 +12400,7 @@ lines	O
 demonstrate	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 is	O
 localized	O
@@ -12804,13 +12804,13 @@ ortholog	O
 of	O
 mammalian	B-LIVB
 transcriptional	O
-intermediary	I-PRGE
-factor	I-PRGE
-1	I-PRGE
-gamma	I-PRGE
+intermediary	O
+factor	O
+1	O
+gamma	O
 (	O
 TIF1	O
-gamma	I-PRGE
+gamma	O
 )	O
 ,	O
 a	O
@@ -12939,7 +12939,7 @@ factors	O
 .	O
 
 TIF1	O
-alpha	I-PRGE
+alpha	O
 has	O
 been	O
 shown	O
@@ -12982,7 +12982,7 @@ al	O
 .	O
 
 TIF1	O
-beta	I-PRGE
+beta	O
 has	O
 been	O
 shown	O
@@ -13030,7 +13030,7 @@ In	O
 contrast	O
 ,	O
 TIF1	O
-gamma	I-PRGE
+gamma	O
 does	O
 not	O
 associate	O
@@ -13071,7 +13071,7 @@ also	O
 demonstrate	O
 that	O
 TIF1	O
-gamma	I-PRGE
+gamma	O
 forms	O
 both	O
 homo	O
@@ -13083,12 +13083,12 @@ hetero	O
 oligomers	O
 with	O
 TIF1	O
-alpha	I-PRGE
+alpha	O
 but	O
 not	O
 with	O
 TIF1	O
-beta	I-PRGE
+beta	O
 (	O
 Peng	O
 et	O
@@ -13101,10 +13101,10 @@ al	O
 The	O
 murine	B-LIVB
 Tif1	O
-alpha	I-PRGE
+alpha	O
 and	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 genes	O
 have	O
 not	O
@@ -13124,7 +13124,7 @@ mutants	O
 demonstrates	O
 that	O
 Tif1	O
-beta	I-PRGE
+beta	O
 is	O
 required	O
 for	O
@@ -13179,7 +13179,7 @@ studies	O
 establish	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 functions	O
 as	O
 an	O
@@ -13200,7 +13200,7 @@ studies	O
 demonstrate	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 acts	O
 in	O
 a	O
@@ -13215,7 +13215,7 @@ hematopoiesis	O
 
 The	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 gene	O
 is	O
 expressed	O
@@ -13236,7 +13236,7 @@ occurs	O
 .	O
 
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 localizes	O
 to	O
@@ -13266,7 +13266,7 @@ studies	O
 demonstrate	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 required	O
 for	O
@@ -13282,7 +13282,7 @@ Results	O
 
 The	O
 Zebrafish	O
-mon	I-PRGE
+mon	O
 Gene	O
 Is	O
 Essential	O
@@ -13327,7 +13327,7 @@ embryogenesis	O
 ,	O
 homozygous	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 mutants	O
 have	O
 no	O
@@ -13502,8 +13502,8 @@ on	O
 expression	O
 of	O
 c	O
--	I-PRGE
-myb	I-PRGE
+-	O
+myb	O
 and	O
 rag1	O
 (	O
@@ -13619,7 +13619,7 @@ surviving	O
 homozygous	O
 adult	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 mutants	O
 .	O
 
@@ -13798,7 +13798,7 @@ Ortholog	O
 of	O
 Mammalian	B-LIVB
 TIF1	O
-gamma	I-PRGE
+gamma	O
 
 We	O
 identified	O
@@ -14116,8 +14116,8 @@ most	O
 similar	O
 to	O
 human	O
-TIF	I-PRGE
-gamma	I-PRGE
+TIF	O
+gamma	O
 (	O
 Le	O
 Douarin	O
@@ -14183,7 +14183,7 @@ that	O
 contains	O
 the	O
 TIF1	O
-gamma	I-PRGE
+gamma	O
 gene	O
 based	O
 on	O
@@ -14229,7 +14229,7 @@ location	O
 ,	O
 the	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 gene	O
 is	O
 the	O
@@ -14238,8 +14238,8 @@ ortholog	O
 of	O
 the	O
 human	O
-TIF1	I-PRGE
-gamma	I-PRGE
+TIF1	O
+gamma	O
 gene	O
 .	O
 
@@ -14451,7 +14451,7 @@ indicates	O
 that	O
 defective	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 function	O
 is	O
 the	O
@@ -14468,7 +14468,7 @@ to	O
 determine	O
 whether	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 expressed	O
 in	O
@@ -14494,7 +14494,7 @@ Figure	O
 .	O
 
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 is	O
 expressed	O
@@ -14543,7 +14543,7 @@ high	O
 level	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 expression	O
 delineates	O
 a	O
@@ -14566,10 +14566,10 @@ and	O
 also	O
 expresses	O
 stem	O
-cell	I-PRGE
-leukemiahematopoietic	I-PRGE
-transcription	I-PRGE
-factor	I-PRGE
+cell	O
+leukemiahematopoietic	O
+transcription	O
+factor	O
 (	O
 scl	O
 )	O
@@ -14590,7 +14590,7 @@ continues	O
 to	O
 express	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 and	O
 scl	O
 while	O
@@ -14613,7 +14613,7 @@ al	O
 
 The	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 gene	O
 is	O
 also	O
@@ -14646,7 +14646,7 @@ reduced	O
 amount	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 in	O
 all	O
@@ -14663,8 +14663,8 @@ decay	O
 Thus	O
 ,	O
 zebrafish	O
-tif1	I-PRGE
-gamma	I-PRGE
+tif1	O
+gamma	O
 is	O
 specifically	O
 expressed	O
@@ -14699,11 +14699,11 @@ the	O
 expression	O
 of	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 to	O
 mouse	O
-Tif1	I-PRGE
-gamma	I-PRGE
+Tif1	O
+gamma	O
 (	O
 Figure	O
 4A	O
@@ -14713,8 +14713,8 @@ and	O
 .	O
 
 Mouse	O
-Tif1	I-PRGE
-gamma	I-PRGE
+Tif1	O
+gamma	O
 is	O
 highly	O
 expressed	O
@@ -14761,11 +14761,11 @@ strongly	O
 suggest	O
 that	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 and	O
 mouse	O
-Tif1	I-PRGE
-gamma	I-PRGE
+Tif1	O
+gamma	O
 are	O
 orthologs	O
 that	O
@@ -14778,7 +14778,7 @@ Given	O
 that	O
 mammalian	B-LIVB
 TIF1	O
-gamma	I-PRGE
+gamma	O
 has	O
 been	O
 shown	O
@@ -14789,7 +14789,7 @@ hetero	O
 oligomers	O
 with	O
 Tif1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Peng	O
 et	O
@@ -14811,7 +14811,7 @@ to	O
 compare	O
 with	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 Using	O
@@ -14858,8 +14858,8 @@ zebrafish	B-LIVB
 ortholog	O
 of	O
 human	O
-TIF1	I-PRGE
-alpha	I-PRGE
+TIF1	O
+alpha	O
 based	O
 on	O
 predicted	O
@@ -14877,8 +14877,8 @@ In	O
 addition	O
 ,	O
 zebrafish	O
-tif1	I-PRGE
-alpha	I-PRGE
+tif1	O
+alpha	O
 ESTs	O
 map	O
 to	O
@@ -14901,7 +14901,7 @@ that	O
 contains	O
 the	O
 TIF1	O
-alpha	I-PRGE
+alpha	O
 gene	O
 based	O
 on	O
@@ -14944,11 +14944,11 @@ expression	O
 pattern	O
 of	O
 tif1	O
-alpha	I-PRGE
+alpha	O
 mRNA	O
 to	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 by	O
 in	O
 situ	O
@@ -14958,7 +14958,7 @@ hybridization	O
 Like	O
 mammalian	B-LIVB
 TIF1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Le	O
 Douarin	O
@@ -14995,8 +14995,8 @@ five	O
 somites	O
 ,	O
 zebrafish	O
-tif1	I-PRGE
-alpha	I-PRGE
+tif1	O
+alpha	O
 does	O
 not	O
 display	O
@@ -15016,7 +15016,7 @@ mesoderm	O
 seen	O
 with	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 At	O
@@ -15024,7 +15024,7 @@ later	O
 stages	O
 ,	O
 tif1	O
-alpha	I-PRGE
+alpha	O
 is	O
 evenly	O
 expressed	O
@@ -15044,7 +15044,7 @@ islands	O
 Therefore	O
 ,	O
 tif1	O
-alpha	I-PRGE
+alpha	O
 is	O
 coexpressed	O
 in	O
@@ -15053,7 +15053,7 @@ same	O
 cells	O
 with	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 and	O
 may	O
 therefore	O
@@ -15072,7 +15072,7 @@ Forced	O
 Expression	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 Rescues	O
 Hematopoiesis	O
 in	O
@@ -15088,8 +15088,8 @@ mutation	O
 in	O
 the	O
 zebrafish	O
-tif1	I-PRGE
-gamma	I-PRGE
+tif1	O
+gamma	O
 gene	O
 is	O
 responsible	O
@@ -15316,7 +15316,7 @@ high	O
 levels	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 expression	O
 in	O
 erythroid	O
@@ -15624,7 +15624,7 @@ can	O
 fully	O
 rescue	O
 vlad	O
-tepes	I-PRGE
+tepes	O
 (	O
 gata1	O
 )	O
@@ -15648,7 +15648,7 @@ transplantations	O
 suggests	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 plays	O
 a	O
 cell	O
@@ -15684,7 +15684,7 @@ survival	O
 .	O
 
 Tif1	O
-gamma	I-PRGE
+gamma	O
 in	O
 Punctate	O
 Nuclear	O
@@ -15702,7 +15702,7 @@ subcellular	O
 distribution	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 ,	O
 we	O
@@ -15726,12 +15726,12 @@ acids	O
 conserved	O
 in	O
 human	O
-TIF1	I-PRGE
-gamma	I-PRGE
+TIF1	O
+gamma	O
 and	O
 mouse	O
-Tif1	I-PRGE
-gamma	I-PRGE
+Tif1	O
+gamma	O
 .	O
 
 Immunofluorescence	O
@@ -15745,12 +15745,12 @@ the	O
 anti	O
 -	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 antiserum	O
 demonstrates	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 localized	O
 in	O
@@ -15767,7 +15767,7 @@ The	O
 localization	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 appears	O
 different	O
@@ -15783,7 +15783,7 @@ in	O
 studies	O
 of	O
 Tif1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Remboutsika	O
 et	O
@@ -15793,7 +15793,7 @@ al	O
 )	O
 or	O
 TIF1	O
-beta	I-PRGE
+beta	O
 (	O
 Cammas	O
 et	O
@@ -15809,7 +15809,7 @@ report	O
 demonstrates	O
 that	O
 TIF1	O
-beta	I-PRGE
+beta	O
 associates	O
 with	O
 heterochromatin	O
@@ -15860,7 +15860,7 @@ foci	O
 that	O
 contain	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 do	O
 not	O
 colocalize	O
@@ -15871,7 +15871,7 @@ of	O
 heterochromatin	O
 ,	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 protein	O
 and	O
 DAPI	O
@@ -15887,7 +15887,7 @@ Figure	O
 Furthermore	O
 ,	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 does	O
 not	O
 colocalize	O
@@ -15914,8 +15914,8 @@ transcriptional	O
 complexes	O
 containing	O
 TFII	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 unpublished	O
 data	O
@@ -15929,7 +15929,7 @@ the	O
 expression	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 during	O
 the	O
@@ -15954,7 +15954,7 @@ a	O
 Gata1	O
 :	O
 estrogen	O
-receptor	I-PRGE
+receptor	O
 fusion	O
 protein	O
 is	O
@@ -15979,7 +15979,7 @@ analysis	O
 demonstrated	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 expression	O
 decreases	O
@@ -16003,7 +16003,7 @@ after	O
 hpf	O
 ,	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 mRNA	O
 expression	O
 falls	O
@@ -16036,7 +16036,7 @@ G1E	O
 )	O
 ,	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 also	O
 expressed	O
@@ -16050,7 +16050,7 @@ though	O
 the	O
 overall	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 level	O
 is	O
@@ -16080,7 +16080,7 @@ the	O
 hypothesis	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 acts	O
 within	O
 novel	O
@@ -16183,7 +16183,7 @@ intermediary	O
 factor	O
 ,	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 ,	O
 during	O
 hematopoietic	O
@@ -16200,7 +16200,7 @@ Ortholog	O
 of	O
 Mammalian	B-LIVB
 TIF1	O
-gamma	I-PRGE
+gamma	O
 
 Our	O
 results	O
@@ -16215,7 +16215,7 @@ positionally	O
 cloned	O
 the	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 gene	O
 correctly	O
 ,	O
@@ -16227,11 +16227,11 @@ ortholog	O
 of	O
 mammalian	B-LIVB
 Tif1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 Tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 present	O
 in	O
@@ -16264,8 +16264,8 @@ analysis	O
 indicates	O
 that	O
 zebrafish	O
-tif1	I-PRGE
-gamma	I-PRGE
+tif1	O
+gamma	O
 is	O
 most	O
 similar	O
@@ -16291,8 +16291,8 @@ genes	O
 .	O
 
 Zebrafish	O
-tif1	I-PRGE
-gamma	I-PRGE
+tif1	O
+gamma	O
 is	O
 located	O
 in	O
@@ -16312,7 +16312,7 @@ Chromosome	O
 1	O
 containing	O
 TIF1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 We	O
@@ -16321,7 +16321,7 @@ point	O
 mutations	O
 in	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 from	O
 three	O
 different	O
@@ -16344,10 +16344,10 @@ In	O
 addition	O
 ,	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 /	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 highly	O
 expressed	O
@@ -16379,7 +16379,7 @@ wild	O
 -	O
 type	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 efficiently	O
 rescues	O
@@ -16414,7 +16414,7 @@ zebrafish	B-LIVB
 ortholog	O
 of	O
 tif1	O
-alpha	I-PRGE
+alpha	O
 ,	O
 which	O
 is	O
@@ -16427,7 +16427,7 @@ embryos	O
 like	O
 mammalian	B-LIVB
 TIF1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Le	O
 Douarin	O
@@ -16461,7 +16461,7 @@ hetero	O
 oligomers	O
 with	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 in	O
 developing	O
@@ -16486,7 +16486,7 @@ appears	O
 that	O
 the	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 orthologs	O
 are	O
 the	O
@@ -16498,7 +16498,7 @@ members	O
 while	O
 the	O
 Tif1	O
-alpha	I-PRGE
+alpha	O
 sequences	O
 are	O
 relatively	O
@@ -16512,7 +16512,7 @@ not	O
 found	O
 a	O
 Tif1	O
-beta	I-PRGE
+beta	O
 ortholog	O
 ,	O
 thus	O
@@ -16534,7 +16534,7 @@ is	O
 possible	O
 that	O
 Tif1	O
-beta	I-PRGE
+beta	O
 ,	O
 like	O
 the	O
@@ -16579,7 +16579,7 @@ our	O
 analysis	O
 of	O
 zebrafish	O
-mon	I-PRGE
+mon	O
 mutants	O
 ,	O
 it	O
@@ -16589,7 +16589,7 @@ to	O
 predict	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 ,	O
 the	O
 most	O
@@ -16614,7 +16614,7 @@ hematopoiesis	O
 Mutations	O
 in	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 Cause	O
 Apoptosis	O
 of	O
@@ -16835,7 +16835,7 @@ adults	O
 demonstrating	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 also	O
 required	O
@@ -16864,14 +16864,14 @@ of	O
 maternally	O
 inherited	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 Maternally	O
 expressed	O
 zebrafish	O
-Tif1	I-PRGE
-gamma	I-PRGE
+Tif1	O
+gamma	O
 may	O
 play	O
 roles	O
@@ -16942,7 +16942,7 @@ the	O
 conclusion	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 essential	O
 for	O
@@ -16976,15 +16976,15 @@ seen	O
 in	O
 both	O
 mouse	O
-Gata1	I-PRGE
+Gata1	O
 knockout	O
 embryos	O
 and	O
 zebrafish	O
-vlad	I-PRGE
-tepes	I-PRGE
-(	I-PRGE
-gata1	I-PRGE
+vlad	O
+tepes	O
+(	O
+gata1	O
 )	O
 mutant	O
 embryos	O
@@ -17042,7 +17042,7 @@ and	O
 injection	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 into	O
 gata1	O
@@ -17069,7 +17069,7 @@ direct	O
 interaction	O
 between	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 and	O
 Gata1	O
 proteins	O
@@ -17115,7 +17115,7 @@ that	O
 gata1	O
 and	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 act	O
 independently	O
 .	O
@@ -17135,7 +17135,7 @@ involving	O
 gata1	O
 and	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 ,	O
 operating	O
 together	O
@@ -17152,7 +17152,7 @@ The	O
 Role	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 in	O
 Primitive	O
 and	O
@@ -17167,7 +17167,7 @@ data	O
 suggest	O
 that	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 required	O
 as	O
@@ -17192,7 +17192,7 @@ reasonably	O
 predict	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 functions	O
 as	O
@@ -17208,7 +17208,7 @@ given	O
 that	O
 both	O
 TIF1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Zhong	O
 et	O
@@ -17218,7 +17218,7 @@ al	O
 )	O
 and	O
 TIF1	O
-beta	I-PRGE
+beta	O
 (	O
 Friedman	O
 et	O
@@ -17254,10 +17254,10 @@ studies	O
 indicate	O
 that	O
 TIF1	O
-alpha	I-PRGE
+alpha	O
 and	O
 TIF1	O
-beta	I-PRGE
+beta	O
 act	O
 as	O
 scaffolds	O
@@ -17282,7 +17282,7 @@ complexes	O
 .	O
 
 Tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 detected	O
 within	O
@@ -17323,7 +17323,7 @@ bodies	O
 Localization	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 to	O
 these	O
 nuclear	O
@@ -17374,7 +17374,7 @@ assembly	O
 points	O
 where	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 forms	O
 multisubunit	O
 complexes	O
@@ -17411,7 +17411,7 @@ the	O
 identity	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 -	O
 interacting	O
 proteins	O
@@ -17425,7 +17425,7 @@ they	O
 function	O
 with	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 to	O
 regulate	O
 blood	O
@@ -17876,7 +17876,7 @@ were	O
 immunostained	O
 with	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Chemicon	O
 ,	O
@@ -17889,7 +17889,7 @@ States	O
 )	O
 and	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 antisera	O
 simultaneously	O
 .	O
@@ -18319,35 +18319,35 @@ this	O
 paper	O
 are	O
 fly	O
-bonus	I-PRGE
+bonus	O
 (	O
 AAF19646	O
 )	O
 ,	O
 human	O
-TIF1	I-PRGE
-alpha	I-PRGE
+TIF1	O
+alpha	O
 (	O
 015164	O
 )	O
 ,	O
 human	O
-TIF1	I-PRGE
-beta	I-PRGE
+TIF1	O
+beta	O
 (	O
 Q13263	O
 )	O
 ,	O
 human	O
-TIF	I-PRGE
-gamma	I-PRGE
+TIF	O
+gamma	O
 (	O
 Q9UPN9	O
 )	O
 ,	O
 human	O
-TIF1	I-PRGE
-gamma	I-PRGE
+TIF1	O
+gamma	O
 (	O
 Q9UPN9	O
 )	O
@@ -18358,23 +18358,23 @@ AY59853	O
 )	O
 ,	O
 mouse	O
-Tif1	I-PRGE
-alpha	I-PRGE
+Tif1	O
+alpha	O
 (	O
 Q64127	O
 )	O
 ,	O
 mouse	O
-Tif1	I-PRGE
-beta	I-PRGE
+Tif1	O
+beta	O
 (	O
 AAH58391	O
 )	O
 ,	O
 and	O
 mouse	O
-Tif1	I-PRGE
-gamma	I-PRGE
+Tif1	O
+gamma	O
 (	O
 NP444400	O
 )	O
@@ -18382,16 +18382,16 @@ NP444400	O
 
 The	O
 cDNA	O
-sequences	I-PRGE
-of	I-PRGE
-zebrafish	I-PRGE
-mon	I-PRGE
-/	I-PRGE
-tif1	I-PRGE
-gamma	I-PRGE
-and	I-PRGE
-tif1	I-PRGE
-alpha	I-PRGE
+sequences	O
+of	O
+zebrafish	O
+mon	O
+/	O
+tif1	O
+gamma	O
+and	O
+tif1	O
+alpha	O
 have	O
 been	O
 deposited	O
@@ -18583,7 +18583,7 @@ PAC	O
 PML	O
 -	O
 promyelocytic	O
-leukemia	I-PRGE
+leukemia	O
 gene	O
 product	O
 
@@ -18596,8 +18596,8 @@ cells	O
 scl	O
 -	O
 stem	O
-cell	I-PRGE
-leukemia	I-PRGE
+cell	O
+leukemia	O
 ;	O
 SSCP	O
 
@@ -18622,7 +18622,7 @@ Figure	O
 1	O
 
 Zebrafish	O
-mon	I-PRGE
+mon	O
 Mutants	O
 Have	O
 Severe	O
@@ -18818,7 +18818,7 @@ Figure	O
 2	O
 
 Zebrafish	O
-mon	I-PRGE
+mon	O
 Mutants	O
 Also	O
 Have	O
@@ -18914,8 +18914,8 @@ mon	O
 Gene	O
 as	O
 Zebrafish	O
-tif1	I-PRGE
-gamma	I-PRGE
+tif1	O
+gamma	O
 
 (	O
 A	O
@@ -19019,8 +19019,8 @@ and	O
 to	O
 identify	O
 zebrafish	O
-tif1	I-PRGE
-gamma	I-PRGE
+tif1	O
+gamma	O
 cDNAs	O
 .	O
 
@@ -19051,18 +19051,18 @@ phylogentic	O
 tree	O
 of	O
 zebrafish	O
-(	I-PRGE
-Danio	I-PRGE
-rerio	I-PRGE
-[	I-PRGE
-Dr	I-PRGE
-]	I-PRGE
-)	I-PRGE
-Tif1	I-PRGE
-gamma	I-PRGE
-and	I-PRGE
-Tif1	I-PRGE
-alpha	I-PRGE
+(	O
+Danio	O
+rerio	O
+[	O
+Dr	O
+]	O
+)	O
+Tif1	O
+gamma	O
+and	O
+Tif1	O
+alpha	O
 peptide	O
 sequences	O
 in	O
@@ -19073,40 +19073,40 @@ family	O
 members	O
 :	O
 human	O
-(	I-PRGE
-Hs	I-PRGE
-)	I-PRGE
-TIF1	I-PRGE
-alpha	I-PRGE
-,	I-PRGE
-TIF1	I-PRGE
-beta	I-PRGE
-,	I-PRGE
-and	I-PRGE
-TIF1	I-PRGE
-gamma	I-PRGE
+(	O
+Hs	O
+)	O
+TIF1	O
+alpha	O
+,	O
+TIF1	O
+beta	O
+,	O
+and	O
+TIF1	O
+gamma	O
 ;	O
 mouse	O
-(	I-PRGE
-Mm	I-PRGE
-)	I-PRGE
-Tif1	I-PRGE
-alpha	I-PRGE
-,	I-PRGE
-Tif1	I-PRGE
-beta	I-PRGE
-,	I-PRGE
-and	I-PRGE
-Tif1	I-PRGE
-gamma	I-PRGE
+(	O
+Mm	O
+)	O
+Tif1	O
+alpha	O
+,	O
+Tif1	O
+beta	O
+,	O
+and	O
+Tif1	O
+gamma	O
 ;	O
 ;	O
 and	O
 fly	O
-(	I-PRGE
-Dm	I-PRGE
-)	I-PRGE
-bonus	I-PRGE
+(	O
+Dm	O
+)	O
+bonus	O
 .	O
 
 (	O
@@ -19119,7 +19119,7 @@ structure	O
 of	O
 the	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 -	O
 predicted	O
 peptide	O
@@ -19176,10 +19176,10 @@ these	O
 domains	O
 in	O
 zebrafish	O
-and	I-PRGE
-human	I-PRGE
-TIF1	I-PRGE
-gamma	I-PRGE
+and	O
+human	O
+TIF1	O
+gamma	O
 .	O
 
 The	O
@@ -19220,7 +19220,7 @@ The	O
 mon	O
 /	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 Gene	O
 Is	O
 Highly	O
@@ -19244,11 +19244,11 @@ embryonic	O
 expression	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 initially	O
 expressed	O
@@ -19262,7 +19262,7 @@ Increased	O
 expression	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 in	O
 ventral	O
 -	O
@@ -19290,7 +19290,7 @@ five	O
 somites	O
 ,	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 strongly	O
 expressed	O
@@ -19309,7 +19309,7 @@ At	O
 22	O
 hpf	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 is	O
 expressed	O
 broadly	O
@@ -19342,8 +19342,8 @@ island	O
 .	O
 
 Zebrafish	O
-tif1	I-PRGE
-alpha	I-PRGE
+tif1	O
+alpha	O
 is	O
 also	O
 broadly	O
@@ -19360,11 +19360,11 @@ in	O
 comparison	O
 to	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 .	O
 
 Tif1	O
-alpha	I-PRGE
+alpha	O
 is	O
 weakly	O
 expressed	O
@@ -19408,7 +19408,7 @@ in	O
 comparison	O
 to	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 expression	O
 .	O
 
@@ -19426,7 +19426,7 @@ broad	O
 expression	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 at	O
 embryonic	O
 day	O
@@ -19489,7 +19489,7 @@ Wild	O
 -	O
 Type	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 or	O
 Marrow	O
@@ -19518,7 +19518,7 @@ wild	O
 -	O
 type	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 .	O
 
@@ -19572,7 +19572,7 @@ wild	O
 -	O
 type	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 rescues	O
 erythropoiesis	O
@@ -19706,7 +19706,7 @@ Figure	O
 
 Mammalian	B-LIVB
 Tif1	O
-gamma	I-PRGE
+gamma	O
 Protein	O
 Localizes	O
 to	O
@@ -19735,7 +19735,7 @@ an	O
 anti	O
 -	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 antibody	O
 and	O
 stained	O
@@ -19746,7 +19746,7 @@ antibody	O
 directed	O
 against	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 .	O
 
 This	O
@@ -19767,14 +19767,14 @@ nucleus	O
 show	O
 that	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 does	O
 not	O
 colocalize	O
 with	O
 the	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 or	O
 DAPI	O
 staining	O
@@ -19782,7 +19782,7 @@ of	O
 heterochromatin	O
 while	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 and	O
 DAPI	O
 staining	O
@@ -19801,7 +19801,7 @@ high	O
 levels	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 protein	O
 as	O
 detected	O
@@ -19814,7 +19814,7 @@ analysis	O
 Expression	O
 of	O
 Tif1	O
-gamma	I-PRGE
+gamma	O
 decreases	O
 during	O
 Gata1	O
@@ -19844,7 +19844,7 @@ Table	O
 Overexpression	O
 of	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 Rescues	O
 mon	O
@@ -19855,7 +19855,7 @@ Phenotypes	O
 
 Synthetic	O
 tif1	O
-gamma	I-PRGE
+gamma	O
 mRNA	O
 (	O
 100	O
@@ -20264,14 +20264,14 @@ al	O
 )	O
 The	O
 zebrafish	O
-moonshine	I-PRGE
+moonshine	O
 gene	O
 encodes	O
 transcriptional	O
-intermediary	I-PRGE
-factor	I-PRGE
-1	I-PRGE
-gamma	I-PRGE
+intermediary	O
+factor	O
+1	O
+gamma	O
 ,	O
 an	O
 essential	O
@@ -20768,7 +20768,7 @@ mutation	O
 of	O
 the	O
 FAS	O
-receptor	I-PRGE
+receptor	O
 gene	O
 ;	O
 and	O
@@ -20780,9 +20780,9 @@ which	O
 carries	O
 the	O
 Y	O
-chromosome	I-PRGE
-autoimmune	I-PRGE
-accelerator	I-PRGE
+chromosome	O
+autoimmune	O
+accelerator	O
 (	O
 Yaa	O
 )	O
@@ -21234,9 +21234,9 @@ mutation	O
 in	O
 the	O
 serum	O
-amyloid	I-PRGE
-P	I-PRGE
-component	I-PRGE
+amyloid	O
+P	O
+component	O
 gene	O
 (	O
 Apcs	O
@@ -21419,8 +21419,8 @@ including	O
 those	O
 encoding	O
 Fc	O
-gamma	I-PRGE
-RII	I-PRGE
+gamma	O
+RII	O
 ,	O
 the	O
 complement	O
@@ -23710,9 +23710,9 @@ we	O
 demonstrated	O
 that	O
 serum	O
-amyloid	I-PRGE
-P	I-PRGE
-component	I-PRGE
+amyloid	O
+P	O
+component	O
 deficiency	O
 influences	O
 the	O
@@ -24795,10 +24795,10 @@ region	O
 
 The	O
 human	O
-serum	I-PRGE
-amyloid	I-PRGE
-P	I-PRGE
-component	I-PRGE
+serum	O
+amyloid	O
+P	O
+component	O
 binds	O
 avidly	O
 to	O
@@ -25308,8 +25308,8 @@ including	O
 mice	B-LIVB
 lacking	O
 Fc	O
-gamma	I-PRGE
-RIIB	I-PRGE
+gamma	O
+RIIB	O
 (	O
 Bolland	O
 and	O
@@ -25340,9 +25340,9 @@ al	O
 ,	O
 and	O
 decay	O
--	I-PRGE
-accelerating	I-PRGE
-factor	I-PRGE
+-	O
+accelerating	O
+factor	O
 (	O
 CD55	O
 )	O
@@ -25564,10 +25564,10 @@ expression	O
 of	O
 the	O
 human	O
-C	I-PRGE
--	I-PRGE
-reactive	I-PRGE
-protein	I-PRGE
+C	O
+-	O
+reactive	O
+protein	O
 ,	O
 an	O
 acute	O
@@ -25630,9 +25630,9 @@ basal	O
 level	O
 of	O
 C	O
--	I-PRGE
-reactive	I-PRGE
-protein	I-PRGE
+-	O
+reactive	O
+protein	O
 has	O
 been	O
 reported	O
@@ -26515,13 +26515,13 @@ sheep	B-LIVB
 anti	O
 -	O
 mouse	O
-Apcs	I-PRGE
+Apcs	O
 and	O
 rabbit	B-LIVB
 anti	O
 -	O
 mouse	O
-Apcs	I-PRGE
+Apcs	O
 Abs	O
 (	O
 Calbiochem	O
@@ -27155,7 +27155,7 @@ ID	O
 ,	O
 the	O
 FAS	O
-receptor	I-PRGE
+receptor	O
 gene	O
 (	O
 LocusLink	O
@@ -27165,8 +27165,8 @@ ID	O
 ,	O
 and	O
 Fc	O
-gamma	I-PRGE
-RII	I-PRGE
+gamma	O
+RII	O
 (	O
 LocusLink	O
 ID	O
@@ -27294,9 +27294,9 @@ mice	B-LIVB
 Apcs	O
 -	O
 serum	O
-amyloid	I-PRGE
-P	I-PRGE
-component	I-PRGE
+amyloid	O
+P	O
+component	O
 gene	O
 
 dsDNA	O
@@ -28850,7 +28850,7 @@ e243	O
 
 The	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 has	O
 essential	O
 functions	O
@@ -28886,7 +28886,7 @@ homeostasis	O
 
 The	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 (	O
 Ptdsr	O
 )	O
@@ -28919,7 +28919,7 @@ function	O
 of	O
 the	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 in	O
 vivo	O
 ,	O
@@ -29144,7 +29144,7 @@ view	O
 that	O
 the	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 primarily	O
 functions	O
 in	O
@@ -29452,8 +29452,8 @@ as	O
 CD36	O
 ,	O
 SR	O
--	I-PRGE
-A	I-PRGE
+-	O
+A	O
 and	O
 CD14	O
 ,	O
@@ -29585,8 +29585,8 @@ mutation	O
 in	O
 the	O
 tyrosine	O
-kinase	I-PRGE
-receptor	I-PRGE
+kinase	O
+receptor	O
 gene	O
 Mer	O
 [	O
@@ -29601,19 +29601,19 @@ in	O
 mice	B-LIVB
 lacking	O
 transglutaminase	O
-2	I-PRGE
+2	O
 or	O
 milk	O
-fat	I-PRGE
-globule	I-PRGE
-epidermal	I-PRGE
-growth	I-PRGE
-factor	I-PRGE
-8	I-PRGE
+fat	O
+globule	O
+epidermal	O
+growth	O
+factor	O
+8	O
 (	O
 MFG	O
--	I-PRGE
-E8	I-PRGE
+-	O
+E8	O
 )	O
 [	O
 17	O
@@ -29703,13 +29703,13 @@ the	O
 serum	O
 proteins	O
 beta	O
-2	I-PRGE
--	I-PRGE
-glycoprotein	I-PRGE
-1	I-PRGE
+2	O
+-	O
+glycoprotein	O
+1	O
 and	O
 protein	O
-S	I-PRGE
+S	O
 [	O
 20	O
 ,	O
@@ -29725,8 +29725,8 @@ specific	O
 gene	O
 product	O
 GAS	O
--	I-PRGE
-6	I-PRGE
+-	O
+6	O
 [	O
 22	O
 ]	O
@@ -29744,15 +29744,15 @@ fat	O
 globule	O
 protein	O
 MFG	O
--	I-PRGE
-E8	I-PRGE
+-	O
+E8	O
 [	O
 24	O
 ]	O
 ,	O
 and	O
 annexin	O
-I	I-PRGE
+I	O
 [	O
 25	O
 ]	O
@@ -29784,22 +29784,22 @@ been	O
 reported	O
 that	O
 GAS	O
--	I-PRGE
-6	I-PRGE
+-	O
+6	O
 is	O
 a	O
 ligand	O
 for	O
 the	O
 tyrosine	O
-kinase	I-PRGE
-receptor	I-PRGE
+kinase	O
+receptor	O
 Mer	O
 and	O
 that	O
 MFG	O
--	I-PRGE
-E8	I-PRGE
+-	O
+E8	O
 can	O
 bind	O
 to	O
@@ -29828,20 +29828,20 @@ specificity	O
 are	O
 the	O
 lectin	O
--	I-PRGE
-like	I-PRGE
-oxidized	I-PRGE
-low	I-PRGE
--	I-PRGE
-density	I-PRGE
-lipoprotein	I-PRGE
-receptor	I-PRGE
--	I-PRGE
-1	I-PRGE
+-	O
+like	O
+oxidized	O
+low	O
+-	O
+density	O
+lipoprotein	O
+receptor	O
+-	O
+1	O
 (	O
 LOX	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 )	O
 and	O
 the	O
@@ -29882,7 +29882,7 @@ manner	O
 is	O
 the	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 (	O
 Ptdsr	O
 )	O
@@ -29930,7 +29930,7 @@ PS	O
 binding	O
 molecule	O
 annexin	O
-V	I-PRGE
+V	O
 or	O
 an	O
 anti	O
@@ -29970,16 +29970,16 @@ mediators	O
 ,	O
 including	O
 transforming	O
-growth	I-PRGE
-factor	I-PRGE
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+growth	O
+factor	O
+-	O
+beta	O
+1	O
 (	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 )	O
 ,	O
 platelet	O
@@ -30317,7 +30317,7 @@ functions	O
 of	O
 the	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 Ptdsr	O
 ,	O
 we	O
@@ -32867,8 +32867,8 @@ whole	O
 -	O
 mount	O
 terminal	O
-deoxynucleotide	I-PRGE
-transferase	I-PRGE
+deoxynucleotide	O
+transferase	O
 -	O
 mediated	O
 UTP	O
@@ -33012,8 +33012,8 @@ stained	O
 immunohistochemically	O
 for	O
 activated	O
-caspase	I-PRGE
-3	I-PRGE
+caspase	O
+3	O
 (	O
 aCasp3	O
 )	O
@@ -33537,8 +33537,8 @@ macrophage	O
 surface	O
 marker	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 or	O
 with	O
 aCasp3	O
@@ -33860,8 +33860,8 @@ by	O
 inclusion	O
 in	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 -	O
 labeled	O
 macrophages	O
@@ -34096,17 +34096,17 @@ examined	O
 levels	O
 of	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 and	O
 interleukin	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 (	O
 IL	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 )	O
 after	O
 stimulation	O
@@ -34132,13 +34132,13 @@ cells	O
 Quantification	O
 of	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 and	O
 IL	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 levels	O
 after	O
 22	O
@@ -34253,14 +34253,14 @@ measured	O
 levels	O
 of	O
 tumor	O
-necrosis	I-PRGE
-factor	I-PRGE
--	I-PRGE
-alpha	I-PRGE
+necrosis	O
+factor	O
+-	O
+alpha	O
 (	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 )	O
 at	O
 different	O
@@ -34283,8 +34283,8 @@ produced	O
 significantly	O
 less	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 than	O
 did	O
 wild	O
@@ -34297,8 +34297,8 @@ The	O
 difference	O
 in	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 secretion	O
 was	O
 first	O
@@ -34342,8 +34342,8 @@ To	O
 analyze	O
 whether	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 release	O
 by	O
 Ptdsr	O
@@ -34375,8 +34375,8 @@ both	O
 Quantification	O
 of	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 levels	O
 by	O
 ELISA	O
@@ -34392,8 +34392,8 @@ macrophages	O
 release	O
 less	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 after	O
 stimulation	O
 with	O
@@ -34430,8 +34430,8 @@ LPS	O
 -	O
 induced	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 release	O
 by	O
 Ptdsr	O
@@ -34477,14 +34477,14 @@ cytokines	O
 such	O
 as	O
 interleukin	O
--	I-PRGE
-6	I-PRGE
+-	O
+6	O
 and	O
 monocyte	O
-chemoattractant	I-PRGE
-protein	I-PRGE
--	I-PRGE
-1	I-PRGE
+chemoattractant	O
+protein	O
+-	O
+1	O
 ,	O
 were	O
 analyzed	O
@@ -34606,7 +34606,7 @@ mutation	O
 in	O
 the	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 (	O
 Ptdsr	O
 )	O
@@ -36661,7 +36661,7 @@ done	O
 with	O
 a	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 null	O
 allele	O
 in	O
@@ -36915,8 +36915,8 @@ positive	O
 cells	O
 with	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 -	O
 positive	O
 macrophages	O
@@ -36951,8 +36951,8 @@ reduced	O
 number	O
 of	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 -	O
 positive	O
 cells	O
@@ -37151,8 +37151,8 @@ specific	O
 transcription	O
 factor	O
 PU	O
-.	I-PRGE
-1	I-PRGE
+.	O
+1	O
 .	O
 
 Here	O
@@ -37611,7 +37611,7 @@ or	O
 perturbation	O
 of	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 function	O
 in	O
 C	B-LIVB
@@ -37633,8 +37633,8 @@ al	O
 reported	O
 that	O
 psr	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 the	O
 C	B-LIVB
@@ -37654,8 +37654,8 @@ engulfment	O
 ,	O
 whereas	O
 psr	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 RNAi	O
 studies	O
 performed	O
@@ -37692,8 +37692,8 @@ their	O
 data	O
 that	O
 psr	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 might	O
 act	O
 to	O
@@ -37704,32 +37704,32 @@ signal	O
 upstream	O
 of	O
 Ced	O
--	I-PRGE
-2	I-PRGE
+-	O
+2	O
 (	O
 Crk	O
-II	I-PRGE
+II	O
 )	O
 ,	O
 Ced	O
--	I-PRGE
-5	I-PRGE
+-	O
+5	O
 (	O
 Dock	O
-180	I-PRGE
+180	O
 )	O
 ,	O
 Ced	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 (	O
 Rac	O
-1	I-PRGE
+1	O
 )	O
 and	O
 Ced	O
--	I-PRGE
-12	I-PRGE
+-	O
+12	O
 (	O
 Elmo	O
 )	O
@@ -37761,8 +37761,8 @@ function	O
 phenotype	O
 of	O
 psr	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 mutants	O
 and	O
 the	O
@@ -37883,9 +37883,9 @@ show	O
 that	O
 the	O
 human	O
-and	I-PRGE
-worm	I-PRGE
-Ptdsr	I-PRGE
+and	O
+worm	O
+Ptdsr	O
 molecules	O
 can	O
 recognize	O
@@ -39179,8 +39179,8 @@ hybridized	O
 with	O
 a	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 probe	O
 (	O
 OriGene	O
@@ -39346,8 +39346,8 @@ USA	O
 )	O
 and	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 (	O
 ab	O
 -	O
@@ -39718,8 +39718,8 @@ antibody	O
 specific	O
 for	O
 activated	O
-caspase	I-PRGE
-3	I-PRGE
+caspase	O
+3	O
 ;	O
 R	O
 &	O
@@ -39734,8 +39734,8 @@ and	O
 anti	O
 -	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 (	O
 Serotec	O
 GmBH	O
@@ -39801,8 +39801,8 @@ whole	O
 -	O
 mount	O
 terminal	O
-deoxynucleotidyl	I-PRGE
-transferase	I-PRGE
+deoxynucleotidyl	O
+transferase	O
 -	O
 mediated	O
 UTP	O
@@ -39982,14 +39982,14 @@ ng	O
 /	O
 ml	O
 macrophage	O
-colony	I-PRGE
--	I-PRGE
-stimulating	I-PRGE
-factor	I-PRGE
+colony	O
+-	O
+stimulating	O
+factor	O
 (	O
 M	O
--	I-PRGE
-CSF	I-PRGE
+-	O
+CSF	O
 ;	O
 Sigma	O
 -	O
@@ -40038,8 +40038,8 @@ Following	O
 withdrawal	O
 of	O
 M	O
--	I-PRGE
-CSF	I-PRGE
+-	O
+CSF	O
 on	O
 day	O
 6	O
@@ -40226,7 +40226,7 @@ by	O
 FITC	O
 -	O
 annexin	O
-V	I-PRGE
+V	O
 and	O
 propidium	O
 iodide	O
@@ -40343,8 +40343,8 @@ an	O
 anti	O
 -	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 antibody	O
 (	O
 Serotec	O
@@ -40530,17 +40530,17 @@ the	O
 determination	O
 of	O
 IL	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 ,	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 or	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 levels	O
 after	O
 co	O
@@ -40553,8 +40553,8 @@ h	O
 
 For	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 quantification	O
 at	O
 various	O
@@ -40584,13 +40584,13 @@ were	O
 harvested	O
 and	O
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 (	O
 Mouse	O
-TNF	I-PRGE
--	I-PRGE
-alpha	I-PRGE
+TNF	O
+-	O
+alpha	O
 OptEIA	O
 set	O
 ;	O
@@ -40603,16 +40603,16 @@ Germany	O
 )	O
 and	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 (	O
 Quantikine	O
 ,	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 immunoassay	O
 ;	O
 R	O
@@ -40632,8 +40632,8 @@ supplier	O
 .	O
 
 IL	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 in	O
 culture	O
 supernatants	O
@@ -40991,7 +40991,7 @@ inactivation	O
 of	O
 the	O
 phosphatidylserine	O
-receptor	I-PRGE
+receptor	O
 gene	O
 .	O
 
@@ -41022,7 +41022,7 @@ II	O
 of	O
 the	O
 murine	O
-Ptdsr	I-PRGE
+Ptdsr	O
 gene	O
 through	O
 replacement	O
@@ -41699,8 +41699,8 @@ h	O
 
 A	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 hybridization	O
 was	O
 used	O
@@ -42576,8 +42576,8 @@ sections	O
 stained	O
 for	O
 activated	O
-caspase	I-PRGE
-3	I-PRGE
+caspase	O
+3	O
 (	O
 aCasp3	O
 ;	O
@@ -42684,8 +42684,8 @@ and	O
 location	O
 by	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 staining	O
 (	O
 brown	O
@@ -42828,8 +42828,8 @@ then	O
 stained	O
 with	O
 F4	O
-/	I-PRGE
-80	I-PRGE
+/	O
+80	O
 (	O
 green	O
 )	O
@@ -43059,21 +43059,21 @@ c	O
 .	O
 
 TNF	O
--	I-PRGE
-alpha	I-PRGE
+-	O
+alpha	O
 and	O
 TGF	O
--	I-PRGE
-beta	I-PRGE
-1	I-PRGE
+-	O
+beta	O
+1	O
 were	O
 quantified	O
 by	O
 ELISA	O
 and	O
 IL	O
--	I-PRGE
-10	I-PRGE
+-	O
+10	O
 by	O
 cytometric	O
 bead	O
@@ -43270,13 +43270,13 @@ information	O
 from	O
 the	O
 mouse	O
-Gdf5	I-PRGE
+Gdf5	O
 gene	O
 (	O
 a	O
 bone	O
-morphogenetic	I-PRGE
-protein	I-PRGE
+morphogenetic	O
+protein	O
 [	O
 BMP	O
 ]	O
@@ -43427,7 +43427,7 @@ the	O
 absence	O
 of	O
 Bmpr1a	O
-receptor	I-PRGE
+receptor	O
 function	O
 .	O
 
@@ -43869,8 +43869,8 @@ members	O
 of	O
 the	O
 bone	O
-morphogenetic	I-PRGE
-protein	I-PRGE
+morphogenetic	O
+protein	O
 (	O
 BMP	O
 )	O
@@ -44802,9 +44802,9 @@ IRES	O
 )	O
 -	O
 human	O
-placental	I-PRGE
-alkaline	I-PRGE
-phosphatase	I-PRGE
+placental	O
+alkaline	O
+phosphatase	O
 (	O
 hPLAP	O
 )	O
@@ -46545,8 +46545,8 @@ Figure	O
 .	O
 
 Terminal	O
-deoxynucleotidyl	I-PRGE
-transferase	I-PRGE
+deoxynucleotidyl	O
+transferase	O
 -	O
 mediated	O
 deoxyuridine	O
@@ -46663,7 +46663,7 @@ regional	O
 loss	O
 of	O
 BMPR1A	O
-receptor	I-PRGE
+receptor	O
 signaling	O
 blocks	O
 programmed	O
@@ -47239,8 +47239,8 @@ analyzed	O
 expression	O
 of	O
 Matrilin	O
--	I-PRGE
-4	I-PRGE
+-	O
+4	O
 (	O
 Mat4	O
 )	O
@@ -47487,13 +47487,13 @@ cartilage	O
 cells	O
 ,	O
 Collagen	O
-3	I-PRGE
+3	O
 (	O
 Col3a1	O
 )	O
 and	O
 Collagen	O
-10	I-PRGE
+10	O
 (	O
 Col10a1	O
 )	O
@@ -47527,7 +47527,7 @@ reported	O
 to	O
 induce	O
 Collagen	O
-1	I-PRGE
+1	O
 (	O
 Col1a1	O
 )	O
@@ -48034,10 +48034,10 @@ studies	O
 suggest	O
 that	O
 parathyroid	O
-hormone	I-PRGE
--	I-PRGE
-related	I-PRGE
-protein	I-PRGE
+hormone	O
+-	O
+related	O
+protein	O
 ,	O
 a	O
 diffusible	O
@@ -48361,9 +48361,9 @@ Col1a1	O
 ,	O
 or	O
 matrix	O
-metalloprotease	I-PRGE
--	I-PRGE
-13	I-PRGE
+metalloprotease	O
+-	O
+13	O
 at	O
 either	O
 7	O
@@ -49350,7 +49350,7 @@ and	O
 in	O
 the	O
 human	O
-Noggin	I-PRGE
+Noggin	O
 locus	O
 (	O
 Storm	O
@@ -49874,8 +49874,8 @@ interesting	O
 that	O
 the	O
 SOX9	O
-transcription	I-PRGE
-factor	I-PRGE
+transcription	O
+factor	O
 continues	O
 to	O
 be	O
@@ -49940,8 +49940,8 @@ related	O
 proteins	O
 ,	O
 L	O
--	I-PRGE
-SOX5	I-PRGE
+-	O
+SOX5	O
 and	O
 SOX6	O
 (	O
@@ -49986,8 +49986,8 @@ by	O
 Bmpr1b	O
 with	O
 L	O
--	I-PRGE
-Sox5	I-PRGE
+-	O
+Sox5	O
 ,	O
 and	O
 then	O
@@ -50052,8 +50052,8 @@ or	O
 to	O
 induce	O
 L	O
--	I-PRGE
-Sox5	I-PRGE
+-	O
+Sox5	O
 or	O
 Sox6	O
 in	O
@@ -50115,8 +50115,8 @@ the	O
 expression	O
 of	O
 L	O
--	I-PRGE
-Sox5	I-PRGE
+-	O
+Sox5	O
 or	O
 Sox6	O
 in	O
@@ -50175,12 +50175,12 @@ null	O
 mutations	O
 in	O
 L	O
--	I-PRGE
-Sox5	I-PRGE
+-	O
+Sox5	O
 or	O
 Sox	O
--	I-PRGE
-6	I-PRGE
+-	O
+6	O
 cause	O
 lethality	O
 at	O
@@ -50242,17 +50242,17 @@ of	O
 dominant	O
 negative	O
 transforming	O
-growth	I-PRGE
-factor	I-PRGE
-beta	I-PRGE
-(	I-PRGE
-TGF	I-PRGE
--	I-PRGE
-beta	I-PRGE
-)	I-PRGE
-type	I-PRGE
-II	I-PRGE
-receptor	I-PRGE
+growth	O
+factor	O
+beta	O
+(	O
+TGF	O
+-	O
+beta	O
+)	O
+type	O
+II	O
+receptor	O
 also	O
 disrupts	O
 normal	O
@@ -50279,7 +50279,7 @@ manipulations	O
 should	O
 disrupt	O
 TGF	O
-beta	I-PRGE
+beta	O
 rather	O
 than	O
 BMP	O
@@ -50330,7 +50330,7 @@ replacement	O
 Therefore	O
 ,	O
 TGF	O
-beta	I-PRGE
+beta	O
 and	O
 BMP	O
 signaling	O
@@ -50726,7 +50726,7 @@ al	O
 and	O
 the	O
 BMPR2	O
-receptor	I-PRGE
+receptor	O
 on	O
 human	B-LIVB
 chromosome	O
@@ -53082,7 +53082,7 @@ goat	B-LIVB
 anti	O
 -	O
 mouse	O
-MMP13	I-PRGE
+MMP13	O
 ,	O
 1	O
 :	O
@@ -53103,7 +53103,7 @@ rabbit	B-LIVB
 anti	O
 -	O
 human	O
-SOX9	I-PRGE
+SOX9	O
 ,	O
 1	O
 :	O
@@ -53384,10 +53384,10 @@ chromosome	O
 Bmpr1a	O
 -	O
 bone	O
-morphogenetic	I-PRGE
-protein	I-PRGE
-receptor	I-PRGE
-1a	I-PRGE
+morphogenetic	O
+protein	O
+receptor	O
+1a	O
 
 E	O
 [	O
@@ -53421,16 +53421,16 @@ construct	O
 Gdf5	O
 -	O
 growth	O
-differentiation	I-PRGE
-factor	I-PRGE
-5	I-PRGE
+differentiation	O
+factor	O
+5	O
 
 hPLAP	O
 -	O
 human	O
-placental	I-PRGE
-alkaline	I-PRGE
-phosphatase	I-PRGE
+placental	O
+alkaline	O
+phosphatase	O
 
 IRES	O
 -	O
@@ -53452,19 +53452,19 @@ reporter	O
 strain	O
 
 TGF	O
--	I-PRGE
-beta	I-PRGE
+-	O
+beta	O
 -	O
 transforming	O
-growth	I-PRGE
-factor	I-PRGE
-beta	I-PRGE
+growth	O
+factor	O
+beta	O
 
 TUNEL	O
 -	O
 terminal	O
-deoxynucleotidyl	I-PRGE
-transferase	I-PRGE
+deoxynucleotidyl	O
+transferase	O
 -	O
 mediated	O
 deoxyuridine	O
@@ -55737,8 +55737,8 @@ Chemoattractant	O
 Role	O
 for	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 Proprioceptive	O
 Axon	O
@@ -55747,12 +55747,12 @@ Guidance	O
 Abstract	O
 
 Neurotrophin	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 (	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 )	O
 is	O
 required	O
@@ -55770,8 +55770,8 @@ gene	O
 Bax	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 knockout	O
 mice	B-LIVB
 rescues	O
@@ -55790,8 +55790,8 @@ the	O
 absence	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 signaling	O
 .	O
 
@@ -55870,8 +55870,8 @@ chemoattractant	O
 effects	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 on	O
 dorsal	O
 root	O
@@ -55886,8 +55886,8 @@ that	O
 survival	O
 factor	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 acts	O
 as	O
 a	O
@@ -55912,12 +55912,12 @@ targets	O
 Introduction	O
 
 Neurotrophin	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 (	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 )	O
 is	O
 a	O
@@ -55950,13 +55950,13 @@ Mice	B-LIVB
 deficient	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 ,	O
 its	O
 tyrosine	O
-kinase	I-PRGE
-receptor	I-PRGE
+kinase	O
+receptor	O
 ,	O
 TrkC	O
 ,	O
@@ -56045,8 +56045,8 @@ al	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 is	O
 expressed	O
 in	O
@@ -56129,8 +56129,8 @@ or	O
 anti	O
 -	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 antibody	O
 injections	O
 into	O
@@ -56163,8 +56163,8 @@ al	O
 
 Is	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 only	O
 a	O
 chemotrophic	O
@@ -56203,8 +56203,8 @@ provide	O
 evidence	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 acts	O
 as	O
 a	O
@@ -56237,8 +56237,8 @@ in	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Double	O
 Knockout	O
 Mice	B-LIVB
@@ -56299,8 +56299,8 @@ effects	O
 We	O
 bred	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 heterozygote	O
 and	O
 Bax	O
@@ -56318,8 +56318,8 @@ KO	O
 of	O
 both	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 and	O
 Bax	O
 genes	O
@@ -56333,8 +56333,8 @@ projections	O
 
 All	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 and	O
 double	O
 KOs	O
@@ -56397,8 +56397,8 @@ were	O
 absent	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KOs	O
 at	O
 embryonic	O
@@ -56457,8 +56457,8 @@ TrkC	O
 even	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 animals	B-LIVB
 in	O
@@ -56526,8 +56526,8 @@ studied	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 null	O
 DRGs	O
@@ -56550,8 +56550,8 @@ than	O
 those	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 null	O
 DRGs	O
 (	O
@@ -56599,8 +56599,8 @@ Figure	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Is	O
 Necessary	O
 for	O
@@ -56684,8 +56684,8 @@ TrkC	O
 expression	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 spinal	O
 cord	O
@@ -56833,8 +56833,8 @@ spinal	O
 cord	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KOs	O
 (	O
 Figure	O
@@ -56944,8 +56944,8 @@ a	O
 role	O
 for	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 initiation	O
 of	O
@@ -57004,8 +57004,8 @@ fibers	O
 corresponding	O
 to	O
 nerve	O
-growth	I-PRGE
-factor	I-PRGE
+growth	O
+factor	O
 -	O
 dependent	O
 nociceptive	O
@@ -57041,8 +57041,8 @@ horns	O
 of	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 embryos	O
 were	O
@@ -57060,8 +57060,8 @@ the	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KOs	O
 ,	O
@@ -57120,8 +57120,8 @@ the	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 null	O
 spinal	O
 cord	O
@@ -57176,15 +57176,15 @@ the	O
 absence	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 suggests	O
 a	O
 requirement	O
 for	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 for	O
 proper	O
 axon	O
@@ -57201,8 +57201,8 @@ maintenance	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Is	O
 Required	O
 for	O
@@ -57261,12 +57261,12 @@ fibers	O
 labeled	O
 with	O
 neurofilament	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 (	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 )	O
 antibody	O
 formed	O
@@ -57313,8 +57313,8 @@ muscle	O
 spindles	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 animals	B-LIVB
 (	O
@@ -57352,8 +57352,8 @@ over	O
 -	O
 expressing	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 the	O
 muscle	O
@@ -57368,8 +57368,8 @@ al	O
 
 Although	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 dependent	O
 cells	O
@@ -57414,8 +57414,8 @@ but	O
 not	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 or	O
 double	O
 KOs	O
@@ -57428,16 +57428,16 @@ Figure	O
 In	O
 both	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 and	O
 double	O
 KO	O
 animals	B-LIVB
 ,	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 -	O
 labeled	O
 fibers	O
@@ -57479,8 +57479,8 @@ think	O
 that	O
 these	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 -	O
 labeled	O
 fibers	O
@@ -57520,8 +57520,8 @@ the	O
 absence	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 .	O
 
 To	O
@@ -57544,8 +57544,8 @@ with	O
 S46	O
 /	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 immunostaining	O
 as	O
 well	O
@@ -57598,8 +57598,8 @@ but	O
 not	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 embryos	O
 (	O
@@ -57611,8 +57611,8 @@ Figure	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 null	O
 muscles	O
@@ -57685,8 +57685,8 @@ but	O
 not	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 or	O
 double	O
 KO	O
@@ -57754,8 +57754,8 @@ leg	O
 
 In	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KOs	O
 ,	O
 TrkA	O
@@ -57834,13 +57834,13 @@ the	O
 absence	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Is	O
 a	O
 Chemoattractant	O
@@ -57856,8 +57856,8 @@ the	O
 hypothesis	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 acts	O
 as	O
 a	O
@@ -57925,8 +57925,8 @@ DRG	O
 explants	O
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 soaked	O
 sepharose	O
@@ -57945,8 +57945,8 @@ set	O
 up	O
 using	O
 bovine	O
-serum	I-PRGE
-albumin	I-PRGE
+serum	O
+albumin	O
 (	O
 BSA	O
 )	O
@@ -57976,8 +57976,8 @@ towards	O
 the	O
 localized	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 source	O
 by	O
 the	O
@@ -58029,8 +58029,8 @@ survival	O
 support	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 because	O
 Bax	O
 null	O
@@ -58050,8 +58050,8 @@ n	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 may	O
 act	O
 through	O
@@ -58096,8 +58096,8 @@ chemoattraction	O
 towards	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 beads	O
 (	O
 Figure	O
@@ -58111,7 +58111,7 @@ we	O
 used	O
 diffusible	O
 TrkC	O
-receptors	I-PRGE
+receptors	O
 conjugated	O
 to	O
 IgG	O
@@ -58135,8 +58135,8 @@ to	O
 deplete	O
 soluble	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 from	O
 the	O
 collagen	O
@@ -58170,8 +58170,8 @@ is	O
 specific	O
 for	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 .	O
 
 In	O
@@ -58265,8 +58265,8 @@ explant	O
 cultures	O
 using	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 beads	O
@@ -58284,8 +58284,8 @@ as	O
 an	O
 ectopic	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 source	O
 (	O
 n	O
@@ -58330,8 +58330,8 @@ growing	O
 towards	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 beads	O
 (	O
 Figure	O
@@ -58425,8 +58425,8 @@ with	O
 a	O
 localized	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 source	O
 ,	O
 and	O
@@ -58436,8 +58436,8 @@ growth	O
 towards	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 bead	O
 is	O
 initiated	O
@@ -58464,8 +58464,8 @@ Figure	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 is	O
 therefore	O
 capable	O
@@ -58487,8 +58487,8 @@ studies	O
 have	O
 implicated	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 as	O
 a	O
 chemoattractant	O
@@ -58525,14 +58525,14 @@ now	O
 attributed	O
 to	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 and	O
 brain	O
--	I-PRGE
-derived	I-PRGE
-neurotrophic	I-PRGE
-factor	I-PRGE
+-	O
+derived	O
+neurotrophic	O
+factor	O
 (	O
 BDNF	O
 )	O
@@ -58616,8 +58616,8 @@ over	O
 -	O
 express	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 under	O
 the	O
 nestin	O
@@ -58647,8 +58647,8 @@ levels	O
 of	O
 ectopic	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 expression	O
 in	O
 the	O
@@ -58672,8 +58672,8 @@ the	O
 possibility	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 may	O
 play	O
 a	O
@@ -58709,8 +58709,8 @@ function	O
 -	O
 blocking	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 antibody	O
 into	O
 the	O
@@ -58746,8 +58746,8 @@ antibody	O
 perturbation	O
 on	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 dependent	O
 cell	O
@@ -58797,15 +58797,15 @@ the	O
 absence	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 ,	O
 ectopic	O
 expression	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 disrupts	O
 their	O
 targeting	O
@@ -58858,8 +58858,8 @@ driven	O
 by	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 promoter	O
 ,	O
 vestibular	O
@@ -58877,8 +58877,8 @@ that	O
 normally	O
 expressed	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 and	O
 were	O
 not	O
@@ -58890,8 +58890,8 @@ axons	O
 
 Ectopic	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 supplied	O
 using	O
 osmotic	O
@@ -58967,8 +58967,8 @@ midline	O
 towards	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 source	O
 on	O
 the	O
@@ -58996,8 +58996,8 @@ further	O
 evidence	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 acts	O
 as	O
 a	O
@@ -59017,8 +59017,8 @@ was	O
 rescued	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 animals	B-LIVB
 by	O
@@ -59026,8 +59026,8 @@ over	O
 -	O
 expressing	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 selectively	O
 in	O
 their	O
@@ -59046,8 +59046,8 @@ appears	O
 that	O
 peripheral	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 alone	O
 is	O
 sufficient	O
@@ -59057,8 +59057,8 @@ proprioceptive	O
 neurons	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 animals	B-LIVB
 and	O
@@ -59078,8 +59078,8 @@ is	O
 unclear	O
 whether	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 is	O
 absent	O
 from	O
@@ -59104,8 +59104,8 @@ may	O
 retrogradely	O
 transport	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 muscle	O
 to	O
@@ -59126,8 +59126,8 @@ determine	O
 whether	O
 any	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 is	O
 present	O
 in	O
@@ -59159,8 +59159,8 @@ on	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 mice	B-LIVB
@@ -59234,8 +59234,8 @@ our	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KOs	O
 .	O
@@ -59261,14 +59261,14 @@ as	O
 PV	O
 or	O
 calcitonin	O
-gene	I-PRGE
--	I-PRGE
-related	I-PRGE
-peptide	I-PRGE
+gene	O
+-	O
+related	O
+peptide	O
 for	O
 nerve	O
-growth	I-PRGE
-factor	I-PRGE
+growth	O
+factor	O
 -	O
 responsive	O
 axons	O
@@ -59295,8 +59295,8 @@ in	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KOs	O
 cannot	O
@@ -59402,8 +59402,8 @@ are	O
 eliminated	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 or	O
 TrkC	O
 null	O
@@ -59440,8 +59440,8 @@ a	O
 role	O
 for	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 initiation	O
 of	O
@@ -59509,8 +59509,8 @@ nine	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 cases	O
@@ -59704,8 +59704,8 @@ their	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 mice	B-LIVB
@@ -59725,8 +59725,8 @@ provide	O
 evidence	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 induces	O
 Er81	O
 expression	O
@@ -59760,15 +59760,15 @@ abolished	O
 in	O
 both	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 and	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 mice	B-LIVB
@@ -59823,8 +59823,8 @@ in	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 mice	B-LIVB
@@ -59945,8 +59945,8 @@ these	O
 mice	B-LIVB
 ,	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 secreted	O
 by	O
 them	O
@@ -59975,8 +59975,8 @@ evidence	O
 showing	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 mRNA	O
 or	O
 protein	O
@@ -60005,8 +60005,8 @@ islet2DTA	O
 mice	B-LIVB
 ,	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 expression	O
 in	O
 the	O
@@ -60036,8 +60036,8 @@ embryonic	O
 mice	B-LIVB
 reported	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 mRNA	O
 in	O
 the	O
@@ -60080,8 +60080,8 @@ high	O
 levels	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 ,	O
 other	O
 cells	O
@@ -60124,8 +60124,8 @@ transgenic	O
 mice	B-LIVB
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 over	O
 -	O
 expression	O
@@ -60150,8 +60150,8 @@ a	O
 role	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 chemoattractant	O
 axon	O
@@ -60184,8 +60184,8 @@ localized	O
 sources	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 .	O
 
 This	O
@@ -60231,8 +60231,8 @@ axon	O
 response	O
 to	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 does	O
 not	O
 appear	O
@@ -60257,8 +60257,8 @@ al	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 is	O
 capable	O
 of	O
@@ -60298,8 +60298,8 @@ local	O
 applications	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 to	O
 developing	O
 primary	O
@@ -60349,8 +60349,8 @@ pathway	O
 ,	O
 only	O
 Wnt	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 has	O
 been	O
 implicated	O
@@ -60454,8 +60454,8 @@ cause	O
 repulsion	O
 of	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 responsive	O
 DRG	O
@@ -60531,8 +60531,8 @@ in	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 mice	B-LIVB
 suggests	O
@@ -60621,8 +60621,8 @@ in	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 mice	B-LIVB
@@ -60646,8 +60646,8 @@ results	O
 suggest	O
 that	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 acts	O
 as	O
 a	O
@@ -60692,8 +60692,8 @@ loci	O
 However	O
 ,	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 may	O
 not	O
 be	O
@@ -60720,8 +60720,8 @@ cord	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 most	O
 likely	O
 acts	O
@@ -60789,8 +60789,8 @@ States	O
 )	O
 to	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 heterozygote	O
 males	O
 on	O
@@ -60870,8 +60870,8 @@ used	O
 for	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 locus	O
 were	O
 NT3A	O
@@ -60924,8 +60924,8 @@ KO	O
 ,	O
 and	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 littermates	O
 were	O
@@ -60941,8 +60941,8 @@ of	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 KO	O
 mice	B-LIVB
@@ -61348,8 +61348,8 @@ rabbit	B-LIVB
 anti	O
 -	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 antibody	O
 (	O
 Chemicon	O
@@ -61727,8 +61727,8 @@ ng	O
 mu	O
 l	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 (	O
 Collaborative	O
 Research	O
@@ -61943,8 +61943,8 @@ States	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 (	O
@@ -62096,8 +62096,8 @@ in	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Double	O
 KOs	O
 
@@ -62156,8 +62156,8 @@ B	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 null	O
 spinal	O
@@ -62297,8 +62297,8 @@ S2	O
 S46	O
 /	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 Immunohistochemistry	O
 at	O
 E15	O
@@ -62380,8 +62380,8 @@ Tessarollo	O
 for	O
 providing	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KO	O
 animals	B-LIVB
 ,	O
@@ -62477,16 +62477,16 @@ Abbreviations	O
 BDNF	O
 -	O
 brain	O
--	I-PRGE
-derived	I-PRGE
-neurotrophic	I-PRGE
-factor	I-PRGE
+-	O
+derived	O
+neurotrophic	O
+factor	O
 
 BSA	O
 -	O
 bovine	O
-serum	I-PRGE
-albumin	I-PRGE
+serum	O
+albumin	O
 
 DRG	O
 -	O
@@ -62504,20 +62504,20 @@ KO	O
 knockout	O
 
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 -	O
 neurofilament	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 neurotrophin	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 
 P	O
 -	O
@@ -62540,7 +62540,7 @@ Fc	O
 -	O
 diffusible	O
 TrkC	O
-receptors	I-PRGE
+receptors	O
 conjugated	O
 to	O
 IgG	O
@@ -62616,8 +62616,8 @@ normally	O
 eliminated	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KOs	O
 are	O
 rescued	O
@@ -62705,8 +62705,8 @@ KOs	O
 ,	O
 and	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KOs	O
 had	O
 the	O
@@ -62842,8 +62842,8 @@ black	O
 dots	O
 represent	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 released	O
 centrally	O
 by	O
@@ -62970,8 +62970,8 @@ cord	O
 C	O
 )	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 null	O
 spinal	O
 cord	O
@@ -63011,8 +63011,8 @@ D	O
 Bax	O
 /	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 double	O
 null	O
 spinal	O
@@ -63077,8 +63077,8 @@ P0	O
 A	O
 )	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 (	O
 red	O
 )	O
@@ -63113,8 +63113,8 @@ KOs	O
 B	O
 )	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 (	O
 red	O
 )	O
@@ -63138,8 +63138,8 @@ P0	O
 C	O
 )	O
 NF	O
--	I-PRGE
-M	I-PRGE
+-	O
+M	O
 (	O
 red	O
 )	O
@@ -63271,8 +63271,8 @@ are	O
 missing	O
 in	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 KOs	O
 .	O
 
@@ -63367,8 +63367,8 @@ Axons	O
 to	O
 Local	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Observed	O
 by	O
 In	O
@@ -63385,8 +63385,8 @@ WT	O
 DRG	O
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 bead	O
@@ -63412,8 +63412,8 @@ null	O
 DRG	O
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 bead	O
@@ -63427,8 +63427,8 @@ null	O
 DRG	O
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 bead	O
@@ -63441,8 +63441,8 @@ WT	O
 DRG	O
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 bead	O
@@ -63462,8 +63462,8 @@ WT	O
 DRG	O
 with	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 loaded	O
 beads	O
 placed	O
@@ -63513,8 +63513,8 @@ Figure	O
 Chemoattraction	O
 Towards	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 Beads	O
 Placed	O
 in	O
@@ -63531,8 +63531,8 @@ Cultures	O
 A	O
 )	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 bead	O
 placed	O
 in	O
@@ -63645,8 +63645,8 @@ image	O
 of	O
 an	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 bead	O
@@ -63670,8 +63670,8 @@ image	O
 of	O
 an	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 -	O
 loaded	O
 bead	O
@@ -63760,8 +63760,8 @@ of	O
 an	O
 ectopic	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 source	O
 localized	O
 at	O
@@ -63774,14 +63774,14 @@ grow	O
 towards	O
 the	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 bead	O
 .	O
 
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 also	O
 initiates	O
 axon	O
@@ -63963,8 +63963,8 @@ chemoattractant	O
 role	O
 for	O
 NT	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 in	O
 proprioceptive	O
 axon	O
@@ -63988,7 +63988,7 @@ helicase	O
 actions	O
 of	O
 mouse	O
-MCM4	I-PRGE
+MCM4	O
 /	O
 6	O
 /	O
@@ -64366,12 +64366,12 @@ group	O
 ,	O
 including	O
 simian	O
-virus	I-PRGE
-40	I-PRGE
-large	I-PRGE
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+virus	O
+40	O
+large	O
+T	O
+-	O
+antigen	O
 (	O
 6	O
 )	O
@@ -64427,9 +64427,9 @@ All	O
 the	O
 six	O
 Mcm	O
-2	I-PRGE
--	I-PRGE
-7	I-PRGE
+2	O
+-	O
+7	O
 proteins	O
 contain	O
 highly	O
@@ -64595,10 +64595,10 @@ processivity	O
 of	O
 the	O
 Schizosaccharomyces	O
-pombe	I-PRGE
-and	I-PRGE
-mouse	I-PRGE
-Mcm4	I-PRGE
+pombe	O
+and	O
+mouse	O
+Mcm4	O
 /	O
 6	O
 /	O
@@ -64660,8 +64660,8 @@ was	O
 shown	O
 for	O
 T	O
--	I-PRGE
-antigen	I-PRGE
+-	O
+antigen	O
 (	O
 13	O
 ,	O
@@ -64771,7 +64771,7 @@ DNA	O
 binding	O
 of	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -64932,11 +64932,11 @@ circular	O
 DNA	O
 ,	O
 T4	O
-polynucleotide	I-PRGE
-kinase	I-PRGE
+polynucleotide	O
+kinase	O
 ,	O
 DNase	O
-I	I-PRGE
+I	O
 and	O
 the	O
 Klenow	O
@@ -64971,9 +64971,9 @@ Sigma	O
 .	O
 
 SV40	O
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+T	O
+-	O
+antigen	O
 was	O
 purified	O
 from	O
@@ -64990,7 +64990,7 @@ reported	O
 .	O
 
 PriA	O
-helicase	I-PRGE
+helicase	O
 protein	O
 was	O
 provided	O
@@ -65048,7 +65048,7 @@ and	O
 purification	O
 of	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -65320,7 +65320,7 @@ Bub	O
 82	O
 /	O
 lamin	O
-B2	I-PRGE
+B2	O
 containing	O
 the	O
 T	O
@@ -65330,7 +65330,7 @@ strand	O
 of	O
 the	O
 lamin	O
-B2	I-PRGE
+B2	O
 origin	O
 region	O
 was	O
@@ -65348,14 +65348,14 @@ bubble	O
 substrate	O
 ,	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 or	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 -	O
@@ -66116,7 +66116,7 @@ indicated	O
 amount	O
 of	O
 DNase	O
-I	I-PRGE
+I	O
 (	O
 TAKARA	O
 Biomedical	O
@@ -66140,7 +66140,7 @@ min	O
 .	O
 
 DNase	O
-I	I-PRGE
+I	O
 was	O
 inactivated	O
 by	O
@@ -66442,7 +66442,7 @@ optimum	O
 concentration	O
 of	O
 DNase	O
-I	I-PRGE
+I	O
 ,	O
 strong	O
 cleavages	O
@@ -66479,7 +66479,7 @@ with	O
 preference	O
 of	O
 DNase	O
-I	I-PRGE
+I	O
 to	O
 double	O
 -	O
@@ -66719,9 +66719,9 @@ manner	O
 similar	O
 to	O
 SV40	O
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+T	O
+-	O
+antigen	O
 (	O
 21	O
 )	O
@@ -67866,7 +67866,7 @@ In	O
 contrast	O
 ,	O
 PriA	O
-helicase	I-PRGE
+helicase	O
 ,	O
 used	O
 as	O
@@ -68327,7 +68327,7 @@ to	O
 examine	O
 whether	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -68437,11 +68437,11 @@ displaced	O
 efficiently	O
 by	O
 Mcm	O
-4	I-PRGE
-/	I-PRGE
-6	I-PRGE
-/	I-PRGE
-7	I-PRGE
+4	O
+/	O
+6	O
+/	O
+7	O
 while	O
 almost	O
 no	O
@@ -68671,7 +68671,7 @@ the	O
 unwinding	O
 by	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -69027,8 +69027,8 @@ sequences	O
 from	O
 the	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 origin	O
 activate	O
 Mcm	O
@@ -69053,8 +69053,8 @@ derived	O
 from	O
 the	O
 human	O
-lamin	I-PRGE
-B2	I-PRGE
+lamin	O
+B2	O
 origin	O
 (	O
 48	O
@@ -69126,8 +69126,8 @@ substrates	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 ,	O
 containing	O
 sequences	O
@@ -69144,17 +69144,17 @@ region	O
 of	O
 the	O
 human	O
-c	I-PRGE
--	I-PRGE
-myc	I-PRGE
+c	O
+-	O
+myc	O
 origin	O
 which	O
 is	O
 essential	O
 for	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 replicator	O
 activity	O
 (	O
@@ -69171,8 +69171,8 @@ in	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 contains	O
@@ -69186,8 +69186,8 @@ in	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 -	O
@@ -69211,8 +69211,8 @@ region	O
 of	O
 the	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 origin	O
 (	O
 29	O
@@ -69240,7 +69240,7 @@ unwound	O
 Bub82	O
 /	O
 lamin	O
-B2	I-PRGE
+B2	O
 (	O
 thymine	O
 48	O
@@ -69250,8 +69250,8 @@ thymine	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 (	O
@@ -69262,8 +69262,8 @@ and	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 -	O
@@ -69287,8 +69287,8 @@ sequences	O
 from	O
 the	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 origin	O
 also	O
 can	O
@@ -69377,8 +69377,8 @@ to	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 and	O
@@ -69386,8 +69386,8 @@ to	O
 Bub82	O
 /	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 -	O
@@ -69403,7 +69403,7 @@ Bub	O
 82	O
 /	O
 lamin	O
-B2	I-PRGE
+B2	O
 (	O
 Figure	O
 7B	O
@@ -69660,11 +69660,11 @@ readily	O
 displaced	O
 by	O
 SV40	O
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
-DNA	I-PRGE
-helicase	I-PRGE
+T	O
+-	O
+antigen	O
+DNA	O
+helicase	O
 (	O
 Figure	O
 8B	O
@@ -70367,7 +70367,7 @@ helicase	O
 actions	O
 of	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -70600,9 +70600,9 @@ DNA	O
 similar	O
 to	O
 SV40	O
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+T	O
+-	O
+antigen	O
 protein	O
 (	O
 Figure	O
@@ -70777,8 +70777,8 @@ helicase	O
 actions	O
 of	O
 T	O
--	I-PRGE
-antigen	I-PRGE
+-	O
+antigen	O
 (	O
 21	O
 )	O
@@ -70834,10 +70834,10 @@ structure	O
 of	O
 the	O
 SV40	O
-large	I-PRGE
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+large	O
+T	O
+-	O
+antigen	O
 (	O
 4	O
 ,	O
@@ -71026,7 +71026,7 @@ ability	O
 of	O
 the	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -71205,12 +71205,12 @@ helicase	O
 
 Both	O
 lamin	O
--	I-PRGE
-B2	I-PRGE
+-	O
+B2	O
 and	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 origins	O
 served	O
 as	O
@@ -71242,8 +71242,8 @@ zone	O
 of	O
 the	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 was	O
 recently	O
 reported	O
@@ -71613,9 +71613,9 @@ readily	O
 displaced	O
 by	O
 SV40	O
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+T	O
+-	O
+antigen	O
 (	O
 Figure	O
 8B	O
@@ -71995,8 +71995,8 @@ similar	O
 to	O
 the	O
 T	O
--	I-PRGE
-antigen	I-PRGE
+-	O
+antigen	O
 model	O
 originally	O
 proposed	O
@@ -72104,7 +72104,7 @@ a	O
 newly	O
 identified	O
 Mcm8	O
-helicase	I-PRGE
+helicase	O
 (	O
 34	O
 -	O
@@ -72139,7 +72139,7 @@ by	O
 Cdk	O
 and	O
 Cdc7	O
-kinases	I-PRGE
+kinases	O
 (	O
 39	O
 ,	O
@@ -72503,7 +72503,7 @@ with	O
 U	O
 of	O
 DNase	O
-I	I-PRGE
+I	O
 or	O
 0	O
 .	O
@@ -72585,7 +72585,7 @@ with	O
 U	O
 of	O
 DNase	O
-I	I-PRGE
+I	O
 or	O
 0	O
 .	O
@@ -72753,7 +72753,7 @@ helicase	O
 actions	O
 of	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -72787,7 +72787,7 @@ were	O
 performed	O
 with	O
 mouse	O
-Mcm4	I-PRGE
+Mcm4	O
 /	O
 6	O
 /	O
@@ -73180,7 +73180,7 @@ Lane	O
 5	O
 ,	O
 PriA	O
-helicase	I-PRGE
+helicase	O
 at	O
 10	O
 nM	O
@@ -73598,9 +73598,9 @@ derived	O
 from	O
 the	O
 human	O
-c	I-PRGE
--	I-PRGE
-myc	I-PRGE
+c	O
+-	O
+myc	O
 origin	O
 .	O
 
@@ -73630,17 +73630,17 @@ fmol	O
 )	O
 containing	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 ,	O
 Lamin	O
-B2	I-PRGE
+B2	O
 and	O
 c	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 /	O
 DUE	O
 -	O
@@ -73877,9 +73877,9 @@ B	O
 ng	O
 of	O
 SV40	O
-T	I-PRGE
--	I-PRGE
-antigen	I-PRGE
+T	O
+-	O
+antigen	O
 .	O
 
 (	O
@@ -74122,10 +74122,10 @@ Inactivation	O
 of	O
 the	O
 Huntington	O
-'	I-PRGE
-s	I-PRGE
-disease	I-PRGE
-gene	I-PRGE
+'	O
+s	O
+disease	O
+gene	O
 (	O
 Hdh	O
 )	O
@@ -74767,8 +74767,8 @@ Inactivation	O
 of	O
 the	O
 mouse	O
-HD	I-PRGE
-gene	I-PRGE
+HD	O
+gene	O
 (	O
 Hdh	O
 )	O
@@ -74878,8 +74878,8 @@ inactivation	O
 of	O
 the	O
 mouse	O
-HD	I-PRGE
-gene	I-PRGE
+HD	O
+gene	O
 does	O
 not	O
 overtly	O
@@ -75309,8 +75309,8 @@ Tfn	O
 ApoAI	O
 ,	O
 Apo	O
--	I-PRGE
-AIV	I-PRGE
+-	O
+AIV	O
 ,	O
 and	O
 ApoB	O
@@ -75707,7 +75707,7 @@ maintained	O
 .	O
 
 Hnf3	O
-beta	I-PRGE
+beta	O
 expression	O
 in	O
 the	O
@@ -75816,7 +75816,7 @@ the	O
 expression	O
 of	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 (	O
 FoxA2	O
 )	O
@@ -75838,7 +75838,7 @@ type	O
 embryos	O
 ,	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 expression	O
 is	O
 confined	O
@@ -75865,7 +75865,7 @@ Mutant	O
 embryos	O
 exhibit	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 -	O
 reactive	O
 definitive	O
@@ -75904,7 +75904,7 @@ AVE	O
 exhibits	O
 little	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 expression	O
 .	O
 
@@ -75917,7 +75917,7 @@ not	O
 greatly	O
 affect	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 regulation	O
 or	O
 the	O
@@ -76822,7 +76822,7 @@ member	O
 of	O
 the	O
 Tgf	O
-beta	I-PRGE
+beta	O
 family	O
 of	O
 secreted	O
@@ -77496,7 +77496,7 @@ as	O
 Otx2	O
 ,	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 and	O
 Hesx1	O
 anteriorly	O
@@ -77673,7 +77673,7 @@ contrast	O
 to	O
 proper	O
 Hnf3	O
-beta	I-PRGE
+beta	O
 regulation	O
 ,	O
 Gsc	O
@@ -78684,8 +78684,8 @@ antagonists	O
 Dkk1	O
 (	O
 mdkk	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 )	O
 and	O
 Lefty1	O
@@ -78766,8 +78766,8 @@ embryos	O
 However	O
 ,	O
 Dkk	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 levels	O
 appear	O
 to	O
@@ -78789,8 +78789,8 @@ the	O
 pattern	O
 of	O
 Dkk	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 expression	O
 remains	O
 unchanged	O
@@ -79474,8 +79474,8 @@ slight	O
 increase	O
 in	O
 Dkk	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 expression	O
 in	O
 Hdhex4	O
@@ -79889,8 +79889,8 @@ g	O
 Eed	O
 (	O
 embryonic	O
-ectoderm	I-PRGE
-development	I-PRGE
+ectoderm	O
+development	O
 )	O
 .	O
 
@@ -80361,9 +80361,9 @@ mutation	O
 in	O
 the	O
 mouse	O
-HD	I-PRGE
-gene	I-PRGE
-homologue	I-PRGE
+HD	O
+gene	O
+homologue	O
 have	O
 been	O
 described	O
@@ -80867,10 +80867,10 @@ endoderm	O
 HD	O
 ,	O
 Huntington	O
-'	I-PRGE
-s	I-PRGE
-disease	I-PRGE
-gene	I-PRGE
+'	O
+s	O
+disease	O
+gene	O
 ;	O
 HD	O
 ,	O
@@ -80882,9 +80882,9 @@ disease	O
 Hdh	O
 ,	O
 mouse	O
-HD	I-PRGE
-gene	I-PRGE
-homologue	I-PRGE
+HD	O
+gene	O
+homologue	O
 ;	O
 PCGs	O
 ,	O
@@ -81186,8 +81186,8 @@ a	O
 Mutation	O
 in	O
 Aquaporin	O
--	I-PRGE
-2	I-PRGE
+-	O
+2	O
 
 Abstract	O
 
@@ -81231,8 +81231,8 @@ mutations	O
 in	O
 the	O
 vasopressin	O
-receptor	I-PRGE
-2	I-PRGE
+receptor	O
+2	O
 (	O
 Avpr2	O
 )	O
@@ -81245,8 +81245,8 @@ sensitive	O
 water	O
 channel	O
 aquaporin	O
--	I-PRGE
-2	I-PRGE
+-	O
+2	O
 (	O
 Aqp2	O
 )	O
@@ -81489,7 +81489,7 @@ the	O
 hypothalamus	O
 is	O
 arginine	O
-vasopressin	I-PRGE
+vasopressin	O
 (	O
 AVP	O
 )	O
@@ -81508,7 +81508,7 @@ kidney	O
 cells	O
 ,	O
 AVP	O
-receptor	I-PRGE
+receptor	O
 (	O
 AVPR2	O
 )	O
@@ -81539,7 +81539,7 @@ a	O
 protein	O
 ,	O
 aquaporin	O
-2	I-PRGE
+2	O
 (	O
 AQP2	O
 )	O
@@ -81775,7 +81775,7 @@ the	O
 antidiuretic	O
 hormone	O
 arginine	O
-vasopressin	I-PRGE
+vasopressin	O
 (	O
 AVP	O
 )	O
@@ -81820,8 +81820,8 @@ gene	O
 .	O
 
 Aquaporin	O
--	I-PRGE
-2	I-PRGE
+-	O
+2	O
 (	O
 AQP2	O
 )	O
@@ -83027,7 +83027,7 @@ of	O
 the	O
 mutant	O
 AQP2	O
-channel	I-PRGE
+channel	O
 ,	O
 which	O
 must	O
@@ -83527,7 +83527,7 @@ by	O
 digestion	O
 with	O
 endoglycosidase	O
-H	I-PRGE
+H	O
 ,	O
 which	O
 specifically	O
@@ -83910,12 +83910,12 @@ cell	O
 lines	O
 expressing	O
 mouse	O
-wild	I-PRGE
--	I-PRGE
-type	I-PRGE
-AQP2	I-PRGE
-and	I-PRGE
-AQP2	I-PRGE
+wild	O
+-	O
+type	O
+AQP2	O
+and	O
+AQP2	O
 -	O
 F204V	O
 were	O
@@ -85198,9 +85198,9 @@ X	O
 -	O
 linked	O
 Avpr2	O
-gene	I-PRGE
-in	I-PRGE
-mice	I-PRGE
+gene	O
+in	O
+mice	O
 [	O
 15	O
 ]	O
@@ -85261,7 +85261,7 @@ Knockout	O
 of	O
 the	O
 mouse	O
-Aqp2	I-PRGE
+Aqp2	O
 gene	O
 has	O
 not	O
@@ -86396,7 +86396,7 @@ coding	O
 sequence	O
 of	O
 mouse	O
-AQP2	I-PRGE
+AQP2	O
 from	O
 an	O
 IMAGE	O
@@ -87192,7 +87192,7 @@ cooled	O
 .	O
 
 Endoglycosidase	O
-H	I-PRGE
+H	O
 (	O
 0	O
 .	O
@@ -88323,7 +88323,7 @@ Gilmore	O
 for	O
 performing	O
 endoglycosidase	O
-H	I-PRGE
+H	O
 experiments	O
 ,	O
 James	O
@@ -88359,14 +88359,14 @@ number	O
 AVPR2	O
 -	O
 AVP	O
-type	I-PRGE
-2	I-PRGE
-receptor	I-PRGE
+type	O
+2	O
+receptor	O
 
 AVP	O
 -	O
 arginine	O
-vasopressin	I-PRGE
+vasopressin	O
 
 dDAVP	O
 -	O
@@ -88470,7 +88470,7 @@ acid	O
 conservation	O
 of	O
 mouse	O
-AQP2	I-PRGE
+AQP2	O
 (	O
 residues	O
 194	O
@@ -88492,27 +88492,27 @@ position	O
 hAQP2	O
 ,	O
 human	O
-AQP2	I-PRGE
+AQP2	O
 ;	O
 mAQP1	O
 ,	O
 mouse	O
-AQP1	I-PRGE
+AQP1	O
 ;	O
 mAQP2	O
 ,	O
 mouse	O
-AQP2	I-PRGE
+AQP2	O
 ;	O
 rAQP2	O
 ,	O
 rat	O
-AQP2	I-PRGE
+AQP2	O
 ;	O
 xAQP2	O
 ,	O
 Xenopus	O
-AQP2	I-PRGE
+AQP2	O
 .	O
 
 (	O
@@ -88924,11 +88924,11 @@ were	O
 subjected	O
 to	O
 endoglycosidase	O
-H	I-PRGE
+H	O
 treatment	O
 (	O
 Endo	O
-H	I-PRGE
+H	O
 )	O
 prior	O
 to	O
@@ -88957,7 +88957,7 @@ are	O
 sensitive	O
 to	O
 endoglycosidase	O
-H	I-PRGE
+H	O
 digestion	O
 .	O
 
@@ -89104,9 +89104,9 @@ with	O
 constructs	O
 encoding	O
 mouse	O
-WT	I-PRGE
-or	I-PRGE
-AQP2	I-PRGE
+WT	O
+or	O
+AQP2	O
 -	O
 F204V	O
 ,	O
@@ -89727,8 +89727,8 @@ a	O
 mutation	O
 in	O
 aquaporin	O
--	I-PRGE
-2	I-PRGE
+-	O
+2	O
 .	O
 
 PLoS	O
@@ -89825,16 +89825,16 @@ depletion	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-subunit	I-PRGE
+-	O
+B	O
+subunit	O
 or	O
 expression	O
 of	O
 unedited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -89892,8 +89892,8 @@ impaired	O
 .	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 in	O
 forebrain	O
@@ -89928,8 +89928,8 @@ rescued	O
 by	O
 transgenic	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 expression	O
 restricted	O
 to	O
@@ -89947,14 +89947,14 @@ independent	O
 of	O
 both	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 variability	O
 and	O
 transgenic	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 expression	O
 .	O
 
@@ -89968,8 +89968,8 @@ and	O
 levels	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 expression	O
 allowed	O
 a	O
@@ -90461,8 +90461,8 @@ the	O
 dominant	O
 subunit	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 .	O
 
 Of	O
@@ -90472,10 +90472,10 @@ AMPAR	O
 constituents	O
 ,	O
 GluR	O
--	I-PRGE
-A	I-PRGE
-to	I-PRGE
-D	I-PRGE
+-	O
+A	O
+to	O
+D	O
 (	O
 GluR1	O
 to	O
@@ -90493,8 +90493,8 @@ subunit	O
 combinations	O
 ,	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 is	O
 contained	O
 in	O
@@ -90505,8 +90505,8 @@ AMPARs	O
 .	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 is	O
 critically	O
 involved	O
@@ -90552,8 +90552,8 @@ solely	O
 mediated	O
 by	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 due	O
 to	O
@@ -90598,8 +90598,8 @@ RNA	O
 editing	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 pre	O
 -	O
 mRNA	O
@@ -90620,8 +90620,8 @@ Hence	O
 ,	O
 either	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 deficiency	O
 ,	O
 or	O
@@ -90635,8 +90635,8 @@ site	O
 -	O
 unedited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 with	O
 a	O
 glutamine	O
@@ -90682,16 +90682,16 @@ the	O
 absence	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 or	O
 the	O
 expression	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -90715,8 +90715,8 @@ the	O
 ablation	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 but	O
 also	O
@@ -90732,8 +90732,8 @@ site	O
 editing	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 can	O
 alter	O
@@ -90846,8 +90846,8 @@ mice	B-LIVB
 lacking	O
 all	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 however	O
 ,	O
@@ -90897,8 +90897,8 @@ part	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 population	O
 in	O
 the	O
@@ -90968,8 +90968,8 @@ targeted	O
 mice	B-LIVB
 carrying	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 alleles	O
 marked	O
 by	O
@@ -91000,8 +91000,8 @@ site	O
 -	O
 unedited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 to	O
 forebrain	O
 resulted	O
@@ -91028,8 +91028,8 @@ forebrain	O
 -	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 appeared	O
 almost	O
@@ -91118,8 +91118,8 @@ it	O
 by	O
 ablating	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 via	O
 gene	O
 -	O
@@ -91127,8 +91127,8 @@ targeted	O
 ,	O
 floxed	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 alleles	O
 with	O
 the	O
@@ -91149,8 +91149,8 @@ forebrain	O
 By	O
 correlating	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 olfaction	O
@@ -91169,8 +91169,8 @@ the	O
 dependence	O
 on	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 of	O
 olfactory	O
 discrimination	O
@@ -91199,8 +91199,8 @@ rescue	O
 "	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ablation	O
 ,	O
 specifically	O
@@ -91227,8 +91227,8 @@ the	O
 role	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 mediated	O
 AMPAR	O
@@ -91250,8 +91250,8 @@ memory	O
 Results	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -91276,8 +91276,8 @@ neurotransmission	O
 carried	O
 by	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 containing	O
 AMPA	O
@@ -91296,8 +91296,8 @@ part	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 population	O
 in	O
 a	O
@@ -91343,8 +91343,8 @@ wild	O
 -	O
 type	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 allele	O
 ,	O
 a	O
@@ -91363,8 +91363,8 @@ sequence	O
 critical	O
 for	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 pre	O
 -	O
 mRNA	O
@@ -91442,7 +91442,7 @@ driven	O
 by	O
 the	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 promoter	O
 (	O
 [	O
@@ -91489,12 +91489,12 @@ site	O
 -	O
 unedited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-(	I-PRGE
-Q	I-PRGE
-)	I-PRGE
-subunits	I-PRGE
+-	O
+B	O
+(	O
+Q	O
+)	O
+subunits	O
 (	O
 Figures	O
 1	O
@@ -91526,12 +91526,12 @@ site	O
 -	O
 unedited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-(	I-PRGE
-Q	I-PRGE
-)	I-PRGE
-subunits	I-PRGE
+-	O
+B	O
+(	O
+Q	O
+)	O
+subunits	O
 ,	O
 Ca2	O
 +	O
@@ -91571,8 +91571,8 @@ to	O
 mice	B-LIVB
 expressing	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -92122,8 +92122,8 @@ mice	B-LIVB
 which	O
 lack	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 in	O
 forebrain	O
 .	O
@@ -92160,8 +92160,8 @@ carrying	O
 in	O
 both	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 alleles	O
 ,	O
 a	O
@@ -92177,8 +92177,8 @@ Figure	O
 The	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 in	O
 GluR	O
@@ -92208,8 +92208,8 @@ analyses	O
 we	O
 found	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 reduced	O
 to	O
@@ -92252,8 +92252,8 @@ respectively	O
 relative	O
 to	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 GluR	O
@@ -92268,8 +92268,8 @@ the	O
 absence	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 the	O
 electrophysiological	O
@@ -92283,12 +92283,12 @@ to	O
 those	O
 with	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 /	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -92316,8 +92316,8 @@ data	O
 However	O
 ,	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 is	O
 not	O
@@ -92338,8 +92338,8 @@ to	O
 the	O
 complete	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 knockouts	O
 ,	O
 mice	B-LIVB
@@ -92348,8 +92348,8 @@ forebrain	O
 -	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 appeared	O
 normal	O
@@ -92639,8 +92639,8 @@ unlike	O
 the	O
 complete	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 knockouts	O
 ,	O
 GluR	O
@@ -92678,12 +92678,12 @@ investigations	O
 If	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 /	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -92714,9 +92714,9 @@ depletion	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-subunit	I-PRGE
+-	O
+B	O
+subunit	O
 should	O
 lead	O
 to	O
@@ -93188,8 +93188,8 @@ that	O
 depletion	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 in	O
 forebrain	O
 areas	O
@@ -93350,8 +93350,8 @@ the	O
 depletion	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 and	O
 the	O
 lack	O
@@ -93364,9 +93364,9 @@ site	O
 -	O
 edited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-subunit	I-PRGE
+-	O
+B	O
+subunit	O
 ,	O
 both	O
 resulting	O
@@ -93969,8 +93969,8 @@ Correlates	O
 with	O
 Residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Protein	O
 Expression	O
 in	O
@@ -94007,8 +94007,8 @@ reflects	O
 variability	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 GluR	O
@@ -94025,8 +94025,8 @@ residual	O
 amount	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 protein	O
 in	O
 mice	B-LIVB
@@ -94060,8 +94060,8 @@ essentially	O
 no	O
 detectable	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 protein	O
 in	O
 hippocampus	O
@@ -94097,8 +94097,8 @@ displayed	O
 substantial	O
 residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 all	O
@@ -94126,8 +94126,8 @@ relation	O
 between	O
 residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 protein	O
 and	O
 olfactory	O
@@ -94218,8 +94218,8 @@ mouse	B-LIVB
 ,	O
 and	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 protein	O
 was	O
 quantified	O
@@ -94289,8 +94289,8 @@ between	O
 memory	O
 and	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 protein	O
 was	O
 observed	O
@@ -94375,8 +94375,8 @@ n	O
 .	O
 
 GluR	O
--	I-PRGE
-A	I-PRGE
+-	O
+A	O
 levels	O
 were	O
 unchanged	O
@@ -94399,8 +94399,8 @@ is	O
 unlikely	O
 (	O
 GluR	O
--	I-PRGE
-A	I-PRGE
+-	O
+A	O
 levels	O
 relative	O
 to	O
@@ -94431,8 +94431,8 @@ mice	B-LIVB
 with	O
 reduced	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 forebrain	O
@@ -94450,8 +94450,8 @@ a	O
 reduction	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 the	O
@@ -94477,8 +94477,8 @@ independent	O
 of	O
 residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 the	O
@@ -94493,8 +94493,8 @@ indicating	O
 that	O
 moderate	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 reductions	O
 are	O
 sufficient	O
@@ -94520,8 +94520,8 @@ the	O
 AMPAR	O
 subunit	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 due	O
 to	O
@@ -94560,8 +94560,8 @@ by	O
 Selective	O
 Transgenic	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Expression	O
 in	O
 Hippocampus	O
@@ -94581,16 +94581,16 @@ effect	O
 of	O
 selective	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 in	O
 mice	B-LIVB
 indicated	O
 that	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 containing	O
 AMPARs	O
@@ -94626,8 +94626,8 @@ to	O
 depletion	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 in	O
 olfactory	O
 cortex	O
@@ -94647,8 +94647,8 @@ by	O
 AMPARs	O
 lacking	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 in	O
 the	O
 olfactory	O
@@ -94692,8 +94692,8 @@ GFP	O
 -	O
 tagged	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 specifically	O
 in	O
 hippocampus	O
@@ -94729,9 +94729,9 @@ expected	O
 that	O
 additional	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-subunits	I-PRGE
+-	O
+B	O
+subunits	O
 in	O
 hippocampus	O
 and	O
@@ -94814,7 +94814,7 @@ of	O
 a	O
 modified	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 -	O
 promoter	O
 fragment	O
@@ -94865,8 +94865,8 @@ compared	O
 with	O
 endogenous	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Figure	O
 5C	O
@@ -95324,8 +95324,8 @@ linearly	O
 depended	O
 on	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 expression	O
 in	O
 cortex	O
@@ -95381,8 +95381,8 @@ A	O
 increase	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 in	O
 these	O
 brain	O
@@ -95588,8 +95588,8 @@ and	O
 unaffected	O
 by	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 expression	O
 in	O
 piriform	O
@@ -95602,8 +95602,8 @@ Hence	O
 ,	O
 transgenic	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 expression	O
 ,	O
 specifically	O
@@ -95616,8 +95616,8 @@ hippocampus	O
 in	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 knockout	O
 background	O
 ,	O
@@ -95675,8 +95675,8 @@ a	O
 change	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 mediated	O
 properties	O
@@ -95685,7 +95685,7 @@ AMPA	O
 channels	O
 in	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 -	O
 expressing	O
 neurons	O
@@ -95800,8 +95800,8 @@ dominant	O
 AMPAR	O
 subunit	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 and	O
 hence	O
@@ -95813,8 +95813,8 @@ AMPAR	O
 properties	O
 toward	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ablation	O
 and	O
 increased	O
@@ -95864,8 +95864,8 @@ re	O
 introduction	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 specifically	O
 in	O
@@ -95882,8 +95882,8 @@ induced	O
 loss	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 and	O
 partially	O
 rescued	O
@@ -95936,8 +95936,8 @@ upon	O
 genetically	O
 induced	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ablation	O
 in	O
 higher	O
@@ -95961,13 +95961,13 @@ Forebrain	O
 -	O
 Specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Ablation	O
 or	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -95978,16 +95978,16 @@ forebrain	O
 -	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
 expression	O
 and	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 led	O
 to	O
@@ -96005,8 +96005,8 @@ rather	O
 pronounced	O
 for	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -96025,8 +96025,8 @@ in	O
 comparison	O
 to	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 ,	O
 both	O
@@ -96104,8 +96104,8 @@ forebrain	O
 -	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 depleted	O
 mice	B-LIVB
@@ -96319,8 +96319,8 @@ the	O
 notion	O
 that	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 resulted	O
 in	O
@@ -96502,8 +96502,8 @@ cortex	O
 -	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ablation	O
 .	O
 
@@ -96537,8 +96537,8 @@ site	O
 -	O
 unedited	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 showed	O
 even	O
 better	O
@@ -96553,8 +96553,8 @@ mice	B-LIVB
 with	O
 depleted	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 .	O
 
 In	O
@@ -96590,8 +96590,8 @@ mice	B-LIVB
 not	O
 expressing	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 [	O
 51	O
 ]	O
@@ -96619,8 +96619,8 @@ unedited	O
 form	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -96678,8 +96678,8 @@ excitability	O
 by	O
 sustained	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -96713,8 +96713,8 @@ milder	O
 phenotype	O
 upon	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 could	O
 be	O
@@ -96779,8 +96779,8 @@ of	O
 mice	B-LIVB
 expressing	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -96789,8 +96789,8 @@ than	O
 those	O
 lacking	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 DRS	O
 ,	O
@@ -96807,8 +96807,8 @@ data	O
 Normally	O
 ,	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 containing	O
 AMPARs	O
@@ -96866,16 +96866,16 @@ the	O
 absence	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 or	O
 the	O
 presence	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -96916,8 +96916,8 @@ small	O
 reductions	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 .	O
 
@@ -96929,8 +96929,8 @@ to	O
 see	O
 if	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 neo	O
@@ -96951,8 +96951,8 @@ low	O
 levels	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -96987,8 +96987,8 @@ moreover	O
 ,	O
 that	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 are	O
 decreased	O
@@ -97003,8 +97003,8 @@ copy	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 allele	O
 .	O
@@ -97090,8 +97090,8 @@ improvements	O
 observed	O
 with	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -97099,8 +97099,8 @@ expression	O
 ,	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 knockout	O
 ,	O
 and	O
@@ -97168,16 +97168,16 @@ Is	O
 Reduced	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Knockout	O
 Mice	B-LIVB
 and	O
 Improved	O
 by	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Expression	O
 in	O
 Piriform	O
@@ -97403,8 +97403,8 @@ S2	O
 mice	B-LIVB
 with	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 were	O
 not	O
@@ -97424,8 +97424,8 @@ specific	O
 ablation	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 results	O
 in	O
 a	O
@@ -97488,8 +97488,8 @@ Therefore	O
 ,	O
 residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 were	O
 determined	O
@@ -97527,8 +97527,8 @@ correlation	O
 between	O
 residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 hippocampus	O
@@ -97573,8 +97573,8 @@ correlated	O
 with	O
 residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 ;	O
 even	O
@@ -97583,8 +97583,8 @@ smallest	O
 reduction	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 (	O
 about	O
@@ -97642,8 +97642,8 @@ memory	O
 ,	O
 although	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 the	O
@@ -97691,8 +97691,8 @@ wild	O
 -	O
 type	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 )	O
 ,	O
 confirming	O
@@ -97869,8 +97869,8 @@ by	O
 lack	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 containing	O
 AMPARs	O
@@ -97879,8 +97879,8 @@ AMPARs	O
 For	O
 complete	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 knockouts	O
 ,	O
 increased	O
@@ -97912,8 +97912,8 @@ amygdala	O
 pathways	O
 lacking	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ,	O
 an	O
 AMPAR	O
@@ -97961,8 +97961,8 @@ Ca2	O
 influx	O
 through	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 -	O
 less	O
 AMPA	O
@@ -98199,8 +98199,8 @@ stabilization	O
 might	O
 involve	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 phosphorylation	O
 similar	O
 to	O
@@ -98219,8 +98219,8 @@ selectively	O
 impaired	O
 by	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 .	O
 
@@ -98255,13 +98255,13 @@ Cre	O
 -	O
 mediated	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 depletion	O
 and	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -98311,8 +98311,8 @@ memory	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 knockout	O
 animals	B-LIVB
 and	O
@@ -98337,8 +98337,8 @@ epigenetic	O
 variability	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 excision	O
 that	O
 could	O
@@ -98633,8 +98633,8 @@ roles	O
 of	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 manipulation	O
 and	O
 increased	O
@@ -98680,8 +98680,8 @@ the	O
 extent	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 ablation	O
 ,	O
 which	O
@@ -98707,8 +98707,8 @@ subsequently	O
 confirmed	O
 in	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 rescue	O
 mice	B-LIVB
 with	O
@@ -98720,8 +98720,8 @@ transgenic	O
 expression	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 .	O
 
 Extending	O
@@ -98819,8 +98819,8 @@ in	O
 )	O
 and	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 neo	O
@@ -98831,8 +98831,8 @@ mice	B-LIVB
 .	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 neo	O
@@ -98843,8 +98843,8 @@ wild	O
 -	O
 type	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 allele	O
 and	O
 a	O
@@ -98852,8 +98852,8 @@ gene	O
 -	O
 targeted	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 allele	O
 in	O
 which	O
@@ -98899,8 +98899,8 @@ gene	O
 -	O
 targeted	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 alleles	O
 in	O
 which	O
@@ -99053,8 +99053,8 @@ A	O
 by	O
 replacing	O
 GluR	O
--	I-PRGE
-A	I-PRGE
+-	O
+A	O
 cDNA	O
 with	O
 the	O
@@ -99062,8 +99062,8 @@ rat	B-LIVB
 cDNA	O
 for	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 .	O
 
 Transgenic	O
@@ -99113,8 +99113,8 @@ cassette	O
 in	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 allele	O
 (	O
 GluR	O
@@ -99131,8 +99131,8 @@ for	O
 the	O
 floxed	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 GluR	O
 -	O
@@ -99206,8 +99206,8 @@ experiments	O
 .	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 +	O
@@ -99226,8 +99226,8 @@ Figure	O
 .	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 2lox	O
@@ -99284,8 +99284,8 @@ TgOCN1	O
 in	O
 a	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 2lox	O
@@ -99569,7 +99569,7 @@ PCR	O
 detecting	O
 the	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 promoter	O
 .	O
 
@@ -99606,8 +99606,8 @@ for	O
 immunohistochemistry	O
 with	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 1	O
 :	O
@@ -99796,8 +99796,8 @@ used	O
 were	O
 against	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 1	O
 :	O
@@ -99809,8 +99809,8 @@ Chemicon	O
 )	O
 ,	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 (	O
 1	O
 :	O
@@ -101616,7 +101616,7 @@ Cre	O
 under	O
 the	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 promoter	O
 control	O
 [	O
@@ -102369,7 +102369,7 @@ Mayford	O
 for	O
 the	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 promoter	O
 ;	O
 Bettina	O
@@ -102591,8 +102591,8 @@ mediated	O
 activation	O
 of	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 (	O
 Q	O
 )	O
@@ -102667,9 +102667,9 @@ M1	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
-subunit	I-PRGE
+-	O
+B	O
+subunit	O
 .	O
 
 The	O
@@ -102850,8 +102850,8 @@ orange	O
 and	O
 six	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 +	O
 /	O
 +	O
@@ -103139,8 +103139,8 @@ exon	O
 of	O
 the	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 alleles	O
 .	O
 
@@ -103597,8 +103597,8 @@ Correlated	O
 with	O
 Residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Levels	O
 in	O
 Hippocampus	O
@@ -103715,8 +103715,8 @@ C	O
 )	O
 Residual	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 as	O
 detected	O
@@ -103724,8 +103724,8 @@ by	O
 anti	O
 -	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 immunofluorescence	O
 in	O
 hippocampus	O
@@ -103822,12 +103822,12 @@ with	O
 antibodies	O
 detecting	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 and	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 as	O
 an	O
 internal	O
@@ -103887,8 +103887,8 @@ with	O
 the	O
 relative	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 immunoblots	O
@@ -103944,8 +103944,8 @@ were	O
 plotted	O
 against	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 .	O
 
@@ -103955,8 +103955,8 @@ tightly	O
 correlated	O
 to	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 protein	O
 level	O
 in	O
@@ -104091,8 +104091,8 @@ forebrain	O
 -	O
 specific	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 deletion	O
 as	O
 in	O
@@ -104161,7 +104161,7 @@ element	O
 and	O
 the	O
 alpha	O
-CaMKII	I-PRGE
+CaMKII	O
 promoter	O
 (	O
 termed	O
@@ -104262,8 +104262,8 @@ Immunoblot	O
 detecting	O
 endogenous	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 and	O
 transgenic	O
 GFPGluR	O
@@ -104306,8 +104306,8 @@ compared	O
 with	O
 endogenous	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 in	O
 the	O
 hippocampus	O
@@ -104317,8 +104317,8 @@ Figure	O
 6	O
 
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 Expression	O
 in	O
 Hippocampus	O
@@ -104482,8 +104482,8 @@ between	O
 memory	O
 and	O
 GluR	O
--	I-PRGE
-B	I-PRGE
+-	O
+B	O
 levels	O
 in	O
 piriform	O
@@ -104811,8 +104811,8 @@ the	O
 mouse	B-LIVB
 :	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 /	O
 metallothioneins	O
 and	O
@@ -104821,15 +104821,15 @@ glutathione	O
 Abstract	O
 
 Metal	O
--	I-PRGE
-responsive	I-PRGE
-transcription	I-PRGE
-factor	I-PRGE
-1	I-PRGE
+-	O
+responsive	O
+transcription	O
+factor	O
+1	O
 (	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 )	O
 regulates	O
 expression	O
@@ -104936,8 +104936,8 @@ genes	O
 several	O
 new	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 genes	O
 with	O
@@ -104951,8 +104951,8 @@ emerged	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 for	O
@@ -104961,10 +104961,10 @@ basal	O
 expression	O
 of	O
 selenoprotein	O
-W	I-PRGE
-,	I-PRGE
-muscle	I-PRGE
-1	I-PRGE
+W	O
+,	O
+muscle	O
+1	O
 gene	O
 (	O
 Sepw1	O
@@ -104985,8 +104985,8 @@ a	O
 role	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 the	O
 oxidative	O
@@ -104997,8 +104997,8 @@ response	O
 Furthermore	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 mediates	O
 the	O
 cadmium	O
@@ -105007,12 +105007,12 @@ induced	O
 expression	O
 of	O
 N	O
--	I-PRGE
-myc	I-PRGE
-downstream	I-PRGE
-regulated	I-PRGE
-gene	I-PRGE
-1	I-PRGE
+-	O
+myc	O
+downstream	O
+regulated	O
+gene	O
+1	O
 (	O
 Ndrg1	O
 )	O
@@ -105033,8 +105033,8 @@ cancers	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 also	O
 involved	O
@@ -105044,13 +105044,13 @@ cadmium	O
 response	O
 of	O
 cysteine	O
--	I-PRGE
-and	I-PRGE
-glycine	I-PRGE
--	I-PRGE
-rich	I-PRGE
-protein	I-PRGE
-1	I-PRGE
+-	O
+and	O
+glycine	O
+-	O
+rich	O
+protein	O
+1	O
 gene	O
 (	O
 Csrp1	O
@@ -105068,8 +105068,8 @@ In	O
 contrast	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 represses	O
 the	O
 basal	O
@@ -105089,8 +105089,8 @@ pathway	O
 independent	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 cadmium	O
 also	O
@@ -105134,8 +105134,8 @@ defense	O
 one	O
 via	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 its	O
 target	O
@@ -105155,7 +105155,7 @@ apparent	O
 overlap	O
 in	O
 selenoprotein	O
-W	I-PRGE
+W	O
 .	O
 
 INTRODUCTION	O
@@ -105297,15 +105297,15 @@ is	O
 mediated	O
 by	O
 metal	O
--	I-PRGE
-responsive	I-PRGE
-transcription	I-PRGE
-factor	I-PRGE
-1	I-PRGE
+-	O
+responsive	O
+transcription	O
+factor	O
+1	O
 (	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 )	O
 (	O
 4	O
@@ -105356,8 +105356,8 @@ genes	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 conserved	O
 in	O
@@ -105399,8 +105399,8 @@ The	O
 role	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 has	O
 been	O
 studied	O
@@ -105419,8 +105419,8 @@ metal	O
 load	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 can	O
 also	O
 mediate	O
@@ -105486,10 +105486,10 @@ induction	O
 of	O
 the	O
 gene	O
-for	I-PRGE
-placental	I-PRGE
-growth	I-PRGE
-factor	I-PRGE
+for	O
+placental	O
+growth	O
+factor	O
 (	O
 Plgf	O
 )	O
@@ -105529,8 +105529,8 @@ development	O
 Furthermore	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 has	O
 an	O
 essential	O
@@ -105597,8 +105597,8 @@ that	O
 additional	O
 important	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 genes	O
 are	O
@@ -105685,8 +105685,8 @@ a	O
 search	O
 for	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 genes	O
 and	O
@@ -105754,15 +105754,15 @@ target	O
 genes	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 we	O
 find	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 important	O
 for	O
@@ -105774,10 +105774,10 @@ the	O
 gene	O
 for	O
 selenoprotein	O
-W	I-PRGE
-,	I-PRGE
-muscle	I-PRGE
-1	I-PRGE
+W	O
+,	O
+muscle	O
+1	O
 (	O
 Sepw1	O
 )	O
@@ -105791,12 +105791,12 @@ induced	O
 expression	O
 of	O
 N	O
--	I-PRGE
-myc	I-PRGE
-downstream	I-PRGE
-regulated	I-PRGE
-gene	I-PRGE
-1	I-PRGE
+-	O
+myc	O
+downstream	O
+regulated	O
+gene	O
+1	O
 (	O
 Ndrg1	O
 )	O
@@ -105805,13 +105805,13 @@ the	O
 gene	O
 encoding	O
 cysteine	O
--	I-PRGE
-and	I-PRGE
-glycine	I-PRGE
--	I-PRGE
-rich	I-PRGE
-protein	I-PRGE
-1	I-PRGE
+-	O
+and	O
+glycine	O
+-	O
+rich	O
+protein	O
+1	O
 (	O
 Csrp1	O
 )	O
@@ -105821,8 +105821,8 @@ In	O
 addition	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 appears	O
 to	O
 repress	O
@@ -105830,12 +105830,12 @@ the	O
 expression	O
 of	O
 solute	O
-carrier	I-PRGE
-family	I-PRGE
-39	I-PRGE
-,	I-PRGE
-member	I-PRGE
-10	I-PRGE
+carrier	O
+family	O
+39	O
+,	O
+member	O
+10	O
 gene	O
 (	O
 Slc39a10	O
@@ -105853,8 +105853,8 @@ transporter	O
 In	O
 an	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 independent	O
 transcriptome	O
@@ -105888,8 +105888,8 @@ another	O
 one	O
 via	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 its	O
 target	O
@@ -106309,8 +106309,8 @@ MRE	O
 sequences	O
 from	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 gene	O
 candidates	O
@@ -106663,8 +106663,8 @@ cadmium	O
 responsive	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 independent	O
 genes	O
@@ -106826,7 +106826,7 @@ using	O
 200	O
 ng	O
 DNase	O
-I	I-PRGE
+I	O
 -	O
 digested	O
 total	O
@@ -106869,10 +106869,10 @@ AGTAGAGAGTGGACATTCAGC	O
 '	O
 ,	O
 hypoxanthin	O
--	I-PRGE
-guanin	I-PRGE
--	I-PRGE
-phosphoribosyltransferase	I-PRGE
+-	O
+guanin	O
+-	O
+phosphoribosyltransferase	O
 (	O
 Hprt	O
 )	O
@@ -106992,7 +106992,7 @@ using	O
 micro	O
 g	O
 DNase	O
-I	I-PRGE
+I	O
 -	O
 digested	O
 total	O
@@ -107302,7 +107302,7 @@ MRE	O
 derived	O
 from	O
 mouse	O
-Mt1	I-PRGE
+Mt1	O
 promoter	O
 (	O
 10	O
@@ -107490,8 +107490,8 @@ CACTCGAGTGCCGTGTGCATCTCCTCT	O
 '	O
 ,	O
 Specificity	O
-protein	I-PRGE
-1	I-PRGE
+protein	O
+1	O
 (	O
 Sp1	O
 )	O
@@ -107593,14 +107593,14 @@ plasmid	O
 coding	O
 for	O
 simian	O
-virus	I-PRGE
-40	I-PRGE
-(	I-PRGE
-SV40	I-PRGE
-)	I-PRGE
-large	I-PRGE
-T	I-PRGE
-antigen	I-PRGE
+virus	O
+40	O
+(	O
+SV40	O
+)	O
+large	O
+T	O
+antigen	O
 driven	O
 by	O
 the	O
@@ -108059,7 +108059,7 @@ control	O
 of	O
 the	O
 mouse	O
-Mx1	I-PRGE
+Mx1	O
 gene	O
 promoter	O
 ,	O
@@ -108147,8 +108147,8 @@ stop	O
 no	O
 functional	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 can	O
 be	O
@@ -108287,8 +108287,8 @@ level	O
 of	O
 functional	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 was	O
 examined	O
@@ -108300,8 +108300,8 @@ Figure	O
 )	O
 :	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 -	O
 DNA	O
@@ -108376,8 +108376,8 @@ normal	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 gene	O
 search	O
@@ -108387,8 +108387,8 @@ the	O
 identification	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 genes	O
 ,	O
@@ -108508,8 +108508,8 @@ harbored	O
 a	O
 functional	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 gene	O
 (	O
 data	O
@@ -108525,8 +108525,8 @@ the	O
 importance	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 for	O
 both	O
 basal	O
@@ -108887,8 +108887,8 @@ shown	O
 For	O
 all	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 genes	O
 characterized	O
@@ -108904,8 +108904,8 @@ and	O
 Znt1	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 exerts	O
 its	O
 transcriptional	O
@@ -108940,8 +108940,8 @@ specific	O
 search	O
 for	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 binding	O
 sites	O
 by	O
@@ -108964,8 +108964,8 @@ binding	O
 motif	O
 for	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 addition	O
 to	O
@@ -108992,8 +108992,8 @@ for	O
 a	O
 direct	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 gene	O
 ,	O
@@ -109017,8 +109017,8 @@ Sepw1	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 
 Sepw1	O
 was	O
@@ -109172,8 +109172,8 @@ mice	B-LIVB
 indicating	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 important	O
 for	O
@@ -109198,7 +109198,7 @@ upstream	O
 of	O
 the	O
 mouse	O
-Sepw1	I-PRGE
+Sepw1	O
 transcription	O
 start	O
 (	O
@@ -109249,8 +109249,8 @@ Specific	O
 binding	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 to	O
 Sepw1	O
 MRE1	O
@@ -109313,8 +109313,8 @@ the	O
 presence	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 Cadmium	O
@@ -109324,8 +109324,8 @@ Ndrg1	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 
 Ndrg1	O
 was	O
@@ -109464,8 +109464,8 @@ Ndrg1	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 Five	O
@@ -109479,7 +109479,7 @@ upstream	O
 of	O
 the	O
 mouse	O
-Ndrg1	I-PRGE
+Ndrg1	O
 transcription	O
 start	O
 (	O
@@ -109529,8 +109529,8 @@ to	O
 test	O
 whether	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 interacting	O
 with	O
@@ -109587,8 +109587,8 @@ MRE1	O
 but	O
 specific	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 complexes	O
 were	O
 observed	O
@@ -109626,8 +109626,8 @@ a	O
 mouse	B-LIVB
 lacking	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 Mtf1Mx	O
 -	O
@@ -109642,8 +109642,8 @@ Csrp1	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 
 Csrp1	O
 was	O
@@ -109750,8 +109750,8 @@ mice	B-LIVB
 suggesting	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 for	O
@@ -109808,8 +109808,8 @@ Specific	O
 binding	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 was	O
 observed	O
 with	O
@@ -109835,16 +109835,16 @@ liver	O
 extract	O
 lacking	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 confirming	O
 the	O
 participation	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 the	O
 complex	O
@@ -109855,8 +109855,8 @@ Figure	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 inhibits	O
 expression	O
 of	O
@@ -110036,8 +110036,8 @@ the	O
 absence	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 In	O
@@ -110082,8 +110082,8 @@ results	O
 indicate	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 involved	O
 in	O
@@ -110129,7 +110129,7 @@ upstream	O
 of	O
 the	O
 mouse	O
-Slc39a10	I-PRGE
+Slc39a10	O
 transcription	O
 start	O
 (	O
@@ -110160,8 +110160,8 @@ Specific	O
 binding	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 was	O
 observed	O
 in	O
@@ -110203,8 +110203,8 @@ Cadmium	O
 responsive	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 independent	O
 genes	O
@@ -110226,8 +110226,8 @@ were	O
 independent	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 presence	O
 ,	O
 by	O
@@ -110346,12 +110346,12 @@ genes	O
 encoding	O
 the	O
 catalytic	O
-subunit	I-PRGE
-of	I-PRGE
-glutamate	I-PRGE
--	I-PRGE
-cysteine	I-PRGE
-ligase	I-PRGE
+subunit	O
+of	O
+glutamate	O
+-	O
+cysteine	O
+ligase	O
 (	O
 Gclc	O
 )	O
@@ -110372,8 +110372,8 @@ glutathione	O
 )	O
 ;	O
 glutathione	O
-reductase	I-PRGE
-1	I-PRGE
+reductase	O
+1	O
 (	O
 Gsr	O
 )	O
@@ -110390,13 +110390,13 @@ glutathione	O
 ;	O
 and	O
 glutathione	O
--	I-PRGE
-S	I-PRGE
--	I-PRGE
-transferase	I-PRGE
-,	I-PRGE
-mu	I-PRGE
-4	I-PRGE
+-	O
+S	O
+-	O
+transferase	O
+,	O
+mu	O
+4	O
 (	O
 Gstm4	O
 )	O
@@ -110450,17 +110450,17 @@ referred	O
 to	O
 as	O
 heavy	O
-chain	I-PRGE
-subunit	I-PRGE
-of	I-PRGE
-gamma	I-PRGE
--	I-PRGE
-glutamylcysteine	I-PRGE
-synthetase	I-PRGE
+chain	O
+subunit	O
+of	O
+gamma	O
+-	O
+glutamylcysteine	O
+synthetase	O
 (	O
 Ggcs	O
--	I-PRGE
-hc	I-PRGE
+-	O
+hc	O
 )	O
 ,	O
 had	O
@@ -110473,8 +110473,8 @@ target	O
 gene	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 6	O
 )	O
@@ -110504,8 +110504,8 @@ not	O
 dependent	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 To	O
@@ -110640,8 +110640,8 @@ as	O
 well	O
 as	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 its	O
 target	O
@@ -110681,10 +110681,10 @@ exposure	O
 ,	O
 including	O
 genes	O
-for	I-PRGE
-thioredoxin	I-PRGE
-reductase	I-PRGE
-1	I-PRGE
+for	O
+thioredoxin	O
+reductase	O
+1	O
 (	O
 Txnrd1	O
 )	O
@@ -110703,12 +110703,12 @@ thioredoxin	O
 )	O
 ;	O
 KDEL	O
-endoplasmic	I-PRGE
-reticulum	I-PRGE
-protein	I-PRGE
-retention	I-PRGE
-receptor	I-PRGE
-2	I-PRGE
+endoplasmic	O
+reticulum	O
+protein	O
+retention	O
+receptor	O
+2	O
 (	O
 Kdelr2	O
 )	O
@@ -110727,10 +110727,10 @@ anti	O
 -	O
 apoptotic	O
 Bcl2	O
--	I-PRGE
-associated	I-PRGE
-athanogene	I-PRGE
-3	I-PRGE
+-	O
+associated	O
+athanogene	O
+3	O
 (	O
 Bag3	O
 )	O
@@ -110791,8 +110791,8 @@ conditions	O
 confirming	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 dispensable	O
 in	O
@@ -110841,8 +110841,8 @@ mice	B-LIVB
 revealed	O
 several	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 gene	O
 candidates	O
@@ -110872,8 +110872,8 @@ crucial	O
 role	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 for	O
 both	O
 basal	O
@@ -110943,7 +110943,7 @@ ectopic	O
 expression	O
 of	O
 mouse	O
-Sepw1	I-PRGE
+Sepw1	O
 renders	O
 cells	O
 resistant	O
@@ -110986,7 +110986,7 @@ fused	O
 to	O
 a	O
 rat	O
-Sepw1	I-PRGE
+Sepw1	O
 promoter	O
 fragment	O
 can	O
@@ -111022,7 +111022,7 @@ proximal	O
 to	O
 the	O
 rat	O
-Sepw1	I-PRGE
+Sepw1	O
 transcription	O
 start	O
 (	O
@@ -111037,8 +111037,8 @@ failed	O
 to	O
 demonstrate	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 binding	O
 to	O
 that	O
@@ -111059,8 +111059,8 @@ strongly	O
 suggest	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 important	O
 for	O
@@ -111069,7 +111069,7 @@ basal	O
 expression	O
 of	O
 mouse	O
-Sepw1	I-PRGE
+Sepw1	O
 by	O
 binding	O
 to	O
@@ -111087,19 +111087,19 @@ Ndrg1	O
 another	O
 interesting	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 target	O
 gene	O
 was	O
 named	O
 N	O
--	I-PRGE
-myc	I-PRGE
-downstream	I-PRGE
-regulated	I-PRGE
-gene	I-PRGE
-1	I-PRGE
+-	O
+myc	O
+downstream	O
+regulated	O
+gene	O
+1	O
 following	O
 the	O
 discovery	O
@@ -111108,14 +111108,14 @@ the	O
 transcription	O
 factor	O
 N	O
--	I-PRGE
-myc	I-PRGE
+-	O
+myc	O
 represses	O
 the	O
 expression	O
 of	O
 mouse	O
-Ndrg1	I-PRGE
+Ndrg1	O
 (	O
 51	O
 )	O
@@ -111254,8 +111254,8 @@ cadmium	O
 and	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 plays	O
 a	O
 crucial	O
@@ -111281,8 +111281,8 @@ studies	O
 indicate	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 for	O
@@ -111303,11 +111303,11 @@ start	O
 Studies	O
 with	O
 human	O
-,	I-PRGE
-avian	I-PRGE
-and	I-PRGE
-chicken	I-PRGE
-CSRP1	I-PRGE
+,	O
+avian	O
+and	O
+chicken	O
+CSRP1	O
 have	O
 shown	O
 that	O
@@ -111479,8 +111479,8 @@ the	O
 role	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 stress	O
 response	O
@@ -111493,8 +111493,8 @@ also	O
 suggest	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 represses	O
 basal	O
 transcription	O
@@ -111638,8 +111638,8 @@ previously	O
 shown	O
 that	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 important	O
 for	O
@@ -111652,7 +111652,7 @@ induction	O
 of	O
 the	O
 mouse	O
-Znt1	I-PRGE
+Znt1	O
 gene	O
 (	O
 19	O
@@ -111720,8 +111720,8 @@ zinc	O
 transporter	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 would	O
 control	O
 expression	O
@@ -111744,8 +111744,8 @@ Specific	O
 binding	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 was	O
 observed	O
 for	O
@@ -111812,11 +111812,11 @@ yeast	B-LIVB
 for	O
 the	O
 zinc	O
--	I-PRGE
-responsive	I-PRGE
-activator	I-PRGE
-protein	I-PRGE
-1	I-PRGE
+-	O
+responsive	O
+activator	O
+protein	O
+1	O
 (	O
 Zap1	O
 )	O
@@ -111826,10 +111826,10 @@ target	O
 gene	O
 ,	O
 zinc	O
--	I-PRGE
-regulated	I-PRGE
-transporter	I-PRGE
-2	I-PRGE
+-	O
+regulated	O
+transporter	O
+2	O
 (	O
 ZRT2	O
 )	O
@@ -111847,8 +111847,8 @@ Slc39a10	O
 expression	O
 by	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 may	O
 well	O
 be	O
@@ -111865,8 +111865,8 @@ binding	O
 Independent	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 cadmium	O
 treatment	O
@@ -111896,8 +111896,8 @@ gene	O
 search	O
 for	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 with	O
 mouse	B-LIVB
 embryos	O
@@ -111915,8 +111915,8 @@ genes	O
 the	O
 multifunctional	O
 alpha	O
--	I-PRGE
-fetoprotein	I-PRGE
+-	O
+fetoprotein	O
 (	O
 Afp	O
 )	O
@@ -111928,11 +111928,11 @@ enriched	O
 transcription	O
 factor	O
 CCAAT	O
-/	I-PRGE
-enhancer	I-PRGE
-binding	I-PRGE
-protein	I-PRGE
-alpha	I-PRGE
+/	O
+enhancer	O
+binding	O
+protein	O
+alpha	O
 (	O
 Cebpa	O
 )	O
@@ -111975,8 +111975,8 @@ cre	O
 mice	B-LIVB
 lacking	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 were	O
 not	O
 suitable	O
@@ -112033,8 +112033,8 @@ shown	O
 Therefore	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 may	O
 affect	O
 Cebpa	O
@@ -112064,8 +112064,8 @@ the	O
 role	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 as	O
 an	O
 important	O
@@ -112085,8 +112085,8 @@ target	O
 genes	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 the	O
 adult	O
@@ -112100,8 +112100,8 @@ of	O
 Sepw1	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 to	O
@@ -112114,9 +112114,9 @@ a	O
 role	O
 of	O
 mouse	O
-MTF	I-PRGE
--	I-PRGE
-1	I-PRGE
+MTF	O
+-	O
+1	O
 in	O
 oxidative	O
 stress	O
@@ -112127,8 +112127,8 @@ In	O
 addition	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 contributes	O
 to	O
 the	O
@@ -112145,8 +112145,8 @@ Csrp1	O
 Furthermore	O
 ,	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 helps	O
 to	O
 repress	O
@@ -112229,8 +112229,8 @@ or	O
 absence	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 Evidence	O
@@ -112426,16 +112426,16 @@ be	O
 regenerated	O
 by	O
 glutathione	O
-reductase	I-PRGE
+reductase	O
 .	O
 
 Also	O
 ,	O
 glutathione	O
--	I-PRGE
-S	I-PRGE
--	I-PRGE
-transferases	I-PRGE
+-	O
+S	O
+-	O
+transferases	O
 mediate	O
 the	O
 conjugation	O
@@ -112499,8 +112499,8 @@ the	O
 importance	O
 of	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 its	O
 target	O
@@ -112539,8 +112539,8 @@ defense	O
 one	O
 via	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 its	O
 target	O
@@ -113007,8 +113007,8 @@ mouse	B-LIVB
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 -	O
 DNA	O
@@ -113070,8 +113070,8 @@ expression	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 (	O
@@ -113282,8 +113282,8 @@ treated	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 -	O
 DNA	O
@@ -113336,8 +113336,8 @@ position	O
 of	O
 an	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 DNA	O
 complex	O
@@ -113374,8 +113374,8 @@ Ndrg1	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 (	O
@@ -113540,8 +113540,8 @@ treated	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 -	O
 DNA	O
@@ -113609,8 +113609,8 @@ position	O
 of	O
 an	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 DNA	O
 complex	O
@@ -113642,8 +113642,8 @@ Csrp1	O
 depends	O
 on	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 (	O
@@ -113808,8 +113808,8 @@ treated	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 -	O
 DNA	O
@@ -113866,8 +113866,8 @@ position	O
 of	O
 an	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 DNA	O
 complex	O
@@ -113893,8 +113893,8 @@ Figure	O
 5	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 represses	O
 basal	O
 expression	O
@@ -114064,8 +114064,8 @@ treated	O
 .	O
 
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 -	O
 DNA	O
@@ -114118,8 +114118,8 @@ position	O
 of	O
 an	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 DNA	O
 complex	O
@@ -114153,8 +114153,8 @@ that	O
 also	O
 lack	O
 MTF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 are	O
 hypersensitive	O
 to	O
@@ -114612,8 +114612,8 @@ sets	O
 .	O
 
 CEBPG	O
-transcription	I-PRGE
-factor	I-PRGE
+transcription	O
+factor	O
 correlates	O
 with	O
 antioxidant	O
@@ -114868,8 +114868,8 @@ individuals	B-LIVB
 Results	O
 
 CEBPG	O
-transcription	I-PRGE
-factor	I-PRGE
+transcription	O
+factor	O
 was	O
 significantly	O
 (	O
@@ -115693,10 +115693,10 @@ reverse	O
 transcribed	O
 using	O
 M	O
--	I-PRGE
-MLV	I-PRGE
-reverse	I-PRGE
-transcriptase	I-PRGE
+-	O
+MLV	O
+reverse	O
+transcriptase	O
 and	O
 oligo	O
 dT	O
@@ -118001,12 +118001,12 @@ effect	O
 on	O
 the	O
 IL	O
--	I-PRGE
-6	I-PRGE
+-	O
+6	O
 and	O
 IL	O
--	I-PRGE
-8	I-PRGE
+-	O
+8	O
 promoters	O
 in	O
 B	O
@@ -119456,8 +119456,8 @@ molecules	O
 /	O
 106	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 molecules	O
 )	O
 from	O
@@ -119818,7 +119818,7 @@ following	O
 Suppression	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 Production	O
 in	O
 a	O
@@ -119840,18 +119840,18 @@ secretases	O
 that	O
 cleave	O
 amyloid	O
--	I-PRGE
-beta	I-PRGE
+-	O
+beta	O
 (	O
 A	O
-beta	I-PRGE
+beta	O
 )	O
 peptide	O
 from	O
 the	O
 amyloid	O
-precursor	I-PRGE
-protein	I-PRGE
+precursor	O
+protein	O
 (	O
 APP	O
 )	O
@@ -119879,7 +119879,7 @@ been	O
 that	O
 reducing	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 in	O
 the	O
@@ -119954,7 +119954,7 @@ the	O
 arrest	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 expected	O
 from	O
@@ -120014,7 +120014,7 @@ than	O
 and	O
 reduces	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 to	O
 levels	O
@@ -120028,7 +120028,7 @@ Suppression	O
 of	O
 transgenic	O
 A	O
-beta	I-PRGE
+beta	O
 synthesis	O
 in	O
 this	O
@@ -120086,7 +120086,7 @@ the	O
 formation	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 deposits	O
 retain	O
 a	O
@@ -120132,7 +120132,7 @@ suggest	O
 that	O
 arresting	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 in	O
 patients	O
@@ -120188,11 +120188,11 @@ increased	O
 levels	O
 of	O
 amyloid	O
--	I-PRGE
-beta	I-PRGE
+-	O
+beta	O
 (	O
 A	O
-beta	I-PRGE
+beta	O
 )	O
 peptide	O
 lead	O
@@ -120235,8 +120235,8 @@ mutations	O
 in	O
 the	O
 amyloid	O
-precursor	I-PRGE
-protein	I-PRGE
+precursor	O
+protein	O
 (	O
 APP	O
 )	O
@@ -120244,15 +120244,15 @@ APP	O
 from	O
 which	O
 A	O
-beta	I-PRGE
+beta	O
 is	O
 derived	O
 ,	O
 and	O
 presenilins	O
-1	I-PRGE
-and	I-PRGE
-2	I-PRGE
+1	O
+and	O
+2	O
 ,	O
 which	O
 are	O
@@ -120265,7 +120265,7 @@ complex	O
 that	O
 releases	O
 A	O
-beta	I-PRGE
+beta	O
 from	O
 APP	O
 (	O
@@ -120288,7 +120288,7 @@ predicted	O
 overproduction	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 initiates	O
 the	O
 cascade	O
@@ -120304,7 +120304,7 @@ strategies	O
 that	O
 lower	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 should	O
 either	O
@@ -120335,7 +120335,7 @@ of	O
 the	O
 first	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 lowering	O
 approaches	O
@@ -120408,7 +120408,7 @@ s	O
 titer	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 specific	O
 antibody	O
@@ -120470,7 +120470,7 @@ seeks	O
 to	O
 lower	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 by	O
 limiting	O
@@ -120485,7 +120485,7 @@ APP	O
 
 Peptide	O
 A	O
-beta	I-PRGE
+beta	O
 is	O
 released	O
 from	O
@@ -120499,11 +120499,11 @@ enzymes	O
 ,	O
 the	O
 beta	O
--	I-PRGE
-APP	I-PRGE
-cleaving	I-PRGE
-enzyme	I-PRGE
-1	I-PRGE
+-	O
+APP	O
+cleaving	O
+enzyme	O
+1	O
 (	O
 BACE1	O
 )	O
@@ -120526,7 +120526,7 @@ C	O
 termini	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 ,	O
 respectively	O
 .	O
@@ -120553,11 +120553,11 @@ molecule	O
 inhibitors	O
 of	O
 beta	O
--	I-PRGE
-APP	I-PRGE
-cleaving	I-PRGE
-enzyme	I-PRGE
-1	I-PRGE
+-	O
+APP	O
+cleaving	O
+enzyme	O
+1	O
 are	O
 currently	O
 being	O
@@ -120596,11 +120596,11 @@ Although	O
 loss	O
 of	O
 beta	O
--	I-PRGE
-APP	I-PRGE
-cleaving	I-PRGE
-enzyme	I-PRGE
-1	I-PRGE
+-	O
+APP	O
+cleaving	O
+enzyme	O
+1	O
 function	O
 can	O
 prevent	O
@@ -120651,7 +120651,7 @@ once	O
 production	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 has	O
 been	O
 suppressed	O
@@ -120794,7 +120794,7 @@ pharmaceutical	O
 inhibitor	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 would	O
 impact	O
@@ -120889,12 +120889,12 @@ and	O
 then	O
 ligating	O
 mouse	O
-APP	I-PRGE
+APP	O
 with	O
 a	O
 humanized	O
 A	O
-beta	I-PRGE
+beta	O
 domain	O
 (	O
 mo	B-LIVB
@@ -121475,14 +121475,14 @@ control	O
 of	O
 the	O
 calcium	O
--	I-PRGE
-calmodulin	I-PRGE
-kinase	I-PRGE
-II	I-PRGE
-alpha	I-PRGE
+-	O
+calmodulin	O
+kinase	O
+II	O
+alpha	O
 (	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 )	O
 promoter	O
 obtained	O
@@ -121885,7 +121885,7 @@ reverse	O
 within	O
 the	O
 HSV1	O
-VP16	I-PRGE
+VP16	O
 (	O
 CAT	O
 GTC	O
@@ -121937,7 +121937,7 @@ specific	O
 to	O
 the	O
 mouse	O
-PrP	I-PRGE
+PrP	O
 open	O
 reading	O
 frame	O
@@ -122385,8 +122385,8 @@ polyclonal	O
 anti	O
 -	O
 superoxide	O
-dismutase	I-PRGE
-1	I-PRGE
+dismutase	O
+1	O
 (	O
 m	O
 /	O
@@ -123167,13 +123167,13 @@ photomicrography	O
 Ubiquitin	O
 ,	O
 glial	O
-fibrillary	I-PRGE
-acidic	I-PRGE
-protein	I-PRGE
+fibrillary	O
+acidic	O
+protein	O
 ,	O
 and	O
 A	O
-beta	I-PRGE
+beta	O
 immunohistochemistry	O
 
 Prior	O
@@ -123278,7 +123278,7 @@ rabbit	B-LIVB
 anti	O
 -	O
 A	O
-beta	I-PRGE
+beta	O
 peptide	O
 polyclonal	O
 antibody	O
@@ -123304,9 +123304,9 @@ rabbit	B-LIVB
 anti	O
 -	O
 glial	O
-fibrillary	I-PRGE
-acidic	I-PRGE
-protein	I-PRGE
+fibrillary	O
+acidic	O
+protein	O
 (	O
 GFAP	O
 )	O
@@ -123372,7 +123372,7 @@ system	O
 anti	O
 -	O
 A	O
-beta	I-PRGE
+beta	O
 ;	O
 Vector	O
 Laboratories	O
@@ -123537,7 +123537,7 @@ polyclonal	O
 anti	O
 -	O
 A	O
-beta	I-PRGE
+beta	O
 antibody	O
 (	O
 Zymed	O
@@ -123675,7 +123675,7 @@ the	O
 intensity	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 staining	O
 was	O
 quantified	O
@@ -123688,7 +123688,7 @@ software	O
 .	O
 
 A	O
-beta	I-PRGE
+beta	O
 ELISA	O
 
 An	O
@@ -123843,7 +123843,7 @@ testing	O
 
 Human	B-LIVB
 A	O
-beta	I-PRGE
+beta	O
 was	O
 measured	O
 in	O
@@ -123869,12 +123869,12 @@ for	O
 detection	O
 (	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 respectively	O
 )	O
@@ -123891,7 +123891,7 @@ Japan	O
 
 Total	O
 A	O
-beta	I-PRGE
+beta	O
 (	O
 mouse	B-LIVB
 +	O
@@ -123962,7 +123962,7 @@ studied	O
 in	O
 28	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 x	O
@@ -124270,7 +124270,7 @@ control	O
 of	O
 the	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 promoter	O
 [	O
 16	O
@@ -124401,11 +124401,11 @@ APP	O
 (	O
 and	O
 amyloid	O
-precursor	I-PRGE
--	I-PRGE
-like	I-PRGE
-protein	I-PRGE
-2	I-PRGE
+precursor	O
+-	O
+like	O
+protein	O
+2	O
 )	O
 and	O
 the	O
@@ -124699,7 +124699,7 @@ To	O
 ensure	O
 that	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 was	O
 suppressed	O
@@ -124721,12 +124721,12 @@ ind	O
 we	O
 measured	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 levels	O
 by	O
 ELISA	O
@@ -124832,12 +124832,12 @@ transgene	O
 -	O
 derived	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 in	O
 untreated	O
 mice	B-LIVB
@@ -124928,7 +124928,7 @@ transgene	O
 -	O
 derived	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 were	O
 completely	O
@@ -124972,8 +124972,8 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 dropped	O
 by	O
 95	O
@@ -125007,8 +125007,8 @@ SDS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 decreased	O
 by	O
 75	O
@@ -125105,8 +125105,8 @@ with	O
 %	O
 less	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 than	O
 untreated	O
 4	O
@@ -125121,7 +125121,7 @@ Measurement	O
 of	O
 total	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 chronically	O
 treated	O
@@ -125138,7 +125138,7 @@ peptide	O
 demonstrated	O
 that	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 tet	O
@@ -125199,7 +125199,7 @@ parallel	O
 reduction	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 .	O
 
@@ -125222,8 +125222,8 @@ high	O
 levels	O
 of	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 which	O
 we	O
@@ -125245,7 +125245,7 @@ double	O
 transgenic	O
 (	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 x	O
@@ -125311,7 +125311,7 @@ striatum	O
 where	O
 the	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 promoter	O
 is	O
 known	O
@@ -125373,7 +125373,7 @@ ages	O
 consistent	O
 with	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 controlled	O
 transgene	O
@@ -125492,8 +125492,8 @@ APP	O
 via	O
 the	O
 Thy	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 promoter	O
 .	O
 
@@ -125515,7 +125515,7 @@ of	O
 APP	O
 /	O
 A	O
-beta	I-PRGE
+beta	O
 to	O
 the	O
 terminals	O
@@ -125635,7 +125635,7 @@ not	O
 provide	O
 sufficient	O
 A	O
-beta	I-PRGE
+beta	O
 peptide	O
 to	O
 induce	O
@@ -125655,7 +125655,7 @@ with	O
 inhibitors	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 ,	O
 we	O
@@ -125669,7 +125669,7 @@ transgenic	O
 mice	B-LIVB
 (	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 x	O
@@ -125963,7 +125963,7 @@ S	O
 ,	O
 and	O
 A	O
-beta	I-PRGE
+beta	O
 immunohistochemistry	O
 .	O
 
@@ -126193,7 +126193,7 @@ APP	O
 mice	B-LIVB
 (	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 x	O
@@ -126364,7 +126364,7 @@ amount	O
 of	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 the	O
 brains	O
@@ -126460,7 +126460,7 @@ amount	O
 of	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 as	O
 when	O
 they	O
@@ -126496,7 +126496,7 @@ as	O
 much	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 as	O
 either	O
 of	O
@@ -126524,7 +126524,7 @@ increase	O
 in	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 observed	O
 in	O
 untreated	O
@@ -126558,7 +126558,7 @@ to	O
 measure	O
 total	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 the	O
 brains	O
@@ -126613,12 +126613,12 @@ transgene	O
 -	O
 derived	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 were	O
 measured	O
 by	O
@@ -126646,7 +126646,7 @@ vast	O
 majority	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 (	O
 >	O
 99	O
@@ -126690,7 +126690,7 @@ FA	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
+beta	O
 between	O
 the	O
 6	O
@@ -126743,8 +126743,8 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 as	O
 untreated	O
 6	O
@@ -126762,8 +126762,8 @@ Figure	O
 Levels	O
 of	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 showed	O
 a	O
 similar	O
@@ -126786,12 +126786,12 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 in	O
 the	O
 6	O
@@ -126848,7 +126848,7 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 these	O
 animals	B-LIVB
@@ -126980,7 +126980,7 @@ the	O
 deposition	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 diminished	O
 cognitive	O
 ability	O
@@ -127493,7 +127493,7 @@ consequences	O
 of	O
 inhibiting	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 after	O
 the	O
@@ -127582,8 +127582,8 @@ consequent	O
 overproduction	O
 of	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 cause	O
 early	O
 -	O
@@ -127769,7 +127769,7 @@ strict	O
 regulation	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 following	O
 chronic	O
@@ -127806,8 +127806,8 @@ than	O
 suppression	O
 of	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 levels	O
 ,	O
 and	O
@@ -127819,8 +127819,8 @@ less	O
 suppression	O
 of	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 (	O
 approximately	O
 60	O
@@ -127864,7 +127864,7 @@ absolute	O
 suppression	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 with	O
 the	O
@@ -127901,7 +127901,7 @@ complete	O
 control	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 than	O
 achieved	O
@@ -127918,7 +127918,7 @@ therapeutic	O
 intervention	O
 with	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 lowering	O
 compounds	O
@@ -128020,7 +128020,7 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
+beta	O
 (	O
 see	O
 Figure	O
@@ -128059,7 +128059,7 @@ dissolve	O
 Whether	O
 inhibiting	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 longer	O
 than	O
@@ -128155,7 +128155,7 @@ the	O
 production	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 (	O
 by	O
 either	O
@@ -128300,7 +128300,7 @@ that	O
 endogenous	O
 mouse	B-LIVB
 A	O
-beta	I-PRGE
+beta	O
 continues	O
 to	O
 be	O
@@ -128319,7 +128319,7 @@ of	O
 endogenous	O
 mouse	B-LIVB
 A	O
-beta	I-PRGE
+beta	O
 and	O
 nonsuppressed	O
 human	B-LIVB
@@ -128350,7 +128350,7 @@ formation	O
 ,	O
 as	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 x	O
@@ -128395,7 +128395,7 @@ the	O
 production	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 to	O
 levels	O
 not	O
@@ -128429,7 +128429,7 @@ between	O
 APP	O
 /	O
 A	O
-beta	I-PRGE
+beta	O
 synthetic	O
 rates	O
 before	O
@@ -128449,7 +128449,7 @@ disaggregated	O
 states	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 still	O
 favored	O
 the	O
@@ -128949,7 +128949,7 @@ speed	O
 with	O
 which	O
 A	O
-beta	I-PRGE
+beta	O
 aggregates	O
 are	O
 cleared	O
@@ -128965,7 +128965,7 @@ intervention	O
 Anti	O
 -	O
 A	O
-beta	I-PRGE
+beta	O
 antibodies	O
 injected	O
 directly	O
@@ -129227,7 +129227,7 @@ combined	O
 with	O
 an	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 lowering	O
 agent	O
@@ -129237,7 +129237,7 @@ as	O
 neprilysin	O
 or	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 targeted	O
 antibodies	O
@@ -129268,7 +129268,7 @@ transgenic	O
 expression	O
 of	O
 TGF	O
-beta	I-PRGE
+beta	O
 [	O
 58	O
 ]	O
@@ -129332,7 +129332,7 @@ degraded	O
 the	O
 remaining	O
 A	O
-beta	I-PRGE
+beta	O
 quickly	O
 reaggregates	O
 and	O
@@ -129389,7 +129389,7 @@ that	O
 express	O
 P301L	O
 human	O
-tau	I-PRGE
+tau	O
 via	O
 a	O
 similar	O
@@ -129538,7 +129538,7 @@ once	O
 aggregated	O
 ,	O
 A	O
-beta	I-PRGE
+beta	O
 and	O
 tau	O
 are	O
@@ -129580,7 +129580,7 @@ synthesis	O
 of	O
 new	O
 A	O
-beta	I-PRGE
+beta	O
 halts	O
 the	O
 progression	O
@@ -129865,7 +129865,7 @@ demonstrate	O
 that	O
 abrogating	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 halts	O
 the	O
@@ -129892,7 +129892,7 @@ dramatic	O
 reductions	O
 in	O
 A	O
-beta	I-PRGE
+beta	O
 synthesis	O
 ,	O
 neuritic	O
@@ -129920,12 +129920,12 @@ therapies	O
 to	O
 limit	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 ,	O
 increase	O
 A	O
-beta	I-PRGE
+beta	O
 degradation	O
 ,	O
 and	O
@@ -130329,7 +130329,7 @@ row	O
 ,	O
 and	O
 A	O
-beta	I-PRGE
+beta	O
 immunohistochemistry	O
 (	O
 bottom	O
@@ -130464,7 +130464,7 @@ Not	O
 Disperse	O
 During	O
 A	O
-beta	I-PRGE
+beta	O
 Suppression	O
 
 Campbell	O
@@ -130548,7 +130548,7 @@ to	O
 mo	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 suppression	O
 .	O
 
@@ -130682,7 +130682,7 @@ and	O
 Arrest	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 Aggregate	O
 Formation	O
 in	O
@@ -130697,7 +130697,7 @@ APP	O
 Mice	B-LIVB
 (	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 x	O
@@ -130789,7 +130789,7 @@ Immunostaining	O
 for	O
 endogenous	O
 superoxide	O
-dismutase	I-PRGE
+dismutase	O
 (	O
 SOD1	O
 )	O
@@ -130894,7 +130894,7 @@ to	O
 quantify	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 cortical	O
 homogenates	O
@@ -131215,8 +131215,8 @@ small	O
 protein	O
 called	O
 amyloid	O
--	I-PRGE
-beta	I-PRGE
+-	O
+beta	O
 peptide	O
 that	O
 sticks	O
@@ -131255,8 +131255,8 @@ larger	O
 protein	O
 called	O
 amyloid	O
-precursor	I-PRGE
-protein	I-PRGE
+precursor	O
+protein	O
 (	O
 APP	O
 )	O
@@ -131280,7 +131280,7 @@ the	O
 amount	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 produced	O
 from	O
 APP	O
@@ -131298,7 +131298,7 @@ the	O
 production	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 will	O
 allow	O
 the	O
@@ -131325,7 +131325,7 @@ for	O
 deciding	O
 when	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 lowering	O
 drugs	O
@@ -131366,7 +131366,7 @@ designed	O
 to	O
 lower	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 are	O
 still	O
@@ -131484,7 +131484,7 @@ treating	O
 them	O
 with	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 lowering	O
 drugs	O
@@ -131505,7 +131505,7 @@ amyloid	O
 plaques	O
 after	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 was	O
 shut	O
@@ -131517,7 +131517,7 @@ showed	O
 that	O
 lowering	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 prevents	O
 the	O
@@ -131538,7 +131538,7 @@ that	O
 treatment	O
 with	O
 A	O
-beta	I-PRGE
+beta	O
 -	O
 lowering	O
 drugs	O
@@ -131600,7 +131600,7 @@ the	O
 production	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 may	O
 be	O
 an	O
@@ -131799,7 +131799,7 @@ for	O
 sharing	O
 the	O
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 tTA	O
 mice	B-LIVB
@@ -132077,11 +132077,11 @@ manuscript	O
 Abbreviations	O
 
 A	O
-beta	I-PRGE
+beta	O
 -	O
 amyloid	O
--	I-PRGE
-beta	I-PRGE
+-	O
+beta	O
 
 AD	O
 -	O
@@ -132091,7 +132091,7 @@ disease	O
 APLP	O
 -	O
 amyloid	O
-precursor	I-PRGE
+precursor	O
 -	O
 like	O
 protein	O
@@ -132099,18 +132099,18 @@ protein	O
 APP	O
 -	O
 amyloid	O
-precursor	I-PRGE
-protein	I-PRGE
+precursor	O
+protein	O
 
 CaMKII	O
-alpha	I-PRGE
+alpha	O
 -	O
 calcium	O
--	I-PRGE
-calmodulin	I-PRGE
-kinase	I-PRGE
-II	I-PRGE
-alpha	I-PRGE
+-	O
+calmodulin	O
+kinase	O
+II	O
+alpha	O
 
 dox	O
 -	O
@@ -132124,21 +132124,21 @@ acid	O
 GFAP	O
 -	O
 glial	O
-fibrillary	I-PRGE
-acidic	I-PRGE
-protein	I-PRGE
+fibrillary	O
+acidic	O
+protein	O
 
 mo	B-LIVB
 /	O
 huAPP695	O
 -	O
 mouse	O
-APP	I-PRGE
+APP	O
 with	O
 a	O
 humanized	O
 A	O
-beta	I-PRGE
+beta	O
 domain	O
 
 PBS	O
@@ -132548,7 +132548,7 @@ Figure	O
 2	O
 
 A	O
-beta	I-PRGE
+beta	O
 Levels	O
 Are	O
 Dramatically	O
@@ -132603,7 +132603,7 @@ human	B-LIVB
 -	O
 specific	O
 A	O
-beta	I-PRGE
+beta	O
 ELISA	O
 to	O
 measure	O
@@ -132617,16 +132617,16 @@ fraction	O
 .	O
 
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 is	O
 shown	O
 in	O
 white	O
 ,	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 in	O
 black	O
 .	O
@@ -132638,7 +132638,7 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 are	O
 substantially	O
@@ -132677,19 +132677,19 @@ p	O
 ,	O
 for	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 respectively	O
 )	O
 .	O
 
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 treated	O
@@ -132737,7 +132737,7 @@ deposits	O
 ,	O
 most	O
 A	O
-beta	I-PRGE
+beta	O
 is	O
 extracted	O
 into	O
@@ -132756,12 +132756,12 @@ transgene	O
 -	O
 derived	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 respectively	O
 )	O
@@ -132776,7 +132776,7 @@ soluble	O
 fraction	O
 ,	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 the	O
@@ -132817,12 +132817,12 @@ p	O
 ,	O
 for	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 respectively	O
 )	O
@@ -132861,7 +132861,7 @@ test	O
 ,	O
 whereas	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 mice	B-LIVB
@@ -132910,8 +132910,8 @@ pool	O
 of	O
 aggregated	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 in	O
 untreated	O
 animals	B-LIVB
@@ -132967,7 +132967,7 @@ the	O
 amount	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 the	O
 FA	O
@@ -133032,7 +133032,7 @@ turnover	O
 of	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 species	O
 .	O
 
@@ -133043,7 +133043,7 @@ Measurements	O
 of	O
 total	O
 A	O
-beta	I-PRGE
+beta	O
 ,	O
 including	O
 both	O
@@ -133064,7 +133064,7 @@ on	O
 dox	O
 harbor	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 identical	O
 to	O
@@ -133107,12 +133107,12 @@ p	O
 ,	O
 for	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 and	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 respectively	O
 )	O
@@ -133135,8 +133135,8 @@ treatment	O
 fully	O
 suppresses	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 levels	O
 (	O
 p	O
@@ -133160,15 +133160,15 @@ amount	O
 of	O
 nonsuppressed	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 .	O
 
 The	O
 residual	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 observed	O
 in	O
 acutely	O
@@ -133306,8 +133306,8 @@ immunostained	O
 for	O
 endogenous	O
 superoxide	O
-dismutase	I-PRGE
-1	I-PRGE
+dismutase	O
+1	O
 (	O
 SOD1	O
 )	O
@@ -133451,7 +133451,7 @@ effects	O
 of	O
 chronic	O
 A	O
-beta	I-PRGE
+beta	O
 suppression	O
 on	O
 amyloid	O
@@ -133569,7 +133569,7 @@ the	O
 precursors	O
 to	O
 A	O
-beta	I-PRGE
+beta	O
 cleavage	O
 are	O
 decreased	O
@@ -133590,8 +133590,8 @@ panel	O
 Costaining	O
 for	O
 superoxide	O
-dismutase	I-PRGE
-1	I-PRGE
+dismutase	O
+1	O
 was	O
 used	O
 as	O
@@ -133632,7 +133632,7 @@ A	O
 )	O
 Aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 was	O
 quantified	O
 in	O
@@ -133685,7 +133685,7 @@ and	O
 immunostained	O
 for	O
 A	O
-beta	I-PRGE
+beta	O
 .	O
 
 (	O
@@ -133725,7 +133725,7 @@ groups	O
 
 Aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 increased	O
 significantly	O
 between	O
@@ -133777,7 +133777,7 @@ amount	O
 of	O
 aggregated	O
 A	O
-beta	I-PRGE
+beta	O
 was	O
 identical	O
 in	O
@@ -133926,7 +133926,7 @@ row	O
 ,	O
 and	O
 A	O
-beta	I-PRGE
+beta	O
 immunohistochemistry	O
 (	O
 bottom	O
@@ -134003,7 +134003,7 @@ Figure	O
 5	O
 
 A	O
-beta	I-PRGE
+beta	O
 ELISA	O
 Confirms	O
 Arrest	O
@@ -134020,7 +134020,7 @@ Preexisting	O
 Aggregates	O
 
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 untreated	O
@@ -134107,7 +134107,7 @@ human	B-LIVB
 -	O
 specific	O
 A	O
-beta	I-PRGE
+beta	O
 ELISA	O
 to	O
 measure	O
@@ -134121,16 +134121,16 @@ fraction	O
 .	O
 
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 is	O
 shown	O
 in	O
 white	O
 ,	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 in	O
 black	O
 .	O
@@ -134142,7 +134142,7 @@ B	O
 )	O
 Most	O
 A	O
-beta	I-PRGE
+beta	O
 in	O
 the	O
 brains	O
@@ -134180,7 +134180,7 @@ FA	O
 -	O
 extracted	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 untreated	O
@@ -134252,7 +134252,7 @@ transgene	O
 suppression	O
 held	O
 A	O
-beta	I-PRGE
+beta	O
 at	O
 levels	O
 equivalent	O
@@ -134364,7 +134364,7 @@ than	O
 of	O
 total	O
 A	O
-beta	I-PRGE
+beta	O
 (	O
 note	O
 the	O
@@ -134388,7 +134388,7 @@ only	O
 here	O
 do	O
 A	O
-beta	I-PRGE
+beta	O
 levels	O
 in	O
 the	O
@@ -134427,8 +134427,8 @@ mice	B-LIVB
 ,	O
 only	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 reaches	O
 statistical	O
 significance	O
@@ -134453,8 +134453,8 @@ group	O
 ANOVA	O
 for	O
 A	O
-beta	I-PRGE
-40	I-PRGE
+beta	O
+40	O
 F3	O
 ,	O
 18	O
@@ -134478,8 +134478,8 @@ was	O
 seen	O
 for	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 ,	O
 where	O
 ANOVA	O
@@ -134494,8 +134494,8 @@ PBS	O
 -	O
 soluble	O
 A	O
-beta	I-PRGE
-42	I-PRGE
+beta	O
+42	O
 (	O
 F3	O
 ,	O
@@ -134872,7 +134872,7 @@ following	O
 suppression	O
 of	O
 A	O
-beta	I-PRGE
+beta	O
 production	O
 in	O
 a	O
@@ -134995,7 +134995,7 @@ HeJ	O
 on	O
 an	O
 apolipoprotein	O
-E	I-PRGE
+E	O
 null	O
 (	O
 ApoE	O
@@ -135896,7 +135896,7 @@ C3H	O
 on	O
 an	O
 apolipoprotein	O
-E	I-PRGE
+E	O
 null	O
 (	O
 ApoE	O
@@ -143572,7 +143572,7 @@ ApoE	O
 -	O
 -	O
 apolipoprotein	O
-E	I-PRGE
+E	O
 null	O
 
 cQTL	O
@@ -145045,15 +145045,15 @@ Abstract	O
 Background	O
 
 Embryonic	O
-stem	I-PRGE
-cell	I-PRGE
--	I-PRGE
-specific	I-PRGE
-gene	I-PRGE
-(	I-PRGE
-ESG	I-PRGE
-)	I-PRGE
-1	I-PRGE
+stem	O
+cell	O
+-	O
+specific	O
+gene	O
+(	O
+ESG	O
+)	O
+1	O
 ,	O
 which	O
 encodes	O
@@ -145091,7 +145091,7 @@ clones	O
 containing	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 five	O
@@ -145138,7 +145138,7 @@ clones	O
 containing	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 an	O
@@ -145319,7 +145319,7 @@ Conclusion	O
 
 The	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 ,	O
 together	O
@@ -145699,7 +145699,7 @@ clones	O
 containing	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 seven	O
@@ -145761,7 +145761,7 @@ localizations	O
 of	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 pseudogenes	O
@@ -145818,7 +145818,7 @@ and	O
 structures	O
 of	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 psedogenes	O
@@ -145831,7 +145831,7 @@ localizations	O
 of	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 pseudogenes	O
@@ -146688,7 +146688,7 @@ disruption	O
 of	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 
 To	O
@@ -146815,7 +146815,7 @@ disruption	O
 of	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 .	O
 
@@ -146863,7 +146863,7 @@ The	O
 gene	O
 encoding	O
 diphtheria	O
-toxin	I-PRGE
+toxin	O
 A	O
 (	O
 DTA	O
@@ -147178,8 +147178,8 @@ the	O
 removal	O
 of	O
 leukemia	O
-inhibitory	I-PRGE
-factor	I-PRGE
+inhibitory	O
+factor	O
 (	O
 Figure	O
 5B	O
@@ -147455,8 +147455,8 @@ as	O
 Nanog	O
 and	O
 Oct3	O
-/	I-PRGE
-4	I-PRGE
+/	O
+4	O
 ,	O
 was	O
 normal	O
@@ -147473,8 +147473,8 @@ We	O
 confirmed	O
 normal	O
 Oct3	O
-/	I-PRGE
-4	I-PRGE
+/	O
+4	O
 expression	O
 at	O
 protein	O
@@ -147677,8 +147677,8 @@ of	O
 ESG1	O
 ,	O
 Oct3	O
-/	I-PRGE
-4	I-PRGE
+/	O
+4	O
 and	O
 CDK4	O
 with	O
@@ -147960,7 +147960,7 @@ clones	O
 containing	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 
 To	O
@@ -147974,7 +147974,7 @@ BAC	O
 clones	O
 containing	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 ,	O
 we	O
@@ -148132,7 +148132,7 @@ region	O
 containing	O
 the	O
 mouse	O
-ESG1	I-PRGE
+ESG1	O
 gene	O
 and	O
 the	O
@@ -148551,7 +148551,7 @@ fragments	O
 
 The	O
 diphtheria	O
-toxin	I-PRGE
+toxin	O
 A	O
 cassette	O
 was	O
@@ -149105,8 +149105,8 @@ dilution	O
 anti	O
 -	O
 Oct3	O
-/	I-PRGE
-4	I-PRGE
+/	O
+4	O
 (	O
 1	O
 /	O
@@ -150019,8 +150019,8 @@ locus	O
 associated	O
 with	O
 collagen	O
-type	I-PRGE
-II	I-PRGE
+type	O
+II	O
 antibody	O
 titers	O
 was	O
@@ -150944,9 +150944,9 @@ with	O
 mu	O
 g	O
 rat	O
-collagen	I-PRGE
-type	I-PRGE
-II	I-PRGE
+collagen	O
+type	O
+II	O
 (	O
 CII	O
 )	O
@@ -151709,8 +151709,8 @@ C	O
 .	O
 
 Bovine	O
-serum	I-PRGE
-albumin	I-PRGE
+serum	O
+albumin	O
 (	O
 Sigma	O
 Chemical	O
@@ -152452,10 +152452,10 @@ both	O
 having	O
 the	O
 MHC	O
-class	I-PRGE
-II	I-PRGE
-A	I-PRGE
-beta	I-PRGE
+class	O
+II	O
+A	O
+beta	O
 genes	O
 [	O
 15	O
@@ -153461,8 +153461,8 @@ arthritis	O
 CII	O
 =	O
 collagen	O
-type	I-PRGE
-II	I-PRGE
+type	O
+II	O
 ;	O
 LOD	O
 =	O
@@ -153669,8 +153669,8 @@ and	O
 QTL	O
 for	O
 collagen	O
-type	I-PRGE
-II	I-PRGE
+type	O
+II	O
 (	O
 CII	O
 )	O
@@ -153744,8 +153744,8 @@ and	O
 anti	O
 -	O
 collagen	O
-type	I-PRGE
-II	I-PRGE
+type	O
+II	O
 (	O
 anti	O
 -	O
@@ -153959,8 +153959,8 @@ and	O
 characterization	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 a	O
 novel	O
@@ -154064,23 +154064,23 @@ and	O
 is	O
 designated	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
-(	I-PRGE
-major	I-PRGE
-retinal	I-PRGE
-SAM	I-PRGE
-domain	I-PRGE
-protein	I-PRGE
+mr	O
+-	O
+s	O
+(	O
+major	O
+retinal	O
+SAM	O
+domain	O
+protein	O
 )	O
 .	O
 
 Results	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 evolutionarily	O
 conserved	O
@@ -154112,8 +154112,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 most	O
 closely	O
@@ -154151,8 +154151,8 @@ the	O
 possibility	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 may	O
 play	O
 a	O
@@ -154168,8 +154168,8 @@ development	O
 .	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 preferentially	O
 expressed	O
@@ -154205,8 +154205,8 @@ gland	O
 Transcription	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 directly	O
 regulated	O
@@ -154226,8 +154226,8 @@ showed	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 self	O
 -	O
@@ -154248,8 +154248,8 @@ ph	O
 
 The	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 localizes	O
 mainly	O
@@ -154259,8 +154259,8 @@ nucleus	O
 ,	O
 when	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 overexpressed	O
 in	O
@@ -154279,8 +154279,8 @@ we	O
 found	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 fused	O
 to	O
@@ -154304,8 +154304,8 @@ repression	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 not	O
 due	O
@@ -154335,8 +154335,8 @@ novel	O
 gene	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 which	O
 is	O
@@ -154363,8 +154363,8 @@ we	O
 predict	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 may	O
 function	O
 as	O
@@ -154851,7 +154851,7 @@ addition	O
 mutations	O
 of	O
 human	O
-CRX	I-PRGE
+CRX	O
 have	O
 been	O
 demonstrated	O
@@ -154911,8 +154911,8 @@ transcription	O
 factors	O
 ,	O
 TR	O
-beta	I-PRGE
-2	I-PRGE
+beta	O
+2	O
 ,	O
 Nrl	O
 ,	O
@@ -155001,18 +155001,18 @@ kinases	O
 ]	O
 ,	O
 Eph	O
-family	I-PRGE
-receptor	I-PRGE
-tyrosine	I-PRGE
-kinases	I-PRGE
+family	O
+receptor	O
+tyrosine	O
+kinases	O
 [	O
 20	O
 ]	O
 ,	O
 the	O
 p73	O
-tumor	I-PRGE
-suppressor	I-PRGE
+tumor	O
+suppressor	O
 [	O
 21	O
 ]	O
@@ -155188,8 +155188,8 @@ novel	O
 gene	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 which	O
 encodes	O
@@ -155206,8 +155206,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 most	O
 closely	O
@@ -155225,8 +155225,8 @@ Rae28	O
 .	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 predominantly	O
 expressed	O
@@ -155249,8 +155249,8 @@ The	O
 expression	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 directly	O
 regulated	O
@@ -155261,8 +155261,8 @@ Crx	O
 Moreover	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 localized	O
 in	O
@@ -155287,8 +155287,8 @@ also	O
 found	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 fused	O
 to	O
@@ -155309,8 +155309,8 @@ findings	O
 suggest	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 functions	O
 as	O
 a	O
@@ -155331,9 +155331,9 @@ Results	O
 Cloning	O
 of	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 
 In	O
 order	O
@@ -155406,7 +155406,7 @@ to	O
 that	O
 of	O
 polyhomeotic	O
-protein	I-PRGE
+protein	O
 .	O
 
 A	O
@@ -155465,14 +155465,14 @@ this	O
 protein	O
 as	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 major	O
-retinal	I-PRGE
-SAM	I-PRGE
-domain	I-PRGE
-protein	I-PRGE
+retinal	O
+SAM	O
+domain	O
+protein	O
 )	O
 .	O
 
@@ -155538,8 +155538,8 @@ of	O
 the	O
 predicted	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 is	O
 also	O
@@ -155561,8 +155561,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 (	O
 Fig	O
@@ -155603,8 +155603,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 most	O
 closely	O
@@ -155629,9 +155629,9 @@ Fig	O
 .	O
 
 Mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 protein	O
 is	O
 conserved	O
@@ -155660,9 +155660,9 @@ and	O
 identity	O
 with	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 ,	O
 respectively	O
 (	O
@@ -155677,15 +155677,15 @@ SAM	O
 domains	O
 of	O
 rat	O
-,	I-PRGE
-human	I-PRGE
-,	I-PRGE
-chick	I-PRGE
-and	I-PRGE
-zebrafish	I-PRGE
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+,	O
+human	O
+,	O
+chick	O
+and	O
+zebrafish	O
+mr	O
+-	O
+s	O
 protein	O
 are	O
 highly	O
@@ -155710,9 +155710,9 @@ SAM	O
 domain	O
 of	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 protein	O
 .	O
 
@@ -155721,11 +155721,11 @@ chromosomal	O
 localizations	O
 of	O
 mouse	O
-and	I-PRGE
-human	I-PRGE
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+and	O
+human	O
+mr	O
+-	O
+s	O
 genes	O
 were	O
 determined	O
@@ -155745,9 +155745,9 @@ respectively	O
 .	O
 
 Mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 is	O
 mapped	O
 to	O
@@ -155756,9 +155756,9 @@ chromosome	O
 ,	O
 and	O
 human	O
-MR	I-PRGE
--	I-PRGE
-S	I-PRGE
+MR	O
+-	O
+S	O
 is	O
 mapped	O
 to	O
@@ -155781,9 +155781,9 @@ blindness	O
 .	O
 
 Human	O
-MR	I-PRGE
--	I-PRGE
-S	I-PRGE
+MR	O
+-	O
+S	O
 maps	O
 in	O
 the	O
@@ -155810,8 +155810,8 @@ Figure	O
 1	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 nucleotide	O
 and	O
 amino	O
@@ -155823,8 +155823,8 @@ sequences	O
 A	O
 )	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 nucleotide	O
 and	O
 amino	O
@@ -155979,17 +155979,17 @@ acid	O
 sequences	O
 for	O
 mouse	O
-,	I-PRGE
-rat	I-PRGE
-,	I-PRGE
-human	I-PRGE
-,	I-PRGE
-chick	I-PRGE
-and	I-PRGE
-zebrafish	I-PRGE
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+,	O
+rat	O
+,	O
+human	O
+,	O
+chick	O
+and	O
+zebrafish	O
+mr	O
+-	O
+s	O
 proteins	O
 .	O
 
@@ -156032,8 +156032,8 @@ right	O
 Expression	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 the	O
 developing	O
@@ -156046,8 +156046,8 @@ gland	O
 To	O
 investigate	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 ,	O
 we	O
@@ -156083,8 +156083,8 @@ E11	O
 with	O
 an	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 probe	O
 (	O
 data	O
@@ -156101,8 +156101,8 @@ expression	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 gene	O
 in	O
 the	O
@@ -156178,8 +156178,8 @@ P3	O
 ,	O
 an	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcript	O
 was	O
 clearly	O
@@ -156200,8 +156200,8 @@ At	O
 P6	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 showed	O
 peak	O
 expression	O
@@ -156250,8 +156250,8 @@ intensity	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 signal	O
 was	O
 significantly	O
@@ -156278,8 +156278,8 @@ Faint	O
 expression	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 mRNA	O
 was	O
 observed	O
@@ -156301,8 +156301,8 @@ Figure	O
 2	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 in	O
 developing	O
@@ -156319,8 +156319,8 @@ A	O
 G	O
 )	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 during	O
 development	O
@@ -156337,8 +156337,8 @@ hybridization	O
 signal	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 not	O
 detected	O
@@ -156373,8 +156373,8 @@ B	O
 A	O
 strong	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 signal	O
 was	O
 detected	O
@@ -156436,8 +156436,8 @@ blot	O
 analysis	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 in	O
 adult	O
@@ -156453,8 +156453,8 @@ to	O
 .	O
 2kb	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcript	O
 .	O
 
@@ -156555,8 +156555,8 @@ tissue	O
 specificity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 ,	O
 the	O
@@ -156564,8 +156564,8 @@ expression	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 gene	O
 in	O
 various	O
@@ -156663,8 +156663,8 @@ characterized	O
 
 The	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 probe	O
 did	O
 not	O
@@ -156685,8 +156685,8 @@ do	O
 not	O
 express	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 at	O
 a	O
 level	O
@@ -156726,8 +156726,8 @@ the	O
 expression	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcripts	O
 in	O
 the	O
@@ -156783,11 +156783,11 @@ for	O
 genes	O
 encoding	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
-and	I-PRGE
-G3PDH	I-PRGE
+mr	O
+-	O
+s	O
+and	O
+G3PDH	O
 ,	O
 respectively	O
 .	O
@@ -156809,8 +156809,8 @@ eye	O
 ,	O
 no	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 signal	O
 was	O
 detected	O
@@ -156823,8 +156823,8 @@ we	O
 observed	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 expressed	O
 in	O
@@ -156857,8 +156857,8 @@ amplified	O
 band	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 not	O
 detected	O
@@ -156878,8 +156878,8 @@ data	O
 showed	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 predominantly	O
 expressed	O
@@ -156895,13 +156895,13 @@ gland	O
 Regulation	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 by	O
 Crx	O
-homeodomain	I-PRGE
-protein	I-PRGE
+homeodomain	O
+protein	O
 
 Transcription	O
 factors	O
@@ -156956,8 +156956,8 @@ photoreceptors	O
 suggesting	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 may	O
 be	O
 regulated	O
@@ -156971,8 +156971,8 @@ whether	O
 Crx	O
 regulates	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 ,	O
 we	O
@@ -156982,8 +156982,8 @@ situ	O
 hybridization	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 mRNA	O
 on	O
 wild	O
@@ -157011,8 +157011,8 @@ retina	O
 ,	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcript	O
 was	O
 dramatically	O
@@ -157034,8 +157034,8 @@ for	O
 transactivation	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 .	O
 
 Moreover	O
@@ -157047,8 +157047,8 @@ the	O
 transcription	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 also	O
 regulated	O
@@ -157071,8 +157071,8 @@ transcriptional	O
 levels	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 P28	O
 wild	O
@@ -157095,8 +157095,8 @@ results	O
 revealed	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 was	O
 significantly	O
@@ -157117,8 +157117,8 @@ data	O
 indicate	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 is	O
 regulated	O
@@ -157140,8 +157140,8 @@ The	O
 transcription	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 regulated	O
 by	O
@@ -157161,9 +157161,9 @@ a	O
 probe	O
 for	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 was	O
 performed	O
 on	O
@@ -157186,8 +157186,8 @@ P5	O
 .	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 was	O
 drastically	O
@@ -157252,8 +157252,8 @@ pairs	O
 specific	O
 for	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 and	O
 G3PDH	O
 cDNAs	O
@@ -157280,8 +157280,8 @@ F	O
 Crx	O
 transactivates	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 .	O
 
@@ -157401,8 +157401,8 @@ whether	O
 Crx	O
 regulates	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 directly	O
 or	O
@@ -157426,8 +157426,8 @@ promoter	O
 region	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fused	O
 to	O
 a	O
@@ -157469,8 +157469,8 @@ region	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 upstream	O
 sequence	O
 contains	O
@@ -157658,8 +157658,8 @@ Crx	O
 also	O
 transactivated	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 .	O
 
@@ -157678,8 +157678,8 @@ expression	O
 pattern	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 correlates	O
 with	O
 that	O
@@ -157712,8 +157712,8 @@ we	O
 concluded	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 is	O
 directly	O
@@ -157851,8 +157851,8 @@ direct	O
 regulation	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 by	O
 Crx	O
@@ -157863,8 +157863,8 @@ Self	O
 association	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 
 SAM	O
@@ -157925,8 +157925,8 @@ domain	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 can	O
 also	O
@@ -157951,8 +157951,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 as	O
 the	O
@@ -158008,8 +158008,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Fig	O
 .	O
@@ -158023,8 +158023,8 @@ strongly	O
 suggests	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 self	O
 -	O
@@ -158047,8 +158047,8 @@ self	O
 association	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 in	O
 yeast	B-LIVB
@@ -158065,8 +158065,8 @@ portions	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 to	O
 the	O
@@ -158097,8 +158097,8 @@ portions	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 to	O
 the	O
@@ -158146,8 +158146,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 bait	O
 construct	O
 induced	O
@@ -158159,8 +158159,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 prey	O
 construct	O
 (	O
@@ -158187,8 +158187,8 @@ aa	O
 stretch	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 which	O
 does	O
@@ -158224,8 +158224,8 @@ aa	O
 stretch	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 able	O
 to	O
@@ -158245,8 +158245,8 @@ aa	O
 stretch	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Fig	O
 .	O
@@ -158266,8 +158266,8 @@ terminus	O
 400	O
 aa	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 weakly	O
 activates	O
@@ -158305,8 +158305,8 @@ aa	O
 stretch	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Fig	O
 .	O
@@ -158335,8 +158335,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 present	O
 in	O
@@ -158428,8 +158428,8 @@ Full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 as	O
 a	O
 bait	O
@@ -158454,8 +158454,8 @@ all	O
 of	O
 five	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 clones	O
 identified	O
 in	O
@@ -158474,15 +158474,15 @@ diagram	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fusion	O
 proteins	O
 used	O
 in	O
 the	O
 yeast	O
-GAL4	I-PRGE
+GAL4	O
 assay	O
 .	O
 
@@ -158557,8 +158557,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ;	O
 N	O
 ,	O
@@ -158568,8 +158568,8 @@ terminal	O
 portion	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 amino	O
 acids	O
@@ -158586,8 +158586,8 @@ terminal	O
 portion	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 amino	O
 acids	O
@@ -158605,8 +158605,8 @@ association	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 in	O
 mammalian	B-LIVB
@@ -158636,8 +158636,8 @@ length	O
 /	O
 truncated	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 and	O
 Flag	O
 -	O
@@ -158648,8 +158648,8 @@ length	O
 /	O
 truncated	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Fig	O
 .	O
@@ -158668,7 +158668,7 @@ Flag	O
 -	O
 tagged	O
 Sonic	O
-hedgehog	I-PRGE
+hedgehog	O
 (	O
 Shh	O
 )	O
@@ -158701,8 +158701,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 full	O
 -	O
@@ -158720,8 +158720,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Flag	O
 -	O
@@ -158784,8 +158784,8 @@ terminus	O
 portion	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Flag	O
 -	O
@@ -158875,8 +158875,8 @@ Figure	O
 
 The	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 can	O
 self	O
@@ -159003,8 +159003,8 @@ site	O
 -	O
 directed	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 mutants	O
 ,	O
 Flag	O
@@ -159051,8 +159051,8 @@ investigate	O
 whether	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 self	O
 -	O
@@ -159076,8 +159076,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Fig	O
 .	O
@@ -159127,9 +159127,9 @@ containing	O
 protein	O
 ,	O
 Sex	O
-comb	I-PRGE
-on	I-PRGE
-midleg	I-PRGE
+comb	O
+on	O
+midleg	O
 (	O
 Scm	O
 )	O
@@ -159171,8 +159171,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Flag	O
 -	O
@@ -159233,8 +159233,8 @@ indicate	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 self	O
 -	O
@@ -159262,8 +159262,8 @@ subcellular	O
 localization	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 in	O
 mammalian	B-LIVB
@@ -159282,8 +159282,8 @@ terminus	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 (	O
 Fig	O
@@ -159297,8 +159297,8 @@ suggests	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 localizes	O
 in	O
@@ -159313,8 +159313,8 @@ subcellular	O
 localization	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 mammalian	B-LIVB
 cells	O
@@ -159329,8 +159329,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 plasmid	O
 into	O
 HEK293T	O
@@ -159343,8 +159343,8 @@ showed	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 localized	O
 mainly	O
@@ -159371,16 +159371,16 @@ localization	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 ,	O
 full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 co	O
 -	O
@@ -159402,8 +159402,8 @@ showed	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 localizes	O
 preferentially	O
@@ -159420,8 +159420,8 @@ idea	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 is	O
 involved	O
@@ -159444,8 +159444,8 @@ Subcellular	O
 localization	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 mammalian	B-LIVB
 cells	O
@@ -159463,8 +159463,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 transfected	O
 into	O
@@ -159534,8 +159534,8 @@ The	O
 GAL4	O
 -	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fusion	O
 protein	O
 functions	O
@@ -159601,8 +159601,8 @@ structure	O
 
 The	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 also	O
 does	O
@@ -159623,8 +159623,8 @@ biochemical	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 we	O
 next	O
@@ -159646,8 +159646,8 @@ deletion	O
 constructs	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fused	O
 to	O
 the	O
@@ -159671,8 +159671,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fused	O
 to	O
 GAL4	O
@@ -159773,8 +159773,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 without	O
 GAL4	O
 DBD	O
@@ -159809,8 +159809,8 @@ aa	O
 stretch	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 amino	O
 acids	O
@@ -159911,8 +159911,8 @@ homophilic	O
 association	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 required	O
 for	O
@@ -159983,8 +159983,8 @@ the	O
 ability	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 self	O
 -	O
 association	O
@@ -160014,8 +160014,8 @@ the	O
 regions	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 involved	O
 in	O
 transcriptional	O
@@ -160131,8 +160131,8 @@ repressive	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 cells	O
 of	O
@@ -160258,8 +160258,8 @@ data	O
 reflect	O
 native	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcriptional	O
 repression	O
 in	O
@@ -160283,8 +160283,8 @@ our	O
 hypothesis	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 functions	O
 as	O
 a	O
@@ -160306,8 +160306,8 @@ terminal	O
 region	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 amino	O
 acids	O
@@ -160322,8 +160322,8 @@ transcriptional	O
 repression	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 and	O
 the	O
 SAM	O
@@ -160345,9 +160345,9 @@ terminal	O
 region	O
 of	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 is	O
 highly	O
 conserved	O
@@ -160406,9 +160406,9 @@ terminal	O
 region	O
 of	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 functions	O
 as	O
 a	O
@@ -160458,8 +160458,8 @@ Figure	O
 7	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fused	O
 to	O
 GAL4	O
@@ -160751,17 +160751,17 @@ terminal	O
 regions	O
 for	O
 mouse	O
-,	I-PRGE
-rat	I-PRGE
-,	I-PRGE
-human	I-PRGE
-,	I-PRGE
-chick	I-PRGE
-and	I-PRGE
-zebrafish	I-PRGE
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+,	O
+rat	O
+,	O
+human	O
+,	O
+chick	O
+and	O
+zebrafish	O
+mr	O
+-	O
+s	O
 proteins	O
 .	O
 
@@ -160799,8 +160799,8 @@ repression	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 not	O
 due	O
@@ -160842,8 +160842,8 @@ novel	O
 gene	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 which	O
 is	O
@@ -160862,8 +160862,8 @@ The	O
 peak	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 in	O
 the	O
@@ -160944,8 +160944,8 @@ therefore	O
 hypothesized	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 a	O
 key	O
@@ -160998,8 +160998,8 @@ significant	O
 reduction	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 signal	O
 in	O
 the	O
@@ -161028,8 +161028,8 @@ the	O
 transcription	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 mammalian	B-LIVB
 cells	O
@@ -161071,8 +161071,8 @@ strongly	O
 suggest	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 transcription	O
 is	O
 directly	O
@@ -161112,8 +161112,8 @@ the	O
 transcription	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 .	O
 
 This	O
@@ -161160,8 +161160,8 @@ were	O
 analyzed	O
 and	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 not	O
 included	O
@@ -161199,8 +161199,8 @@ domain	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 is	O
 closely	O
@@ -161246,8 +161246,8 @@ biochemical	O
 function	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 we	O
 performed	O
@@ -161261,8 +161261,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 as	O
 the	O
 bait	O
@@ -161295,8 +161295,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 .	O
 
 This	O
@@ -161304,8 +161304,8 @@ strongly	O
 suggests	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 self	O
 -	O
 associates	O
@@ -161331,15 +161331,15 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 demonstrated	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 can	O
 self	O
@@ -161367,8 +161367,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 forms	O
 a	O
 polymeric	O
@@ -161386,8 +161386,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 and	O
 other	O
 SAM	O
@@ -161398,8 +161398,8 @@ molecules	O
 suggests	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 can	O
 form	O
 head	O
@@ -161482,8 +161482,8 @@ protein	O
 interaction	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 an	O
 artifact	O
@@ -161500,8 +161500,8 @@ whether	O
 or	O
 not	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 forms	O
 a	O
 polymer	O
@@ -161645,8 +161645,8 @@ polymerization	O
 
 Since	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 does	O
 not	O
 contain	O
@@ -161673,8 +161673,8 @@ which	O
 interacts	O
 with	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 .	O
 
 However	O
@@ -161704,8 +161704,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fused	O
 to	O
 the	O
@@ -161732,8 +161732,8 @@ the	O
 idea	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 involved	O
 in	O
@@ -161762,8 +161762,8 @@ self	O
 association	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 through	O
 its	O
 SAM	O
@@ -161811,21 +161811,21 @@ other	O
 hand	O
 ,	O
 human	O
-lethal	I-PRGE
-(	I-PRGE
-3	I-PRGE
-)	I-PRGE
-malignant	I-PRGE
-brain	I-PRGE
-tumor	I-PRGE
+lethal	O
+(	O
+3	O
+)	O
+malignant	O
+brain	O
+tumor	O
 (	O
 H	O
--	I-PRGE
-L	I-PRGE
-(	I-PRGE
-3	I-PRGE
-)	I-PRGE
-MBT	I-PRGE
+-	O
+L	O
+(	O
+3	O
+)	O
+MBT	O
 )	O
 protein	O
 ,	O
@@ -161853,12 +161853,12 @@ repressor	O
 activity	O
 of	O
 H	O
--	I-PRGE
-L	I-PRGE
-(	I-PRGE
-3	I-PRGE
-)	I-PRGE
-MBT	I-PRGE
+-	O
+L	O
+(	O
+3	O
+)	O
+MBT	O
 required	O
 mainly	O
 the	O
@@ -161886,8 +161886,8 @@ region	O
 of	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 ,	O
 we	O
@@ -161931,8 +161931,8 @@ repressive	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 Fig	O
 .	O
@@ -161998,8 +161998,8 @@ the	O
 case	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 .	O
 
 Evolutionary	O
@@ -162014,8 +162014,8 @@ aa	O
 region	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 from	O
 zebrafish	B-LIVB
 through	O
@@ -162203,8 +162203,8 @@ of	O
 repression	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 may	O
 be	O
 HDAC	O
@@ -162232,8 +162232,8 @@ demonstrate	O
 that	O
 the	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 functions	O
 as	O
@@ -162270,8 +162270,8 @@ repressive	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 mainly	O
 due	O
@@ -162296,8 +162296,8 @@ downstream	O
 targets	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 still	O
 remain	O
 unclear	O
@@ -162312,8 +162312,8 @@ the	O
 peak	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 expression	O
 is	O
 around	O
@@ -162335,8 +162335,8 @@ target	O
 genes	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 might	O
 be	O
 non	O
@@ -162350,8 +162350,8 @@ this	O
 case	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 may	O
 suppress	O
 the	O
@@ -162375,8 +162375,8 @@ another	O
 possibility	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 involved	O
 in	O
@@ -162428,14 +162428,14 @@ expression	O
 pattern	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 may	O
 suggest	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 expressed	O
 in	O
@@ -162479,8 +162479,8 @@ biological	O
 function	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 analysis	O
 of	O
@@ -162490,8 +162490,8 @@ targeted	O
 disruptions	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 will	O
 be	O
 very	O
@@ -162504,9 +162504,9 @@ Here	O
 we	O
 identified	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 ,	O
 which	O
 is	O
@@ -162522,8 +162522,8 @@ gland	O
 .	O
 
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 evolutionarily	O
 conserved	O
@@ -162539,8 +162539,8 @@ significant	O
 role	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 in	O
 photoreceptor	O
 development	O
@@ -162552,8 +162552,8 @@ data	O
 suggest	O
 that	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 localizes	O
 in	O
@@ -162574,8 +162574,8 @@ domain	O
 Moreover	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 protein	O
 fused	O
 to	O
@@ -162593,8 +162593,8 @@ repressive	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 due	O
 to	O
@@ -162616,8 +162616,8 @@ Taken	O
 together	O
 ,	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 is	O
 a	O
 novel	O
@@ -162641,9 +162641,9 @@ Methods	O
 Isolation	O
 of	O
 mouse	O
-mr	I-PRGE
--	I-PRGE
-s	I-PRGE
+mr	O
+-	O
+s	O
 cDNA	O
 
 We	O
@@ -162785,8 +162785,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 fragment	O
 was	O
 inserted	O
@@ -162816,8 +162816,8 @@ nucleotide	O
 sequence	O
 for	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 gene	O
 has	O
 been	O
@@ -162846,8 +162846,8 @@ cDNA	O
 fragment	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 amplified	O
 by	O
 RT	O
@@ -163068,8 +163068,8 @@ SAM	O
 domain	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 was	O
 used	O
 as	O
@@ -163172,8 +163172,8 @@ for	O
 detection	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 cDNA	O
 were	O
 5	O
@@ -163216,7 +163216,7 @@ Primer	O
 pairs	O
 for	O
 mouse	O
-G3PDH	I-PRGE
+G3PDH	O
 were	O
 5	O
 '	O
@@ -163298,8 +163298,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 into	O
 the	O
 pGBKT7	O
@@ -163417,8 +163417,8 @@ self	O
 interaction	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 we	O
 subcloned	O
@@ -163450,8 +163450,8 @@ acids	O
 )	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 into	O
 pGBKT7	O
 and	O
@@ -163501,8 +163501,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 (	O
 full	O
 -	O
@@ -163593,8 +163593,8 @@ into	O
 Flag	O
 -	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 .	O
 
 We	O
@@ -163937,8 +163937,8 @@ full	O
 -	O
 length	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 into	O
 HEK293T	O
 cells	O
@@ -164015,8 +164015,8 @@ containing	O
 1	O
 %	O
 bovine	O
-serum	I-PRGE
-albumin	I-PRGE
+serum	O
+albumin	O
 (	O
 BSA	O
 )	O
@@ -164140,8 +164140,8 @@ promoter	O
 region	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 ,	O
 we	O
 constructed	O
@@ -164356,8 +164356,8 @@ transcriptional	O
 activity	O
 of	O
 mr	O
--	I-PRGE
-s	I-PRGE
+-	O
+s	O
 [	O
 50	O
 ]	O
@@ -164456,45 +164456,45 @@ abbreviations	O
 Crx	O
 ,	O
 cone	O
--	I-PRGE
-rod	I-PRGE
-homeobox	I-PRGE
+-	O
+rod	O
+homeobox	O
 ;	O
 Otx2	O
 ,	O
 orthodenticle	O
--	I-PRGE
-related	I-PRGE
-homeobox	I-PRGE
-2	I-PRGE
+-	O
+related	O
+homeobox	O
+2	O
 ;	O
 TR	O
-beta	I-PRGE
-2	I-PRGE
+beta	O
+2	O
 ,	O
 thyroid	O
-hormone	I-PRGE
-receptor	I-PRGE
-beta	I-PRGE
-2	I-PRGE
+hormone	O
+receptor	O
+beta	O
+2	O
 ;	O
 Nrl	O
 ,	O
 neural	O
-retina	I-PRGE
-leucine	I-PRGE
-zipper	I-PRGE
+retina	O
+leucine	O
+zipper	O
 ;	O
 Nr2e3	O
 ,	O
 nuclear	O
-receptor	I-PRGE
-subfamily	I-PRGE
-2	I-PRGE
-group	I-PRGE
-E	I-PRGE
-member	I-PRGE
-3	I-PRGE
+receptor	O
+subfamily	O
+2	O
+group	O
+E	O
+member	O
+3	O
 ;	O
 EST	O
 ,	O
@@ -164505,20 +164505,20 @@ tag	O
 EphB2	O
 ,	O
 ephrin	O
-receptor	I-PRGE
-B2	I-PRGE
+receptor	O
+B2	O
 ;	O
 EphA4	O
 ,	O
 ephrin	O
-receptor	I-PRGE
-A4	I-PRGE
+receptor	O
+A4	O
 ;	O
 TEL	O
 ,	O
 translocation	O
-ETS	I-PRGE
-leukemia	I-PRGE
+ETS	O
+leukemia	O
 .	O
 
 Authors	O
@@ -165070,25 +165070,25 @@ carboxylase	O
 ]	O
 ,	O
 argininosuccinate	O
-lyase	I-PRGE
+lyase	O
 [	O
 3	O
 ]	O
 ,	O
 galactose	O
--	I-PRGE
-1	I-PRGE
--	I-PRGE
-phosphate	I-PRGE
-uridylyltransferase	I-PRGE
+-	O
+1	O
+-	O
+phosphate	O
+uridylyltransferase	O
 [	O
 4	O
 ]	O
 ,	O
 and	O
 methylmalonyl	O
-CoA	I-PRGE
-mutase	I-PRGE
+CoA	O
+mutase	O
 [	O
 5	O
 ]	O
@@ -166045,7 +166045,7 @@ Targeting	O
 of	O
 the	O
 Mouse	O
-Xpd	I-PRGE
+Xpd	O
 Gene	O
 
 (	O
@@ -166067,7 +166067,7 @@ wt	O
 and	O
 targeted	O
 mouse	O
-Xpd	I-PRGE
+Xpd	O
 loci	O
 .	O
 
@@ -166131,7 +166131,7 @@ pair	O
 bp	O
 )	O
 human	O
-XPD	I-PRGE
+XPD	O
 cDNA	O
 fragment	O
 fused	O
@@ -166160,8 +166160,8 @@ arrow	O
 
 Chicken	B-LIVB
 beta	O
--	I-PRGE
-globin	I-PRGE
+-	O
+globin	O
 exons	O
 2	O
 and	O
@@ -166184,8 +166184,8 @@ followed	O
 by	O
 the	O
 beta	O
--	I-PRGE
-globin	I-PRGE
+-	O
+globin	O
 polyadenylation	O
 signal	O
 (	O
@@ -166504,7 +166504,7 @@ a	O
 -	O
 kb	O
 mouse	O
-Xpd	I-PRGE
+Xpd	O
 cDNA	O
 probe	O
 detects	O
@@ -168950,7 +168950,7 @@ p34	O
 cdk7	O
 ,	O
 cyclin	O
-H	I-PRGE
+H	O
 ,	O
 Mat1	O
 ,	O
@@ -169081,9 +169081,9 @@ immunofluorescence	O
 of	O
 the	O
 p62	O
-subunit	I-PRGE
-of	I-PRGE
-TFIIH	I-PRGE
+subunit	O
+of	O
+TFIIH	O
 .	O
 
 Roman	O
@@ -170929,9 +170929,9 @@ in	O
 the	O
 haploid	O
 S	O
-.	I-PRGE
-pombe	I-PRGE
-rad15	I-PRGE
+.	O
+pombe	O
+rad15	O
 deletion	O
 strain	O
 and	O
@@ -171744,10 +171744,10 @@ analysis	O
 of	O
 the	O
 p62	O
-subunit	I-PRGE
-of	I-PRGE
-the	I-PRGE
-TFIIH	I-PRGE
+subunit	O
+of	O
+the	O
+TFIIH	O
 was	O
 performed	O
 as	O
@@ -172847,12 +172847,12 @@ surface	O
 receptors	O
 ,	O
 methylenetetrahydrofalate	O
-reductase	I-PRGE
+reductase	O
 ,	O
 endothelial	O
-nitric	I-PRGE
-oxide	I-PRGE
-synthase	I-PRGE
+nitric	O
+oxide	O
+synthase	O
 ,	O
 and	O
 antioxidant	O
@@ -173213,8 +173213,8 @@ Plg	O
 ,	O
 and	O
 PAI	O
--	I-PRGE
-F1	I-PRGE
+-	O
+F1	O
 -	O
 /	O
 -	O
@@ -173618,17 +173618,17 @@ gene	O
 -	O
 targeted	O
 plasminogen	O
-(	I-PRGE
-Plg	I-PRGE
-)	I-PRGE
-activator	I-PRGE
-inhibitor	I-PRGE
+(	O
+Plg	O
+)	O
+activator	O
+inhibitor	O
 deficient	O
 mice	B-LIVB
 (	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -174257,17 +174257,17 @@ Coagulation	O
 Plg	O
 ,	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 ,	O
 fibrinogen	O
 ,	O
 fibrinolytic	O
 and	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 assays	O
 
 Mice	B-LIVB
@@ -174333,8 +174333,8 @@ Synbiotics	O
 .	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 activity	O
 was	O
 determined	O
@@ -174352,8 +174352,8 @@ al	O
 .	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 concentration	O
 was	O
@@ -174368,9 +174368,9 @@ sheep	B-LIVB
 -	O
 anti	O
 mouse	O
-PAI	I-PRGE
--	I-PRGE
-1	I-PRGE
+PAI	O
+-	O
+1	O
 (	O
 American	O
 Diagnostica	O
@@ -174381,9 +174381,9 @@ capture	O
 antibody	O
 and	O
 mouse	O
-PAI	I-PRGE
--	I-PRGE
-1	I-PRGE
+PAI	O
+-	O
+1	O
 (	O
 American	O
 Diagnostica	O
@@ -174437,8 +174437,8 @@ assays	O
 plasma	O
 from	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 or	O
 Plg	O
 deficient	O
@@ -174450,10 +174450,10 @@ used	O
 Functionally	O
 active	O
 mouse	O
-alpha	I-PRGE
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+alpha	O
+2	O
+-	O
+antiplasmin	O
 was	O
 determined	O
 with	O
@@ -174654,8 +174654,8 @@ B6	O
 Lepob	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -175466,8 +175466,8 @@ not	O
 different	O
 in	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -175547,8 +175547,8 @@ Plg	O
 -	O
 and	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -175613,8 +175613,8 @@ from	O
 B6	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -175794,8 +175794,8 @@ Plg	O
 -	O
 and	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -175827,8 +175827,8 @@ littermates	O
 ,	O
 but	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -175879,8 +175879,8 @@ anticipated	O
 ,	O
 a	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 deficiency	O
 resulted	O
 in	O
@@ -175970,10 +175970,10 @@ pathway	O
 activation	O
 of	O
 Factor	O
-VII	I-PRGE
+VII	O
 by	O
 tissue	O
-factor	I-PRGE
+factor	O
 )	O
 while	O
 aPTT	O
@@ -175988,13 +175988,13 @@ pathway	O
 activation	O
 of	O
 Factors	O
-XII	I-PRGE
-,	I-PRGE
-XI	I-PRGE
-,	I-PRGE
-IX	I-PRGE
-and	I-PRGE
-VIII	I-PRGE
+XII	O
+,	O
+XI	O
+,	O
+IX	O
+and	O
+VIII	O
 )	O
 .	O
 
@@ -176005,7 +176005,7 @@ both	O
 pathways	O
 activate	O
 Factor	O
-X	I-PRGE
+X	O
 ,	O
 which	O
 initiates	O
@@ -176120,8 +176120,8 @@ n	O
 Plg	O
 and	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 higher	O
 in	O
 A	O
@@ -176156,15 +176156,15 @@ fibrinolytic	O
 activity	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 activity	O
 ,	O
 and	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-anitplasmin	I-PRGE
+2	O
+-	O
+anitplasmin	O
 were	O
 also	O
 increased	O
@@ -177495,8 +177495,8 @@ of	O
 CSS	O
 for	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 and	O
 activity	O
@@ -177514,8 +177514,8 @@ CSS	O
 5	O
 (	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 )	O
 ,	O
 CSS	O
@@ -177523,9 +177523,9 @@ CSS	O
 11	O
 (	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 )	O
 ,	O
 and	O
@@ -177557,13 +177557,13 @@ fibrinolytic	O
 activity	O
 ,	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 activity	O
 and	O
 fibrinogen	O
@@ -177658,9 +177658,9 @@ mice	B-LIVB
 .	O
 
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 was	O
 significantly	O
 (	O
@@ -177737,8 +177737,8 @@ mice	B-LIVB
 .	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 and	O
 activity	O
@@ -177811,8 +177811,8 @@ generally	O
 had	O
 reduced	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 when	O
 compared	O
@@ -177824,8 +177824,8 @@ mice	B-LIVB
 The	O
 reduced	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 was	O
 a	O
@@ -177880,8 +177880,8 @@ strains	O
 .	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 activity	O
 was	O
 significantly	O
@@ -177913,8 +177913,8 @@ the	O
 value	O
 for	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 activity	O
 was	O
 restored	O
@@ -177934,8 +177934,8 @@ strains	O
 
 The	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 (	O
 5	O
@@ -177986,8 +177986,8 @@ Figure	O
 6	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 the	O
 CSS	O
@@ -177999,8 +177999,8 @@ A	O
 :	O
 Plasma	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 (	O
 ng	O
@@ -178013,8 +178013,8 @@ B	O
 :	O
 Plasma	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 activity	O
 (	O
 U	O
@@ -178614,8 +178614,8 @@ time	O
 .	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antigen	O
 and	O
 activity	O
@@ -179036,8 +179036,8 @@ due	O
 to	O
 reduced	O
 von	O
-Willebrand	I-PRGE
-antigen	I-PRGE
+Willebrand	O
+antigen	O
 .	O
 
 Broze	O
@@ -179124,11 +179124,11 @@ Ib	O
 ,	O
 and	O
 protease	O
--	I-PRGE
-activated	I-PRGE
-receptor	I-PRGE
--	I-PRGE
-4	I-PRGE
+-	O
+activated	O
+receptor	O
+-	O
+4	O
 ,	O
 [	O
 31	O
@@ -179265,8 +179265,8 @@ bleeding	O
 time	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -179358,8 +179358,8 @@ uPA	O
 -	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 /	O
 -	O
@@ -179682,14 +179682,14 @@ for	O
 Plg	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 and	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 reside	O
 on	O
 the	O
@@ -179777,14 +179777,14 @@ variable	O
 Plg	O
 ,	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 and	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 .	O
 
 Two	O
@@ -179793,7 +179793,7 @@ forms	O
 of	O
 the	O
 mouse	O
-Plg	I-PRGE
+Plg	O
 gene	O
 have	O
 been	O
@@ -179942,15 +179942,15 @@ data	O
 for	O
 the	O
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 gene	O
 or	O
 the	O
 alpha	O
-2	I-PRGE
--	I-PRGE
-antiplasmin	I-PRGE
+2	O
+-	O
+antiplasmin	O
 gene	O
 in	O
 B6	O
@@ -180247,26 +180247,26 @@ Plg	O
 plasminogen	O
 
 PAI	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 =	O
 plasminogen	O
-activator	I-PRGE
-inhibitor	I-PRGE
--	I-PRGE
-1	I-PRGE
+activator	O
+inhibitor	O
+-	O
+1	O
 
 tPA	O
 =	O
 tissue	O
-plasminogen	I-PRGE
-activator	I-PRGE
+plasminogen	O
+activator	O
 
 uPA	O
 =	O
 urokinase	O
-plasminogen	I-PRGE
-activator	I-PRGE
+plasminogen	O
+activator	O
 
 SEM	O
 =	O
@@ -180619,15 +180619,15 @@ large	O
 subunit	O
 ,	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 Loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 homozygous	O
 mutants	O
@@ -180646,8 +180646,8 @@ stage	O
 Absence	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 these	O
 embryos	O
@@ -180691,8 +180691,8 @@ stages	O
 
 In	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 mutant	O
 16	O
 -	O
@@ -180750,8 +180750,8 @@ cells	O
 depletion	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 using	O
 RNA	O
 interference	O
@@ -180808,8 +180808,8 @@ not	O
 found	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 mouse	B-LIVB
@@ -181411,8 +181411,8 @@ activities	O
 Furthermore	O
 ,	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 to	O
@@ -181605,8 +181605,8 @@ gene	O
 which	O
 encodes	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 Figure	O
 1A	O
@@ -181793,8 +181793,8 @@ wild	O
 type	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 embryos	O
@@ -181804,8 +181804,8 @@ A	O
 loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 staining	O
 could	O
 not	O
@@ -181845,8 +181845,8 @@ Thus	O
 depletion	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 protein	O
 from	O
 this	O
@@ -181913,7 +181913,7 @@ by	O
 immunostaining	O
 with	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 [	O
 16	O
 ,	O
@@ -182095,7 +182095,7 @@ Figure	O
 Localization	O
 of	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 confirmed	O
 that	O
 the	O
@@ -182208,7 +182208,7 @@ Figure	O
 Localization	O
 of	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 showed	O
 a	O
 diffuse	O
@@ -182283,8 +182283,8 @@ key	O
 role	O
 for	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 during	O
 pre	O
 -	O
@@ -182382,8 +182382,8 @@ Figure	O
 .	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 knockdown	O
 in	O
 ES	O
@@ -182405,8 +182405,8 @@ S1	O
 .	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 RNAi	O
 -	O
 depleted	O
@@ -182441,7 +182441,7 @@ we	O
 observed	O
 diffuse	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 and	O
 DAPI	O
 staining	O
@@ -182466,8 +182466,8 @@ result	O
 indicates	O
 that	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 essential	O
 for	O
@@ -182512,16 +182512,16 @@ MEFs	O
 )	O
 following	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 by	O
 RNAi	O
 .	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 in	O
 MEFs	O
@@ -182558,8 +182558,8 @@ S2	O
 Similarly	O
 ,	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 in	O
 3T3	O
@@ -182600,8 +182600,8 @@ whether	O
 loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 ES	O
 cells	O
@@ -182637,7 +182637,7 @@ antibody	O
 against	O
 the	O
 promyelocytic	O
-leukemia	I-PRGE
+leukemia	O
 (	O
 PML	O
 )	O
@@ -182684,8 +182684,8 @@ between	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -182745,7 +182745,7 @@ histone	O
 H3	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Figure	O
 S1	O
@@ -182820,8 +182820,8 @@ RNAi	O
 vector	O
 ,	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -182865,9 +182865,9 @@ the	O
 PCNA	O
 (	O
 proliferating	O
-cell	I-PRGE
-nuclear	I-PRGE
-antigen	I-PRGE
+cell	O
+nuclear	O
+antigen	O
 )	O
 pattern	O
 (	O
@@ -182920,8 +182920,8 @@ die	O
 revealing	O
 that	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 for	O
@@ -182944,8 +182944,8 @@ that	O
 loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 function	O
 in	O
 ES	O
@@ -183088,8 +183088,8 @@ Figure	O
 
 In	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 RNAi	O
 -	O
 depleted	O
@@ -183175,8 +183175,8 @@ typical	O
 signature	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 loss	O
 -	O
 of	O
@@ -183212,8 +183212,8 @@ hybridization	O
 signals	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -183254,8 +183254,8 @@ remain	O
 unaffected	O
 by	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 (	O
 Figure	O
@@ -183273,8 +183273,8 @@ results	O
 show	O
 that	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 required	O
 for	O
@@ -183338,7 +183338,7 @@ organization	O
 
 Using	O
 DNase	O
-I	I-PRGE
+I	O
 and	O
 micrococcal	O
 nuclease	O
@@ -183358,8 +183358,8 @@ between	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -183407,8 +183407,8 @@ with	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 RNAi	O
 plasmid	O
 vectors	O
@@ -183453,8 +183453,8 @@ in	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -183499,7 +183499,7 @@ nuclear	O
 localization	O
 of	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 is	O
 severely	O
 altered	O
@@ -183511,8 +183511,8 @@ Chaf1a	O
 embryos	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -183558,8 +183558,8 @@ between	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -183624,8 +183624,8 @@ heterochromatin	O
 domains	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -183650,8 +183650,8 @@ that	O
 loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 leads	O
 to	O
 disruption	O
@@ -183722,8 +183722,8 @@ H4K20me3	O
 antibodies	O
 following	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 (	O
 Figure	O
@@ -183755,8 +183755,8 @@ that	O
 loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 function	O
 mainly	O
 affects	O
@@ -183809,8 +183809,8 @@ result	O
 shows	O
 that	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 contributes	O
 to	O
 normal	O
@@ -183841,8 +183841,8 @@ significantly	O
 reduced	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -183905,8 +183905,8 @@ severely	O
 perturbed	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -183918,7 +183918,7 @@ pattern	O
 similar	O
 to	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 Figure	O
 7C	O
@@ -184022,8 +184022,8 @@ provide	O
 evidence	O
 that	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 has	O
 a	O
 crucial	O
@@ -184062,8 +184062,8 @@ Xenopus	B-LIVB
 laevis	I-LIVB
 ,	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 function	O
 is	O
 required	O
@@ -184140,8 +184140,8 @@ show	O
 that	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -184171,8 +184171,8 @@ observed	O
 Loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 did	O
 not	O
 affect	O
@@ -184196,8 +184196,8 @@ altered	O
 Ultimately	O
 ,	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 results	O
 in	O
@@ -184863,8 +184863,8 @@ heterochromatin	O
 domains	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 null	O
 embryos	O
 and	O
@@ -184911,8 +184911,8 @@ the	O
 absence	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 heterochromatin	O
 would	O
@@ -185062,8 +185062,8 @@ that	O
 observed	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -185275,7 +185275,7 @@ and	O
 DT	O
 (	O
 diphtheria	O
-toxin	I-PRGE
+toxin	O
 )	O
 cassettes	O
 ,	O
@@ -185465,8 +185465,8 @@ alleles	O
 .	O
 
 P150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 by	O
 RNAi	O
@@ -185560,8 +185560,8 @@ The	O
 sequence	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 (	O
 short	O
@@ -185653,8 +185653,8 @@ period	O
 Using	O
 the	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 RNAi	O
 vector	O
 ,	O
@@ -185687,8 +185687,8 @@ S1A	O
 reveals	O
 residual	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 expression	O
 ,	O
 as	O
@@ -185923,7 +185923,7 @@ Antibodies	O
 anti	O
 -	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 2HP1H5	O
 ,	O
@@ -185993,7 +185993,7 @@ Antibodies	O
 anti	O
 -	O
 mouse	O
-p150CAF1	I-PRGE
+p150CAF1	O
 [	O
 16	O
 ]	O
@@ -186068,8 +186068,8 @@ used	O
 antibodies	O
 against	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 [	O
 16	O
@@ -186082,7 +186082,7 @@ dilution	O
 )	O
 ,	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 2G9	O
 ,	O
@@ -186113,8 +186113,8 @@ Upstate	O
 )	O
 and	O
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 (	O
 Upstate	O
 ;	O
@@ -186389,7 +186389,7 @@ units	O
 )	O
 or	O
 DNase	O
-I	I-PRGE
+I	O
 (	O
 0	O
 .	O
@@ -186416,7 +186416,7 @@ and	O
 min	O
 for	O
 DNase	O
-I	I-PRGE
+I	O
 .	O
 
 Digestions	O
@@ -186781,8 +186781,8 @@ S1	O
 Analysis	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 Depletion	O
 by	O
 RNAi	O
@@ -186809,8 +186809,8 @@ cont	O
 )	O
 or	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 p150	O
 )	O
@@ -186820,8 +186820,8 @@ vectors	O
 .	O
 
 beta	O
--	I-PRGE
-actin	I-PRGE
+-	O
+actin	O
 was	O
 used	O
 as	O
@@ -186842,15 +186842,15 @@ indicated	O
 .	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 knockdown	O
 does	O
 not	O
 significantly	O
 affect	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 ,	O
 histone	O
 H3	O
@@ -186877,8 +186877,8 @@ cont	O
 )	O
 or	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 p150	O
 )	O
@@ -186888,8 +186888,8 @@ were	O
 immunostained	O
 with	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 antibody	O
 (	O
 green	O
@@ -186927,8 +186927,8 @@ plotted	O
 revealing	O
 efficient	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 by	O
 RNAi	O
@@ -187038,8 +187038,8 @@ Architecture	O
 Immunodetection	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 green	O
 )	O
@@ -187058,8 +187058,8 @@ cont	O
 )	O
 or	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 RNAi	O
 vectors	O
 .	O
@@ -187092,8 +187092,8 @@ the	O
 merge	O
 between	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 BrdU	O
 fluorescence	O
@@ -187322,14 +187322,14 @@ fibroblast	O
 PCNA	O
 -	O
 proliferating	O
-cell	I-PRGE
-nuclear	I-PRGE
-antigen	I-PRGE
+cell	O
+nuclear	O
+antigen	O
 
 PML	O
 -	O
 promyelocytic	O
-leukemia	I-PRGE
+leukemia	O
 
 RNAi	O
 -	O
@@ -187352,8 +187352,8 @@ Figure	O
 Loss	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 Function	O
 Leads	O
 to	O
@@ -187403,8 +187403,8 @@ for	O
 HP1	O
 and	O
 p60CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 and	O
 the	O
@@ -187470,7 +187470,7 @@ HR	O
 ,	O
 the	O
 diphtheria	O
-toxin	I-PRGE
+toxin	O
 (	O
 DT	O
 )	O
@@ -187567,14 +187567,14 @@ C	O
 Immunodetection	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 green	O
 )	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 red	O
 )	O
@@ -187609,8 +187609,8 @@ the	O
 presence	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 ,	O
 they	O
 are	O
@@ -187623,8 +187623,8 @@ type	O
 .	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 expression	O
 ,	O
 which	O
@@ -187664,8 +187664,8 @@ labeling	O
 negatively	O
 for	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 .	O
 
 Only	O
@@ -187692,7 +187692,7 @@ merge	O
 between	O
 the	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 fluorescence	O
 and	O
 DAPI	O
@@ -187751,7 +187751,7 @@ by	O
 DAPI	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 staining	O
 in	O
 wild	O
@@ -187776,7 +187776,7 @@ embryos	O
 DAPI	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 staining	O
 are	O
 diffuse	O
@@ -187785,8 +187785,8 @@ the	O
 nucleus	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 embryos	O
@@ -187931,8 +187931,8 @@ Figure	O
 Depletion	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 in	O
 ES	O
 Cells	O
@@ -187953,8 +187953,8 @@ used	O
 to	O
 deplete	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 by	O
 RNAi	O
 in	O
@@ -188009,8 +188009,8 @@ heterochromatin	O
 organization	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -188020,14 +188020,14 @@ cells	O
 Immunodetection	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 green	O
 )	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 red	O
 )	O
@@ -188042,8 +188042,8 @@ cont	O
 )	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 .	O
 
@@ -188053,8 +188053,8 @@ results	O
 in	O
 efficient	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 .	O
 
@@ -188068,7 +188068,7 @@ the	O
 merge	O
 between	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 fluorescence	O
 and	O
 DAPI	O
@@ -188097,8 +188097,8 @@ not	O
 altered	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 MEFs	O
@@ -188107,14 +188107,14 @@ MEFs	O
 Immunodetection	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 green	O
 )	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 red	O
 )	O
@@ -188128,8 +188128,8 @@ cont	O
 )	O
 or	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 .	O
 
@@ -188143,7 +188143,7 @@ the	O
 merge	O
 between	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 fluorescence	O
 and	O
 DAPI	O
@@ -188164,8 +188164,8 @@ not	O
 altered	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -188189,8 +188189,8 @@ cont	O
 )	O
 or	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 .	O
 
@@ -188218,8 +188218,8 @@ Figure	O
 3	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 Depletion	O
 and	O
 Loss	O
@@ -188245,8 +188245,8 @@ were	O
 transfected	O
 with	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 or	O
 control	O
 siRNA	O
@@ -188290,8 +188290,8 @@ between	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -188308,8 +188308,8 @@ merge	O
 between	O
 the	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 BrdU	O
 fluorescence	O
@@ -188346,8 +188346,8 @@ between	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -188357,8 +188357,8 @@ cells	O
 Immunodetection	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 is	O
 shown	O
 in	O
@@ -188368,8 +188368,8 @@ the	O
 merging	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 and	O
 PCNA	O
 appears	O
@@ -188394,8 +188394,8 @@ for	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -188475,8 +188475,8 @@ Figure	O
 Depletion	O
 of	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 Leads	O
 to	O
 Loss	O
@@ -188633,8 +188633,8 @@ in	O
 cells	O
 expressing	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 .	O
 
@@ -188733,14 +188733,14 @@ ES	O
 cells	O
 expressing	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 .	O
 
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 led	O
 to	O
@@ -188803,8 +188803,8 @@ disrupted	O
 chromocenter	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 cells	O
@@ -188823,8 +188823,8 @@ Not	O
 Altered	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 Depleted	O
 ES	O
@@ -188841,8 +188841,8 @@ with	O
 control	O
 or	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 vector	O
 .	O
@@ -188855,7 +188855,7 @@ increasing	O
 amounts	O
 of	O
 DNase	O
-I	I-PRGE
+I	O
 or	O
 MNase	O
 .	O
@@ -188940,8 +188940,8 @@ Not	O
 Altered	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 Depleted	O
 ES	O
@@ -188960,8 +188960,8 @@ control	O
 or	O
 the	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 vector	O
 and	O
@@ -189016,8 +189016,8 @@ Pericentric	O
 Heterochromatin	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 Depleted	O
 Cells	O
@@ -189026,8 +189026,8 @@ Cells	O
 A	O
 )	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 depletion	O
 leads	O
 to	O
@@ -189059,8 +189059,8 @@ cont	O
 )	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 p150	O
 )	O
@@ -189167,8 +189167,8 @@ DNA	O
 immunoprecipitated	O
 from	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -189214,8 +189214,8 @@ severely	O
 altered	O
 in	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 -	O
 depleted	O
 ES	O
@@ -189240,7 +189240,7 @@ green	O
 ,	O
 and	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 (	O
 red	O
 )	O
@@ -189248,8 +189248,8 @@ in	O
 control	O
 and	O
 p150CAF	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 siRNA	O
 -	O
 expressing	O
@@ -189260,7 +189260,7 @@ cells	O
 Merging	O
 of	O
 HP1	O
-alpha	I-PRGE
+alpha	O
 with	O
 H3K9me3	O
 (	O
@@ -189552,7 +189552,7 @@ loss	O
 of	O
 the	O
 retinoblastoma	O
-protein	I-PRGE
+protein	O
 (	O
 Rb	O
 )	O
@@ -189626,12 +189626,12 @@ specifically	O
 by	O
 deleting	O
 E2f	O
-transcription	I-PRGE
-factor	I-PRGE
-(	I-PRGE
-E2f	I-PRGE
-)	I-PRGE
-1	I-PRGE
+transcription	O
+factor	O
+(	O
+E2f	O
+)	O
+1	O
 .	O
 
 However	O
@@ -189817,7 +189817,7 @@ Summary	O
 
 The	O
 retinoblastoma	O
-protein	I-PRGE
+protein	O
 (	O
 Rb	O
 )	O
@@ -190660,7 +190660,7 @@ H	O
 
 The	O
 retinoblastoma	O
-protein	I-PRGE
+protein	O
 (	O
 Rb	O
 )	O
@@ -192561,7 +192561,7 @@ cones	O
 Sag	O
 [	O
 rod	O
-arrestin	I-PRGE
+arrestin	O
 ]	O
 ,	O
 green	O
@@ -192986,11 +192986,11 @@ Sag	O
 +	O
 (	O
 S	O
--	I-PRGE
-antigen	I-PRGE
+-	O
+antigen	O
 /	O
 rod	O
-arrestin	I-PRGE
+arrestin	O
 )	O
 photoreceptors	O
 ,	O
@@ -194788,9 +194788,9 @@ for	O
 Slc18a3	O
 (	O
 vesicular	O
-acetyl	I-PRGE
-choline	I-PRGE
-transporter	I-PRGE
+acetyl	O
+choline	O
+transporter	O
 ,	O
 VAChT	O
 )	O
@@ -200334,9 +200334,9 @@ on	O
 Tubb3	O
 (	O
 beta	O
-III	I-PRGE
--	I-PRGE
-tubulin	I-PRGE
+III	O
+-	O
+tubulin	O
 )	O
 ,	O
 but	O
@@ -201271,8 +201271,8 @@ mu	O
 l	O
 of	O
 terminal	O
-deoxynucleotide	I-PRGE
-transferase	I-PRGE
+deoxynucleotide	O
+transferase	O
 ,	O
 1	O
 mu	O
@@ -201299,8 +201299,8 @@ of	O
 5	O
 x	O
 terminal	O
-deoxynucleotide	I-PRGE
-transferase	I-PRGE
+deoxynucleotide	O
+transferase	O
 buffer	O
 ,	O
 and	O
@@ -202267,8 +202267,8 @@ were	O
 used	O
 :	O
 E2f	O
--	I-PRGE
-1	I-PRGE
+-	O
+1	O
 (	O
 SC	O
 -	O
@@ -202276,8 +202276,8 @@ SC	O
 )	O
 ,	O
 E2f	O
--	I-PRGE
-3	I-PRGE
+-	O
+3	O
 (	O
 SC	O
 -	O
@@ -203152,7 +203152,7 @@ cones	O
 Sag	O
 [	O
 rod	O
-arrestin	I-PRGE
+arrestin	O
 ]	O
 ,	O
 green	O
@@ -204133,7 +204133,7 @@ phosphohistone	O
 Rb	O
 -	O
 retinoblastoma	O
-protein	I-PRGE
+protein	O
 
 RPC	O
 -	O
