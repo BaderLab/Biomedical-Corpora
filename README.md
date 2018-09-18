@@ -2,7 +2,7 @@
 
 A collection of annotated, freely distributable, biomedical corpora, which can be used for training supervised machine learning methods for various tasks in biomedical text-mining and information extraction.
 
-All corpora are provided in `corpora`. They are divided into subdirectories `NER`, for corpora which can be used to train **named entity recognition** (NER) solutions, and `Event Extraction`, for corpora which can be used to train **relation/event extraction** solutions. Corpora are provided in both a CoNLL-like format and a [Standoff](http://brat.nlplab.org/standoff.html) format. 
+All corpora are provided in `corpora`. They are divided into subdirectories `NER`, for corpora which can be used to train **named entity recognition** (NER) solutions, and `Relation Extraction`, for corpora which can be used to train **relation/event extraction** solutions. Corpora are provided in both a CoNLL-like format and a [Standoff](http://brat.nlplab.org/standoff.html) format.
 
 Most corpora in the CoNLL-like format were originally collected [here](https://github.com/cambridgeltl/MTL-Bioinformatics-2016). In many cases, the tags were mapped to 4-letter codes:
 
@@ -18,6 +18,8 @@ Most corpora in the CoNLL-like format were originally collected [here](https://g
 
 > Mappings were largely inspired by this [API](http://bioinformatics.ua.pt/becas/#!/api).
 
+Corpora names (loosely) follow the naming scheme: `<corpus_name>_<entity>_<tagset>`.
+
 ## Download
 
 To download the corpora, simply clone the repository locally:
@@ -30,7 +32,7 @@ Or click the green `Clone or download` button and select `Download ZIP`.
 
 ## Resources
 
-https://github.com/spyysalo provides many useful repositories for working with these corpora. Many of the most popular corpora have their own repositories (e.g. [S800](https://github.com/spyysalo/s800), [NCBI-Disease](https://github.com/spyysalo/ncbi-disease)) which contain code for collecting the corpus from its original source and converting it into a format suitable for training a machine learning classifier (e.g. CoNLL or [Standoff](http://brat.nlplab.org/standoff.html))
+https://github.com/spyysalo provides many useful repositories for working with these corpora. Many of the most popular corpora have their own repositories (e.g. [S800](https://github.com/spyysalo/s800), [NCBI-Disease](https://github.com/spyysalo/ncbi-disease)) which contain code for collecting the corpus from its original source and converting it into a format suitable for training a machine learning classifier (e.g. CoNLL or [Standoff](http://brat.nlplab.org/standoff.html)).
 
 ## Table of Corpora
 
